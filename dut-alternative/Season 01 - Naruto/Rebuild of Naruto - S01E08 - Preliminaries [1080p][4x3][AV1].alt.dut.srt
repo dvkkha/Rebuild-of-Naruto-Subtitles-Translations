@@ -13,7 +13,7 @@ Een persoon…?
 
 4
 00:01:46,106 --> 00:01:48,274
-Dit is… een Oproepingsjutsu!
+Dit is… een Oproeping-jutsu!
 
 5
 00:01:48,632 --> 00:01:51,510
@@ -1771,7 +1771,8 @@ Het is zo voorbij.
 
 402
 00:29:26,427 --> 00:29:27,762
-<i>Verzegelingstechniek: Zegel van het Kwaad!</i>
+<i>Verzegeling-jutsu:
+Zegel van het Kwaad!</i>
 
 403
 00:29:54,873 --> 00:29:57,917
@@ -2155,7 +2156,7 @@ Hij is echt iets bijzonders!
 489
 00:37:35,670 --> 00:37:38,714
 Ik kan me voorstellen dat hij insecten
-met een Oproepingsjutsu oproept…
+met een Oproeping-jutsu oproept…
 
 490
 00:37:39,423 --> 00:37:41,968
@@ -2438,7 +2439,7 @@ Het is tenslotte een pop.
 
 553
 00:42:22,311 --> 00:42:24,480
-Dat is de Poppenspelerjutsu.
+Dat is de Poppenspeler-jutsu.
 
 554
 00:42:24,760 --> 00:42:26,678
@@ -2847,7 +2848,7 @@ Sakura.
 
 646
 00:50:13,260 --> 00:50:14,970
-<i>Gewoon een Kloonjutsu?!</i>
+<i>Gewoon een Kloon-jutsu?!</i>
 
 647
 00:50:15,637 --> 00:50:18,223
@@ -3372,7 +3373,7 @@ Begin!
 
 767
 00:57:59,893 --> 00:58:01,895
-<i>Ninjakunst: Schaduwbezetting!</i>
+<i>Ninjakunst: Schaduwbezetting-jutsu!</i>
 
 768
 00:58:02,520 --> 00:58:03,104
@@ -3448,7 +3449,7 @@ M-Mijn lichaam…
 
 785
 00:58:49,816 --> 00:58:52,462
-Schaduwbezetting, gelukt.
+Schaduwbezetting-jutsu, gelukt.
 
 786
 00:58:52,487 --> 00:58:54,155
@@ -3783,7 +3784,7 @@ Begin maar!
 862
 01:02:46,986 --> 01:02:49,572
 <i>Ninjakunst van Dierenimitatie:
-Op Vier Poten!</i>
+Op Vier Poten-jutsu!</i>
 
 863
 01:02:55,354 --> 01:02:56,354
@@ -3942,8 +3943,8 @@ Verdomme!
 
 899
 01:05:10,781 --> 01:05:14,493
-Schaduwkloon op een Transformatiejutsu
-toepassen: een slimme truc.
+Schaduwkloon-jutsu plus
+Transformatie-jutsu: slimme truc.
 
 900
 01:05:14,985 --> 01:05:16,987
@@ -4313,7 +4314,7 @@ en als er een opening is…</i>
 985
 01:11:11,934 --> 01:11:14,770
 <i>kan ik hem zeker van achteren
-pakken met Op Vier Poten.</i>
+pakken met Op Vier Poten-jutsu.</i>
 
 986
 01:11:15,604 --> 01:11:18,774
@@ -4382,7 +4383,7 @@ Ik perste te hard…
 
 1001
 01:12:05,684 --> 01:12:07,269
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1002
 01:12:10,242 --> 01:12:12,619
@@ -4809,7 +4810,7 @@ Kekkei Genkai van de Hyuga-clan,
 
 1099
 01:18:26,993 --> 01:18:28,787
-een oogjutsu vergelijkbaar
+een oog-jutsu vergelijkbaar
 met de Sharingan…
 
 1100
@@ -6018,7 +6019,7 @@ Begin!
 
 1376
 01:37:06,629 --> 01:37:08,714
-<i>Een zandmanipulatiejutsu?</i>
+<i>Een zandmanipulatie-jutsu?</i>
 
 1377
 01:37:09,381 --> 01:37:10,466
@@ -7652,7 +7653,7 @@ Jij ingezwachtelde mummie!
 
 1753
 02:05:23,666 --> 02:05:24,959
-<i>Ninjakunst: Vergrotingsjutsu!</i>
+<i>Ninjakunst: Vergroting-jutsu!</i>
 
 1754
 02:05:26,143 --> 02:05:28,312

@@ -817,7 +817,7 @@ Nee, ik moet hier blijven.
 
 188
 00:15:20,669 --> 00:15:21,669
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 189
 00:15:25,591 --> 00:15:29,511
@@ -1154,7 +1154,7 @@ Stel me alstublieft niet te veel teleur!
 
 264
 00:21:29,329 --> 00:21:31,415
-<i>Shuriken-schaduwkloon!</i>
+<i>Shuriken-schaduwkloon-jutsu!</i>
 
 265
 00:21:37,254 --> 00:21:39,506
@@ -1167,7 +1167,7 @@ uit de Onreine Wereld!</i>
 
 267
 00:21:42,301 --> 00:21:44,344
-Hij gebruikt een Oproepingsjutsu
+Hij gebruikt een Oproeping-jutsu
 als schild.
 
 268
@@ -1654,8 +1654,8 @@ ik dus.
 
 374
 00:28:44,453 --> 00:28:48,582
-Mijn Schaduwbezetting was oorspronkelijk
-bedoeld om tijd te rekken, dus…
+Mijn Schaduwbezetting-jutsu was
+eigenlijk bedoeld om tijd te rekken, dus…
 
 375
 00:28:49,853 --> 00:28:52,021
@@ -1721,7 +1721,7 @@ Dat we allemaal zo gepakt worden.
 389
 00:30:03,009 --> 00:30:06,513
 Dus dit is de beroemde
-Schaduwnabootsingsjutsu van Konoha?
+Schaduwnabootsing-jutsu van Konoha?
 
 390
 00:30:06,920 --> 00:30:07,673
@@ -1739,7 +1739,7 @@ De tijden veranderen!
 393
 00:30:13,561 --> 00:30:17,106
 Het heet tegenwoordig
-Schaduwbezetting, ouwe.
+Schaduwbezetting-jutsu, ouwe.
 
 394
 00:30:21,861 --> 00:30:25,198
@@ -1802,7 +1802,7 @@ Het lijkt erop dat je aan je grens zit…
 
 407
 00:31:19,085 --> 00:31:21,629
-Deze Schaduwbezetting
+Deze Schaduwbezetting-jutsu
 houdt het niet lang meer.
 
 408
@@ -1973,12 +1973,12 @@ Wedergeboorte uit de Onreine Wereld.
 
 445
 00:35:38,553 --> 00:35:42,807
-Een verboden oproepingsjutsu die doden
+Een verboden oproeping-jutsu die doden
 terugbrengt naar de wereld van de levenden.
 
 446
 00:35:45,351 --> 00:35:49,856
-De prijs voor een gewone Oproeping
+De prijs voor een gewone Oproeping-jutsu
 is het bloed van de gebruiker.
 
 447
@@ -2106,7 +2106,7 @@ Dit is de geheime jutsu van de Eerste.
 
 474
 00:40:21,836 --> 00:40:23,254
-<i>Geheime houtstijljutsu:</i>
+<i>Geheime houtstijl-jutsu:</i>
 
 475
 00:40:28,384 --> 00:40:30,052
@@ -2145,7 +2145,7 @@ Nee… dat is het niet.
 
 483
 00:41:55,387 --> 00:41:57,223
-<i>Ninjakunst: Oproeping!</i>
+<i>Ninjakunst: Oproeping-jutsu!</i>
 
 484
 00:41:57,681 --> 00:41:58,557
@@ -2242,8 +2242,8 @@ Zo dwaas…
 
 505
 00:45:17,131 --> 00:45:21,093
-Dat je toeslaat zonder
-zelfs maar de Schaduwkloon te gebruiken.
+Dat je toeslaat zonder zelfs maar
+de Schaduwkloon-jutsu te gebruiken.
 
 506
 00:45:22,386 --> 00:45:24,513
@@ -2565,11 +2565,11 @@ Dat zou best kunnen…
 
 576
 00:51:50,649 --> 00:51:53,068
-mijn Onsterfelijkheidsjutsu!
+mijn Onsterfelijkheid-jutsu!
 
 577
 00:52:02,994 --> 00:52:04,621
-De Onsterfelijkheidsjutsu is een techniek
+De Onsterfelijkheid-jutsu is een techniek
 
 578
 00:52:04,826 --> 00:52:08,997
@@ -2579,7 +2579,7 @@ van het ene vat naar het andere…
 579
 00:52:09,156 --> 00:52:12,534
 Met andere woorden,
-het is een reïncarnatiejutsu waarbij…
+het is een reïncarnatie-jutsu waarbij…
 
 580
 00:52:13,130 --> 00:52:18,760
@@ -2694,7 +2694,7 @@ Gaat u… mij doden?
 
 604
 00:54:41,432 --> 00:54:43,351
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 605
 00:54:47,784 --> 00:54:53,623
@@ -2730,12 +2730,12 @@ Het is te laat!
 
 612
 00:55:58,313 --> 00:56:00,440
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 613
 00:56:02,108 --> 00:56:04,277
 Dat kan niet!
-Waarom de Schaduwkloon?!
+Waarom de Schaduwkloon-jutsu?!
 
 614
 00:56:04,694 --> 00:56:07,113
@@ -2909,7 +2909,7 @@ die zelfs jij niet kent!
 651
 00:59:47,542 --> 00:59:51,754
 Aanschouw het!
-<i>Verzegelingsjutsu: Doodsgodzegel!</i>
+<i>Verzegeling-jutsu: Doodsgodzegel!</i>
 
 652
 00:59:58,261 --> 01:00:01,389
@@ -4045,7 +4045,7 @@ was ik allang dood geweest.</i>
 
 908
 01:27:46,803 --> 01:27:49,806
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 909
 01:27:58,147 --> 01:27:59,947
@@ -5241,7 +5241,7 @@ Ik moet Gamabunta oproepen!</i>
 
 1181
 01:54:07,215 --> 01:54:08,675
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 1182
 01:54:13,638 --> 01:54:15,265
@@ -5421,7 +5421,7 @@ Verdomme!
 
 1221
 01:56:52,021 --> 01:56:54,065
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 1222
 01:56:57,301 --> 01:56:58,386
@@ -5527,7 +5527,7 @@ ik moet… alles geven!
 
 1246
 01:58:39,904 --> 01:58:41,280
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1247
 01:58:47,078 --> 01:58:48,246
@@ -5553,12 +5553,12 @@ Oké!
 
 1252
 01:59:04,846 --> 01:59:06,472
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1253
 01:59:07,765 --> 01:59:10,768
 Nog een keer…
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1254
 01:59:12,603 --> 01:59:13,396
@@ -5732,7 +5732,7 @@ bescherm jou!
 
 1293
 02:02:21,375 --> 02:02:23,377
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 1294
 02:02:29,550 --> 02:02:32,428
@@ -5895,7 +5895,7 @@ Dit wordt jouw einde…
 
 1330
 02:05:51,159 --> 02:05:52,408
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 1331
 02:06:00,386 --> 02:06:01,637
@@ -6581,7 +6581,7 @@ dat je kennismaakt
 1486
 02:18:35,040 --> 02:18:37,584
 met de beroemde
-Schaduwbezetting van Konoha?
+Schaduwbezetting-jutsu van Konoha?
 
 1487
 02:18:37,934 --> 02:18:40,520
@@ -6591,11 +6591,11 @@ nu ik toch bezig ben…
 1488
 02:18:41,563 --> 02:18:45,066
 De geheime techniek van Konoha…
-Schaduwwurggreep!
+Schaduwwurggreep-jutsu!
 
 1489
 02:18:49,946 --> 02:18:51,531
-<i>Vergrotingsjutsu!</i>
+<i>Vergroting-jutsu!</i>
 
 1490
 02:18:58,872 --> 02:19:00,790
@@ -7394,7 +7394,7 @@ Hm?
 1668
 02:36:46,953 --> 02:36:50,563
 Als het om gluren gaat, ben ik geweldig
-in de Onzichtbaarheidsjutsu.
+in de Onzichtbaarheid-jutsu.
 
 1669
 02:36:51,947 --> 02:36:52,920
@@ -7406,7 +7406,7 @@ Ik wil niet eens weten
 
 1671
 02:36:54,943 --> 02:36:56,254
-welk niveau Onzichtbaarheidsjutsu
+welk niveau Onzichtbaarheid-jutsu
 jij beheerst…
 
 1672

@@ -430,7 +430,7 @@ voorlopig door hun chakra heen zijn.
 
 100
 00:08:19,706 --> 00:08:21,862
-Je favoriete schaduwkloonjutsu?
+Je favoriete schaduwkloon-jutsu?
 
 101
 00:08:22,084 --> 00:08:24,086
@@ -610,11 +610,11 @@ tegenover Hinata, Naruto!
 141
 00:10:48,356 --> 00:10:50,149
 <i>Mushi Jamingu no Jutsu!
-(Keverstoringsjutsu)</i>
+(Keverstoring-jutsu)</i>
 
 142
 00:10:53,032 --> 00:10:54,784
-<i>Mistverbergingsjutsu!</i>
+<i>Mistverberging-jutsu!</i>
 
 143
 00:11:02,936 --> 00:11:04,354
@@ -1010,7 +1010,7 @@ Kom op!
 229
 00:16:33,544 --> 00:16:35,462
 <i>Katon: Goen no Jutsu!
-(Vuurstijl: Majestueuze Vlam)</i>
+(Vuurstijl: Majestueuze Vlam-jutsu)</i>
 
 230
 00:16:36,412 --> 00:16:39,123
@@ -1598,8 +1598,8 @@ Probeer ze gewoon te ontwijken.
 
 360
 00:26:57,824 --> 00:26:59,823
-<i>Mijn Bergjutsu zou hem
-in elk geval moeten vertragen</i>
+<i>Mijn Sando no Jutsu (Berg-jutsu) zou
+hem in elk geval moeten vertragen</i>
 
 361
 00:26:59,848 --> 00:27:02,754
@@ -1673,7 +1673,7 @@ zijn niet genoeg…</i>
 377
 00:28:01,221 --> 00:28:03,515
 <i>Doton: Sando no Jutsu!
-(Aardestijl: Bergjutsu)</i>
+(Aardestijl: Berg-jutsu)</i>
 
 378
 00:28:06,810 --> 00:28:07,977
@@ -2212,7 +2212,7 @@ deze chakra gebruiken…</i>
 500
 00:36:55,454 --> 00:36:56,789
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)</i>
+(Schaduwkloon-jutsu)</i>
 
 501
 00:36:59,759 --> 00:37:00,968
@@ -2278,7 +2278,7 @@ ze kracht van Naruto kreeg…
 515
 00:38:02,405 --> 00:38:04,031
 <i>Baika no Jutsu!
-(Vergrotingsjutsu)</i>
+(Vergroting-jutsu)</i>
 
 516
 00:38:08,179 --> 00:38:09,764
@@ -2331,7 +2331,7 @@ Ze blijven maar komen…
 
 527
 00:38:45,781 --> 00:38:48,034
-Nu de verlammingsjutsu van de Nara-clan…
+Nu de verlamming-jutsu van de Nara-clan…
 
 528
 00:38:50,286 --> 00:38:52,872
@@ -2994,8 +2994,8 @@ Ik kan het niet langer tegenhouden!
 
 671
 00:50:02,874 --> 00:50:05,127
-Verdomme! Hij stoot
-deze Bergjutsu af,
+Verdomme!
+Hij stoot deze Sando no Jutsu af,
 
 672
 00:50:05,152 --> 00:50:06,570
@@ -4707,7 +4707,8 @@ Zo te zien waren het niet alleen praatjes.
 
 1054
 01:17:13,503 --> 01:17:15,881
-<i>Houtstijl: Houtkloonjutsu!</i>
+<i>Houtstijl: Moku Bunshin no Jutsu!
+(Houtkloon-jutsu)</i>
 
 1055
 01:17:19,384 --> 01:17:21,626
@@ -5149,7 +5150,7 @@ wat we kunnen, toch?
 1153
 01:23:48,606 --> 01:23:50,358
 <i>Kage Kubishibari no Jutsu!
-(Schaduwwurggreep)</i>
+(Schaduwwurggreep-jutsu)</i>
 
 1154
 01:24:05,790 --> 01:24:09,753
@@ -5316,8 +5317,8 @@ op elk moment genezen.
 
 1190
 01:26:23,944 --> 01:26:25,445
-– <i>Kuchiyose no Jutsu! (Oproepingsjutsu)</i>
-– <i>Kuchiyose no Jutsu! (Oproepingsjutsu)</i>
+– <i>Kuchiyose no Jutsu! (Oproeping-jutsu)</i>
+– <i>Kuchiyose no Jutsu! (Oproeping-jutsu)</i>
 
 1191
 01:26:42,989 --> 01:26:43,990
@@ -5505,7 +5506,7 @@ Het is in orde.
 1233
 01:29:32,524 --> 01:29:35,527
 Deze slakken horen bij
-de geneesjutsu van de Vijfde.
+de genees-jutsu van de Vijfde.
 
 1234
 01:29:35,870 --> 01:29:37,705
@@ -6340,7 +6341,7 @@ Deze leen ik even.
 1420
 01:44:54,823 --> 01:44:56,197
 <i>Gokakyu no Jutsu!
-(Grote Vuurbal)</i>
+(Grote Vuurbal-jutsu)</i>
 
 1421
 01:44:58,956 --> 01:44:59,790
@@ -6565,7 +6566,7 @@ Madara’s chakra!</i>
 1471
 01:51:05,325 --> 01:51:07,369
 <i>Rinne Tensei no Jutsu?
-(Wedergeboorte van Rinne)</i>
+(Wedergeboorte van Rinne-jutsu)</i>
 
 1472
 01:51:08,117 --> 01:51:11,620
@@ -6714,7 +6715,7 @@ Dat is Heer Vierde Hokage!
 1506
 01:54:55,060 --> 01:54:57,687
 Een markering van de Hiraishin no Jutsu
-(Teleportatiejutsu) verdwijnt nooit.
+(Teleportatie-jutsu) verdwijnt nooit.
 
 1507
 01:54:58,982 --> 01:55:02,237

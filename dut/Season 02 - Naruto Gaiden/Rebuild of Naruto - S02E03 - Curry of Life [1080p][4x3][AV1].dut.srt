@@ -1796,7 +1796,7 @@ Oké!
 401
 00:31:32,365 --> 00:31:33,700
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 402
 00:31:38,204 --> 00:31:40,665
@@ -2095,7 +2095,7 @@ Deze mist…
 468
 00:36:18,693 --> 00:36:21,862
 <i>Ninpo: Kirigakure no Jutsu!
-(Ninjakunst: Verborgen in de Mist)</i>
+(Ninjakunst: Verborgen in de Mist-jutsu)</i>
 
 469
 00:36:22,380 --> 00:36:25,049
@@ -2241,7 +2241,8 @@ Maar ik kon niets zien.</i>
 
 501
 00:39:22,210 --> 00:39:24,658
-<i>Zelfs als het Verborgen in de Mist is,</i>
+<i>Zelfs als het Kirigakure no Jutsu
+(Verborgen in de Mist-jutsu) is,</i>
 
 502
 00:39:24,683 --> 00:39:26,797
@@ -2736,7 +2737,7 @@ Jij…
 615
 00:47:49,216 --> 00:47:52,135
 <i>De mist…
-Verborgen in de Mist verdwijnt…</i>
+Kirigakure no Jutsu verdwijnt…</i>
 
 616
 00:47:52,219 --> 00:47:54,429

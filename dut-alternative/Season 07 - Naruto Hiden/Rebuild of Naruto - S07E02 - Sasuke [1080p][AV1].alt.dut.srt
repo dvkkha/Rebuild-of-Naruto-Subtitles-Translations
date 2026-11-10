@@ -172,7 +172,7 @@ Dit is slecht!
 
 41
 00:05:30,876 --> 00:05:32,419
-<i>Schaduwkloonjutsu!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 42
 00:05:35,991 --> 00:05:37,033
@@ -390,12 +390,12 @@ de exploderende mensen tegen.</i>
 
 92
 00:09:09,298 --> 00:09:10,758
-<i>Schaduwbezetting!</i>
+<i>Schaduwbezetting-jutsu!</i>
 
 93
 00:09:13,970 --> 00:09:16,847
 <i>Dan vangt Shikamaru ze
-met zijn Schaduwbezetting.</i>
+met zijn Schaduwbezetting-jutsu.</i>
 
 94
 00:09:18,447 --> 00:09:19,163
@@ -617,7 +617,7 @@ tegen je, maar…
 
 145
 00:14:04,261 --> 00:14:06,388
-<i>Vuurstijl: Vuurbaljutsu!</i>
+<i>Vuurstijl: Vuurbal-jutsu!</i>
 
 146
 00:14:09,223 --> 00:14:10,266
@@ -2138,7 +2138,7 @@ Vechten!
 
 489
 00:39:12,266 --> 00:39:14,769
-Stoomstijl: Vaste Mist, hè?
+Stoomstijl: Vaste Mist-jutsu, hè?
 
 490
 00:39:23,215 --> 00:39:25,217
@@ -2706,7 +2706,7 @@ in genjutsu,
 618
 00:48:00,079 --> 00:48:02,581
 en als je eenmaal gevangen zat
-in hun oogjutsu,
+in hun oog-jutsu,
 
 619
 00:48:02,606 --> 00:48:05,066
@@ -2797,7 +2797,7 @@ de Chinoike-clan
 
 638
 00:49:14,242 --> 00:49:17,079
-en hun unieke oogjutsu.
+en hun unieke oog-jutsu.
 
 639
 00:49:17,936 --> 00:49:21,620

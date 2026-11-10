@@ -17,7 +17,7 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 |---|---|---|---|---|
 | 🇩🇪 German | [`ger/`](ger/) | `.ger.srt` | 73 / 73 | Jutsu names in Japanese, with a German translation in parentheses on first mention |
 | 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 73 / 73 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
-| 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 73 / 73 | Same text, but with Dutch jutsu names (*Schaduwkloon* instead of *Kage Bunshin no Jutsu*) |
+| 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 73 / 73 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
 
 Each language folder has its own README in that language.
 

@@ -2326,7 +2326,7 @@ verloochende zelf terug!!
 
 513
 00:35:41,830 --> 00:35:43,749
-<i>Supervergrotingsjutsu!</i>
+<i>Supervergroting-jutsu!</i>
 
 514
 00:36:03,616 --> 00:36:05,451
@@ -2417,7 +2417,7 @@ Dit is dichtbij genoeg.
 
 533
 00:37:06,807 --> 00:37:08,434
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 534
 00:37:08,684 --> 00:37:09,685
@@ -3980,8 +3980,8 @@ Hoe bedoel je?
 
 883
 01:00:31,794 --> 01:00:35,423
-Er is een vloekzegeljutsu en
-een verzegelingsjutsu op ons gebruikt.
+Er is een vloekzegel-jutsu en
+een verzegeling-jutsu op ons gebruikt.
 
 884
 01:00:36,007 --> 01:00:38,217
@@ -4744,7 +4744,7 @@ kunnen dit elk moment naar Darui sturen!
 1056
 01:12:03,277 --> 01:12:05,779
 Mabui gebruikt
-de Overdrachtsjutsu
+de Overdracht-jutsu
 
 1057
 01:12:05,821 --> 01:12:07,698
@@ -4789,7 +4789,7 @@ Doe het, Mabui!
 
 1066
 01:12:30,554 --> 01:12:31,889
-<i>Overdrachtsjutsu!</i>
+<i>Overdracht-jutsu!</i>
 
 1067
 01:12:37,478 --> 01:12:40,939
@@ -5152,7 +5152,7 @@ Mooie timing, Ino…
 1149
 01:19:28,305 --> 01:19:30,932
 <i>Hebbes!
-Geestesoverdracht gelukt!</i>
+Geestesoverdracht-jutsu gelukt!</i>
 
 1150
 01:19:31,016 --> 01:19:32,017
@@ -5396,7 +5396,7 @@ in de barrière…
 1204
 01:23:33,883 --> 01:23:36,177
 voordat ik mijn
-Geestverandering gebruik!
+Geestverandering-jutsu gebruik!
 
 1205
 01:23:36,678 --> 01:23:38,471
@@ -6958,7 +6958,7 @@ We schakelen hem in één klap uit!
 
 1557
 01:49:45,355 --> 01:49:46,565
-Een Vervangingsjutsu!
+Een Vervanging-jutsu!
 
 1558
 01:49:46,790 --> 01:49:47,791
@@ -6991,7 +6991,7 @@ Dat was ik al van plan!
 
 1565
 01:50:05,559 --> 01:50:07,060
-<i>Schaduwbezettingsjutsu!</i>
+<i>Schaduwbezetting-jutsu!</i>
 
 1566
 01:50:07,563 --> 01:50:08,981
@@ -7003,7 +7003,7 @@ Dat was ik al van plan!
 
 1568
 01:50:11,383 --> 01:50:13,969
-<i>als hij de Geestesoverdrachtsjutsu kent,
+<i>als hij de Geestesoverdracht-jutsu kent,
 weert hij die af!</i>
 
 1569
@@ -7022,7 +7022,7 @@ En daar…</i>
 
 1572
 01:50:20,156 --> 01:50:22,033
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 1573
 01:50:23,326 --> 01:50:24,703
@@ -7075,7 +7075,7 @@ Opzij!
 
 1585
 01:50:48,226 --> 01:50:50,562
-<i>Windstijl: Stofstormjutsu!</i>
+<i>Windstijl: Stofstorm-jutsu!</i>
 
 1586
 01:50:52,248 --> 01:50:52,914
@@ -7728,7 +7728,7 @@ Ga, Ino!
 
 1732
 02:01:32,078 --> 02:01:33,955
-<i>Geestesoverdrachtkloonjutsu!</i>
+<i>Geestesoverdrachtkloon-jutsu!</i>
 
 1733
 02:01:46,230 --> 02:01:47,564
@@ -7736,7 +7736,7 @@ Ga, Ino!
 
 1734
 02:01:47,885 --> 02:01:49,387
-<i>Schaduwnaaijutsu!</i>
+<i>Schaduwnaai-jutsu!</i>
 
 1735
 02:01:54,976 --> 02:01:57,270
@@ -7783,7 +7783,7 @@ ik zo ontroerd ben.
 1744
 02:02:36,183 --> 02:02:38,519
 Ik noem het mijn Schaduwbezettings-
-shurikenjutsu.
+shuriken-jutsu.
 
 1745
 02:02:38,675 --> 02:02:40,385
@@ -7962,7 +7962,7 @@ is mislukt.
 
 1785
 02:06:13,551 --> 02:06:14,802
-<i>Oproepingsjutsu!</i>
+<i>Oproeping-jutsu!</i>
 
 1786
 02:06:15,930 --> 02:06:16,673
@@ -8046,7 +8046,7 @@ de kustlijn!
 
 1805
 02:08:30,579 --> 02:08:32,498
-<i>Aardestijl: Bergjutsu!</i>
+<i>Aardestijl: Berg-jutsu!</i>
 
 1806
 02:09:01,902 --> 02:09:03,404

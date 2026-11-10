@@ -2036,7 +2036,7 @@ Wat?!
 450
 00:31:56,247 --> 00:31:58,416
 <i>Suiton: Takitsubo no Jutsu!
-(Waterstijl: Watervalbekken)</i>
+(Waterstijl: Watervalbekken-jutsu)</i>
 
 451
 00:32:04,756 --> 00:32:06,174
@@ -2201,12 +2201,12 @@ mijn Sharingan niet kopiëren…
 487
 00:34:10,718 --> 00:34:13,262
 Hoe zit het dan met Shikamaru’s
-Kagemane no Jutsu (Schaduwbezetting)
+Kagemane no Jutsu (Schaduwbezetting-jutsu)
 
 488
 00:34:13,370 --> 00:34:15,289
 of Choji’s Baika no Jutsu?
-(Vergrotingsjutsu)
+(Vergroting-jutsu)
 
 489
 00:34:16,387 --> 00:34:20,099
@@ -2269,12 +2269,12 @@ Luister…
 502
 00:34:55,644 --> 00:34:58,897
 Je weet dat de Kage Bunshin no Jutsu
-(Schaduwkloon) geen illusies maakt
+(Schaduwkloon-jutsu) geen illusies maakt
 
 503
 00:34:58,922 --> 00:35:02,403
 zoals de gewone Bunshin no Jutsu
-(Kloonjutsu), toch?
+(Kloon-jutsu), toch?
 
 504
 00:35:02,809 --> 00:35:05,561
@@ -2287,8 +2287,8 @@ om een kopie van jezelf te maken.
 
 506
 00:35:09,816 --> 00:35:14,512
-Ik weet het, ik kan de Kage Bunshin
-no Jutsu ook, al niet zo goed als jij.
+Ik kan de Kage Bunshin no Jutsu ook,
+al niet zo goed als jij.
 
 507
 00:35:15,071 --> 00:35:19,242
@@ -3383,7 +3383,7 @@ Het gaat wel, Kakashi-sensei…
 746
 00:50:13,051 --> 00:50:14,928
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 747
 00:50:15,470 --> 00:50:17,472
@@ -4665,8 +4665,8 @@ Ik wacht buiten.
 
 1033
 01:12:14,872 --> 01:12:18,625
-Zoals verwacht raakt hij snel uitgeput als
-hij de Taju Kage Bunshin no Jutsu gebruikt.
+Zoals verwacht raakt hij snel uitgeput
+van de Taju Kage Bunshin no Jutsu.
 
 1034
 01:12:21,253 --> 01:12:22,254
@@ -5270,8 +5270,8 @@ sterft aanvoerder Asuma ook!
 
 1168
 01:22:27,609 --> 01:22:31,696
-Om een hardnekkige vloekjutsu te verbreken,
-moet je normaal de gebruiker doden.
+Om een hardnekkige vloek-jutsu te breken,
+moet je meestal de gebruiker doden.
 
 1169
 01:22:32,364 --> 01:22:34,449
@@ -5400,7 +5400,7 @@ Ik ga, aanvoerder Asuma…
 
 1197
 01:24:33,735 --> 01:24:35,487
-<i>Die schaduwjutsu…</i>
+<i>Die schaduw-jutsu…</i>
 
 1198
 01:24:35,695 --> 01:24:39,365
@@ -5424,7 +5424,7 @@ cirkel die hij op de grond heeft getekend!
 1202
 01:25:00,613 --> 01:25:03,950
 Als ik dat doe,
-wordt zijn vloekjutsu verbroken.
+wordt zijn vloek-jutsu verbroken.
 
 1203
 01:25:05,216 --> 01:25:06,592
@@ -5553,7 +5553,7 @@ nu klaar waren…
 1230
 01:26:33,346 --> 01:26:35,515
 kunnen we aannemen dat het ritueel
-voor zijn vloekjutsu
+voor zijn vloek-jutsu
 
 1231
 01:26:35,690 --> 01:26:38,943

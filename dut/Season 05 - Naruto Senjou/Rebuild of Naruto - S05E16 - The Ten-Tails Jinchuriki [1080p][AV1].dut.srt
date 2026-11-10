@@ -293,7 +293,7 @@ Heer de Tweede, jij werkt wel snel!
 66
 00:06:53,405 --> 00:06:54,463
 <i>Hiraishin no Jutsu!
-(Teleportatiejutsu)</i>
+(Teleportatie-jutsu)</i>
 
 67
 00:06:56,414 --> 00:06:58,959
@@ -752,7 +752,7 @@ wat ik nu moet doen!
 169
 00:17:32,667 --> 00:17:34,660
 <i>Houtstijl: Mokujin no Jutsu!
-(Houtgolemjutsu)</i>
+(Houtgolem-jutsu)</i>
 
 170
 00:18:00,954 --> 00:18:01,997
@@ -1290,12 +1290,12 @@ Wist ik het wel!</i>
 287
 00:26:20,036 --> 00:26:23,665
 <i>Ook al werkt ninjutsu niet,
-wijzenjutsu werkt nog wel!</i>
+wijzen-jutsu werkt nog wel!</i>
 
 288
 00:26:25,057 --> 00:26:28,358
 <i>De pad van de berg Myoboku
-gebruikte wijzenjutsu</i>
+gebruikte wijzen-jutsu</i>
 
 289
 00:26:28,679 --> 00:26:30,239
@@ -1315,12 +1315,12 @@ Wat is er aan de hand?
 
 293
 00:26:40,265 --> 00:26:42,183
-Zijn wijzenjutsu werkt!
+Zijn wijzen-jutsu werkt!
 
 294
 00:26:51,985 --> 00:26:54,446
 <i>Hij beheerst zelfs dezelfde
-wijzenjutsu als Jiraiya-sensei…</i>
+wijzen-jutsu als Jiraiya-sensei…</i>
 
 295
 00:26:54,919 --> 00:26:59,734
@@ -1416,7 +1416,7 @@ Wijzenkracht?
 
 315
 00:28:26,313 --> 00:28:29,099
-De aanvallen van de pad zijn wijzenjutsu…
+De aanvallen van de pad zijn wijzen-jutsu…
 
 316
 00:28:29,124 --> 00:28:30,834
@@ -1443,7 +1443,7 @@ Niet dat ik het echt snap.
 321
 00:28:45,057 --> 00:28:48,635
 Ik ben gewoon blij dat ik
-wijzenjutsu heb geleerd! Goed zo!
+wijzen-jutsu heb geleerd! Goed zo!
 
 322
 00:28:49,936 --> 00:28:51,646
@@ -2136,7 +2136,7 @@ Ik heb die jutsu bedacht!
 475
 00:39:36,691 --> 00:39:38,167
 Het is mijn Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)
+(Schaduwkloon-jutsu)
 
 476
 00:39:41,712 --> 00:39:45,466
@@ -2185,7 +2185,7 @@ dat je al vergeten bent…
 486
 00:40:19,982 --> 00:40:23,611
 dat niets anders dan
-wijzenjutsu tegen hem werkt?
+wijzen-jutsu tegen hem werkt?
 
 487
 00:40:23,978 --> 00:40:25,372
@@ -2274,7 +2274,7 @@ ik de wijzentraining deed,
 
 505
 00:41:42,917 --> 00:41:45,878
-zat jij de wijzenjutsu van opa Wijze
+zat jij de wijzen-jutsu van opa Wijze
 in de weg, weet je nog?
 
 506
@@ -2285,7 +2285,7 @@ dezelfde ruimte met padden te delen!</i>
 507
 00:41:50,841 --> 00:41:55,971
 <i>Bovendien maakte het me razend
-dat je op wijzenjutsu vertrouwde</i>
+dat je op wijzen-jutsu vertrouwde</i>
 
 508
 00:41:55,996 --> 00:41:57,481
@@ -2335,7 +2335,7 @@ Het komt uit vertrouwdheid…
 518
 00:42:33,475 --> 00:42:36,228
 <i>Biju-toestand en
-wijzenjutsu tegelijk gebruiken, hè…</i>
+wijzen-jutsu tegelijk gebruiken, hè…</i>
 
 519
 00:42:37,237 --> 00:42:39,656
@@ -2370,7 +2370,7 @@ Goed zo!
 
 526
 00:43:24,751 --> 00:43:27,587
-Naruto, voeg wijzenjutsu
+Naruto, voeg wijzen-jutsu
 toe aan de Rasengan!
 
 527
@@ -2435,7 +2435,7 @@ Goed, de volgende…
 
 541
 00:44:45,983 --> 00:44:49,662
-Laten we wijzenjutsu toevoegen
+Laten we wijzen-jutsu toevoegen
 aan een Bijudama! (Biju-bom)
 
 542
@@ -3492,7 +3492,7 @@ Hé, Sasuke…
 
 779
 01:03:46,130 --> 01:03:49,717
-Je weet toch dat alleen wijzenjutsu
+Je weet toch dat alleen wijzen-jutsu
 op hem werkt?!
 
 780
@@ -3545,7 +3545,7 @@ aan Jugo’s chakra aanpast.
 790
 01:04:33,202 --> 01:04:36,831
 Met andere woorden, je zou het
-een wijzenjutsu-Susano’o kunnen noemen.
+een wijzen-jutsu-Susano’o kunnen noemen.
 
 791
 01:04:37,689 --> 01:04:39,149
@@ -4483,8 +4483,8 @@ Ja!
 
 997
 01:19:25,760 --> 01:19:27,037
-– <i>Kuchiyose no Jutsu! (Oproepingsjutsu)</i>
-– <i>Kuchiyose no Jutsu! (Oproepingsjutsu)</i>
+– <i>Kuchiyose no Jutsu! (Oproeping-jutsu)</i>
+– <i>Kuchiyose no Jutsu! (Oproeping-jutsu)</i>
 
 998
 01:19:31,783 --> 01:19:33,744
@@ -6829,7 +6829,7 @@ Deze oorlog is voorbij!
 
 1520
 02:05:12,796 --> 02:05:13,739
-<i>Verzegelingsjutsu!</i>
+<i>Verzegeling-jutsu!</i>
 
 1521
 02:05:14,924 --> 02:05:16,166

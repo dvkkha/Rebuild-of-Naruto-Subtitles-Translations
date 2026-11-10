@@ -183,7 +183,7 @@ Doe je best, jongens…
 
 42
 00:05:26,429 --> 00:05:30,330
-Ik beheers shurikenjutsu
+Ik beheers shuriken-jutsu
 tegen de volgende keer dat u hier bent!
 
 43
@@ -1967,7 +1967,7 @@ Alle insecten lijken op elkaar.
 
 440
 00:30:45,721 --> 00:30:46,708
-<i>Geheime techniek: Insectenroep!</i>
+<i>Geheime techniek: Insectenroep-jutsu!</i>
 
 441
 00:31:00,790 --> 00:31:02,001
@@ -2516,7 +2516,7 @@ aan deze aanval kunt ontsnappen?
 
 562
 00:40:51,861 --> 00:40:53,902
-<i>Ninjakunst: Honingjutsu!</i>
+<i>Ninjakunst: Honing-jutsu!</i>
 
 563
 00:40:55,247 --> 00:40:55,964
@@ -3299,7 +3299,7 @@ Dek me even!
 
 733
 00:52:20,738 --> 00:52:21,854
-<i>Geheime techniek: Insectenwal!</i>
+<i>Geheime techniek: Insectenwal-jutsu!</i>
 
 734
 00:52:31,449 --> 00:52:33,281
@@ -3376,7 +3376,7 @@ naar de bikochu!
 
 750
 00:53:25,066 --> 00:53:26,002
-<i>Insectenwal!</i>
+<i>Insectenwal-jutsu!</i>
 
 751
 00:53:27,971 --> 00:53:30,054
@@ -3393,7 +3393,7 @@ Pak aan!
 
 754
 00:53:49,428 --> 00:53:50,909
-<i>Duizend Bijenangels!</i>
+<i>Duizend Bijenangels-jutsu!</i>
 
 755
 00:54:00,502 --> 00:54:01,473
@@ -3869,7 +3869,7 @@ me de plek te vertellen?
 
 861
 01:01:35,378 --> 01:01:36,460
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 862
 01:01:45,642 --> 01:01:47,974
@@ -4289,11 +4289,11 @@ in een echt gevecht gebruikt…</i>
 
 958
 01:09:33,113 --> 01:09:34,403
-<i>Bijenbommen!</i>
+<i>Bijenbommen-jutsu!</i>
 
 959
 01:09:35,682 --> 01:09:37,222
-<i>Duizend Bijenangels!</i>
+<i>Duizend Bijenangels-jutsu!</i>
 
 960
 01:09:38,029 --> 01:09:39,444
@@ -4509,7 +4509,7 @@ volledig afweren…
 1007
 01:13:24,543 --> 01:13:26,485
 Echt, het is een ultieme
-verdedigingsjutsu.
+verdediging-jutsu.
 
 1008
 01:13:28,483 --> 01:13:30,796
@@ -4559,7 +4559,7 @@ Wanneer hebben ze…?!
 
 1019
 01:14:18,202 --> 01:14:19,492
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 1020
 01:14:26,584 --> 01:14:28,001

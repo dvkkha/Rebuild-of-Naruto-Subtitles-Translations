@@ -266,7 +266,7 @@ Dan doe ik—!</i>
 60
 00:04:10,792 --> 00:04:12,877
 <i>Cho Baika no Jutsu!
-(Supervergrotingsjutsu)</i>
+(Supervergroting-jutsu)</i>
 
 61
 00:04:19,175 --> 00:04:20,510
@@ -537,7 +537,7 @@ Gemist!
 121
 00:08:41,187 --> 00:08:43,022
 <i>Bubun Baika no Jutsu!
-(Gedeeltelijke Vergrotingsjutsu)</i>
+(Gedeeltelijke Vergroting-jutsu)</i>
 
 122
 00:08:48,194 --> 00:08:52,532
@@ -1499,8 +1499,8 @@ het hele systeem.
 
 335
 00:23:51,513 --> 00:23:54,433
-Het heet Ninpo: Sozo Saisei.
-(Ninjakunst: Schepping en Wedergeboorte)
+Het heet Ninpo: Sozo Saisei. (Ninjakunst:
+Schepping en Wedergeboorte-jutsu)
 
 336
 00:23:54,766 --> 00:23:57,477
@@ -1515,7 +1515,7 @@ om genezingsvaardigheden.
 338
 00:24:02,482 --> 00:24:04,719
 Het is hetzelfde soort
-regeneratiejutsu
+regeneratie-jutsu
 
 339
 00:24:04,744 --> 00:24:06,538
@@ -3228,7 +3228,7 @@ Dat is jullie plicht als shinobi van Suna!
 
 725
 00:53:41,488 --> 00:53:43,406
-<i>Dharma-zegeljutsu:</i>
+<i>Dharma-zegel-jutsu:</i>
 
 726
 00:53:44,930 --> 00:53:46,723
@@ -3303,7 +3303,7 @@ Zijn leven is in gevaar!
 
 742
 00:55:24,808 --> 00:55:27,936
-<i>Dit is de zegeljutsu die priester Bunpuku
+<i>Dit is de zegel-jutsu die priester Bunpuku
 aan mij heeft doorgegeven!</i>
 
 743
@@ -3582,7 +3582,7 @@ Ik denk dat het mislukt is…
 805
 01:01:13,765 --> 01:01:16,810
 <i>Horiki Fuinjutsu: Sen no Rikyu!
-(Dharma-zegeljutsu: Sen no Rikyu)</i>
+(Dharma-zegel-jutsu: Sen no Rikyu)</i>
 
 806
 01:01:37,393 --> 01:01:39,979
@@ -4326,7 +4326,7 @@ Wat is dat?!
 
 972
 01:14:33,051 --> 01:14:34,303
-Een soort verdedigingsjutsu?!
+Een soort verdediging-jutsu?!
 
 973
 01:14:34,736 --> 01:14:36,655

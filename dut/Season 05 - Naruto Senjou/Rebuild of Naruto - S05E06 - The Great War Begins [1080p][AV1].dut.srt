@@ -2058,7 +2058,7 @@ mijn sensorische chakra.
 
 453
 00:34:07,628 --> 00:34:10,715
-Het is een stoorjutsu met insecten.
+Het is een stoor-jutsu met insecten.
 
 454
 00:34:11,196 --> 00:34:14,282
@@ -2238,7 +2238,7 @@ Eerste Compagnie, met mij mee!
 
 493
 00:37:26,452 --> 00:37:28,829
-Dit is een stoorjutsu.
+Dit is een stoor-jutsu.
 
 494
 00:37:30,729 --> 00:37:31,730
@@ -2247,7 +2247,7 @@ Wat is er?
 495
 00:37:32,375 --> 00:37:35,378
 Ik kan het niet zeker voelen door
-een stoorjutsu, maar…
+een stoor-jutsu, maar…
 
 496
 00:37:36,796 --> 00:37:37,797
@@ -2950,7 +2950,7 @@ Goed gedaan, Omoi!
 655
 00:48:00,377 --> 00:48:04,756
 Ik hou deze twee met mijn
-poppenjutsu vastgebonden!
+poppen-jutsu vastgebonden!
 
 656
 00:48:05,257 --> 00:48:06,842
@@ -3502,7 +3502,7 @@ Laat me eerst iets zeggen.
 780
 00:56:16,025 --> 00:56:18,315
 Dit valt onder
-een soort oproepingsjutsu.
+een soort oproeping-jutsu.
 
 781
 00:56:20,377 --> 00:56:26,216
@@ -3554,7 +3554,7 @@ de ziel van de Hokage al had meegenomen
 
 791
 00:57:00,392 --> 00:57:02,627
-met de verzegelingsjutsu,
+met de verzegeling-jutsu,
 het Doodsgodzegel.
 
 792
@@ -4621,7 +4621,7 @@ Kekkei Genkai-shinobi… allemaal.
 1030
 01:12:41,690 --> 01:12:44,443
 <i>Ninpo: Kirigakure no Jutsu.
-(Ninjakunst: Verborgen in de Mist)</i>
+(Ninjakunst: Verborgen in de Mist-jutsu)</i>
 
 1031
 01:12:45,861 --> 01:12:48,364
@@ -4836,8 +4836,8 @@ de vijand tijd geef om te handelen.
 
 1078
 01:15:28,633 --> 01:15:30,134
-– <i>Oproeping!</i>
-– <i>Oproeping!</i>
+– <i>Kuchiyose no Jutsu! (Oproeping-jutsu)</i>
+– <i>Kuchiyose no Jutsu! (Oproeping-jutsu)</i>
 
 1079
 01:15:48,961 --> 01:15:50,796
@@ -5172,7 +5172,7 @@ verhoog je meteen de kracht
 1152
 01:19:52,621 --> 01:19:54,915
 van je Kagemane no Jutsu en je
-Kage Nui no Jutsu (Schaduwnaaijutsu)
+Kage Nui no Jutsu (Schaduwnaai-jutsu)
 
 1153
 01:19:54,956 --> 01:19:56,374
@@ -5181,7 +5181,7 @@ en bind je hem!
 1154
 01:19:56,958 --> 01:20:02,214
 Dan immobiliseer jij, Maki, Zabuza volledig
-met je Nunoshibari! (Stofboeienjutsu)
+met je Nunoshibari! (Stofboeien-jutsu)
 
 1155
 01:20:02,380 --> 01:20:03,381
@@ -5198,7 +5198,7 @@ Goed!
 1158
 01:20:05,926 --> 01:20:07,219
 <i>Shintenshin no Jutsu!
-(Geestesoverdracht)</i>
+(Geestesoverdracht-jutsu)</i>
 
 1159
 01:20:08,554 --> 01:20:11,139
@@ -5585,7 +5585,7 @@ Dit is een onvergeeflijke jutsu!
 1245
 01:26:59,672 --> 01:27:02,884
 Sai, nu gebruiken we jouw
-verzegelingsjutsu van de Wortel!
+verzegeling-jutsu van de Wortel!
 
 1246
 01:27:03,595 --> 01:27:04,596

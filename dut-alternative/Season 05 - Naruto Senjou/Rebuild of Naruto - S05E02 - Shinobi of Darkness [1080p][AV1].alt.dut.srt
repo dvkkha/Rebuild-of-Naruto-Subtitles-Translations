@@ -2113,12 +2113,12 @@ Hebbes.
 468
 00:32:21,189 --> 00:32:23,316
 Je staat onder mijn
-Geestesoverdracht-Marionettenvloek.
+Geestesoverdracht-Marionettenvloek-jutsu.
 
 469
 00:32:24,192 --> 00:32:26,986
-<i>Verdomme! Was dit
-een vloekvariant van de Geestesoverdracht</i>
+<i>Verdomme! Was dit een vloekvariant
+van de Geestesoverdracht-jutsu</i>
 
 470
 00:32:26,986 --> 00:32:29,072
@@ -2929,7 +2929,7 @@ ik in het levend vangen van prooi.</i>
 
 649
 00:44:10,567 --> 00:44:13,709
-<i>Deze Waterkerker-Haaiendans
+<i>Deze Waterkerker-Haaiendans-jutsu
 is zo leuk,</i>
 
 650
@@ -4449,11 +4449,11 @@ Sasuke!
 
 992
 01:12:08,307 --> 01:12:09,850
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 993
 01:12:19,585 --> 01:12:21,587
-Een nieuwe oproepingsjutsu?
+Een nieuwe oproeping-jutsu?
 
 994
 01:12:21,612 --> 01:12:23,113
@@ -5020,7 +5020,7 @@ is niet makkelijk aan te pakken.</i>
 
 1120
 01:25:25,286 --> 01:25:26,788
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 1121
 01:25:56,321 --> 01:25:58,740
@@ -5037,7 +5037,7 @@ zich niet bewegen.</i>
 
 1124
 01:26:11,332 --> 01:26:13,001
-<i>Grote Vuurbal!</i>
+<i>Grote Vuurbal-jutsu!</i>
 
 1125
 01:26:40,945 --> 01:26:43,406
@@ -5785,7 +5785,7 @@ laat ik jullie geen van beiden leven!
 1290
 01:39:38,185 --> 01:39:39,978
 <i>Dit is de Omgekeerde
-Viersymbolenzegel.</i>
+Viersymbolenzegel-jutsu.</i>
 
 1291
 01:39:40,821 --> 01:39:41,822
@@ -5847,7 +5847,7 @@ verborgen in de duisternis.</i>
 1304
 01:41:23,035 --> 01:41:25,384
 Dat was de Omgekeerde
-Viersymbolenzegel.
+Viersymbolenzegel-jutsu.
 
 1305
 01:41:25,409 --> 01:41:28,996

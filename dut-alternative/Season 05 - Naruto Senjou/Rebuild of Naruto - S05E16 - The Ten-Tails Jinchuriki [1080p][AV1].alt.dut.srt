@@ -291,7 +291,7 @@ Heer de Tweede, jij werkt wel snel!
 
 66
 00:06:53,405 --> 00:06:54,463
-<i>Teleportatiejutsu!</i>
+<i>Teleportatie-jutsu!</i>
 
 67
 00:06:56,414 --> 00:06:58,959
@@ -547,7 +547,7 @@ Ik hoop dat dit op tijd is!
 
 122
 00:11:49,758 --> 00:11:51,302
-<i>Teleportatiejutsu!</i>
+<i>Teleportatie-jutsu!</i>
 
 123
 00:11:51,627 --> 00:11:53,696
@@ -747,7 +747,7 @@ wat ik nu moet doen!
 
 169
 00:17:32,667 --> 00:17:34,660
-<i>Houtstijl: Houtgolemjutsu!</i>
+<i>Houtstijl: Houtgolem-jutsu!</i>
 
 170
 00:18:00,954 --> 00:18:01,997
@@ -832,12 +832,12 @@ Kom op, Vierde.
 
 188
 00:19:21,243 --> 00:19:24,037
-De Teleportatiejutsu van een kloon
+De Teleportatie-jutsu van een kloon
 is veel trager.
 
 189
 00:19:25,414 --> 00:19:28,000
-Laten we onze Teleportatiejutsu
+Laten we onze Teleportatie-jutsu
 combineren en wederzijds gebruiken.
 
 190
@@ -882,13 +882,13 @@ Nu!
 
 199
 00:20:13,587 --> 00:20:15,547
-– <i>Wederzijdse Teleportatie-Rondgang!</i>
-– <i>Wederzijdse Teleportatie-Rondgang!</i>
+– <i>Wederzijdse Teleportatie-Rondgang-jutsu!</i>
+– <i>Wederzijdse Teleportatie-Rondgang-jutsu!</i>
 
 200
 00:20:15,772 --> 00:20:16,900
-– <i>Teleportatiejutsu!</i>
-– <i>Teleportatiejutsu!</i>
+– <i>Teleportatie-jutsu!</i>
+– <i>Teleportatie-jutsu!</i>
 
 201
 00:20:20,410 --> 00:20:23,205
@@ -1284,12 +1284,12 @@ Wist ik het wel!</i>
 287
 00:26:20,036 --> 00:26:23,665
 <i>Ook al werkt ninjutsu niet,
-wijzenjutsu werkt nog wel!</i>
+wijzen-jutsu werkt nog wel!</i>
 
 288
 00:26:25,057 --> 00:26:28,358
 <i>De pad van de berg Myoboku
-gebruikte wijzenjutsu</i>
+gebruikte wijzen-jutsu</i>
 
 289
 00:26:28,679 --> 00:26:30,239
@@ -1309,12 +1309,12 @@ Wat is er aan de hand?
 
 293
 00:26:40,265 --> 00:26:42,183
-Zijn wijzenjutsu werkt!
+Zijn wijzen-jutsu werkt!
 
 294
 00:26:51,985 --> 00:26:54,446
 <i>Hij beheerst zelfs dezelfde
-wijzenjutsu als Jiraiya-sensei…</i>
+wijzen-jutsu als Jiraiya-sensei…</i>
 
 295
 00:26:54,919 --> 00:26:59,734
@@ -1410,7 +1410,7 @@ Wijzenkracht?
 
 315
 00:28:26,313 --> 00:28:29,099
-De aanvallen van de pad zijn wijzenjutsu…
+De aanvallen van de pad zijn wijzen-jutsu…
 
 316
 00:28:29,124 --> 00:28:30,834
@@ -1437,7 +1437,7 @@ Niet dat ik het echt snap.
 321
 00:28:45,057 --> 00:28:48,635
 Ik ben gewoon blij dat ik
-wijzenjutsu heb geleerd! Goed zo!
+wijzen-jutsu heb geleerd! Goed zo!
 
 322
 00:28:49,936 --> 00:28:51,646
@@ -1446,7 +1446,7 @@ Nu de Kikker-kumite!
 323
 00:28:57,586 --> 00:29:00,922
 <i>Hij begreep meteen hoe hij de
-Teleportatiejutsu met mij kon gebruiken…</i>
+Teleportatie-jutsu met mij kon gebruiken…</i>
 
 324
 00:29:00,947 --> 00:29:03,575
@@ -1519,7 +1519,7 @@ Denk na!</i>
 
 339
 00:30:26,616 --> 00:30:28,676
-Teleporteren met de Teleportatiejutsu…
+Teleporteren met de Teleportatie-jutsu…
 
 340
 00:30:28,701 --> 00:30:30,286
@@ -1622,7 +1622,7 @@ Eindspel.
 362
 00:31:39,421 --> 00:31:41,757
 Onze enige keus is nu
-die bollen met de Teleportatiejutsu
+die bollen met de Teleportatie-jutsu
 
 363
 00:31:41,782 --> 00:31:43,618
@@ -1981,7 +1981,7 @@ buiten de barrière?
 
 443
 00:37:46,722 --> 00:37:48,348
-Het was de Teleportatiejutsu.
+Het was de Teleportatie-jutsu.
 
 444
 00:37:48,391 --> 00:37:51,727
@@ -1995,7 +1995,7 @@ Dit is niet alleen Naruto’s chakra.
 446
 00:37:55,664 --> 00:38:00,169
 <i>Hij heeft iedereen verplaatst met
-de Teleportatiejutsu van de Vierde!</i>
+de Teleportatie-jutsu van de Vierde!</i>
 
 447
 00:38:01,279 --> 00:38:02,363
@@ -2127,7 +2127,7 @@ Ik heb die jutsu bedacht!
 
 475
 00:39:36,691 --> 00:39:38,167
-Het is mijn Schaduwkloonjutsu!
+Het is mijn Schaduwkloon-jutsu!
 
 476
 00:39:41,712 --> 00:39:45,466
@@ -2176,7 +2176,7 @@ dat je al vergeten bent…
 486
 00:40:19,982 --> 00:40:23,611
 dat niets anders dan
-wijzenjutsu tegen hem werkt?
+wijzen-jutsu tegen hem werkt?
 
 487
 00:40:23,978 --> 00:40:25,372
@@ -2265,7 +2265,7 @@ ik de wijzentraining deed,
 
 505
 00:41:42,917 --> 00:41:45,878
-zat jij de wijzenjutsu van opa Wijze
+zat jij de wijzen-jutsu van opa Wijze
 in de weg, weet je nog?
 
 506
@@ -2276,7 +2276,7 @@ dezelfde ruimte met padden te delen!</i>
 507
 00:41:50,841 --> 00:41:55,971
 <i>Bovendien maakte het me razend
-dat je op wijzenjutsu vertrouwde</i>
+dat je op wijzen-jutsu vertrouwde</i>
 
 508
 00:41:55,996 --> 00:41:57,481
@@ -2326,7 +2326,7 @@ Het komt uit vertrouwdheid…
 518
 00:42:33,475 --> 00:42:36,228
 <i>Biju-toestand en
-wijzenjutsu tegelijk gebruiken, hè…</i>
+wijzen-jutsu tegelijk gebruiken, hè…</i>
 
 519
 00:42:37,237 --> 00:42:39,656
@@ -2361,7 +2361,7 @@ Goed zo!
 
 526
 00:43:24,751 --> 00:43:27,587
-Naruto, voeg wijzenjutsu
+Naruto, voeg wijzen-jutsu
 toe aan de Rasengan!
 
 527
@@ -2408,7 +2408,7 @@ Hij zag onze aanval aankomen…
 
 537
 00:44:34,963 --> 00:44:37,800
-Alleen de Teleportatiejutsu gebruiken
+Alleen de Teleportatie-jutsu gebruiken
 in onze strategie is niet genoeg.
 
 538
@@ -2426,7 +2426,7 @@ Goed, de volgende…
 
 541
 00:44:45,983 --> 00:44:49,662
-Laten we wijzenjutsu toevoegen
+Laten we wijzen-jutsu toevoegen
 aan een Biju-bom!
 
 542
@@ -2803,7 +2803,7 @@ naar Naruto teleporteren?!
 
 623
 00:52:07,499 --> 00:52:12,420
-Dat kan niet! Die Teleportatiejutsu en
+Dat kan niet! Die Teleportatie-jutsu en
 deze ranken hebben mijn chakra opgezogen!
 
 624
@@ -3482,7 +3482,7 @@ Hé, Sasuke…
 
 779
 01:03:46,130 --> 01:03:49,717
-Je weet toch dat alleen wijzenjutsu
+Je weet toch dat alleen wijzen-jutsu
 op hem werkt?!
 
 780
@@ -3535,7 +3535,7 @@ aan Jugo’s chakra aanpast.
 790
 01:04:33,202 --> 01:04:36,831
 Met andere woorden, je zou het
-een wijzenjutsu-Susano’o kunnen noemen.
+een wijzen-jutsu-Susano’o kunnen noemen.
 
 791
 01:04:37,689 --> 01:04:39,149
@@ -4353,7 +4353,7 @@ Ik kan niet zoals jij tegelijk bewegen,
 969
 01:17:50,415 --> 01:17:52,992
 maar ik bescherm ze toch
-met mijn Teleportatiejutsu.
+met mijn Teleportatie-jutsu.
 
 970
 01:17:54,586 --> 01:17:55,879
@@ -4423,7 +4423,7 @@ Wat?
 
 986
 01:18:53,895 --> 01:18:57,524
-<i>Met mijn Teleportatiejutsu breng ik
+<i>Met mijn Teleportatie-jutsu breng ik
 iedereen in gevaar in veiligheid.</i>
 
 987
@@ -4473,8 +4473,8 @@ Ja!
 
 997
 01:19:25,760 --> 01:19:27,037
-– <i>Oproepingsjutsu!</i>
-– <i>Oproepingsjutsu!</i>
+– <i>Oproeping-jutsu!</i>
+– <i>Oproeping-jutsu!</i>
 
 998
 01:19:31,783 --> 01:19:33,744
@@ -6818,7 +6818,7 @@ Deze oorlog is voorbij!
 
 1520
 02:05:12,796 --> 02:05:13,739
-<i>Verzegelingsjutsu!</i>
+<i>Verzegeling-jutsu!</i>
 
 1521
 02:05:14,924 --> 02:05:16,166

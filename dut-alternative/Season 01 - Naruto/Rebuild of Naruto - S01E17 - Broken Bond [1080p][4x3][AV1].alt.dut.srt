@@ -39,7 +39,7 @@ Echt…
 
 10
 00:00:33,074 --> 00:00:34,409
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 11
 00:00:46,615 --> 00:00:48,915
@@ -446,7 +446,7 @@ Sasuke, laten we naar huis gaan.
 102
 00:12:31,138 --> 00:12:34,474
 Kom op… Je hebt beloofd
-me een nieuwe shurikenjutsu te leren.
+me een nieuwe shuriken-jutsu te leren.
 
 103
 00:12:35,197 --> 00:12:39,476
@@ -1455,7 +1455,7 @@ Ik ben altijd de beste van de klas, dus…
 
 324
 00:28:59,571 --> 00:29:01,983
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 325
 00:29:08,121 --> 00:29:09,122
@@ -1505,7 +1505,7 @@ Oké!
 
 336
 00:29:41,112 --> 00:29:43,281
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 337
 00:29:50,211 --> 00:29:52,400
@@ -1537,11 +1537,11 @@ die het vuur beheersen.</i>
 
 343
 00:30:18,900 --> 00:30:20,860
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 344
 00:30:28,993 --> 00:30:30,870
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 345
 00:30:40,004 --> 00:30:41,089
@@ -1549,7 +1549,7 @@ die het vuur beheersen.</i>
 
 346
 00:30:43,007 --> 00:30:45,051
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 347
 00:30:50,436 --> 00:30:51,312
@@ -1595,7 +1595,7 @@ Oké…
 
 357
 00:31:26,050 --> 00:31:28,011
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 358
 00:31:39,212 --> 00:31:44,175
@@ -1604,7 +1604,7 @@ Verdomme! Nog een keer!</i>
 
 359
 00:31:46,121 --> 00:31:48,331
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 360
 00:31:59,125 --> 00:31:59,792
@@ -1650,7 +1650,7 @@ Dus ik wil dat u het ziet.
 
 370
 00:32:41,427 --> 00:32:43,804
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 371
 00:33:15,159 --> 00:33:17,582
@@ -1827,7 +1827,7 @@ Laat vader het je leren.
 
 409
 00:35:55,377 --> 00:35:59,548
-Maar jij bent beter in shurikenjutsu,
+Maar jij bent beter in shuriken-jutsu,
 grote broer…
 
 410
@@ -1905,7 +1905,7 @@ Je lunchtrommeltje, Sasuke!
 426
 00:37:36,520 --> 00:37:37,980
 Als je je zorgen maakt over het
-oefenen van shurikenjutsu,
+oefenen van shuriken-jutsu,
 
 427
 00:37:38,005 --> 00:37:40,341
@@ -2307,11 +2307,11 @@ opgetekende geheim van…
 517
 00:47:05,341 --> 00:47:11,549
 het ware doel van de
-oogjutsu van de Uchiha-clan.
+oog-jutsu van de Uchiha-clan.
 
 518
 00:47:12,786 --> 00:47:15,264
-<i>Het ware doel van de oogjutsu
+<i>Het ware doel van de oog-jutsu
 van de Uchiha-clan…?</i>
 
 519
@@ -2637,7 +2637,7 @@ als het moet!
 
 591
 00:54:56,026 --> 00:54:57,645
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 592
 00:55:10,099 --> 00:55:11,475
@@ -2764,7 +2764,7 @@ lezen?
 
 620
 00:58:07,776 --> 00:58:10,613
-<i>Vuurstijl: Feniksbloem!</i>
+<i>Vuurstijl: Feniksbloem-jutsu!</i>
 
 621
 00:58:24,585 --> 00:58:28,714
@@ -3029,7 +3029,7 @@ in je lichaam moet breken!
 
 681
 01:05:13,762 --> 01:05:16,139
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 682
 01:05:59,414 --> 01:06:03,001
@@ -3347,7 +3347,7 @@ Sasuke!
 
 752
 01:13:12,430 --> 01:13:14,390
-<i>Vuurstijl: Drakenvlam!</i>
+<i>Vuurstijl: Drakenvlam-jutsu!</i>
 
 753
 01:13:53,221 --> 01:13:56,552
@@ -3439,7 +3439,7 @@ Nu begrijp ik het!
 
 773
 01:18:01,556 --> 01:18:03,724
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 774
 01:18:22,281 --> 01:18:24,283
@@ -4428,7 +4428,7 @@ Meester Viezerik?
 995
 01:46:42,146 --> 01:46:46,567
 Ik heb onderzoek gedaan naar
-de Onsterfelijkheidsjutsu van Orochimaru.
+de Onsterfelijkheid-jutsu van Orochimaru.
 
 996
 01:46:47,169 --> 01:46:48,461

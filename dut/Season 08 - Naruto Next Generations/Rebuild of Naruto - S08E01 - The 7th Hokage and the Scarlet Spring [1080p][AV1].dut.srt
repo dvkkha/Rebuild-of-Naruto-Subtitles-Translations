@@ -1472,7 +1472,7 @@ van de vorige keer breken!
 333
 00:22:56,917 --> 00:22:58,668
 Kagemane no Jutsu…
-(Schaduwbezetting)
+(Schaduwbezetting-jutsu)
 
 334
 00:22:59,443 --> 00:23:00,319
@@ -3295,7 +3295,7 @@ Cho-Cho!
 747
 00:50:17,230 --> 00:50:18,932
 <i>Bubun Baika no Jutsu!
-(Gedeeltelijke Vergrotingsjutsu)</i>
+(Gedeeltelijke Vergroting-jutsu)</i>
 
 748
 00:50:25,355 --> 00:50:26,857
@@ -3465,7 +3465,7 @@ Hij is verdwenen…
 
 787
 00:52:56,965 --> 00:52:58,758
-De Teleportatiejutsu?
+De Teleportatie-jutsu?
 
 788
 00:53:05,473 --> 00:53:07,517
@@ -4401,7 +4401,7 @@ Papa!
 998
 01:09:47,924 --> 01:09:50,051
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 999
 01:09:57,610 --> 01:09:59,069
@@ -6704,7 +6704,7 @@ niet zo goed gekloond…
 1524
 01:47:49,388 --> 01:47:51,306
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 1525
 01:48:03,935 --> 01:48:04,978

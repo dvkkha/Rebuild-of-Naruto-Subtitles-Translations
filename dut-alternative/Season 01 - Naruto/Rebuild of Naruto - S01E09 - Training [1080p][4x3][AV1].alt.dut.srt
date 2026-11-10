@@ -1397,11 +1397,11 @@ dus wees stil en luister!
 312
 00:20:30,604 --> 00:20:34,191
 Laten we eerst zeggen dat Sakura
-de Kloonjutsu gebruikt.
+de Kloon-jutsu gebruikt.
 
 313
 00:20:34,524 --> 00:20:35,817
-<i>Kloonjutsu!</i>
+<i>Kloon-jutsu!</i>
 
 314
 00:20:39,655 --> 00:20:44,576
@@ -1428,7 +1428,7 @@ het opbouwen van chakra.
 
 319
 00:20:57,464 --> 00:20:58,590
-<i>Kloonjutsu.</i>
+<i>Kloon-jutsu.</i>
 
 320
 00:21:03,011 --> 00:21:06,223
@@ -1483,7 +1483,7 @@ te verbruiken dan Sakura en Sasuke…
 
 331
 00:21:43,093 --> 00:21:44,386
-<i>Kloonjutsu!</i>
+<i>Kloon-jutsu!</i>
 
 332
 00:21:46,622 --> 00:21:49,791
@@ -3582,7 +3582,7 @@ Zoals wat?
 
 801
 00:55:36,839 --> 00:55:42,886
-Bijvoorbeeld… de Oproepingsjutsu
+Bijvoorbeeld… de Oproeping-jutsu
 die ik je nu ga leren.
 
 802
@@ -3633,7 +3633,7 @@ Laat dat maar aan mij over.
 812
 00:56:22,694 --> 00:56:26,364
 Nou… Dus je kunt de
-Schaduwkloon.
+Schaduwkloon-jutsu.
 
 813
 00:56:27,448 --> 00:56:31,452
@@ -3688,7 +3688,7 @@ Kijk goed.
 
 824
 00:57:28,760 --> 00:57:30,928
-<i>Oproeping</i>
+<i>Oproeping-jutsu</i>
 
 825
 00:57:37,185 --> 00:57:41,064
@@ -3764,7 +3764,7 @@ Zwijn-Hond-Vogel-Aap-Schaap.
 
 841
 00:59:00,143 --> 00:59:02,645
-<i>Ninjakunst: Oproeping!</i>
+<i>Ninjakunst: Oproeping-jutsu!</i>
 
 842
 00:59:08,969 --> 00:59:11,305
@@ -3807,7 +3807,7 @@ een kikker zo groot dat je schrikt!
 
 851
 01:00:15,235 --> 01:00:16,645
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 852
 01:00:20,511 --> 01:00:22,787
@@ -4296,7 +4296,7 @@ Neji, gaat het?!
 
 960
 01:06:39,892 --> 01:06:41,393
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 961
 01:06:43,981 --> 01:06:45,941
@@ -4901,8 +4901,8 @@ Ik doe dit met al mijn kracht!
 
 1096
 01:16:20,474 --> 01:16:25,061
-Dat begrijp ik, maar als je de Oproeping
-echt onder de knie wilt krijgen,
+Dat begrijp ik, maar wil je de
+Oproeping-jutsu echt beheersen,
 
 1097
 01:16:25,306 --> 01:16:28,211
@@ -5230,7 +5230,7 @@ geef ik het je!
 
 1169
 01:22:50,864 --> 01:22:52,615
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 1170
 01:23:04,127 --> 01:23:05,795
@@ -6283,8 +6283,8 @@ Hé, Naruto…
 
 1404
 01:39:43,041 --> 01:39:48,130
-Als ik mijn Schaduwbezetting gebruik,
-moet ik ook bewegen! Oké?!
+Als ik mijn Schaduwbezetting-jutsu
+gebruik, moet ik ook bewegen! Oké?!
 
 1405
 01:39:49,131 --> 01:39:50,465
@@ -6324,7 +6324,7 @@ Wat?!
 1413
 01:40:23,790 --> 01:40:27,753
 <i>Vooral nu hij niet kan
-bewegen door mijn Schaduwbezetting…</i>
+bewegen door mijn Schaduwbezetting-jutsu…</i>
 
 1414
 01:40:29,022 --> 01:40:31,358
@@ -6751,7 +6751,7 @@ onmogelijk verslaan!</i>
 
 1505
 01:46:19,980 --> 01:46:24,484
-<i>Wat? Mijn Schaduwbezetting
+<i>Wat? Mijn Schaduwbezetting-jutsu
 zou hem moeten vasthouden, maar…</i>
 
 1506

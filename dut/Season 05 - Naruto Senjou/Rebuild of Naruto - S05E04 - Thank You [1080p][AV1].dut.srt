@@ -294,7 +294,7 @@ Ik geef je een uitleg.
 
 66
 00:04:34,055 --> 00:04:38,185
-Naruto, met wat voor verzegelingsjutsu
+Naruto, met wat voor verzegeling-jutsu
 is jouw Kyubi vastgezet?
 
 67
@@ -1559,7 +1559,7 @@ Goed!
 350
 00:26:40,790 --> 00:26:42,542
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 351
 00:26:45,779 --> 00:26:46,947
@@ -1806,7 +1806,7 @@ als het Dorp van het Lange Leven.
 407
 00:31:54,537 --> 00:31:57,665
 En we waren gespecialiseerd
-in verzegelingsjutsu.
+in verzegeling-jutsu.
 
 408
 00:32:00,635 --> 00:32:01,886
@@ -1823,7 +1823,7 @@ op een jutsu uit ons dorp.
 411
 00:32:09,944 --> 00:32:15,116
 En Minato, je vader, leerde allerlei
-verzegelingsjutsu van mijn moeder.
+verzegeling-jutsu van mijn moeder.
 
 412
 00:32:16,559 --> 00:32:19,687
@@ -1854,7 +1854,7 @@ bestaat niet meer.
 418
 00:32:42,502 --> 00:32:46,255
 In het tijdperk van oorlog werden onze
-verzegelingsjutsu zeer gevreesd,
+verzegeling-jutsu zeer gevreesd,
 
 419
 00:32:46,297 --> 00:32:49,008
@@ -1926,7 +1926,7 @@ in haar lichaam
 
 434
 00:33:39,841 --> 00:33:42,094
-met een verzegelingsjutsu en
+met een verzegeling-jutsu en
 werd ze zijn jinchuriki.
 
 435
@@ -2667,7 +2667,7 @@ Naruto is niet gewond.
 602
 00:45:29,727 --> 00:45:32,521
 <i>Ik moest wel de Hiraishin no Jutsu
-(Teleportatietechniek) gebruiken.</i>
+(Teleportatie-jutsu) gebruiken.</i>
 
 603
 00:45:34,398 --> 00:45:36,024
@@ -2888,7 +2888,7 @@ je zeker beschermen.
 653
 00:50:50,280 --> 00:50:51,673
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 654
 00:51:05,687 --> 00:51:07,647
@@ -3141,7 +3141,7 @@ nog chaotischer.</i>
 709
 00:55:28,157 --> 00:55:31,619
 <i>kan hij de Kyubi niet te lang
-onder de oproepingsjutsu houden.</i>
+onder de oproeping-jutsu houden.</i>
 
 710
 00:55:32,486 --> 00:55:34,655
@@ -3192,7 +3192,7 @@ het moment van de aanval.</i>
 720
 00:56:15,997 --> 00:56:19,376
 <i>En gezien de resterende tijd
-van de oproepingsjutsu van de Kyubi</i>
+van de oproeping-jutsu van de Kyubi</i>
 
 721
 00:56:19,692 --> 00:56:22,528
@@ -3218,7 +3218,7 @@ kunai van daarnet gevlogen!</i>
 
 726
 00:57:05,363 --> 00:57:07,448
-Dat was mijn Hiraishin no Jutsu,
+Dat was mijn Teleportatietechniek,
 tweede fase.
 
 727
@@ -3494,7 +3494,7 @@ met me mee
 
 788
 01:02:07,473 --> 01:02:10,435
-met de enige verzegelingsjutsu die ik kan,
+met de enige verzegeling-jutsu die ik kan,
 omdat ik geen jinchuriki ben:
 
 789

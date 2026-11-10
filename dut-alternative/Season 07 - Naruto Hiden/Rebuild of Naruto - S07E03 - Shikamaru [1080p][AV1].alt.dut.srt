@@ -1239,7 +1239,7 @@ We dringen binnen met Ro’s jutsu,
 277
 00:16:10,021 --> 00:16:12,982
 dan zet ik het doelwit vast
-met mijn Schaduwwurggreep,
+met mijn Schaduwwurggreep-jutsu,
 
 278
 00:16:13,337 --> 00:16:14,755
@@ -3443,7 +3443,7 @@ Hou je niet van de domme!
 
 773
 00:46:25,052 --> 00:46:26,524
-Schaduwverlamming!
+Schaduwverlamming-jutsu!
 
 774
 00:46:27,656 --> 00:46:29,742
@@ -5687,7 +5687,7 @@ O?
 
 1280
 01:20:15,725 --> 01:20:17,143
-<i>Windzeisjutsu!</i>
+<i>Windzeis-jutsu!</i>
 
 1281
 01:20:26,569 --> 01:20:28,947
@@ -5705,7 +5705,7 @@ ook al ben je maar een snotaap!
 
 1284
 01:20:38,303 --> 01:20:39,488
-<i>Vergrotingsjutsu!</i>
+<i>Vergroting-jutsu!</i>
 
 1285
 01:20:40,083 --> 01:20:41,292
@@ -5872,7 +5872,7 @@ Wat een bruut geweld!
 
 1323
 01:23:14,986 --> 01:23:16,737
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 1324
 01:23:17,198 --> 01:23:18,324
@@ -5884,7 +5884,7 @@ Pak aan!
 
 1326
 01:23:45,435 --> 01:23:47,228
-<i>Cycloonzeisjutsu!</i>
+<i>Cycloonzeis-jutsu!</i>
 
 1327
 01:24:06,653 --> 01:24:08,989
@@ -5937,7 +5937,7 @@ Wat is dat dan op je wang?
 
 1339
 01:24:43,368 --> 01:24:44,994
-<i>Geestesoverdracht!</i>
+<i>Geestesoverdracht-jutsu!</i>
 
 1340
 01:24:46,895 --> 01:24:49,731

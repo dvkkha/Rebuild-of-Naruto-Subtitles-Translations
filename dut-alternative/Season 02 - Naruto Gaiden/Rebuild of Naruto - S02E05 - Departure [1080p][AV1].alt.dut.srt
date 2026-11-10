@@ -215,7 +215,7 @@ Hè?!
 
 49
 00:04:24,157 --> 00:04:25,393
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 50
 00:04:31,298 --> 00:04:34,134
@@ -1204,7 +1204,7 @@ Waarom heb je mij gekozen?</i>
 269
 00:18:47,838 --> 00:18:51,148
 <i>Ik denk dat als het gaat om
-geweldige kluizenaarsjutsu,</i>
+geweldige kluizenaars-jutsu,</i>
 
 270
 00:18:51,173 --> 00:18:53,508
@@ -2186,7 +2186,7 @@ Die klootzak!
 
 490
 00:34:51,119 --> 00:34:52,453
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 491
 00:34:59,167 --> 00:35:01,521
@@ -2302,7 +2302,7 @@ Begrepen!
 
 517
 00:36:48,493 --> 00:36:49,751
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 518
 00:36:52,283 --> 00:36:54,118
@@ -2903,7 +2903,7 @@ Ik snap het!
 656
 00:46:01,140 --> 00:46:04,018
 Goed!
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 657
 00:46:06,141 --> 00:46:07,133

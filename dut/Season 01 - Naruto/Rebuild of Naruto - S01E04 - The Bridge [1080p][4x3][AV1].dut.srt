@@ -73,8 +73,8 @@ Zeg, Kakashi-sensei.
 
 18
 00:02:47,470 --> 00:02:50,431
-Is dit zijn…
-Verborgen in de Mist?
+Is dit zijn… Kirigakure no Jutsu?
+(Verborgen in de Mist-jutsu)
 
 19
 00:02:57,090 --> 00:02:59,133
@@ -1059,8 +1059,8 @@ met senbon…</i>
 
 244
 00:20:45,702 --> 00:20:48,747
-<i>En als het gewoon
-Bunshin no Jutsu (Kloonjutsu) was…</i>
+<i>En als het gewoon Bunshin no Jutsu
+(Kloon-jutsu) was…</i>
 
 245
 00:20:48,997 --> 00:20:52,084
@@ -1151,7 +1151,7 @@ Dus…
 264
 00:21:44,219 --> 00:21:45,971
 <i>Gokakyu no Jutsu!
-(Grote Vuurbal)</i>
+(Grote Vuurbal-jutsu)</i>
 
 265
 00:21:56,846 --> 00:21:58,932
@@ -1182,7 +1182,8 @@ Je krijgt me nooit te pakken.
 
 271
 00:22:31,808 --> 00:22:34,311
-Pff. <i>Kage Bunshin no Jutsu! (Schaduwkloon)</i>
+Pff.
+<i>Kage Bunshin no Jutsu! (Schaduwkloon-jutsu)</i>
 
 272
 00:22:34,488 --> 00:22:35,406
@@ -1605,7 +1606,7 @@ I-Ik ga niet verliezen!
 364
 00:29:21,618 --> 00:29:23,620
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 365
 00:29:44,783 --> 00:29:46,159
@@ -1657,7 +1658,7 @@ Was het niet zo…?
 376
 00:30:24,989 --> 00:30:28,326
 <i>Ninpo: Kirigakure no Jutsu!
-(Ninjakunst: Verborgen in de Mist)</i>
+(Ninjakunst: Verborgen in de Mist-jutsu)</i>
 
 377
 00:30:37,043 --> 00:30:37,877

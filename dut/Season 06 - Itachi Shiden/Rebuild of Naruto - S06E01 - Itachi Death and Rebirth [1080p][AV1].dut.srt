@@ -458,7 +458,7 @@ zal je altijd beschermen…
 107
 00:09:28,651 --> 00:09:30,188
 <i>Kuchiyose no Jutsu!
-(Oproepingsjutsu)</i>
+(Oproeping-jutsu)</i>
 
 108
 00:09:40,320 --> 00:09:41,455
@@ -926,7 +926,7 @@ Dit is een basisninjutsu van de Uchiha…
 214
 00:16:13,799 --> 00:16:15,759
 Katon: Gokakyu no Jutsu.
-(Vuurstijl: Vuurbaljutsu)
+(Vuurstijl: Vuurbal-jutsu)
 
 215
 00:16:15,933 --> 00:16:18,018
@@ -1150,7 +1150,7 @@ Itachi?
 264
 00:19:57,988 --> 00:20:00,407
 Het teken is voor Suiton: Suidan no Jutsu.
-(Waterstijl: Waterbomjutsu)
+(Waterstijl: Waterbom-jutsu)
 
 265
 00:20:00,782 --> 00:20:02,075
@@ -1560,7 +1560,7 @@ Nee…
 361
 00:26:23,000 --> 00:26:24,501
 Het is een Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)
+(Schaduwkloon-jutsu)
 
 362
 00:26:26,026 --> 00:26:27,027
@@ -1606,7 +1606,7 @@ Tot later.
 372
 00:26:58,199 --> 00:26:59,587
 Afgezien van de Bunshin no Jutsu
-(Kloonjutsu),
+(Kloon-jutsu),
 
 373
 00:26:59,612 --> 00:27:02,865
@@ -3374,7 +3374,7 @@ Dan maak ik het hier ook af!
 777
 00:53:18,244 --> 00:53:19,495
 <i>Shunshin no Jutsu!
-(Lichaamsflitsjutsu)</i>
+(Lichaamsflits-jutsu)</i>
 
 778
 00:53:22,679 --> 00:53:23,722
@@ -3937,7 +3937,7 @@ Maar Kapitein…!
 902
 01:00:52,964 --> 01:00:56,300
 Het is Shisui Uchiha,
-de Shunshin no Jutsu van Konoha.
+de Lichaamsflits van Konoha.
 
 903
 01:00:56,663 --> 01:00:59,541
@@ -4255,7 +4255,7 @@ gebruik ik mijn Kotoamatsukami.
 
 973
 01:05:24,151 --> 01:05:25,736
-Jouw oogjutsu…
+Jouw oog-jutsu…
 
 974
 01:05:26,054 --> 01:05:29,679
@@ -4328,7 +4328,7 @@ zo meteen.
 
 989
 01:06:23,229 --> 01:06:27,108
-Ook als je Fugaku met je oogjutsu
+Ook als je Fugaku met je oog-jutsu
 tot samenwerking met de clan brengt,
 
 990
@@ -6284,7 +6284,7 @@ Ja.
 1434
 01:37:47,924 --> 01:37:49,410
 <i>Kirigakure no Jutsu!
-(Verborgen in de Mist)</i>
+(Verborgen in de Mist-jutsu)</i>
 
 1435
 01:37:53,464 --> 01:37:55,525
@@ -6411,7 +6411,8 @@ Juzo!
 
 1463
 01:39:57,178 --> 01:39:59,472
-Het is de Koraalhand van de Vierde.
+Het is de Sangosho
+(Koraalhand-jutsu) van de Vierde.
 
 1464
 01:40:10,274 --> 01:40:11,239
@@ -6659,7 +6660,7 @@ je hebzucht.
 1520
 01:45:19,250 --> 01:45:24,046
 Onmogelijk! Ben ik ten prooi gevallen aan
-de Kanashibari no Jutsu? (Verlammingsjutsu)
+de Kanashibari no Jutsu? (Verlamming-jutsu)
 
 1521
 01:45:25,923 --> 01:45:28,467
@@ -7386,7 +7387,7 @@ en bestuurt ze als een marionet.</i>
 
 1687
 01:57:43,936 --> 01:57:48,381
-<i>Je moet dus een zegeljutsu gebruiken
+<i>Je moet dus een zegel-jutsu gebruiken
 of ze met geweld stilzetten.</i>
 
 1688

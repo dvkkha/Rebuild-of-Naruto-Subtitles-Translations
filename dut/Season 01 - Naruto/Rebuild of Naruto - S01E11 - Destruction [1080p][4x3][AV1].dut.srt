@@ -818,7 +818,7 @@ Nee, ik moet hier blijven.
 188
 00:15:20,669 --> 00:15:21,669
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 189
 00:15:25,591 --> 00:15:29,511
@@ -1157,7 +1157,7 @@ Stel me alstublieft niet te veel teleur!
 264
 00:21:29,329 --> 00:21:31,415
 <i>Shuriken Kage Bunshin no Jutsu!
-(Shuriken-schaduwkloon)</i>
+(Shuriken-schaduwkloon-jutsu)</i>
 
 265
 00:21:37,254 --> 00:21:39,506
@@ -1657,7 +1657,7 @@ ik dus.
 
 374
 00:28:44,453 --> 00:28:48,582
-Mijn Kagemane no Jutsu was oorspronkelijk
+Mijn Kagemane no Jutsu was eigenlijk
 bedoeld om tijd te rekken, dus…
 
 375
@@ -1723,8 +1723,8 @@ Dat we allemaal zo gepakt worden.
 
 389
 00:30:03,009 --> 00:30:06,513
-Dus dit is de beroemde
-Schaduwnabootsingsjutsu van Konoha?
+Dus dit is de beroemde Kagemane no Jutsu
+(Schaduwnabootsing-jutsu) van Konoha?
 
 390
 00:30:06,920 --> 00:30:07,673
@@ -1741,8 +1741,8 @@ De tijden veranderen!
 
 393
 00:30:13,561 --> 00:30:17,106
-Het heet tegenwoordig Kagemane no Jutsu
-(Schaduwbezetting), ouwe.
+Het heet tegenwoordig
+Kagemane no Jutsu, ouwe.
 
 394
 00:30:21,861 --> 00:30:25,198
@@ -1977,12 +1977,12 @@ Edo Tensei.
 
 445
 00:35:38,553 --> 00:35:42,807
-Een verboden oproepingsjutsu die doden
+Een verboden oproeping-jutsu die doden
 terugbrengt naar de wereld van de levenden.
 
 446
 00:35:45,351 --> 00:35:49,856
-De prijs voor een gewone Oproeping
+De prijs voor een gewone Kuchiyose no Jutsu
 is het bloed van de gebruiker.
 
 447
@@ -2113,7 +2113,7 @@ Dit is de geheime jutsu van de Eerste.
 
 474
 00:40:21,836 --> 00:40:23,254
-<i>Mokuton Hijutsu (Geheime houtstijljutsu):</i>
+<i>Mokuton Hijutsu (Geheime houtstijl-jutsu):</i>
 
 475
 00:40:28,384 --> 00:40:30,052
@@ -2154,7 +2154,7 @@ Nee… dat is het niet.
 483
 00:41:55,387 --> 00:41:57,223
 <i>Ninpo: Kuchiyose no Jutsu!
-(Ninjakunst: Oproeping)</i>
+(Ninjakunst: Oproeping-jutsu)</i>
 
 484
 00:41:57,681 --> 00:41:58,557
@@ -2575,11 +2575,12 @@ Dat zou best kunnen…
 
 576
 00:51:50,649 --> 00:51:53,068
-mijn Onsterfelijkheidsjutsu!
+mijn Fushi Tensei!
+(Onsterfelijkheid-jutsu)
 
 577
 00:52:02,994 --> 00:52:04,621
-De Onsterfelijkheidsjutsu is een techniek
+De Fushi Tensei is een techniek
 
 578
 00:52:04,826 --> 00:52:08,997
@@ -2589,7 +2590,7 @@ van het ene vat naar het andere…
 579
 00:52:09,156 --> 00:52:12,534
 Met andere woorden,
-het is een reïncarnatiejutsu waarbij…
+het is een reïncarnatie-jutsu waarbij…
 
 580
 00:52:13,130 --> 00:52:18,760
@@ -2741,7 +2742,7 @@ Het is te laat!
 612
 00:55:58,313 --> 00:56:00,440
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 613
 00:56:02,108 --> 00:56:04,277
@@ -4058,7 +4059,7 @@ was ik allang dood geweest.</i>
 908
 01:27:46,803 --> 01:27:49,806
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 909
 01:27:58,147 --> 01:27:59,947
@@ -5436,7 +5437,7 @@ Verdomme!
 1221
 01:56:52,021 --> 01:56:54,065
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 1222
 01:56:57,301 --> 01:56:58,386
@@ -6612,13 +6613,13 @@ nu ik toch bezig ben…
 
 1488
 02:18:41,563 --> 02:18:45,066
-De geheime techniek van Konoha… Kage
-Kubishibari no Jutsu! (Schaduwwurggreep)
+De geheime techniek van Konoha…
+Kage Kubishibari no Jutsu!
 
 1489
 02:18:49,946 --> 02:18:51,531
 <i>Baika no Jutsu!
-(Vergrotingsjutsu)</i>
+(Vergroting-jutsu)</i>
 
 1490
 02:18:58,872 --> 02:19:00,790
@@ -7432,7 +7433,7 @@ Ik wil niet eens weten
 1671
 02:36:54,943 --> 02:36:56,254
 welk niveau Tomeigakure no Jutsu
-(Onzichtbaarheidsjutsu) jij beheerst…
+(Onzichtbaarheid-jutsu) jij beheerst…
 
 1672
 02:36:56,365 --> 02:36:59,564

@@ -892,7 +892,7 @@ ga dan meteen aan de slag.</i>
 199
 00:18:26,647 --> 00:18:29,858
 <i>Fuinjutsu: Genryu Kyufujin
-(Zegeljutsu: Negen Spookdraken)</i>
+(Zegel-jutsu: Negen Spookdraken)</i>
 
 200
 00:19:19,658 --> 00:19:23,036
@@ -1620,7 +1620,7 @@ Hé…
 362
 00:30:10,268 --> 00:30:11,281
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 363
 00:30:16,811 --> 00:30:17,937
@@ -2739,7 +2739,7 @@ Je hoeft niet zo verbaasd te zijn.
 614
 00:49:30,583 --> 00:49:34,838
 Er zijn een paar vechttechnieken
-tegen deze oogjutsu.
+tegen deze oog-jutsu.
 
 615
 00:49:35,889 --> 00:49:37,057
@@ -2796,7 +2796,7 @@ Hij gebruikt het Mangekyo Sharingan,
 
 627
 00:50:11,758 --> 00:50:14,845
-dat een veel sterkere oogjutsu is
+dat een veel sterkere oog-jutsu is
 dan een gewoon Sharingan.
 
 628
@@ -2824,7 +2824,7 @@ Dat is niet alles wat ik weet…
 
 633
 00:50:37,159 --> 00:50:41,308
-Nadat je de oogjutsu had gebruikt,
+Nadat je de oog-jutsu had gebruikt,
 was je behoorlijk uitgeput
 
 634
@@ -2906,12 +2906,12 @@ Nu!
 650
 00:52:21,221 --> 00:52:22,722
 <i>Mizu Bunshin no Jutsu!
-(Waterkloon)</i>
+(Waterkloon-jutsu)</i>
 
 651
 00:52:28,488 --> 00:52:29,781
 <i>Suiro no Jutsu!
-(Watergevangenis)</i>
+(Watergevangenis-jutsu)</i>
 
 652
 00:52:37,323 --> 00:52:38,324
@@ -3265,12 +3265,12 @@ Naruto, ik laat je zien hoe het moet.
 733
 01:03:27,845 --> 01:03:29,472
 <i>Hosenka no Jutsu!
-(Feniksbloem)</i>
+(Feniksbloem-jutsu)</i>
 
 734
 01:03:30,932 --> 01:03:33,392
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 735
 01:03:50,701 --> 01:03:51,994
@@ -3311,7 +3311,7 @@ die hem in één klap kan verslaan…</i>
 743
 01:04:49,468 --> 01:04:51,304
 Kirigakure no Jutsu…
-(Verborgen in de Mist)
+(Verborgen in de Mist-jutsu)
 
 744
 01:04:52,305 --> 01:04:54,432
@@ -3342,7 +3342,8 @@ Dat kunnen we wel doen…
 
 750
 01:05:36,265 --> 01:05:37,600
-<i>De Grote Vuurbal…</i>
+<i>De Gokakyu no Jutsu…
+(Grote Vuurbal-jutsu)</i>
 
 751
 01:05:38,454 --> 01:05:40,594
@@ -3486,8 +3487,8 @@ een veel hoger niveau…
 
 783
 01:08:04,914 --> 01:08:09,043
-De Grote Vuurbal is ontwikkeld
-door de Uchiha-clan
+De Gokakyu no Jutsu
+is ontwikkeld door de Uchiha-clan
 
 784
 01:08:09,352 --> 01:08:11,187
@@ -3572,7 +3573,7 @@ moeten bedanken…</i>
 
 802
 01:09:56,869 --> 01:09:58,227
-<i>Met mijn Shoten no Jutsu (Imitatiejutsu)</i>
+<i>Met mijn Shoten no Jutsu (Imitatie-jutsu)</i>
 
 803
 01:09:58,252 --> 01:10:02,381
@@ -3775,7 +3776,7 @@ Hoe kan een Biju worden onttrokken?
 
 846
 01:13:24,439 --> 01:13:27,878
-Daarvoor is een zegeljutsu nodig
+Daarvoor is een zegel-jutsu nodig
 die het vermogen heeft…
 
 847

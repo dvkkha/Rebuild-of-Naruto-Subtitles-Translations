@@ -813,7 +813,7 @@ Ik ben gepakt!
 182
 00:18:38,867 --> 00:18:41,161
 Kagemane no Jutsu
-(Schaduwbezetting) gelukt!
+(Schaduwbezetting-jutsu) gelukt!
 
 183
 00:18:41,495 --> 00:18:42,454
@@ -1294,8 +1294,8 @@ Waarom zit hij achter Sasuke aan?
 
 292
 00:26:39,352 --> 00:26:43,148
-Heer Orochimaru heeft al
-een Onsterfelijkheidsjutsu verkregen…
+Heer Orochimaru heeft al een Fushi Tensei
+(Onsterfelijkheid-jutsu) verkregen…
 
 293
 00:26:43,801 --> 00:26:49,724
@@ -1494,7 +1494,7 @@ Daar gaan we!
 335
 00:30:02,050 --> 00:30:03,438
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 336
 00:30:13,978 --> 00:30:15,522
@@ -3053,7 +3053,7 @@ dan die jutsu te gebruiken!</i>
 683
 01:01:10,917 --> 01:01:13,419
 <i>Ninjakunst: Kage Kubishibari no Jutsu!
-(Schaduwwurggreep)</i>
+(Schaduwwurggreep-jutsu)</i>
 
 684
 01:01:20,885 --> 01:01:23,388

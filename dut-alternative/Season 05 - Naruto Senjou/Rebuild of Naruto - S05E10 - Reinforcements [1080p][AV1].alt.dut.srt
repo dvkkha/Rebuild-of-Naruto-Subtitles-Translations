@@ -295,7 +295,7 @@ geweldige zandgolven!
 68
 00:05:33,642 --> 00:05:36,270
 <i>Dus ze beginnen met
-de Schijnslaapjutsu?</i>
+de Schijnslaap-jutsu?</i>
 
 69
 00:05:40,408 --> 00:05:41,534
@@ -365,8 +365,8 @@ aan de Deeltjesstijl te danken?
 
 84
 00:06:49,018 --> 00:06:50,503
-– <i>Atomaire Ontleding!</i>
-– <i>Atomaire Ontleding!</i>
+– <i>Atomaire Ontleding-jutsu!</i>
+– <i>Atomaire Ontleding-jutsu!</i>
 
 85
 00:07:00,503 --> 00:07:04,799
@@ -1150,7 +1150,7 @@ Omsingel die twee!
 
 256
 00:21:22,948 --> 00:21:24,764
-<i>Atomaire Ontleding!</i>
+<i>Atomaire Ontleding-jutsu!</i>
 
 257
 00:21:34,418 --> 00:21:36,545
@@ -1419,7 +1419,7 @@ Je moet me niet onderschatten.
 
 317
 00:24:58,246 --> 00:25:00,123
-<i>Steenkloonjutsu!</i>
+<i>Steenkloon-jutsu!</i>
 
 318
 00:25:01,917 --> 00:25:05,086
@@ -1648,7 +1648,7 @@ Achter u, Tsuchikage!
 
 370
 00:28:06,601 --> 00:28:08,520
-<i>Atomaire Ontleding.</i>
+<i>Atomaire Ontleding-jutsu.</i>
 
 371
 00:28:10,810 --> 00:28:11,603
@@ -1697,7 +1697,7 @@ Rasengan!
 
 382
 00:28:57,236 --> 00:29:00,114
-<i>Aardestijl: Zwaargewichtrots!</i>
+<i>Aardestijl: Zwaargewichtrots-jutsu!</i>
 
 383
 00:29:08,246 --> 00:29:10,248
@@ -2740,7 +2740,7 @@ tegen elkaar,</i>
 
 617
 00:44:01,981 --> 00:44:03,566
-<i>Schaduwkloonjutsu!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 618
 00:44:04,725 --> 00:44:07,478
@@ -2980,7 +2980,7 @@ Ik kan hier niet tegen!
 
 670
 00:47:37,354 --> 00:47:38,939
-Het is mijn Waterballonjutsu.
+Het is mijn Waterballon-jutsu.
 
 671
 00:47:39,398 --> 00:47:40,566
@@ -3149,7 +3149,7 @@ Schiet nu op en versla me!
 
 708
 00:50:41,235 --> 00:50:43,821
-<i>Aardestijl: Stenen Vuist!</i>
+<i>Aardestijl: Stenen Vuist-jutsu!</i>
 
 709
 00:50:49,323 --> 00:50:50,991
@@ -3171,7 +3171,7 @@ die je vroeger uitlachte!
 
 713
 00:51:01,426 --> 00:51:03,136
-<i>Superzwaargewichtrots!</i>
+<i>Superzwaargewichtrots-jutsu!</i>
 
 714
 00:51:05,538 --> 00:51:07,791
@@ -3217,7 +3217,7 @@ Schiet op en ren!
 
 723
 00:51:49,856 --> 00:51:52,275
-Ik sta op het punt het Waterpistooljutsu
+Ik sta op het punt het Waterpistool-jutsu
 van de Hozuki-clan te gebruiken!
 
 724
@@ -4078,7 +4078,7 @@ Ik ben de echte!
 
 917
 01:05:13,192 --> 01:05:14,777
-<i>Oplossingsjutsu!</i>
+<i>Oplossing-jutsu!</i>
 
 918
 01:05:21,524 --> 01:05:22,817
@@ -4666,7 +4666,7 @@ Doe het, Sai!
 
 1052
 01:13:11,178 --> 01:13:12,948
-<i>Verzegelingsjutsu:
+<i>Verzegeling-jutsu:
 Gehurkte Tijgerkogel!</i>
 
 1053
@@ -4724,7 +4724,7 @@ Of liever… één enkele versterking?
 
 1065
 01:14:04,231 --> 01:14:06,984
-Naruto heeft de Schaduwkloonjutsu!
+Naruto heeft de Schaduwkloon-jutsu!
 
 1066
 01:14:07,109 --> 01:14:09,862

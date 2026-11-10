@@ -241,7 +241,7 @@ je hebt niet veel tijd meer.
 
 54
 00:04:41,806 --> 00:04:43,808
-<i>Verbergen in As!</i>
+<i>Verbergen in As-jutsu!</i>
 
 55
 00:04:52,277 --> 00:04:55,071
@@ -545,7 +545,7 @@ volop van een gevecht genieten!</i>
 
 124
 00:14:20,636 --> 00:14:21,970
-<i>Oproepingsjutsu!</i>
+<i>Oproeping-jutsu!</i>
 
 125
 00:14:37,327 --> 00:14:39,412
@@ -1915,7 +1915,7 @@ in Naruto. Dat redt hem.</i>
 
 434
 00:38:53,415 --> 00:38:55,626
-Hij heeft de Teleportatiejutsu.
+Hij heeft de Teleportatie-jutsu.
 
 435
 00:38:56,000 --> 00:38:57,966
@@ -1928,7 +1928,7 @@ opnemen en hem hierheen laten komen?
 
 437
 00:38:59,401 --> 00:39:03,197
-<i>Zijn Teleportatiejutsu is geschreven
+<i>Zijn Teleportatie-jutsu is geschreven
 in mijn zegelformule.</i>
 
 438
@@ -2765,7 +2765,7 @@ Jij bent nog steeds de redder, ook nu.
 
 626
 00:53:54,642 --> 00:53:55,643
-<i>Wijzenjutsu!</i>
+<i>Wijzen-jutsu!</i>
 
 627
 00:53:59,819 --> 00:54:00,654
@@ -3216,7 +3216,7 @@ veel mensen opgenomen,
 
 728
 01:01:46,119 --> 01:01:48,274
-zelfs wijzenjutsu-chakra.
+zelfs wijzen-jutsu-chakra.
 
 729
 01:01:49,080 --> 01:01:51,958
@@ -3499,7 +3499,7 @@ Dat bedoel ik niet.
 
 792
 01:05:18,539 --> 01:05:20,917
-Ik heb het over mijn wijzenjutsu-Rasengan
+Ik heb het over mijn wijzen-jutsu-Rasengan
 die je daarnet raakte.
 
 793
@@ -3521,7 +3521,7 @@ Gelukkig…
 
 797
 01:05:33,888 --> 01:05:34,972
-Wijzenjutsu?
+Wijzen-jutsu?
 
 798
 01:05:35,389 --> 01:05:36,599
@@ -6767,7 +6767,7 @@ ik nog niet helemaal genezen ben?</i>
 
 1520
 01:51:19,995 --> 01:51:23,248
-<i>Wijzenjutsu: Lavastijl-Rasen-Shuriken!</i>
+<i>Wijzen-jutsu: Lavastijl-Rasen-Shuriken!</i>
 
 1521
 01:51:27,681 --> 01:51:28,848
@@ -7044,7 +7044,7 @@ beslissen wie de sterkste is!
 
 1584
 01:56:46,958 --> 01:56:49,837
-<i>Wijzenjutsu:
+<i>Wijzen-jutsu:
 Yinstijl-Donderslag!</i>
 
 1585
@@ -7086,7 +7086,7 @@ Over deze afstand…?</i>
 
 1594
 01:57:36,257 --> 01:57:37,326
-<i>Wijzenjutsu:</i>
+<i>Wijzen-jutsu:</i>
 
 1595
 01:57:38,634 --> 01:57:40,887
@@ -7273,7 +7273,7 @@ Een die beweging verzegelt.
 1636
 02:00:48,132 --> 02:00:53,095
 <i>Gebruik dan mijn chakra
-om je zegeljutsu te bouwen.</i>
+om je zegel-jutsu te bouwen.</i>
 
 1637
 02:00:53,120 --> 02:00:55,289
@@ -7336,7 +7336,7 @@ snel terughalen.</i>
 
 1650
 02:01:34,498 --> 02:01:37,331
-<i>Wijzenjutsu: Magneetstijl-Rasengan!</i>
+<i>Wijzen-jutsu: Magneetstijl-Rasengan!</i>
 
 1651
 02:01:39,571 --> 02:01:41,460
@@ -8336,7 +8336,7 @@ De schaduwen ook!
 
 1875
 02:16:47,365 --> 02:16:48,761
-<i>Schaduwkloonjutsu!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1876
 02:16:50,262 --> 02:16:51,828

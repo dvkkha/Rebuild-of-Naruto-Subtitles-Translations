@@ -1260,7 +1260,7 @@ Niets…
 
 285
 00:23:55,016 --> 00:23:56,476
-<i>Kloonjutsu!</i>
+<i>Kloon-jutsu!</i>
 
 286
 00:24:02,521 --> 00:24:03,942
@@ -1845,7 +1845,7 @@ Hou er nou eens mee op!
 
 415
 00:34:03,298 --> 00:34:04,800
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 416
 00:34:05,619 --> 00:34:09,664
@@ -2137,7 +2137,7 @@ Zo is het genoeg!
 
 481
 00:39:40,836 --> 00:39:43,005
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 482
 00:40:12,701 --> 00:40:15,287
@@ -2149,7 +2149,7 @@ Zo is het genoeg!
 
 484
 00:40:23,170 --> 00:40:25,589
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 485
 00:40:35,850 --> 00:40:37,226

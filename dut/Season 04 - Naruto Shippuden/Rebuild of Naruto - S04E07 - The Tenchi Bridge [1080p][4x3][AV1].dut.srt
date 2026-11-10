@@ -2169,7 +2169,7 @@ maar dit kan ik met zekerheid zeggen:
 
 482
 00:37:23,449 --> 00:37:28,079
-de zegeljutsu van de Vierde
+de zegel-jutsu van de Vierde
 wordt misschien wel…
 
 483
@@ -2607,7 +2607,7 @@ Jij eikel!
 580
 00:44:14,610 --> 00:44:15,611
 <i>Shichuro no Jutsu!
-(Vierpilarengevangenis)</i>
+(Vierpilarengevangenis-jutsu)</i>
 
 581
 00:44:20,995 --> 00:44:25,416
@@ -2999,8 +2999,8 @@ Ik denk dat deze plek goed is.
 
 668
 00:52:22,722 --> 00:52:24,766
-<i>Mokuton: Shichuka no Jutsu
-(Houtstijl: Vierpilarenhuis)</i>
+<i>Mokuton: Shichuka no Jutsu (Houtstijl:
+Vierpilarenhuis-jutsu)</i>
 
 669
 00:52:36,052 --> 00:52:37,595
@@ -4537,7 +4537,7 @@ Wat is die rook…?
 1012
 01:25:31,501 --> 01:25:32,836
 <i>Moku Bunshin no Jutsu!
-(Houtkloon)</i>
+(Houtkloon-jutsu)</i>
 
 1013
 01:25:41,553 --> 01:25:42,554
@@ -4710,7 +4710,7 @@ Ik was niet op tijd…</i>
 1051
 01:37:38,886 --> 01:37:40,179
 <i>Hokage-Shiki Jijun Jutsu
-(Hokage-stijl: Oudstenjutsu)</i>
+(Hokage-stijl: Oudsten-jutsu)</i>
 
 1052
 01:37:41,844 --> 01:37:43,471

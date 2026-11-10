@@ -193,7 +193,7 @@ Choza, vergeef me.
 45
 00:03:37,425 --> 00:03:40,261
 Dat zijn toch de handtekens voor de
-Reika no Jutsu? (Geestverandering)
+Reika no Jutsu? (Geestverandering-jutsu)
 
 46
 00:03:40,497 --> 00:03:41,581
@@ -1005,7 +1005,7 @@ van de ouwe van de Zes Paden.</i>
 
 230
 00:17:14,450 --> 00:17:18,520
-<i>Ze hebben allebei krachtige zegeljutsu
+<i>Ze hebben allebei krachtige zegel-jutsu
 die alles kunnen verzegelen.</i>
 
 231
@@ -2214,7 +2214,7 @@ Kun je me even afschermen?
 496
 00:37:45,203 --> 00:37:46,704
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)</i>
+(Schaduwkloon-jutsu)</i>
 
 497
 00:37:48,349 --> 00:37:51,060
@@ -4211,7 +4211,7 @@ Die vent gaat dwars door je heen!
 945
 01:12:08,490 --> 01:12:10,326
 <i>kan hij de Mokuton: Sashiki no Jutsu
-(Houtstijl: Houten Staken) gebruiken…</i>
+(Houtstijl: Houten Staken-jutsu) gebruiken…</i>
 
 946
 01:12:10,351 --> 01:12:14,063
@@ -5242,7 +5242,7 @@ Ik zie je in de volgende wereld!
 1174
 01:29:06,341 --> 01:29:08,134
 De Suiro no Jutsu?
-(Watergevangenisjutsu)
+(Watergevangenis-jutsu)
 
 1175
 01:29:08,593 --> 01:29:11,179
@@ -5333,7 +5333,7 @@ Yahi—
 1195
 01:31:13,134 --> 01:31:14,135
 <i>Kuchiyose no Jutsu!
-(Oproepingsjutsu)</i>
+(Oproeping-jutsu)</i>
 
 1196
 01:31:14,297 --> 01:31:15,923

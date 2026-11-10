@@ -1,6 +1,6 @@
 # Rebuild of Naruto – Nederlandse ondertitels (alternatieve versie)
 
-Dit is de **alternatieve Nederlandse versie** met **Nederlandse jutsu-namen** (*Schaduwkloon!* in plaats van *Kage Bunshin no Jutsu!*). De bestanden eindigen op `.alt.dut.srt`.
+Dit is de **alternatieve Nederlandse versie** met **Nederlandse jutsu-namen** (*Schaduwkloon-jutsu!* in plaats van *Kage Bunshin no Jutsu!*). De bestanden eindigen op `.alt.dut.srt`.
 
 Verder is de tekst precies dezelfde als in de hoofdversie in [`dut/`](../dut/). Daar gebruiken de ondertitels Japanse jutsu-namen, met de Nederlandse vertaling tussen haakjes de eerste keer in elke aflevering.
 

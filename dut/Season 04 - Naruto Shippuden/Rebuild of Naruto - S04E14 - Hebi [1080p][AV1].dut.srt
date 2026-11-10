@@ -3023,7 +3023,7 @@ Uchiha!
 675
 01:00:37,810 --> 01:00:39,735
 <i>Shakugaryugan no Jutsu!
-(Brandende Rotsen)</i>
+(Brandende Rotsen-jutsu)</i>
 
 676
 01:00:48,033 --> 01:00:51,244
@@ -4912,8 +4912,8 @@ alleen omdat hij een kind is!
 
 1094
 01:30:08,414 --> 01:30:12,543
-Zijn Shunshin no Jutsu (Lichaamsflits)
-is te snel! We maken geen kans tegen hem!
+Zijn Shunshin no Jutsu is te snel!
+We maken geen kans tegen hem!
 
 1095
 01:30:13,296 --> 01:30:14,297
@@ -6574,12 +6574,12 @@ Goed.
 1467
 02:05:43,188 --> 02:05:44,481
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 1468
 02:05:52,959 --> 02:05:56,129
 D-Dus dit is Orochimaru’s
-Oproeping…
+Kuchiyose no Jutsu…
 
 1469
 02:05:56,350 --> 02:05:57,726

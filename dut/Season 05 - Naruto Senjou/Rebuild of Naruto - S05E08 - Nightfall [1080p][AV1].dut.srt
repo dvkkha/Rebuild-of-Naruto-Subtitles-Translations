@@ -817,7 +817,7 @@ streng gecontroleerd.
 185
 00:14:36,876 --> 00:14:39,378
 Met een simpele Henge no Jutsu
-(Transformatiejutsu) is dat onmogelijk.
+(Transformatie-jutsu) is dat onmogelijk.
 
 186
 00:14:40,096 --> 00:14:43,225
@@ -1827,7 +1827,8 @@ Ja!
 
 413
 00:27:15,258 --> 00:27:15,961
-Berg.
+Sando no Jutsu.
+(Berg)
 
 414
 00:27:17,218 --> 00:27:17,854
@@ -1835,7 +1836,7 @@ Hè?
 
 415
 00:27:18,765 --> 00:27:19,601
-Berg…
+Sando no Jutsu…
 
 416
 00:27:20,961 --> 00:27:22,905
@@ -2060,7 +2061,7 @@ Ik laat ze aan jou over, Chukichi!
 466
 00:29:49,696 --> 00:29:51,281
 <i>Shimogakure no Jutsu.
-(Vorstverbergingsjutsu)</i>
+(Vorstverberging-jutsu)</i>
 
 467
 00:29:58,838 --> 00:29:59,923
@@ -3808,7 +3809,7 @@ Joepie!
 857
 00:53:54,731 --> 00:53:56,900
 Dat blonde haar en de Hiraishin no Jutsu!
-(Teleportatiejutsu)
+(Teleportatie-jutsu)
 
 858
 00:53:57,261 --> 00:53:59,096
@@ -4012,7 +4013,7 @@ Op de tentakels van de Hachibi…
 
 902
 00:56:25,590 --> 00:56:27,258
-zit een Teleportatiejutsu-formule!
+zit een Teleportatie-jutsu-formule!
 
 903
 00:56:29,594 --> 00:56:30,720
@@ -4587,7 +4588,7 @@ Hij deed het allemaal voor mij!
 
 1029
 01:05:57,703 --> 01:06:01,165
-<i>de unieke verzegelingsjutsu
+<i>de unieke verzegeling-jutsu
 van de Uzumaki-clan…</i>
 
 1030

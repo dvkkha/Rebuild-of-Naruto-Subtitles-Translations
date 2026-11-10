@@ -1122,7 +1122,7 @@ We hebben duizend man nodig.
 255
 00:18:33,572 --> 00:18:35,741
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 256
 00:18:47,960 --> 00:18:52,464
@@ -1558,7 +1558,7 @@ Hoe vind je die?!
 353
 00:26:16,034 --> 00:26:18,245
 Verdomme…
-<i>Kage Bunshin no Jutsu! (Schaduwkloon)</i>
+<i>Kage Bunshin no Jutsu! (Schaduwkloon-jutsu)</i>
 
 354
 00:26:20,539 --> 00:26:21,707
@@ -2397,7 +2397,7 @@ Ga!
 546
 00:40:41,021 --> 00:40:43,774
 We beginnen
-met de Vierhoekige Verzegelingsjutsu.
+met de Vierhoekige Verzegeling-jutsu.
 
 547
 00:40:47,736 --> 00:40:49,113
@@ -3170,12 +3170,12 @@ zorgen over
 720
 00:57:53,428 --> 00:57:57,515
 de doeltreffendheid van de
-verzegelingsjutsu tegen de Biju.
+verzegeling-jutsu tegen de Biju.
 
 721
 00:57:58,520 --> 00:58:03,108
 Ze stuurde me om jullie de chakra
-voor de verzegelingsjutsu te brengen.
+voor de verzegeling-jutsu te brengen.
 
 722
 00:58:03,730 --> 00:58:04,731
@@ -4718,7 +4718,7 @@ Maar wat ik wel kan…
 1063
 01:29:31,783 --> 01:29:32,992
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 1064
 01:29:38,081 --> 01:29:41,584
@@ -5001,7 +5001,7 @@ Ja!
 1127
 01:32:51,315 --> 01:32:54,026
 Goed! We gebruiken
-deze nieuwe samenwerkingsjutsu…
+deze nieuwe samenwerking-jutsu…
 
 1128
 01:32:54,324 --> 01:32:55,908
@@ -5034,7 +5034,7 @@ Oké!
 
 1135
 01:33:21,137 --> 01:33:24,432
-<i>Samenwerkingsjutsu! Futon: Gamayu Endan!
+<i>Samenwerking-jutsu! Futon: Gamayu Endan!
 (Windstijl: Paddenolie-vlammenwerper)</i>
 
 1136

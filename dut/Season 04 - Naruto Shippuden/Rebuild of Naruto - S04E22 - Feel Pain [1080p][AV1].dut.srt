@@ -121,7 +121,7 @@ Wat is dat?
 28
 00:02:42,871 --> 00:02:45,206
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 29
 00:02:49,627 --> 00:02:51,504
@@ -906,7 +906,7 @@ strijd aangaan.
 204
 00:18:55,338 --> 00:18:57,090
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 205
 00:19:05,409 --> 00:19:08,871
@@ -2048,7 +2048,7 @@ Wij houden ze tegen.
 462
 00:42:03,854 --> 00:42:05,814
 <i>Futon: Kazekiri no Jutsu!
-(Windstijl: Windsnede)</i>
+(Windstijl: Windsnede-jutsu)</i>
 
 463
 00:42:10,113 --> 00:42:11,906
@@ -2144,7 +2144,7 @@ Ze was een lijk!
 484
 00:44:16,028 --> 00:44:19,990
 <i>En dat lijk…
-gebruikt nu een oproepingsjutsu!</i>
+gebruikt nu een oproeping-jutsu!</i>
 
 485
 00:44:20,783 --> 00:44:23,077
@@ -2175,7 +2175,7 @@ op wie we de autopsie deden!</i>
 
 491
 00:44:35,464 --> 00:44:37,258
-<i>De Pain die de oproepingsjutsu
+<i>De Pain die de oproeping-jutsu
 beheerste,</i>
 
 492
@@ -2990,7 +2990,7 @@ Elk kan maar
 
 673
 00:59:38,257 --> 00:59:40,384
-Die vrouw gebruikte een oproepingsjutsu.
+Die vrouw gebruikte een oproeping-jutsu.
 
 674
 00:59:41,183 --> 00:59:46,480
@@ -3113,7 +3113,7 @@ met alleen zijn chakra.
 699
 01:01:06,037 --> 01:01:09,374
 Het lijkt op de Shintenshin no Jutsu
-(Geestesoverdracht) van onze Yamanaka-clan.
+van onze Yamanaka-clan.
 
 700
 01:01:09,749 --> 01:01:12,377
@@ -3542,8 +3542,8 @@ Hier kom je niet mee weg, Pain!
 
 797
 01:09:49,518 --> 01:09:52,354
-<i>Ze heeft haar Schepping en Wedergeboorte
-al opgeheven</i>
+<i>Ze heeft haar Sozo Saisei (Schepping
+en Wedergeboorte-jutsu) al opgeheven</i>
 
 798
 01:09:52,469 --> 01:09:54,263
@@ -3938,7 +3938,7 @@ Ja…
 888
 01:18:07,432 --> 01:18:08,600
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 889
 01:18:16,900 --> 01:18:19,361
@@ -4426,7 +4426,7 @@ Kom op, jongen Naruto!
 1000
 01:27:05,470 --> 01:27:07,639
 <i>Gyaku Kuchiyose no Jutsu!
-(Omgekeerde Oproeping)</i>
+(Omgekeerde Oproeping-jutsu)</i>
 
 1001
 01:27:43,716 --> 01:27:44,384
@@ -4520,7 +4520,7 @@ Goed!
 1021
 01:29:39,278 --> 01:29:42,489
 <i>Wat jij absorbeerde, was
-een transformatiejutsu!</i>
+een transformatie-jutsu!</i>
 
 1022
 01:29:45,630 --> 01:29:46,631
@@ -6279,7 +6279,7 @@ Niet slecht.
 
 1416
 02:04:30,212 --> 02:04:31,755
-Een verzegelingsjutsu?
+Een verzegeling-jutsu?
 
 1417
 02:04:41,110 --> 02:04:42,445
@@ -6378,7 +6378,7 @@ Wat is er?
 1439
 02:07:30,490 --> 02:07:33,692
 Dat kan niet… Hij heeft
-de verzegelingsjutsu zelf opgeheven!
+de verzegeling-jutsu zelf opgeheven!
 
 1440
 02:07:34,188 --> 02:07:35,773
@@ -7285,8 +7285,8 @@ Goed!
 
 1645
 02:28:19,765 --> 02:28:22,977
-<i>Wat?! Had hij de tweede al gegooid met de
-Kage Shuriken no Jutsu?! (Schaduwshuriken)</i>
+<i>Wat?! Had hij de tweede al gegooid
+met de Kage Shuriken no Jutsu?!</i>
 
 1646
 02:28:24,186 --> 02:28:25,730

@@ -19,8 +19,8 @@ Andere talen vind je in het [overzicht van de repository](../README.md).
 
 | Map | Bestandsextensie | Jutsu-namen |
 |---|---|---|
-| [`dut/`](./) | `.dut.srt` | **Japans**, met de Nederlandse vertaling tussen haakjes de eerste keer in elke aflevering: *Kage Bunshin no Jutsu! (Schaduwkloon)* |
-| [`dut-alternative/`](../dut-alternative/) | `.alt.dut.srt` | **Nederlands**: *Schaduwkloon!* |
+| [`dut/`](./) | `.dut.srt` | **Japans**, met de Nederlandse vertaling tussen haakjes de eerste keer in elke aflevering: *Kage Bunshin no Jutsu! (Schaduwkloon-jutsu)* |
+| [`dut-alternative/`](../dut-alternative/) | `.alt.dut.srt` | **Nederlands**: *Schaduwkloon-jutsu!* |
 
 Verder is de tekst van beide versies precies hetzelfde. Kies gewoon de versie die je het prettigst vindt.
 

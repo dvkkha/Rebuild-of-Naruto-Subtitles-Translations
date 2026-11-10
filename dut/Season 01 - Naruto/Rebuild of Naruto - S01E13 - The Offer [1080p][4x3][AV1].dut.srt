@@ -448,7 +448,7 @@ dat is geen gewone wond.
 100
 00:09:50,840 --> 00:09:53,009
 <i>Is dit een soort speciale
-verzegelingsjutsu?</i>
+verzegeling-jutsu?</i>
 
 101
 00:09:54,176 --> 00:09:55,845
@@ -3418,7 +3418,7 @@ niet meer gevochten te hebben…</i>
 
 770
 01:07:39,013 --> 01:07:41,724
-<i>Dit soort genezingsjutsu
+<i>Dit soort genezing-jutsu
 kost veel chakra…</i>
 
 771
@@ -3714,7 +3714,7 @@ niet meer moeten kunnen gebruiken.</i>
 838
 01:12:32,222 --> 01:12:33,640
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 839
 01:12:34,600 --> 01:12:36,769
@@ -3869,8 +3869,8 @@ Nou dan, laten we beginnen.
 
 872
 01:15:17,012 --> 01:15:18,639
-<i>- Oproeping!
-– Oproeping!</i>
+<i>- Kuchiyose no Jutsu! (Oproeping-jutsu)
+– Kuchiyose no Jutsu! (Oproeping-jutsu)</i>
 
 873
 01:15:29,775 --> 01:15:30,775
@@ -3921,8 +3921,7 @@ als ze Meester Viezerik belachelijk maken.</i>
 
 883
 01:16:08,397 --> 01:16:09,690
-<i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+<i>Kuchiyose no Jutsu!</i>
 
 884
 01:16:13,026 --> 01:16:16,154
@@ -5108,8 +5107,8 @@ Zwijn, Hond, Aap, Vogel, Ram!
 
 1148
 01:42:18,090 --> 01:42:19,550
-<i>- Oproeping!
-– Oproeping!</i>
+<i>- Kuchiyose no Jutsu!
+– Kuchiyose no Jutsu!</i>
 
 1149
 01:42:43,532 --> 01:42:44,908

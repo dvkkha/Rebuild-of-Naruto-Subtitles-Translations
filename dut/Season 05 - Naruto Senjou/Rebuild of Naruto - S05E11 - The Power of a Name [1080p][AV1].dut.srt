@@ -147,7 +147,7 @@ Rasengan!</i>
 33
 00:02:27,480 --> 00:02:30,150
 <i>Doton: Kajugan no Jutsu!
-(Aardestijl: Zwaargewichtrots)</i>
+(Aardestijl: Zwaargewichtrots-jutsu)</i>
 
 34
 00:02:44,747 --> 00:02:47,959
@@ -161,7 +161,7 @@ ik krijg dit label er niet af.
 36
 00:03:02,888 --> 00:03:04,851
 Het is een indrukwekkende
-verzegelingsjutsu.
+verzegeling-jutsu.
 
 37
 00:03:08,920 --> 00:03:10,962
@@ -189,7 +189,7 @@ en is het sneller.</i>
 42
 00:03:25,461 --> 00:03:27,033
 <i>Kuchiyose no Jutsu!
-(Oproepingsjutsu)</i>
+(Oproeping-jutsu)</i>
 
 43
 00:03:45,719 --> 00:03:52,399
@@ -211,8 +211,8 @@ Zei je “Edo Tensei”?
 
 47
 00:04:05,172 --> 00:04:07,758
-Is dit niet de Wedergeboorte-jutsu
-van Rinne…?
+Is dit niet de Kisho Tensei
+(Wedergeboorte-jutsu) van Rinne…?
 
 48
 00:04:10,083 --> 00:04:11,824
@@ -627,7 +627,7 @@ Ga, Kazekage!
 142
 00:13:22,927 --> 00:13:25,114
 <i>Doton: Keijugan no Jutsu!
-(Aardestijl: Lichtgewichtrots)</i>
+(Aardestijl: Lichtgewichtrots-jutsu)</i>
 
 143
 00:13:27,814 --> 00:13:30,051
@@ -1315,7 +1315,7 @@ Naruto!
 299
 00:24:58,579 --> 00:25:00,790
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloonjutsu)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 300
 00:25:06,922 --> 00:25:08,548
@@ -1591,7 +1591,7 @@ Zei je dat je Mabui heette?
 360
 00:29:07,147 --> 00:29:08,982
 Maak je klaar om je Tenso no Jutsu
-(Overdrachtsjutsu) te gebruiken!
+(Overdracht-jutsu) te gebruiken!
 
 361
 00:29:09,280 --> 00:29:10,031
@@ -1605,7 +1605,7 @@ om voorwerpen te verplaatsen!
 363
 00:29:13,952 --> 00:29:16,204
 Anders dan de Oproepings-
-of Omgekeerde Kuchiyose no Jutsu
+of Gyaku Kuchiyose no Jutsu
 
 364
 00:29:16,229 --> 00:29:17,689
@@ -1664,7 +1664,7 @@ Ik heb een idee…
 376
 00:29:51,667 --> 00:29:53,198
 De Hiraishin no Jutsu.
-(Teleportatiejutsu)
+(Teleportatie-jutsu)
 
 377
 00:29:53,780 --> 00:29:55,543
@@ -1930,7 +1930,7 @@ Oma Tsunade?!
 
 436
 00:33:09,898 --> 00:33:12,323
-<i>Dat is haar regeneratiejutsu!</i>
+<i>Dat is haar regeneratie-jutsu!</i>
 
 437
 00:33:16,840 --> 00:33:20,886
@@ -1990,7 +1990,7 @@ Ja!
 
 450
 00:33:58,202 --> 00:34:00,204
-<i>Lavastijl: Lavamonsterjutsu!</i>
+<i>Lavastijl: Lavamonster-jutsu!</i>
 
 451
 00:34:07,211 --> 00:34:09,589
@@ -2162,7 +2162,7 @@ Mizukage!
 
 489
 00:37:08,559 --> 00:37:10,895
-<i>Waterstijl: Mistverbergingsjutsu!</i>
+<i>Waterstijl: Mistverberging-jutsu!</i>
 
 490
 00:37:16,440 --> 00:37:17,902
@@ -2175,7 +2175,7 @@ Ja!
 492
 00:37:20,488 --> 00:37:23,532
 <i>Chokajugan no Jutsu!
-(Superzwaargewichtrots)</i>
+(Superzwaargewichtrots-jutsu)</i>
 
 493
 00:37:37,010 --> 00:37:38,965
@@ -2358,7 +2358,7 @@ die je kunt opbrengen</i>
 533
 00:41:49,831 --> 00:41:53,001
 <i>Lavastijl: Shakugaku no Jutsu!
-(Gloeiende Rotsen)</i>
+(Gloeiende Rotsen-jutsu)</i>
 
 534
 00:41:54,178 --> 00:41:55,179
@@ -2371,7 +2371,7 @@ Heet!
 536
 00:42:05,773 --> 00:42:07,233
 <i>Mizukagami no Jutsu!
-(Waterspiegeljutsu)</i>
+(Waterspiegel-jutsu)</i>
 
 537
 00:42:13,239 --> 00:42:14,281
@@ -2531,7 +2531,7 @@ Naruto!
 571
 00:44:36,447 --> 00:44:38,533
 <i>Waterstijl: Homatsu no Jutsu!
-(Zeepbellenjutsu)</i>
+(Zeepbellen-jutsu)</i>
 
 572
 00:44:44,603 --> 00:44:46,646
@@ -2544,7 +2544,7 @@ Sorry, octopusoom!
 574
 00:44:52,463 --> 00:44:54,423
 <i>Rinpungakure no Jutsu.
-(Schubbenverbergingsjutsu)</i>
+(Schubbenverberging-jutsu)</i>
 
 575
 00:45:03,957 --> 00:45:06,835
@@ -3297,7 +3297,7 @@ W-Wauw…
 741
 00:55:51,574 --> 00:55:54,160
 <i>Fuinjutsu: Okutopasu Horudo!
-(Verzegelingsjutsu: Octopusgreep)</i>
+(Verzegeling-jutsu: Octopusgreep)</i>
 
 742
 00:56:06,772 --> 00:56:07,857
@@ -3306,7 +3306,7 @@ Dus dat is het!
 743
 00:56:08,596 --> 00:56:10,557
 <i>Het is maar een van Bees
-verzegelingsjutsu!</i>
+verzegeling-jutsu!</i>
 
 744
 00:56:10,807 --> 00:56:12,392
@@ -4052,7 +4052,7 @@ ik nog heb, maar ik heb geen keus.</i>
 909
 01:06:49,765 --> 01:06:50,766
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)</i>
+(Schaduwkloon-jutsu)</i>
 
 910
 01:06:52,715 --> 01:06:53,296

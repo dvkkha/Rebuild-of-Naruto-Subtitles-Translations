@@ -355,7 +355,7 @@ Met alle middelen die nodig zijn!
 80
 00:06:20,254 --> 00:06:22,423
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 81
 00:06:31,587 --> 00:06:33,199
@@ -383,12 +383,12 @@ Zelfs Samehada is blij.
 86
 00:07:52,847 --> 00:07:55,129
 <i>Suiton: Suikodan no Jutsu!
-(Waterstijl: Haaienbomjutsu)</i>
+(Waterstijl: Haaienbom-jutsu)</i>
 
 87
 00:07:57,500 --> 00:07:59,200
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 88
 00:08:18,099 --> 00:08:18,782
@@ -1409,7 +1409,7 @@ Niet dus!
 
 314
 00:24:50,140 --> 00:24:52,267
-<i>Ninjakunst: Blokkadejutsu!</i>
+<i>Ninjakunst: Blokkade-jutsu!</i>
 
 315
 00:24:55,787 --> 00:24:58,661
@@ -1445,7 +1445,7 @@ Ik noem deze jutsu…
 322
 00:25:23,715 --> 00:25:26,760
 <i>Ninpo: Mogura Tataki no Jutsu!
-(Ninjakunst: Mollenmeppen)</i>
+(Ninjakunst: Mollenmeppen-jutsu)</i>
 
 323
 00:25:26,844 --> 00:25:29,889
@@ -2576,7 +2576,7 @@ helemaal is verbrand.</i>
 569
 00:54:06,199 --> 00:54:08,577
 <i>Katon: Ryuka no Jutsu!
-(Vuurstijl: Drakenvlam)</i>
+(Vuurstijl: Drakenvlam-jutsu)</i>
 
 570
 00:54:47,741 --> 00:54:52,746
@@ -2603,7 +2603,7 @@ Ik zie dat je chakra op is.
 575
 00:55:28,926 --> 00:55:32,748
 Je ontweek mijn Amaterasu met een
-substitutiejutsu à la Orochimaru.
+substitutie-jutsu à la Orochimaru.
 
 576
 00:55:33,540 --> 00:55:36,251
@@ -2919,7 +2919,7 @@ Zo te voelen…
 647
 01:01:58,842 --> 01:02:00,927
 is dit Orochimaru’s Yamata no Jutsu.
-(Achtkoppige Slang)
+(Achtkoppige Slang-jutsu)
 
 648
 01:02:56,065 --> 01:02:58,109
@@ -2994,7 +2994,7 @@ verdoving voor alle eeuwigheid.</i>
 663
 01:04:01,506 --> 01:04:05,009
 <i>Het zwaard zelf is doordrenkt met
-een verzegelingsjutsu</i>
+een verzegeling-jutsu</i>
 
 664
 01:04:05,051 --> 01:04:07,470
@@ -3379,7 +3379,7 @@ Dit is onmogelijk…
 750
 01:13:28,278 --> 01:13:29,655
 Hiraishin no Jutsu?
-(Teleportatiejutsu)
+(Teleportatie-jutsu)
 
 751
 01:13:30,241 --> 01:13:32,409

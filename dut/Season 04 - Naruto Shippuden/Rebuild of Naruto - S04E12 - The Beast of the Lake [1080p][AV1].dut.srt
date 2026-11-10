@@ -1017,7 +1017,7 @@ Wat ga je met Sasuke doen?!
 234
 00:22:51,495 --> 00:22:54,039
 <i>Ik ga beginnen met
-de wedergeboortejutsu.</i>
+de wedergeboorte-jutsu.</i>
 
 235
 00:22:54,664 --> 00:22:55,499
@@ -2104,13 +2104,13 @@ in hun bezit te krijgen, toch?
 
 473
 00:39:07,803 --> 00:39:11,932
-Ja. Waarschijnlijk een verzegelingsjutsu
+Ja. Waarschijnlijk een verzegeling-jutsu
 of een jutsu die we niet kennen.
 
 474
 00:39:12,641 --> 00:39:15,853
 Zodra we er zijn, moeten we
-meteen onze verzegelingsjutsu gebruiken.
+meteen onze verzegeling-jutsu gebruiken.
 
 475
 00:39:16,270 --> 00:39:18,064
@@ -2447,7 +2447,7 @@ Yamato en ik zoeken hem.
 550
 00:44:50,816 --> 00:44:51,817
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 551
 00:44:54,444 --> 00:44:57,113
@@ -4938,7 +4938,7 @@ We gaan verder met de Kekkai Shiho Fujin.
 1104
 01:21:26,845 --> 01:21:30,849
 Eerst lokaliseren we de Sanbi en dan
-gaan we over op de verzegelingsjutsu.
+gaan we over op de verzegeling-jutsu.
 
 1105
 01:21:31,475 --> 01:21:34,353
@@ -5739,7 +5739,7 @@ Ze komen!
 1283
 01:32:57,154 --> 01:32:58,864
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 1284
 01:33:03,753 --> 01:33:05,546

@@ -1775,7 +1775,7 @@ Dit is het plan.
 403
 00:35:23,719 --> 00:35:25,512
 <i>Mokuton: Jukai Kotan! (Houtstijl:
-Geboorte van het Diepe Woud)</i>
+Geboorte van het Diepe Woud-jutsu)</i>
 
 404
 00:35:38,324 --> 00:35:39,085
@@ -4616,7 +4616,7 @@ nu vier jaar oud.
 
 1044
 01:30:24,086 --> 01:30:25,975
-De Houtstijl-verzegelingsjutsu
+De Houtstijl-verzegeling-jutsu
 wordt
 
 1045
@@ -6013,7 +6013,7 @@ Ik ben hem niet vergeten.
 1357
 01:50:28,215 --> 01:50:30,973
 Hij heeft me vaak gered
-met zijn oogjutsu.
+met zijn oog-jutsu.
 
 1358
 01:50:31,606 --> 01:50:34,692

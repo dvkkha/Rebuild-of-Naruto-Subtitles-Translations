@@ -107,7 +107,7 @@ Kijk maar.
 
 25
 00:02:59,778 --> 00:03:01,696
-<i>Ninjakunst: Oproeping!</i>
+<i>Ninjakunst: Oproeping-jutsu!</i>
 
 26
 00:03:05,019 --> 00:03:05,881
@@ -189,7 +189,7 @@ serieus. Maar…</i>
 
 43
 00:04:01,441 --> 00:04:04,318
-Ik moet de Oproeping beheersen…
+Ik moet de Oproeping-jutsu beheersen…
 
 44
 00:04:04,759 --> 00:04:05,760
@@ -263,7 +263,7 @@ wat er gebeurt
 
 59
 00:04:53,518 --> 00:04:56,605
-als je de Oproeping gebruikt
+als je de Oproeping-jutsu gebruikt
 zonder eerst een contract te sluiten!
 
 60
@@ -2330,8 +2330,8 @@ Ja!
 
 519
 00:38:36,102 --> 00:38:37,770
-<i>- Oproeping!
-– Oproeping!</i>
+<i>- Oproeping-jutsu!
+– Oproeping-jutsu!</i>
 
 520
 00:38:44,473 --> 00:38:48,643

@@ -750,7 +750,7 @@ Echt niet!
 169
 00:13:12,208 --> 00:13:13,542
 <i>Kuchiyose no Jutsu!
-(Oproepingsjutsu)</i>
+(Oproeping-jutsu)</i>
 
 170
 00:13:15,878 --> 00:13:17,213
@@ -1003,7 +1003,7 @@ versterkt was met chakra van de Zes Paden…</i>
 227
 00:17:47,399 --> 00:17:48,650
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)</i>
+(Schaduwkloon-jutsu)</i>
 
 228
 00:17:59,482 --> 00:18:01,562
@@ -1068,7 +1068,7 @@ we nog de kans hebben.
 242
 00:20:17,883 --> 00:20:22,763
 Ik was vergeten dat jij nu de Hiraishin no
-Jutsu (Teleportatiejutsu) kunt gebruiken.
+Jutsu (Teleportatie-jutsu) kunt gebruiken.
 
 243
 00:20:24,473 --> 00:20:25,974
@@ -1884,7 +1884,7 @@ Dat betekent moeder zijn!
 420
 00:34:47,955 --> 00:34:51,750
 Naruto, we moeten een opening maken
-zodat we de zegeljutsu kunnen uitvoeren.
+zodat we de zegel-jutsu kunnen uitvoeren.
 
 421
 00:34:52,256 --> 00:34:53,007
@@ -2996,7 +2996,7 @@ Dank je, Kurama!
 671
 00:54:11,665 --> 00:54:14,417
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloonjutsu)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 672
 00:54:49,571 --> 00:54:53,408
@@ -4527,7 +4527,7 @@ Die naam, Sharingan-Kakashi!
 
 1023
 01:23:51,777 --> 01:23:55,531
-<i>Wijzenjutsu: Super-Biju-
+<i>Wijzen-jutsu: Super-Biju-
 Rasen-Shuriken!</i>
 
 1024

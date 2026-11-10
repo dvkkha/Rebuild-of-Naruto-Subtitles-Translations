@@ -2030,7 +2030,7 @@ Dood hem als je kunt.
 449
 00:33:01,396 --> 00:33:05,400
 Platpad…
-Schaduwbesturingsjutsu…?
+Schaduwbesturing-jutsu…?
 
 450
 00:33:06,401 --> 00:33:10,238
@@ -2288,7 +2288,7 @@ Je bent veranderd, Nagato.
 
 506
 00:36:55,016 --> 00:36:56,392
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 507
 00:37:04,597 --> 00:37:05,723
@@ -2604,7 +2604,7 @@ dat nooit volwassen is geworden.
 
 576
 00:41:46,450 --> 00:41:48,285
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 577
 00:41:49,507 --> 00:41:52,468
@@ -2763,7 +2763,7 @@ Ik heb zelfs geen idee wat het is…
 611
 00:46:13,020 --> 00:46:16,774
 Is dit een zichzelf
-vermenigvuldigende Oproeping?!
+vermenigvuldigende Oproeping-jutsu?!
 
 612
 00:46:18,817 --> 00:46:21,153
@@ -2910,7 +2910,7 @@ Ja, maar dat is niet alles.
 645
 00:49:52,280 --> 00:49:54,574
 Tegelijkertijd…
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 646
 00:49:56,854 --> 00:49:58,147
@@ -2997,7 +2997,7 @@ hij tien jaar oud was.</i>
 664
 00:51:58,782 --> 00:52:01,493
 <i>Waarom gebruikt hij tegen mij
-alleen de Oproeping?!</i>
+alleen de Oproeping-jutsu?!</i>
 
 665
 00:52:02,289 --> 00:52:04,875
@@ -3142,7 +3142,7 @@ Dat heeft geen zin!
 695
 00:54:42,172 --> 00:54:45,300
 Laten we ze eruit trekken met
-een wezen-peiljutsu!
+een wezen-peil-jutsu!
 
 696
 00:54:45,853 --> 00:54:51,692
@@ -3257,7 +3257,7 @@ van de keuze is?</i>
 
 721
 00:56:55,120 --> 00:56:56,663
-<i>Oproeping.</i>
+<i>Oproeping-jutsu.</i>
 
 722
 00:57:06,381 --> 00:57:08,800

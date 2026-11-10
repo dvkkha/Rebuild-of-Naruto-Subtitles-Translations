@@ -1190,7 +1190,7 @@ Jij glibberige kleine—!
 
 268
 00:16:16,558 --> 00:16:18,852
-<i>Ik kan deze Ontwijkingsjutsu
+<i>Ik kan deze Ontwijking-jutsu
 beter dan wie ook!</i>
 
 269
@@ -3782,7 +3782,7 @@ Ajisai…
 
 847
 00:54:04,796 --> 00:54:07,215
-<i>Ontzegelingsjutsu: Confettistorm!</i>
+<i>Ontzegeling-jutsu: Confettistorm!</i>
 
 848
 00:54:23,635 --> 00:54:24,636
@@ -4193,7 +4193,7 @@ laten we dan vechten.
 
 941
 01:00:29,308 --> 01:00:31,310
-<i>Ontzegelingsjutsu: Shuriken!</i>
+<i>Ontzegeling-jutsu: Shuriken!</i>
 
 942
 01:00:32,211 --> 01:00:33,212
@@ -4236,7 +4236,7 @@ Ajisai…
 
 951
 01:01:17,997 --> 01:01:20,249
-<i>Ontzegelingsjutsu: Confettistorm!</i>
+<i>Ontzegeling-jutsu: Confettistorm!</i>
 
 952
 01:01:34,982 --> 01:01:36,067
@@ -4265,7 +4265,7 @@ een waarnemingstype bij zich.
 
 958
 01:01:59,757 --> 01:02:01,259
-<i>Verborgen in de Motregen!</i>
+<i>Verborgen in de Motregen-jutsu!</i>
 
 959
 01:02:13,385 --> 01:02:14,428
@@ -4594,7 +4594,7 @@ van een afstand naar je toe halen…
 1034
 01:07:30,869 --> 01:07:34,331
 De transportatietechniek,
-een soort Oproepingsjutsu.
+een soort Oproeping-jutsu.
 
 1035
 01:07:35,048 --> 01:07:36,841
@@ -4667,7 +4667,7 @@ als mijn chakra toeneemt?
 
 1050
 01:08:17,757 --> 01:08:19,342
-Bij Oproepingsjutsu
+Bij Oproeping-jutsu
 
 1051
 01:08:19,367 --> 01:08:22,620
@@ -4781,7 +4781,7 @@ Wat?
 
 1076
 01:10:29,767 --> 01:10:30,893
-<i>Ontzegelingsjutsu!</i>
+<i>Ontzegeling-jutsu!</i>
 
 1077
 01:10:33,520 --> 01:10:35,940
@@ -5576,7 +5576,7 @@ Wacht.
 
 1259
 01:21:27,966 --> 01:21:29,092
-<i>Oproepingsjutsu!</i>
+<i>Oproeping-jutsu!</i>
 
 1260
 01:21:34,055 --> 01:21:35,473
@@ -5593,7 +5593,7 @@ transporteren
 
 1263
 01:21:51,306 --> 01:21:52,558
-met mijn transportatiejutsu.
+met mijn transportatie-jutsu.
 
 1264
 01:21:52,741 --> 01:21:54,951
@@ -5612,7 +5612,7 @@ of mijn chakra raakt op.
 
 1267
 01:22:11,718 --> 01:22:12,844
-<i>Insluitingsjutsu!</i>
+<i>Insluiting-jutsu!</i>
 
 1268
 01:22:28,985 --> 01:22:30,111
@@ -5781,7 +5781,7 @@ laten je nooit in de steek.
 
 1305
 01:24:54,839 --> 01:24:56,049
-<i>Ontzegelingsjutsu!</i>
+<i>Ontzegeling-jutsu!</i>
 
 1306
 01:25:12,941 --> 01:25:14,692

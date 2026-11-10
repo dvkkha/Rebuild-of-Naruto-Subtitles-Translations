@@ -1947,7 +1947,7 @@ Waarom ben jij hier?!
 437
 00:30:01,135 --> 00:30:04,097
 Wij ninja hebben iets wat
-een Ontsnappingsjutsu heet.
+een Ontsnapping-jutsu heet.
 
 438
 00:30:04,820 --> 00:30:06,864
@@ -2035,7 +2035,7 @@ voor Sakura.
 457
 00:31:42,193 --> 00:31:43,652
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 458
 00:31:56,803 --> 00:31:59,014
@@ -2351,7 +2351,7 @@ Maar…
 525
 00:36:20,107 --> 00:36:21,859
 <i>Shuriken Kage Bunshin no Jutsu!
-(Shuriken-schaduwkloon)</i>
+(Shuriken-schaduwkloon-jutsu)</i>
 
 526
 00:36:24,408 --> 00:36:28,329

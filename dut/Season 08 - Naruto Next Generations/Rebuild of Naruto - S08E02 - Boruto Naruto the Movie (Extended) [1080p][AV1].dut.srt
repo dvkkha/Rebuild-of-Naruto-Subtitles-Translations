@@ -2339,7 +2339,7 @@ Nu, Boruto!
 528
 00:35:20,753 --> 00:35:22,088
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 529
 00:35:30,207 --> 00:35:31,834
@@ -5178,7 +5178,7 @@ Daar komt hij!
 1171
 01:15:08,697 --> 01:15:10,407
 <i>Bubun Baika no Jutsu!
-(Gedeeltelijke Vergrotingsjutsu)</i>
+(Gedeeltelijke Vergroting-jutsu)</i>
 
 1172
 01:15:17,164 --> 01:15:18,248
@@ -11188,7 +11188,7 @@ Dat weet ik nog zo niet.
 2528
 02:48:14,889 --> 02:48:16,704
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 2529
 02:48:32,812 --> 02:48:33,604
@@ -11922,8 +11922,8 @@ Echt, zeg!
 
 2694
 02:58:00,236 --> 02:58:02,613
-Wanneer heb je eigenlijk
-de Grote Vuurbal geleerd?
+Wanneer heb je eigenlijk de Gokakyu no
+Jutsu (Grote Vuurbal-jutsu) geleerd?
 
 2695
 02:58:03,300 --> 02:58:05,094
@@ -12297,7 +12297,7 @@ Dan testen we het gewoon!
 2777
 03:02:51,028 --> 03:02:53,030
 <i>Vuurstijl!
-Grote Vuurbal!</i>
+Gokakyu no Jutsu!</i>
 
 2778
 03:03:01,789 --> 03:03:05,292
@@ -12495,7 +12495,7 @@ Geïmproviseerde geheime techniek!
 2822
 03:05:58,841 --> 03:06:00,592
 Raikyu Shuriken no Jutsu!
-(Bliksembal-shurikenjutsu)
+(Bliksembal-shuriken-jutsu)
 
 2823
 03:06:11,482 --> 03:06:12,483
@@ -12617,8 +12617,7 @@ Sarada!
 
 2849
 03:07:52,829 --> 03:07:54,248
-<i>Gokakyu no Jutsu!
-(Grote Vuurbal)</i>
+<i>Gokakyu no Jutsu!</i>
 
 2850
 03:07:55,832 --> 03:07:56,833
@@ -13548,7 +13547,7 @@ in een verzadigingsaanval veranderd.
 3061
 03:25:13,619 --> 03:25:15,788
 <i>Suiton: Daibakufu no Jutsu!
-(Waterstijl: Grote Draaikolk)</i>
+(Waterstijl: Grote Draaikolk-jutsu)</i>
 
 3062
 03:25:32,263 --> 03:25:34,932
@@ -14836,7 +14835,7 @@ Laat het maar aan mij over!
 3357
 03:49:12,925 --> 03:49:14,427
 <i>Sekkaigyo no Jutsu!
-(Verzegeling in Assteen)</i>
+(Verzegeling in Assteen-jutsu)</i>
 
 3358
 03:49:22,452 --> 03:49:24,079
@@ -16215,7 +16214,7 @@ Wat wil je doen?
 
 3675
 04:16:25,911 --> 04:16:29,915
-Ik wil mijn Grote Vuurbal
+Ik wil mijn Gokakyu no Jutsu
 perfectioneren!
 
 3676

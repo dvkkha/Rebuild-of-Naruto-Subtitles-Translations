@@ -2335,7 +2335,7 @@ Nu, Boruto!
 
 528
 00:35:20,753 --> 00:35:22,088
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 529
 00:35:30,207 --> 00:35:31,834
@@ -5172,7 +5172,7 @@ Daar komt hij!
 
 1171
 01:15:08,697 --> 01:15:10,407
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 1172
 01:15:17,164 --> 01:15:18,248
@@ -7677,7 +7677,7 @@ in ronde twee!</i>
 
 1733
 01:51:47,960 --> 01:51:49,275
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1734
 01:51:52,732 --> 01:51:55,068
@@ -9438,7 +9438,7 @@ Nu ben ik pas echt kwaad!
 
 2135
 02:21:46,524 --> 02:21:48,443
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 2136
 02:21:51,212 --> 02:21:52,714
@@ -9563,7 +9563,7 @@ Probeer niet dicht bij hem te sluipen!
 
 2163
 02:23:45,212 --> 02:23:46,861
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 2164
 02:23:47,829 --> 02:23:49,831
@@ -10192,7 +10192,7 @@ van je training zien.</i>
 
 2306
 02:34:43,717 --> 02:34:44,885
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 2307
 02:34:45,761 --> 02:34:46,679
@@ -11178,7 +11178,7 @@ Dat weet ik nog zo niet.
 
 2528
 02:48:14,889 --> 02:48:16,704
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 2529
 02:48:32,812 --> 02:48:33,604
@@ -11910,7 +11910,7 @@ Echt, zeg!
 2694
 02:58:00,236 --> 02:58:02,613
 Wanneer heb je eigenlijk
-de Grote Vuurbal geleerd?
+de Grote Vuurbal-jutsu geleerd?
 
 2695
 02:58:03,300 --> 02:58:05,094
@@ -12279,12 +12279,12 @@ Dan testen we het gewoon!
 
 2776
 03:02:40,809 --> 03:02:42,102
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 2777
 03:02:51,028 --> 03:02:53,030
 <i>Vuurstijl!
-Grote Vuurbal!</i>
+Grote Vuurbal-jutsu!</i>
 
 2778
 03:03:01,789 --> 03:03:05,292
@@ -12452,7 +12452,7 @@ Maar wat dacht je hiervan?
 
 2815
 03:05:41,073 --> 03:05:42,241
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 2816
 03:05:44,910 --> 03:05:45,911
@@ -12481,7 +12481,7 @@ Geïmproviseerde geheime techniek!
 
 2822
 03:05:58,841 --> 03:06:00,592
-Bliksembal-shurikenjutsu!
+Bliksembal-shuriken-jutsu!
 
 2823
 03:06:11,482 --> 03:06:12,483
@@ -12595,7 +12595,7 @@ Nu…
 
 2847
 03:07:45,697 --> 03:07:46,949
-<i>Schaduwkloon…</i>
+<i>Schaduwkloon-jutsu…</i>
 
 2848
 03:07:50,077 --> 03:07:51,078
@@ -12603,7 +12603,7 @@ Sarada!
 
 2849
 03:07:52,829 --> 03:07:54,248
-<i>Grote Vuurbal!</i>
+<i>Grote Vuurbal-jutsu!</i>
 
 2850
 03:07:55,832 --> 03:07:56,833
@@ -12751,7 +12751,7 @@ Jij weet helemaal niets!
 
 2884
 03:10:02,501 --> 03:10:04,127
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 2885
 03:10:10,675 --> 03:10:13,011
@@ -13529,7 +13529,7 @@ in een verzadigingsaanval veranderd.
 
 3061
 03:25:13,619 --> 03:25:15,788
-<i>Waterstijl: Grote Draaikolk!</i>
+<i>Waterstijl: Grote Draaikolk-jutsu!</i>
 
 3062
 03:25:32,263 --> 03:25:34,932
@@ -14816,7 +14816,7 @@ Laat het maar aan mij over!
 
 3357
 03:49:12,925 --> 03:49:14,427
-<i>Verzegeling in Assteen!</i>
+<i>Verzegeling in Assteen-jutsu!</i>
 
 3358
 03:49:22,452 --> 03:49:24,079
@@ -16194,7 +16194,7 @@ Wat wil je doen?
 
 3675
 04:16:25,911 --> 04:16:29,915
-Ik wil mijn Grote Vuurbal
+Ik wil mijn Grote Vuurbal-jutsu
 perfectioneren!
 
 3676

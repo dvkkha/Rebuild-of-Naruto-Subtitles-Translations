@@ -612,7 +612,7 @@ Zo te zien moet ik geweld gebruiken!
 135
 00:10:48,314 --> 00:10:50,358
 <i>Katon: Hosenka no Jutsu!
-(Vuurstijl: Feniksbloem)</i>
+(Vuurstijl: Feniksbloem-jutsu)</i>
 
 136
 00:10:55,821 --> 00:10:58,032
@@ -1582,7 +1582,7 @@ Spuug… me… uit!
 354
 00:26:44,651 --> 00:26:46,368
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 355
 00:26:56,376 --> 00:26:59,463
@@ -1824,7 +1824,7 @@ Maak dat je wegkomt, Naruto.
 409
 00:30:32,843 --> 00:30:34,219
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 410
 00:30:38,932 --> 00:30:39,599
@@ -2181,7 +2181,7 @@ Als met een worm.
 491
 00:38:37,026 --> 00:38:38,653
 <i>Katon: Ryuka no Jutsu!
-(Vuurstijl: Drakenvlam)</i>
+(Vuurstijl: Drakenvlam-jutsu)</i>
 
 492
 00:38:50,331 --> 00:38:51,499
@@ -3663,7 +3663,7 @@ Formatie Ino!
 829
 01:03:59,514 --> 01:04:00,473
 <i>Baika no Jutsu!
-(Vergrotingsjutsu)</i>
+(Vergroting-jutsu)</i>
 
 830
 01:04:01,891 --> 01:04:04,019
@@ -3725,7 +3725,7 @@ in mijn armen verbrijzeld!</i>
 843
 01:04:49,456 --> 01:04:50,791
 <i>Kagemane no Jutsu!
-(Schaduwbezetting)</i>
+(Schaduwbezetting-jutsu)</i>
 
 844
 01:04:52,400 --> 01:04:53,651
@@ -3768,7 +3768,7 @@ Hè?
 853
 01:05:21,756 --> 01:05:23,973
 <i>Ninjakunst: Shintenshin no Jutsu!
-(Geestesoverdracht)</i>
+(Geestesoverdracht-jutsu)</i>
 
 854
 01:05:31,439 --> 01:05:32,315
@@ -4067,7 +4067,7 @@ Hij is vast aan stukken geblazen.
 921
 01:09:22,446 --> 01:09:23,697
 <i>Hosenka no Jutsu!
-(Feniksbloem)</i>
+(Feniksbloem-jutsu)</i>
 
 922
 01:09:23,739 --> 01:09:25,324
@@ -5540,7 +5540,7 @@ chakra?</i>
 1256
 01:31:29,881 --> 01:31:31,716
 <i>Vlak na zijn Taju Kage Bunshin no Jutsu
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 1257
 01:31:31,741 --> 01:31:34,160

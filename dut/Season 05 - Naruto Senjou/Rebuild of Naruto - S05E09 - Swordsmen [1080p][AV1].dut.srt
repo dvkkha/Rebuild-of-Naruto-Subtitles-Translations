@@ -87,7 +87,7 @@ Deze jutsu is onvergeeflijk!</i>
 
 20
 00:02:50,616 --> 00:02:53,953
-<i>Sai, gebruik de verzegelingsjutsu
+<i>Sai, gebruik de verzegeling-jutsu
 van de Wortel.</i>
 
 21
@@ -124,7 +124,7 @@ Dit kwam net van het hoofdkwartier.
 28
 00:03:21,755 --> 00:03:23,828
 Je hebt dit nodig voor
-je verzegelingsjutsu, toch?
+je verzegeling-jutsu, toch?
 
 29
 00:03:27,373 --> 00:03:28,374
@@ -162,7 +162,7 @@ verdedigen
 
 37
 00:03:48,152 --> 00:03:49,862
-terwijl hij zijn verzegelingsjutsu
+terwijl hij zijn verzegeling-jutsu
 voorbereidt.
 
 38
@@ -466,7 +466,7 @@ Oké…
 105
 00:08:08,157 --> 00:08:12,119
 Laten we zien wat
-je verzegelingsjutsu kan!
+je verzegeling-jutsu kan!
 
 106
 00:08:22,293 --> 00:08:23,419
@@ -483,7 +483,7 @@ te onderdrukken.</i>
 
 109
 00:08:31,594 --> 00:08:35,515
-<i>Kan ik deze verzegelingsjutsu
+<i>Kan ik deze verzegeling-jutsu
 echt onder de knie krijgen?</i>
 
 110
@@ -604,7 +604,7 @@ de eenheid vooraan. Volg mij!
 135
 00:10:47,480 --> 00:10:48,564
 <i>Kage Nui no Jutsu!
-(Schaduwnaaijutsu)</i>
+(Schaduwnaai-jutsu)</i>
 
 136
 00:10:57,847 --> 00:10:58,848
@@ -759,7 +759,7 @@ gevoelens voor die vrienden.</i>
 
 171
 00:13:24,454 --> 00:13:27,483
-<i>Een verzegelingsjutsu die krachtiger
+<i>Een verzegeling-jutsu die krachtiger
 wordt als ik mijn emoties loslaat.</i>
 
 172
@@ -972,7 +972,7 @@ weer tot leven gewekt en
 217
 00:17:04,487 --> 00:17:08,699
 ik kan er niet tegen om stil te liggen
-door een verzegelingsjutsu.
+door een verzegeling-jutsu.
 
 218
 00:17:09,361 --> 00:17:11,572
@@ -1605,7 +1605,7 @@ Hou je mond!
 
 358
 00:30:00,120 --> 00:30:01,413
-Vervangingsjutsu?
+Vervanging-jutsu?
 
 359
 00:30:11,351 --> 00:30:12,310
@@ -2854,7 +2854,7 @@ Geen gewoon mens ertussen.
 637
 00:48:04,860 --> 00:48:07,112
 De witte wezens gebruiken Henge no Jutsu…
-(Transformatiejutsu)
+(Transformatie-jutsu)
 
 638
 00:48:07,366 --> 00:48:09,284
@@ -2872,7 +2872,7 @@ rechtstreeks naar jullie gedachten.</i>
 
 641
 00:48:22,983 --> 00:48:26,987
-<i>Ik leg de gevechtsjutsu van de vijand
+<i>Ik leg de gevechts-jutsu van de vijand
 en zijn doel uit.</i>
 
 642
@@ -3114,7 +3114,7 @@ voor de effecten van zijn aanval.
 694
 00:51:58,799 --> 00:52:01,677
 <i>Kuchiyose: Yatai Kuzushi no Jutsu!
-(Oproeping: Chaosjutsu)</i>
+(Oproeping: Chaos-jutsu)</i>
 
 695
 00:52:06,373 --> 00:52:07,499
@@ -3150,7 +3150,7 @@ tegelijk aanpakken!
 702
 00:52:23,390 --> 00:52:25,517
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloonjutsu)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 703
 00:52:32,274 --> 00:52:34,067
@@ -3806,7 +3806,7 @@ in de Zwaardstijl van Konoha.
 848
 01:00:59,238 --> 01:01:01,115
 Hij is gespecialiseerd in
-de Transparantiejutsu.
+de Transparantie-jutsu.
 
 849
 01:01:01,699 --> 01:01:03,159
@@ -3904,7 +3904,7 @@ Laten we de prooi delen, fiftyfifty!
 871
 01:02:12,787 --> 01:02:14,330
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)</i>
+(Schaduwkloon-jutsu)</i>
 
 872
 01:02:16,649 --> 01:02:17,942
@@ -4228,7 +4228,7 @@ Maar iemand moet gaan.
 
 946
 01:08:05,623 --> 01:08:08,459
-En met mijn opsporingsjutsu
+En met mijn opsporing-jutsu
 ben ik de ideale kandidaat.
 
 947
@@ -4933,7 +4933,7 @@ Ik kan niet uit mezelf bewegen.
 1108
 01:20:32,202 --> 01:20:33,453
 <i>Kuchiyose no Jutsu!
-(Oproepingsjutsu)</i>
+(Oproeping-jutsu)</i>
 
 1109
 01:20:33,495 --> 01:20:34,496
@@ -4959,7 +4959,7 @@ Oké!
 1114
 01:20:50,486 --> 01:20:52,362
 <i>Katon: Hosenka no Jutsu!
-(Vuurstijl: Feniksbloem)</i>
+(Vuurstijl: Feniksbloem-jutsu)</i>
 
 1115
 01:21:00,522 --> 01:21:01,940
@@ -5596,7 +5596,7 @@ toch geen antwoorden?!
 
 1256
 01:32:07,550 --> 01:32:11,595
-Hoe werkte die opwekkingsjutsu ook alweer?
+Hoe werkte die opwekking-jutsu ook alweer?
 
 1257
 01:32:14,042 --> 01:32:17,254
@@ -5839,7 +5839,7 @@ Dit is het Totsuka-zwaard…
 1310
 01:36:48,822 --> 01:36:51,044
 Het is een zwaard met
-een verzegelingsjutsu.
+een verzegeling-jutsu.
 
 1311
 01:36:52,103 --> 01:36:54,021

@@ -74,7 +74,7 @@ Zeg, Kakashi-sensei.
 18
 00:02:47,470 --> 00:02:50,431
 Is dit zijn…
-Verborgen in de Mist?
+Verborgen in de Mist-jutsu?
 
 19
 00:02:57,090 --> 00:02:59,133
@@ -1056,7 +1056,7 @@ met senbon…</i>
 
 244
 00:20:45,702 --> 00:20:48,747
-<i>En als het gewoon Kloonjutsu was…</i>
+<i>En als het gewoon Kloon-jutsu was…</i>
 
 245
 00:20:48,997 --> 00:20:52,084
@@ -1146,7 +1146,7 @@ Dus…
 
 264
 00:21:44,219 --> 00:21:45,971
-<i>Grote Vuurbal!</i>
+<i>Grote Vuurbal-jutsu!</i>
 
 265
 00:21:56,846 --> 00:21:58,932
@@ -1178,7 +1178,7 @@ Je krijgt me nooit te pakken.
 271
 00:22:31,808 --> 00:22:34,311
 Pff.
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 272
 00:22:34,488 --> 00:22:35,406
@@ -1510,7 +1510,7 @@ Zabuza…</i>
 
 344
 00:27:42,952 --> 00:27:44,954
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 345
 00:27:47,415 --> 00:27:48,917
@@ -1600,7 +1600,7 @@ I-Ik ga niet verliezen!
 
 364
 00:29:21,618 --> 00:29:23,620
-<i>Vuurstijl: Grote Vuurbal!</i>
+<i>Vuurstijl: Grote Vuurbal-jutsu!</i>
 
 365
 00:29:44,783 --> 00:29:46,159
@@ -1651,7 +1651,7 @@ Was het niet zo…?
 
 376
 00:30:24,989 --> 00:30:28,326
-<i>Ninjakunst: Verborgen in de Mist!</i>
+<i>Ninjakunst: Verborgen in de Mist-jutsu!</i>
 
 377
 00:30:37,043 --> 00:30:37,877
@@ -2969,8 +2969,8 @@ me doodt.
 
 679
 00:56:15,580 --> 00:56:19,501
-<i>Ninjakunst: Oproeping!
-Aardestijl: Achtervolgende Hoektanden!</i>
+<i>Ninjakunst: Oproeping! Aardestijl:
+Achtervolgende Hoektanden-jutsu!</i>
 
 680
 00:56:27,235 --> 00:56:29,404
@@ -3014,7 +3014,7 @@ je ogen dichtdoet.
 
 689
 00:57:10,343 --> 00:57:13,346
-Dit is een Oproepingsjutsu
+Dit is een Oproeping-jutsu
 gespecialiseerd in het opsporen.
 
 690
@@ -4370,7 +4370,7 @@ Oké, ik ga ook helpen!
 
 998
 01:24:00,326 --> 01:24:01,828
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 999
 01:24:06,957 --> 01:24:09,757
@@ -4383,7 +4383,7 @@ maar bluf zou genoeg moeten zijn.
 
 1001
 01:24:12,255 --> 01:24:13,506
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1002
 01:24:15,573 --> 01:24:16,616

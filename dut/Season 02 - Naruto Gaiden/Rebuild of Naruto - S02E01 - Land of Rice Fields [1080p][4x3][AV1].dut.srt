@@ -2016,7 +2016,7 @@ geheim mee in jullie graf!</i>
 450
 00:37:49,274 --> 00:37:51,193
 Naruto! Het is de Utsusemi no Jutsu!
-(Buikspreekjutsu)
+(Buikspreek-jutsu)
 
 451
 00:37:51,613 --> 00:37:53,382
@@ -2035,7 +2035,7 @@ Ik laat het meisje aan jou over, Sakura!
 454
 00:38:01,737 --> 00:38:03,990
 <i>Taju Kage Bunshin no Jutsu!
-(Meervoudige Schaduwkloon)</i>
+(Meervoudige Schaduwkloon-jutsu)</i>
 
 455
 00:38:14,149 --> 00:38:17,569
@@ -2045,7 +2045,7 @@ Kom maar op, van waar dan ook!
 456
 00:38:19,672 --> 00:38:22,383
 Het zijn er veel, maar het is gewoon
-de Bunshin no Jutsu. (Kloonjutsu)
+de Bunshin no Jutsu. (Kloon-jutsu)
 
 457
 00:38:22,457 --> 00:38:24,292
@@ -2110,7 +2110,7 @@ diep in de grond leef!</i>
 470
 00:39:21,431 --> 00:39:23,594
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 471
 00:39:28,046 --> 00:39:29,357
@@ -2883,7 +2883,7 @@ Jij kleine…!
 645
 00:52:06,649 --> 00:52:07,914
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 646
 00:52:08,522 --> 00:52:09,607
@@ -3011,7 +3011,8 @@ dat ik dit eerder heb gezien…
 
 674
 00:54:57,879 --> 00:55:00,381
-Het is de Paddenmuilval.
+Het is de Gamaguchi Shibari.
+(Paddenmuilval-jutsu)
 
 675
 00:55:00,816 --> 00:55:03,139
@@ -4357,7 +4358,7 @@ Wat irritant!
 978
 01:20:32,256 --> 01:20:34,008
 <i>Kasumi Enbu no Jutsu!
-(Dans van de Nevelvlammen)</i>
+(Dans van de Nevelvlammen-jutsu)</i>
 
 979
 01:20:38,111 --> 01:20:41,753

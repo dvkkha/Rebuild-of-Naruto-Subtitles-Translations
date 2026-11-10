@@ -1905,7 +1905,7 @@ Jullie lijken zijn vrienden te zijn!
 
 426
 00:28:16,295 --> 00:28:17,713
-<i>Kage Bunshin no Jutsu (Schaduwkloon)</i>
+<i>Kage Bunshin no Jutsu (Schaduwkloon-jutsu)</i>
 
 427
 00:28:17,904 --> 00:28:18,905
@@ -3722,7 +3722,7 @@ is lang geleden…
 828
 00:51:47,432 --> 00:51:50,977
 Er zijn nog veel raadsels rond
-de verzegelingsjutsu, het Doodsgodzegel.
+de verzegeling-jutsu, het Doodsgodzegel.
 
 829
 00:51:51,332 --> 00:51:55,544
@@ -7622,7 +7622,7 @@ Heer Raikage zoveel geactiveerd.</i>
 1694
 01:52:34,080 --> 01:52:36,124
 <i>Hij wil reageren met zijn
-Shunshin no Jutsu. (Lichaamsflits)</i>
+Shunshin no Jutsu. (Lichaamsflits-jutsu)</i>
 
 1695
 01:52:41,173 --> 01:52:43,251
@@ -7721,7 +7721,7 @@ Gaara van het Zand.
 1716
 01:54:17,086 --> 01:54:18,379
 <i>Kamaitachi!
-(Sikkelwind)</i>
+(Sikkelwind-jutsu)</i>
 
 1717
 01:54:24,362 --> 01:54:27,991
@@ -8045,7 +8045,7 @@ Goed!
 1788
 01:58:44,183 --> 01:58:45,580
 <i>Daikamaitachi no Jutsu!
-(Grote Sikkelwind)</i>
+(Grote Sikkelwind-jutsu)</i>
 
 1789
 01:58:45,977 --> 01:58:47,854
@@ -8659,7 +8659,7 @@ Daarom bezit ik twee Kekkei Genkai.
 1928
 02:10:38,914 --> 02:10:40,957
 <i>Futton: Komu no Jutsu.
-(Dampstijl: Dichte Mist)</i>
+(Dampstijl: Dichte Mist-jutsu)</i>
 
 1929
 02:10:42,776 --> 02:10:43,777
@@ -8732,7 +8732,7 @@ D-Dit is die Akatsuki van daarnet.
 1945
 02:12:04,658 --> 02:12:08,621
 <i>Niet te geloven dat niemand mijn Hoshi
-no Jutsu (Sporenjutsu) heeft opgemerkt.</i>
+no Jutsu (Sporen-jutsu) heeft opgemerkt.</i>
 
 1946
 02:12:08,662 --> 02:12:12,124
@@ -8806,7 +8806,7 @@ Oké!
 1962
 02:13:37,412 --> 02:13:39,665
 <i>Doton: Kajugan no Jutsu.
-(Aardestijl: Verzwaarde Rots)</i>
+(Aardestijl: Verzwaarde Rots-jutsu)</i>
 
 1963
 02:13:58,708 --> 02:14:01,127
@@ -8825,7 +8825,7 @@ Tot ziens.
 1966
 02:14:12,333 --> 02:14:15,544
 <i>Jinton: Genkai Hakuri no Jutsu!
-(Deeltjesstijl: Atomaire Ontleding)</i>
+(Deeltjesstijl: Atomaire Ontleding-jutsu)</i>
 
 1967
 02:14:20,176 --> 02:14:21,386
@@ -9352,7 +9352,7 @@ nog in het geheim doorgegeven.
 
 2084
 02:21:49,579 --> 02:21:52,081
-Het is de verzegelingsjutsu
+Het is de verzegeling-jutsu
 voor jinchuriki.
 
 2085

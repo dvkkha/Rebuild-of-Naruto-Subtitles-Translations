@@ -611,7 +611,7 @@ Wacht, Naruto!
 
 138
 00:11:48,880 --> 00:11:50,423
-<i>Schaduwbezetting…</i>
+<i>Schaduwbezetting-jutsu…</i>
 
 139
 00:11:51,345 --> 00:11:54,469
@@ -896,7 +896,7 @@ Kiba, Shikamaru!
 
 202
 00:16:43,460 --> 00:16:45,379
-Schaduwbezetting gelukt!
+Schaduwbezetting-jutsu gelukt!
 
 203
 00:16:46,046 --> 00:16:49,717
@@ -1425,7 +1425,7 @@ Ja!
 
 319
 00:28:01,262 --> 00:28:02,972
-<i>Vergrotingsjutsu!</i>
+<i>Vergroting-jutsu!</i>
 
 320
 00:28:04,066 --> 00:28:06,402
@@ -1515,7 +1515,7 @@ die ruim ik voor jullie op!
 
 340
 00:30:26,574 --> 00:30:29,661
-<i>Vergrotingsjutsu!
+<i>Vergroting-jutsu!
 Menselijk Rotsblok!</i>
 
 341
@@ -1798,7 +1798,7 @@ wat er ook gebeurt, Choji.</i>
 
 403
 00:35:27,375 --> 00:35:28,626
-<i>Vergrotingsjutsu!</i>
+<i>Vergroting-jutsu!</i>
 
 404
 00:35:37,635 --> 00:35:40,221
@@ -1982,7 +1982,7 @@ Zeg JIJ dat niet!
 
 445
 00:39:58,896 --> 00:40:00,981
-<i>Gedeeltelijke Vergrotingsjutsu:</i>
+<i>Gedeeltelijke Vergroting-jutsu:</i>
 
 446
 00:40:02,733 --> 00:40:03,442
@@ -1990,7 +1990,7 @@ Zeg JIJ dat niet!
 
 447
 00:40:10,282 --> 00:40:11,818
-<i>Gedeeltelijke Vergrotingsjutsu:</i>
+<i>Gedeeltelijke Vergroting-jutsu:</i>
 
 448
 00:40:14,418 --> 00:40:15,336
@@ -1998,7 +1998,7 @@ Zeg JIJ dat niet!
 
 449
 00:40:16,522 --> 00:40:18,107
-<i>Gedeeltelijke Vergrotingsjutsu:</i>
+<i>Gedeeltelijke Vergroting-jutsu:</i>
 
 450
 00:40:18,210 --> 00:40:18,753
@@ -2019,7 +2019,7 @@ Wat?!
 
 454
 00:40:41,678 --> 00:40:44,029
-<i>Supervergrotingsjutsu!</i>
+<i>Supervergroting-jutsu!</i>
 
 455
 00:40:58,038 --> 00:41:00,309
@@ -3345,7 +3345,7 @@ dan alleen de chakrastroom zien…</i>
 755
 01:12:15,657 --> 01:12:18,170
 <i>Dus hij is een buitengewone
-gebruiker van oogjutsu…</i>
+gebruiker van oog-jutsu…</i>
 
 756
 01:12:19,923 --> 01:12:21,794
@@ -3416,7 +3416,7 @@ gecombineerd met röntgenzicht.</i>
 
 771
 01:13:24,572 --> 01:13:25,733
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 772
 01:13:41,053 --> 01:13:43,524
@@ -3639,7 +3639,7 @@ te compenseren!
 820
 01:19:13,626 --> 01:19:18,517
 Met andere woorden…
-jouw oogjutsu is niet perfect!
+jouw oog-jutsu is niet perfect!
 
 821
 01:19:23,393 --> 01:19:27,717

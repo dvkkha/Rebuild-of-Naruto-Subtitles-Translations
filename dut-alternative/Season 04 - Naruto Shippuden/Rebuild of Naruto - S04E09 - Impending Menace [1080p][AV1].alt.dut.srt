@@ -2033,7 +2033,7 @@ Wat?!
 
 450
 00:31:56,247 --> 00:31:58,416
-<i>Waterstijl: Watervalbekken!</i>
+<i>Waterstijl: Watervalbekken-jutsu!</i>
 
 451
 00:32:04,756 --> 00:32:06,174
@@ -2198,11 +2198,11 @@ mijn Sharingan niet kopiëren…
 487
 00:34:10,718 --> 00:34:13,262
 Hoe zit het dan met Shikamaru’s
-Schaduwbezetting
+Schaduwbezetting-jutsu
 
 488
 00:34:13,370 --> 00:34:15,289
-of Choji’s Vergrotingsjutsu?
+of Choji’s Vergroting-jutsu?
 
 489
 00:34:16,387 --> 00:34:20,099
@@ -2264,12 +2264,12 @@ Luister…
 
 502
 00:34:55,644 --> 00:34:58,897
-Je weet dat de Schaduwkloon
+Je weet dat de Schaduwkloon-jutsu
 geen illusies maakt
 
 503
 00:34:58,922 --> 00:35:02,403
-zoals de gewone Kloonjutsu, toch?
+zoals de gewone Kloon-jutsu, toch?
 
 504
 00:35:02,809 --> 00:35:05,561
@@ -2282,8 +2282,8 @@ om een kopie van jezelf te maken.
 
 506
 00:35:09,816 --> 00:35:14,512
-Ik weet het, want ik kan de Schaduwkloon
-ook gebruiken, al niet zo goed als jij.
+Ik kan de Schaduwkloon-jutsu ook,
+al niet zo goed als jij.
 
 507
 00:35:15,071 --> 00:35:19,242
@@ -2333,7 +2333,7 @@ Goed.
 
 517
 00:35:52,233 --> 00:35:53,734
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 518
 00:35:56,404 --> 00:36:01,117
@@ -2667,7 +2667,7 @@ Hè?!
 
 589
 00:40:05,569 --> 00:40:07,321
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 590
 00:40:43,274 --> 00:40:45,568
@@ -3377,7 +3377,7 @@ Het gaat wel, Kakashi-sensei…
 
 746
 00:50:13,051 --> 00:50:14,928
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 747
 00:50:15,470 --> 00:50:17,472
@@ -3555,7 +3555,7 @@ Alles is klaar, Naruto!
 
 787
 00:53:04,572 --> 00:53:06,491
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 788
 00:53:22,317 --> 00:53:24,695
@@ -3958,11 +3958,11 @@ om over te klagen, toch?!
 
 878
 01:00:02,724 --> 01:00:04,726
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 879
 01:00:32,763 --> 01:00:34,807
-<i>Meervoudige Schaduwkloon.</i>
+<i>Meervoudige Schaduwkloon-jutsu.</i>
 
 880
 01:00:50,182 --> 01:00:51,392
@@ -4590,7 +4590,7 @@ Ik geloof echt in hem.
 
 1017
 01:10:42,613 --> 01:10:44,615
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 1018
 01:10:56,919 --> 01:10:58,879
@@ -4659,8 +4659,8 @@ Ik wacht buiten.
 
 1033
 01:12:14,872 --> 01:12:18,625
-Zoals verwacht raakt hij snel uitgeput als
-hij de Meervoudige Schaduwkloon gebruikt.
+Zoals verwacht raakt hij snel uitgeput
+van de Meervoudige Schaduwkloon-jutsu.
 
 1034
 01:12:21,253 --> 01:12:22,254
@@ -5263,8 +5263,8 @@ sterft aanvoerder Asuma ook!
 
 1168
 01:22:27,609 --> 01:22:31,696
-Om een hardnekkige vloekjutsu te verbreken,
-moet je normaal de gebruiker doden.
+Om een hardnekkige vloek-jutsu te breken,
+moet je meestal de gebruiker doden.
 
 1169
 01:22:32,364 --> 01:22:34,449
@@ -5393,7 +5393,7 @@ Ik ga, aanvoerder Asuma…
 
 1197
 01:24:33,735 --> 01:24:35,487
-<i>Die schaduwjutsu…</i>
+<i>Die schaduw-jutsu…</i>
 
 1198
 01:24:35,695 --> 01:24:39,365
@@ -5417,7 +5417,7 @@ cirkel die hij op de grond heeft getekend!
 1202
 01:25:00,613 --> 01:25:03,950
 Als ik dat doe,
-wordt zijn vloekjutsu verbroken.
+wordt zijn vloek-jutsu verbroken.
 
 1203
 01:25:05,216 --> 01:25:06,592
@@ -5546,7 +5546,7 @@ nu klaar waren…
 1230
 01:26:33,346 --> 01:26:35,515
 kunnen we aannemen dat het ritueel
-voor zijn vloekjutsu
+voor zijn vloek-jutsu
 
 1231
 01:26:35,690 --> 01:26:38,943

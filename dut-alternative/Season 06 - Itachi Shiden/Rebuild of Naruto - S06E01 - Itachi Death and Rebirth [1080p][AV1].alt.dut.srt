@@ -457,7 +457,7 @@ zal je altijd beschermen…
 
 107
 00:09:28,651 --> 00:09:30,188
-<i>Oproepingsjutsu!</i>
+<i>Oproeping-jutsu!</i>
 
 108
 00:09:40,320 --> 00:09:41,455
@@ -924,7 +924,7 @@ Dit is een basisninjutsu van de Uchiha…
 
 214
 00:16:13,799 --> 00:16:15,759
-Vuurstijl: Vuurbaljutsu.
+Vuurstijl: Vuurbal-jutsu.
 
 215
 00:16:15,933 --> 00:16:18,018
@@ -1148,7 +1148,7 @@ Itachi?
 264
 00:19:57,988 --> 00:20:00,407
 Het teken is voor Waterstijl:
-Waterbomjutsu.
+Waterbom-jutsu.
 
 265
 00:20:00,782 --> 00:20:02,075
@@ -1557,7 +1557,7 @@ Nee…
 
 361
 00:26:23,000 --> 00:26:24,501
-Het is een Schaduwkloonjutsu!
+Het is een Schaduwkloon-jutsu!
 
 362
 00:26:26,026 --> 00:26:27,027
@@ -1602,7 +1602,7 @@ Tot later.
 
 372
 00:26:58,199 --> 00:26:59,587
-Afgezien van de Kloonjutsu,
+Afgezien van de Kloon-jutsu,
 
 373
 00:26:59,612 --> 00:27:02,865
@@ -1612,7 +1612,7 @@ van de Academie af te studeren,
 374
 00:27:03,054 --> 00:27:06,307
 beheerst Itachi Uchiha al de
-Schaduwkloonjutsu, een gevorderde jutsu.
+Schaduwkloon-jutsu, een gevorderde jutsu.
 
 375
 00:27:06,868 --> 00:27:08,954
@@ -3369,7 +3369,7 @@ Dan maak ik het hier ook af!
 
 777
 00:53:18,244 --> 00:53:19,495
-<i>Lichaamsflitsjutsu!</i>
+<i>Lichaamsflits-jutsu!</i>
 
 778
 00:53:22,679 --> 00:53:23,722
@@ -3412,7 +3412,7 @@ Maar zijn aanval is krachtig…</i>
 
 787
 00:53:58,772 --> 00:54:01,316
-Mijn Lichaamsflitsjutsu heeft geen massa.
+Mijn Lichaamsflits-jutsu heeft geen massa.
 
 788
 00:54:01,601 --> 00:54:04,645
@@ -4250,7 +4250,7 @@ gebruik ik mijn Kotoamatsukami.
 
 973
 01:05:24,151 --> 01:05:25,736
-Jouw oogjutsu…
+Jouw oog-jutsu…
 
 974
 01:05:26,054 --> 01:05:29,679
@@ -4323,7 +4323,7 @@ zo meteen.
 
 989
 01:06:23,229 --> 01:06:27,108
-Ook als je Fugaku met je oogjutsu
+Ook als je Fugaku met je oog-jutsu
 tot samenwerking met de clan brengt,
 
 990
@@ -4404,7 +4404,7 @@ Geef me de andere ook.
 
 1007
 01:07:36,135 --> 01:07:38,115
-<i>Vuurstijl: Vuurbaljutsu!</i>
+<i>Vuurstijl: Vuurbal-jutsu!</i>
 
 1008
 01:07:39,110 --> 01:07:40,945
@@ -4412,7 +4412,7 @@ Geef me de andere ook.
 
 1009
 01:07:46,020 --> 01:07:47,688
-Het is een Lichaamsflitsjutsu!
+Het is een Lichaamsflits-jutsu!
 
 1010
 01:07:47,713 --> 01:07:48,714
@@ -5900,7 +5900,7 @@ Schurken!
 
 1349
 01:31:50,061 --> 01:31:52,272
-<i>Vuurstijl: Vuurbaljutsu!</i>
+<i>Vuurstijl: Vuurbal-jutsu!</i>
 
 1350
 01:31:58,908 --> 01:32:00,368
@@ -6277,7 +6277,7 @@ Ja.
 
 1434
 01:37:47,924 --> 01:37:49,410
-<i>Verborgen in de Mist!</i>
+<i>Verborgen in de Mist-jutsu!</i>
 
 1435
 01:37:53,464 --> 01:37:55,525
@@ -6370,7 +6370,7 @@ Itachi!
 
 1455
 01:39:09,502 --> 01:39:11,421
-<i>Vuurstijl: Vuurbaljutsu!</i>
+<i>Vuurstijl: Vuurbal-jutsu!</i>
 
 1456
 01:39:15,017 --> 01:39:15,922
@@ -6403,7 +6403,7 @@ Juzo!
 
 1463
 01:39:57,178 --> 01:39:59,472
-Het is de Koraalhand van de Vierde.
+Het is de Koraalhand-jutsu van de Vierde.
 
 1464
 01:40:10,274 --> 01:40:11,239
@@ -6650,7 +6650,7 @@ je hebzucht.
 1520
 01:45:19,250 --> 01:45:24,046
 Onmogelijk! Ben ik ten prooi gevallen
-aan de Verlammingsjutsu?
+aan de Verlamming-jutsu?
 
 1521
 01:45:25,923 --> 01:45:28,467
@@ -7376,7 +7376,7 @@ en bestuurt ze als een marionet.</i>
 
 1687
 01:57:43,936 --> 01:57:48,381
-<i>Je moet dus een zegeljutsu gebruiken
+<i>Je moet dus een zegel-jutsu gebruiken
 of ze met geweld stilzetten.</i>
 
 1688

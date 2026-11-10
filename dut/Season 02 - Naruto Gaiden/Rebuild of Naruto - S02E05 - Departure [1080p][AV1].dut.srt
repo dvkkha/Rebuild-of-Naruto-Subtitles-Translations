@@ -216,7 +216,7 @@ Hè?!
 49
 00:04:24,157 --> 00:04:25,393
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 50
 00:04:31,298 --> 00:04:34,134
@@ -1206,7 +1206,7 @@ Waarom heb je mij gekozen?</i>
 269
 00:18:47,838 --> 00:18:51,148
 <i>Ik denk dat als het gaat om
-geweldige kluizenaarsjutsu,</i>
+geweldige kluizenaars-jutsu,</i>
 
 270
 00:18:51,173 --> 00:18:53,508
@@ -2190,7 +2190,7 @@ Die klootzak!
 490
 00:34:51,119 --> 00:34:52,453
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 491
 00:34:59,167 --> 00:35:01,521

@@ -4546,7 +4546,7 @@ Geef de schat terug!
 
 1020
 01:17:08,052 --> 01:17:10,012
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 1021
 01:17:13,469 --> 01:17:15,096
@@ -4786,7 +4786,7 @@ O nee, dat doe je niet!
 
 1076
 01:22:38,789 --> 01:22:40,124
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1077
 01:22:40,958 --> 01:22:43,086
@@ -5640,7 +5640,7 @@ Iedereen op zijn plek!
 
 1267
 01:35:46,620 --> 01:35:48,080
-<i>Vergrotingsjutsu!</i>
+<i>Vergroting-jutsu!</i>
 
 1268
 01:35:49,839 --> 01:35:54,594
@@ -5678,7 +5678,7 @@ Verspreiden!
 
 1276
 01:36:30,462 --> 01:36:32,047
-<i>Geestesoverdracht!</i>
+<i>Geestesoverdracht-jutsu!</i>
 
 1277
 01:36:43,660 --> 01:36:44,869
@@ -5701,7 +5701,7 @@ naar het ziekenhuis!
 
 1281
 01:36:58,025 --> 01:36:59,568
-<i>Schaduwbezetting!</i>
+<i>Schaduwbezetting-jutsu!</i>
 
 1282
 01:36:59,686 --> 01:37:00,687

@@ -2114,13 +2114,13 @@ Hebbes.
 
 468
 00:32:21,189 --> 00:32:23,316
-Je staat onder mijn Shinten Kugutsu Juin no
-Jutsu. (Geestesoverdracht-Marionettenvloek)
+Je staat onder
+mijn Shinten Kugutsu Juin no Jutsu.
 
 469
 00:32:24,192 --> 00:32:26,986
-<i>Verdomme! Was dit een vloekvariant van de
-Shintenshin no Jutsu (Geestesoverdracht)</i>
+<i>Verdomme! Was dit een vloekvariant
+van de Shintenshin no Jutsu</i>
 
 470
 00:32:26,986 --> 00:32:29,072
@@ -2933,7 +2933,7 @@ ik in het levend vangen van prooi.</i>
 649
 00:44:10,567 --> 00:44:13,709
 <i>Deze Suiro Same Odori no Jutsu
-(Waterkerker-Haaiendans) is zo leuk,</i>
+(Waterkerker-Haaiendans-jutsu) is zo leuk,</i>
 
 650
 00:44:14,057 --> 00:44:16,795
@@ -4008,7 +4008,8 @@ Weet ik.
 
 891
 01:02:22,500 --> 01:02:23,804
-<i>Shintenshin no Jutsu…</i>
+<i>Shintenshin no Jutsu…
+(Geestesoverdracht)</i>
 
 892
 01:02:45,970 --> 01:02:48,347
@@ -4454,11 +4455,11 @@ Sasuke!
 992
 01:12:08,307 --> 01:12:09,850
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 993
 01:12:19,585 --> 01:12:21,587
-Een nieuwe oproepingsjutsu?
+Een nieuwe oproeping-jutsu?
 
 994
 01:12:21,612 --> 01:12:23,113
@@ -5046,7 +5047,7 @@ zich niet bewegen.</i>
 1124
 01:26:11,332 --> 01:26:13,001
 <i>Gokakyu no Jutsu!
-(Grote Vuurbal)</i>
+(Grote Vuurbal-jutsu)</i>
 
 1125
 01:26:40,945 --> 01:26:43,406
@@ -5794,7 +5795,7 @@ laat ik jullie geen van beiden leven!
 1290
 01:39:38,185 --> 01:39:39,978
 <i>Dit is de Ura Shisho Fuinjutsu.
-(Omgekeerde Viersymbolenzegel)</i>
+(Omgekeerde Viersymbolenzegel-jutsu)</i>
 
 1291
 01:39:40,821 --> 01:39:41,822

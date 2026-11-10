@@ -1369,7 +1369,7 @@ mijn voorhoofd is…
 
 318
 00:28:34,003 --> 00:28:35,422
-“Mega-voorhoofd”…
+“Mega-voorhoofd”
 
 319
 00:28:38,384 --> 00:28:41,729
@@ -2363,12 +2363,12 @@ Oké.
 
 545
 00:47:02,660 --> 00:47:05,358
-We doen eerst een basisjutsu:
+We doen eerst een basis-jutsu:
 
 546
 00:47:05,831 --> 00:47:07,022
 Bunshin no Jutsu.
-(Kloonjutsu)
+(Kloon-jutsu)
 
 547
 00:47:09,328 --> 00:47:10,617
@@ -4791,7 +4791,7 @@ laat je me slagen, toch?!
 
 1102
 01:31:56,887 --> 01:32:00,432
-Als ik een van de jutsu hierin kan,
+Als ik een jutsu hierin kan,
 ben ik geslaagd, toch?
 
 1103
@@ -5122,355 +5122,359 @@ Je hebt gelijk…
 <i>Dus het was toch waar!</i>
 
 1176
-01:37:21,005 --> 01:37:27,110
-<i>Iruka-sensei gaf nooit echt
-om mij… helemaal niet!</i>
+01:37:21,005 --> 01:37:25,377
+<i>Dus… Iruka-sensei gaf net
+als alle andere…</i>
 
 1177
+01:37:25,401 --> 01:37:27,401
+Niets om mij!
+
+1178
 01:37:27,483 --> 01:37:29,291
 … als hij de vossendemon was.
 
-1178
+1179
 01:37:31,224 --> 01:37:32,934
 Maar Naruto is anders!
 
-1179
+1180
 01:37:33,306 --> 01:37:38,186
 Hij is…
 Hij is een uitstekende leerling.
 
-1180
+1181
 01:37:39,269 --> 01:37:40,871
 Hij werkt heel hard…
 
-1181
+1182
 01:37:40,896 --> 01:37:44,894
 Toch is hij onhandig en…
 
-1182
-01:37:44,919 --> 01:37:51,009
-Niemand accepteerde hem… Dus hij weet
-al hoe pijn in het hart van mensen voelt.
-
 1183
-01:37:51,531 --> 01:37:53,614
-Hij is niet langer de vossendemon.
+01:37:44,919 --> 01:37:51,009
+Niemand accepteert hem.
+Daardoor is hij erg empathisch.
 
 1184
-01:37:54,021 --> 01:37:56,607
-Hij is een lid van Konoha…
-Hij is Naruto Uzumaki!
+01:37:51,531 --> 01:37:53,614
+Hij is niet de vossendemon.
 
 1185
+01:37:54,021 --> 01:37:56,256
+Maar Konoha’s eigen
+Naruto Uzumaki!
+
+1186
 01:38:01,729 --> 01:38:03,101
 Je bent zo goedgelovig.
 
-1186
+1187
 01:38:03,489 --> 01:38:07,937
 Iruka!
 Ik reken nu maar eerst met jou af.
 
-1187
+1188
 01:38:08,215 --> 01:38:09,633
 Sterf!
 
-1188
+1189
 01:38:18,600 --> 01:38:19,600
 <i>Naruto?!</i>
 
-1189
+1190
 01:38:22,271 --> 01:38:24,064
 Dat was even schrikken…
 
-1190
+1191
 01:38:25,441 --> 01:38:28,144
 Als je Iruka-sensei
-nog met één vinger aanraakt…
+nog iets aandoet…
 
-1191
+1192
 01:38:28,688 --> 01:38:29,749
 Vermoord ik je!
 
-1192
+1193
 01:38:30,351 --> 01:38:31,378
 Zwijg!
 
-1193
+1194
 01:38:31,913 --> 01:38:35,549
 Ik heb maar één klap nodig
 om jou te verslaan!
 
-1194
+1195
 01:38:35,631 --> 01:38:37,295
 Laat maar eens zien!
 
-1195
+1196
 01:38:37,750 --> 01:38:40,110
 Ik geef je het duizendmaal terug!
 
-1196
+1197
 01:38:40,203 --> 01:38:44,217
 Laat maar eens zien!
 Toon me wat je kunt, vossendemon!
 
-1197
+1198
 01:38:45,085 --> 01:38:46,712
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloonjutsu)</i>
+(Schaduwkloon-jutsu)</i>
 
-1198
+1199
 01:38:56,013 --> 01:38:57,681
 <i>Naruto!
 Je hebt…</i>
 
-1199
+1200
 01:38:58,533 --> 01:39:00,235
 <i>Kage Bunshin no Jutsu?!</i>
 
-1200
+1201
 01:39:01,206 --> 01:39:04,379
 <i>Dat zijn echte klonen en
 een zeer geavanceerde ninjutsu!</i>
 
-1201
+1202
 01:39:06,482 --> 01:39:07,482
 Wat…?
 
-1202
+1203
 01:39:07,739 --> 01:39:10,241
 Wat is er?
 Kom op!
 
-1203
+1204
 01:39:10,319 --> 01:39:13,989
 Je ging me toch met één klap
 verslaan? Nou, hier ben ik!
 
-1204
+1205
 01:39:14,347 --> 01:39:16,766
 In dat geval…
 kom ik naar jou!
 
-1205
+1206
 01:39:33,045 --> 01:39:37,550
 Ik werd een beetje meegesleept.
 Iruka-sensei, gaat het?
 
-1206
+1207
 01:39:38,588 --> 01:39:39,588
 Ja.
 
-1207
+1208
 01:39:41,642 --> 01:39:46,128
 Naruto, kom eens hier.
 Ik wil je iets geven.
 
-1208
+1209
 01:39:49,395 --> 01:39:51,480
 Heeft iemand Naruto al gevonden?
 
-1209
+1210
 01:39:51,831 --> 01:39:52,831
 Nee.
 
-1210
+1211
 01:39:52,986 --> 01:39:55,614
 Verdomme, dit is slecht…
 
-1211
+1212
 01:39:56,689 --> 01:39:58,857
 Maak jullie geen zorgen meer.
 
-1212
+1213
 01:40:00,123 --> 01:40:01,207
 Heer Hokage!
 
-1213
+1214
 01:40:02,292 --> 01:40:05,030
 Hij komt spoedig weer terug.
 
-1214
+1215
 01:40:06,291 --> 01:40:08,335
 Sensei, hoelang nog?
 
-1215
+1216
 01:40:08,835 --> 01:40:11,004
 Goed, doe je ogen nu maar open.
 
-1216
+1217
 01:40:22,552 --> 01:40:25,268
 Gefeliciteerd met je diploma.
 
-1217
+1218
 01:40:30,101 --> 01:40:34,438
 Oké!
 Om het te vieren eten we vanavond ramen!
 
-1218
+1219
 01:40:41,628 --> 01:40:43,046
 Iruka-sensei!
 
-1219
+1220
 01:40:43,370 --> 01:40:44,538
 Dat doet pijn!
 
-1220
+1221
 01:40:45,622 --> 01:40:46,707
 <i>Naruto…</i>
 
-1221
+1222
 01:40:47,291 --> 01:40:49,800
 <i>Het leven van een ninja is zwaar…</i>
 
-1222
+1223
 01:40:49,825 --> 01:40:53,370
 <i>Maar ik wil je nu geen preek geven.</i>
 
-1223
+1224
 01:40:53,823 --> 01:40:58,077
 <i>Dat kan wel wachten
 tot we bij Ichiraku Ramen zijn…</i>
 
-1224
+1225
 01:41:06,555 --> 01:41:08,139
 Ook al was het toeval,
 
-1225
+1226
 01:41:08,245 --> 01:41:11,957
 het lijkt erop dat Naruto’s roekeloosheid
 het dorp heeft gered.
 
-1226
+1227
 01:41:12,307 --> 01:41:13,349
 Je mag gaan.
 
-1227
+1228
 01:41:13,906 --> 01:41:14,373
 Ja!
 
-1228
+1229
 01:41:19,489 --> 01:41:20,490
 Wat is er?
 
-1229
+1230
 01:41:20,701 --> 01:41:21,644
 Derde…
 
-1230
+1231
 01:41:24,170 --> 01:41:27,811
 Bedankt dat u mij Naruto
 hebt toevertrouwd.
 
-1231
+1232
 01:41:29,703 --> 01:41:35,000
 Daardoor herinnerde ik me
 waarom ik leraar wilde worden.
 
-1232
+1233
 01:41:36,295 --> 01:41:40,585
 Het kwam door iets wat
 u me lang geleden hebt gezegd.
 
-1233
+1234
 01:41:48,245 --> 01:41:50,247
 Het is alweer een jaar geleden, hè?
 
-1234
+1235
 01:41:51,200 --> 01:41:55,704
 Glimlachen terwijl je je verdriet
 verbergt, is niet makkelijk, hè?
 
-1235
+1236
 01:41:59,380 --> 01:42:05,094
 Ik hoorde van je leraar dat je iedereen
 altijd aan het lachen maakt.
 
-1236
+1237
 01:42:10,040 --> 01:42:10,902
 Ik…
 
-1237
+1238
 01:42:11,192 --> 01:42:12,699
 ben niet verdrietig!
 
-1238
+1239
 01:42:13,331 --> 01:42:15,959
 Het is een eer voor een ninja
 om op een missie te sterven!
 
-1239
+1240
 01:42:18,965 --> 01:42:20,437
 Papa en mama…
 
-1240
+1241
 01:42:20,559 --> 01:42:23,720
 hebben hun leven gegeven om het dorp
 te beschermen tegen de vossendemon!
 
-1241
+1242
 01:42:23,745 --> 01:42:24,988
 Het zijn helden!
 
-1242
+1243
 01:42:25,013 --> 01:42:30,194
 Ik ben de zoon van helden,
 dus ik mag niet verdrietig zijn!
 
-1243
+1244
 01:42:30,219 --> 01:42:31,575
 Dit zijn tranen van gelu…
 
-1244
+1245
 01:42:31,600 --> 01:42:32,810
 Genoeg.
 
-1245
+1246
 01:42:35,357 --> 01:42:39,403
 Ik weet dat je je oprolt
 als een bal als je alleen bent.
 
-1246
+1247
 01:42:41,787 --> 01:42:44,332
 Maar je bent niet alleen.
 
-1247
+1248
 01:42:45,420 --> 01:42:50,008
 De ninja van Konoha
 dragen de Wil van het Vuur in zich.
 
-1248
+1249
 01:42:52,564 --> 01:42:53,732
 De Wil van het Vuur?
 
-1249
+1250
 01:42:54,418 --> 01:42:58,214
 Het is de sterke wil om
 dit dorp te beschermen.
 
-1250
+1251
 01:42:59,256 --> 01:43:01,387
 Zolang jij de Wil van het Vuur
 in je draagt,
 
-1251
+1252
 01:43:01,412 --> 01:43:04,916
 is iedereen in het dorp
 je familie.
 
-1252
+1253
 01:43:06,471 --> 01:43:10,142
 Iruka…
 Heb jij die?
 
-1253
+1254
 01:43:16,273 --> 01:43:17,274
 Ja!
 
-1254
+1255
 01:43:21,695 --> 01:43:23,572
 Ik wil uw Wil van het Vuur
 
-1255
+1256
 01:43:23,596 --> 01:43:27,480
 doorgeven aan de volgende
 generatie kinderen, en aan Naruto.

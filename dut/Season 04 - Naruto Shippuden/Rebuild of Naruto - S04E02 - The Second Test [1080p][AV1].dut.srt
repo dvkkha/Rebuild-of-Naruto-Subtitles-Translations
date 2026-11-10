@@ -1191,7 +1191,7 @@ Jij glibberige kleine—!
 
 268
 00:16:16,558 --> 00:16:18,852
-<i>Ik kan deze Ontwijkingsjutsu
+<i>Ik kan deze Ontwijking-jutsu
 beter dan wie ook!</i>
 
 269
@@ -3786,7 +3786,7 @@ Ajisai…
 847
 00:54:04,796 --> 00:54:07,215
 <i>Kaifujutsu: Kamifubuki!
-(Ontzegelingsjutsu: Confettistorm)</i>
+(Ontzegeling-jutsu: Confettistorm)</i>
 
 848
 00:54:23,635 --> 00:54:24,636
@@ -4197,7 +4197,7 @@ laten we dan vechten.
 
 941
 01:00:29,308 --> 01:00:31,310
-<i>Ontzegelingsjutsu: Shuriken!</i>
+<i>Ontzegeling-jutsu: Shuriken!</i>
 
 942
 01:00:32,211 --> 01:00:33,212
@@ -4270,7 +4270,7 @@ een waarnemingstype bij zich.
 958
 01:01:59,757 --> 01:02:01,259
 <i>Kirisamegakure no Jutsu!
-(Verborgen in de Motregen)</i>
+(Verborgen in de Motregen-jutsu)</i>
 
 959
 01:02:13,385 --> 01:02:14,428
@@ -4601,7 +4601,7 @@ van een afstand naar je toe halen…
 1034
 01:07:30,869 --> 01:07:34,331
 De transportatietechniek, een soort
-Kuchiyose no Jutsu. (Oproepingsjutsu)
+Kuchiyose no Jutsu. (Oproeping-jutsu)
 
 1035
 01:07:35,048 --> 01:07:36,841
@@ -4788,7 +4788,7 @@ Wat?
 
 1076
 01:10:29,767 --> 01:10:30,893
-<i>Ontzegelingsjutsu!</i>
+<i>Ontzegeling-jutsu!</i>
 
 1077
 01:10:33,520 --> 01:10:35,940
@@ -5601,7 +5601,7 @@ transporteren
 
 1263
 01:21:51,306 --> 01:21:52,558
-met mijn transportatiejutsu.
+met mijn transportatie-jutsu.
 
 1264
 01:21:52,741 --> 01:21:54,951
@@ -5621,7 +5621,7 @@ of mijn chakra raakt op.
 1267
 01:22:11,718 --> 01:22:12,844
 <i>Funyu no Jutsu!
-(Insluitingsjutsu)</i>
+(Insluiting-jutsu)</i>
 
 1268
 01:22:28,985 --> 01:22:30,111
@@ -5790,7 +5790,7 @@ laten je nooit in de steek.
 
 1305
 01:24:54,839 --> 01:24:56,049
-<i>Ontzegelingsjutsu!</i>
+<i>Ontzegeling-jutsu!</i>
 
 1306
 01:25:12,941 --> 01:25:14,692

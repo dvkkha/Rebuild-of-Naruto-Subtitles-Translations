@@ -2514,7 +2514,7 @@ tot één sterkere jutsu te maken,
 
 555
 00:43:56,342 --> 00:43:57,676
-noemen we een samenwerkingsjutsu.
+noemen we een samenwerking-jutsu.
 
 556
 00:43:57,968 --> 00:44:00,220
@@ -2542,7 +2542,7 @@ Mooi, dat maakt het makkelijker.
 561
 00:44:14,151 --> 00:44:15,986
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 562
 00:44:18,489 --> 00:44:20,658
@@ -7103,7 +7103,7 @@ geheimen verborgen hielden?
 1573
 02:04:54,643 --> 02:04:58,313
 Hinata, kijk of er
-een verzegelingsjutsu of een barrière is.
+een verzegeling-jutsu of een barrière is.
 
 1574
 02:04:58,834 --> 02:04:59,453
@@ -7136,7 +7136,8 @@ Zo mooi als altijd…
 
 1581
 02:05:41,567 --> 02:05:43,164
-<i>Suisho Bunshin no Jutsu (Jadekristalkloon)</i>
+<i>Suisho Bunshin no Jutsu
+(Jadekristalkloon-jutsu)</i>
 
 1582
 02:05:58,008 --> 02:06:01,679
@@ -7479,13 +7480,11 @@ Oproeping?
 
 1656
 02:12:22,935 --> 02:12:26,271
-O… kun jij
-de Oproeping, Naruto?
+O… kun jij de Kuchiyose no Jutsu, Naruto?
 
 1657
 02:12:27,034 --> 02:12:28,828
-Wat ga je doen
-met de Oproeping?
+Wat ga je doen met de Kuchiyose no Jutsu?
 
 1658
 02:12:30,150 --> 02:12:31,860

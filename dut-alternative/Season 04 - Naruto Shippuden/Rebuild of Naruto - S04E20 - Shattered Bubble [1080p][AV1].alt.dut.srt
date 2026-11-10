@@ -939,7 +939,7 @@ van de grote aantallen!
 
 209
 00:16:23,392 --> 00:16:25,352
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 210
 00:16:30,906 --> 00:16:31,949
@@ -989,7 +989,7 @@ Ja.
 220
 00:16:59,471 --> 00:17:03,308
 Het lijkt erop dat voor de
-afscheidingsjutsu drankjes nodig zijn.
+afscheiding-jutsu drankjes nodig zijn.
 
 221
 00:17:03,622 --> 00:17:06,291
@@ -1297,7 +1297,7 @@ en dat hij van plan is
 
 288
 00:21:56,875 --> 00:21:58,919
-de afscheidingsjutsu te gebruiken
+de afscheiding-jutsu te gebruiken
 om de verboden jutsu te vernietigen.
 
 289
@@ -2353,7 +2353,7 @@ van de baas niet verstoren.
 
 527
 00:37:27,745 --> 00:37:28,996
-<i>Woordbindingsjutsu.</i>
+<i>Woordbinding-jutsu.</i>
 
 528
 00:37:34,252 --> 00:37:38,464
@@ -2474,7 +2474,7 @@ een opslagtank voor natuurlijke energie.
 554
 00:39:37,833 --> 00:39:39,960
 Je beheerst nog niet de
-activeringsjutsu die nodig is om
+activering-jutsu die nodig is om
 
 555
 00:39:39,985 --> 00:39:43,655
@@ -3145,7 +3145,7 @@ Cha!
 
 705
 00:52:01,910 --> 00:52:04,162
-<i>Houtstijl: Vierpilarenhuis!</i>
+<i>Houtstijl: Vierpilarenhuis-jutsu!</i>
 
 706
 00:52:07,415 --> 00:52:09,709
@@ -3233,7 +3233,7 @@ had je wat langer kunnen leven.
 
 725
 00:53:56,900 --> 00:53:59,444
-Waarom werkte mijn Woordbindingsjutsu…?
+Waarom werkte mijn Woordbinding-jutsu…?
 
 726
 00:53:59,861 --> 00:54:00,987
@@ -3253,11 +3253,11 @@ Ik laat het niet gebeuren!
 
 730
 00:54:15,835 --> 00:54:17,504
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 731
 00:54:19,631 --> 00:54:20,799
-<i>Woordbindingsjutsu!</i>
+<i>Woordbinding-jutsu!</i>
 
 732
 00:54:20,954 --> 00:54:21,747
@@ -3299,7 +3299,7 @@ Wauw!
 741
 00:55:04,551 --> 00:55:08,805
 Ben je vergeten dat
-mijn Woordbindingsjutsu Hotaru bestuurt?
+mijn Woordbinding-jutsu Hotaru bestuurt?
 
 742
 00:55:13,476 --> 00:55:14,602
@@ -3355,7 +3355,7 @@ Sterf!
 
 754
 00:56:02,776 --> 00:56:04,486
-<i>Toornjutsu!</i>
+<i>Toorn-jutsu!</i>
 
 755
 00:56:05,695 --> 00:56:08,448
@@ -3537,7 +3537,7 @@ Alsof ik dat laat gebeuren!
 
 796
 00:59:50,878 --> 00:59:52,297
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 797
 00:59:55,008 --> 00:59:56,009
@@ -3549,7 +3549,7 @@ Onderschat me niet!
 
 799
 01:00:00,138 --> 01:00:01,973
-<i>Woordbindingsjutsu: Explodeer!</i>
+<i>Woordbinding-jutsu: Explodeer!</i>
 
 800
 01:00:04,767 --> 01:00:07,353
@@ -3562,7 +3562,7 @@ Ik laat het niet gebeuren!
 
 802
 01:00:09,158 --> 01:00:10,534
-<i>Woordbindingsjutsu: Vlam!</i>
+<i>Woordbinding-jutsu: Vlam!</i>
 
 803
 01:00:15,278 --> 01:00:16,446
@@ -3651,7 +3651,7 @@ Schiet op en hou het tegen!
 
 823
 01:01:30,842 --> 01:01:32,969
-<i>De Woordbindingsjutsu… werkt niet.</i>
+<i>De Woordbinding-jutsu… werkt niet.</i>
 
 824
 01:01:34,173 --> 01:01:35,174
@@ -3877,7 +3877,7 @@ Droom maar verder!
 
 874
 01:04:08,086 --> 01:04:09,838
-<i>Woordbindingsjutsu!
+<i>Woordbinding-jutsu!
 Splijt!</i>
 
 875
@@ -4105,7 +4105,7 @@ Verdomme!
 
 927
 01:09:05,182 --> 01:09:06,600
-<i>Schaduwkloon!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 928
 01:09:09,770 --> 01:09:11,063
@@ -4113,7 +4113,7 @@ Volhardende klootzak!
 
 929
 01:09:11,605 --> 01:09:13,941
-<i>Woordbindingsjutsu: Vlam!</i>
+<i>Woordbinding-jutsu: Vlam!</i>
 
 930
 01:09:25,035 --> 01:09:26,996
@@ -4127,7 +4127,7 @@ wat er ook gebeurt!
 
 932
 01:09:37,173 --> 01:09:38,299
-<i>Woordbindingsjutsu!</i>
+<i>Woordbinding-jutsu!</i>
 
 933
 01:09:38,841 --> 01:09:39,592
@@ -4377,7 +4377,7 @@ Dat is de kracht die we zoeken…
 
 989
 01:14:27,862 --> 01:14:29,113
-<i>Oproeping…</i>
+<i>Oproeping-jutsu…</i>
 
 990
 01:14:33,427 --> 01:14:34,147

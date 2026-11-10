@@ -1773,7 +1773,8 @@ Dit is het plan.
 
 403
 00:35:23,719 --> 00:35:25,512
-<i>Houtstijl: Geboorte van het Diepe Woud!</i>
+<i>Houtstijl: Geboorte
+van het Diepe Woud-jutsu!</i>
 
 404
 00:35:38,324 --> 00:35:39,085
@@ -1805,7 +1806,8 @@ Goed werk, Kakashi.
 
 411
 00:36:16,359 --> 00:36:19,028
-<i>Houtstijl: Geboorte van het Diepe Woud!</i>
+<i>Houtstijl: Geboorte
+van het Diepe Woud-jutsu!</i>
 
 412
 00:36:20,455 --> 00:36:23,250
@@ -2191,7 +2193,8 @@ Wat?!
 
 496
 00:43:21,656 --> 00:43:24,158
-<i>Houtstijl: Geboorte van het Diepe Woud!</i>
+<i>Houtstijl: Geboorte
+van het Diepe Woud-jutsu!</i>
 
 497
 00:43:30,924 --> 00:43:31,835
@@ -4609,7 +4612,7 @@ nu vier jaar oud.
 
 1044
 01:30:24,086 --> 01:30:25,975
-De Houtstijl-verzegelingsjutsu
+De Houtstijl-verzegeling-jutsu
 wordt
 
 1045
@@ -6005,7 +6008,7 @@ Ik ben hem niet vergeten.
 1357
 01:50:28,215 --> 01:50:30,973
 Hij heeft me vaak gered
-met zijn oogjutsu.
+met zijn oog-jutsu.
 
 1358
 01:50:31,606 --> 01:50:34,692

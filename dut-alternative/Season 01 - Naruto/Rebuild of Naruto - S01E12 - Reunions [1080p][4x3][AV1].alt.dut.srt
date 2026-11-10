@@ -667,8 +667,8 @@ voor jou.
 
 152
 00:13:13,834 --> 00:13:15,834
-<i>- Haaienbomjutsu!
-– Haaienbomjutsu!</i>
+<i>- Haaienbom-jutsu!
+– Haaienbom-jutsu!</i>
 
 153
 00:13:20,466 --> 00:13:22,134
@@ -960,7 +960,8 @@ Maar…
 
 216
 00:17:42,786 --> 00:17:45,289
-deze bijzondere oogjutsu van de Sharingan,
+deze bijzondere oog-jutsu
+van de Sharingan,
 
 217
 00:17:45,770 --> 00:17:48,523
@@ -1736,11 +1737,11 @@ ik bescherm jou!</i>
 
 388
 00:30:18,650 --> 00:30:21,110
-<i>Meervoudige Schaduwkloon!</i>
+<i>Meervoudige Schaduwkloon-jutsu!</i>
 
 389
 00:30:27,951 --> 00:30:29,494
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 390
 00:30:39,254 --> 00:30:42,090
@@ -2534,7 +2535,7 @@ Goed zo!
 
 573
 00:44:38,300 --> 00:44:41,261
-<i>Verzegelingsjutsu: Vuurverzegeling!</i>
+<i>Verzegeling-jutsu: Vuurverzegeling!</i>
 
 574
 00:45:09,204 --> 00:45:13,876
@@ -2630,7 +2631,7 @@ Niet alleen dat, hij is buiten bewustzijn
 595
 00:46:46,211 --> 00:46:48,731
 door de geestelijke schok die hij kreeg
-van die oogjutsu!
+van die oog-jutsu!
 
 596
 00:46:50,688 --> 00:46:52,606

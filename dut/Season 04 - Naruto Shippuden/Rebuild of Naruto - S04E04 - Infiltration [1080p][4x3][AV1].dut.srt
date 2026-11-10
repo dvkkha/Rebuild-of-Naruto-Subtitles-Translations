@@ -1044,7 +1044,7 @@ Kom op!
 235
 00:16:26,707 --> 00:16:28,125
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 236
 00:16:33,075 --> 00:16:34,118
@@ -1300,7 +1300,7 @@ van Naruto’s schaduwklonen, hè?!</i>
 293
 00:22:11,167 --> 00:22:13,628
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 294
 00:22:28,681 --> 00:22:30,099
@@ -1309,7 +1309,7 @@ Waar is Kakashi-sensei?
 295
 00:22:32,726 --> 00:22:35,187
 <i>Doton: Shinju Zanshu no Jutsu!
-(Aardestijl: Onthoofdingsjutsu)</i>
+(Aardestijl: Onthoofding-jutsu)</i>
 
 296
 00:22:43,992 --> 00:22:45,076
@@ -3563,7 +3563,8 @@ Jullie geven Gaara aan mij terug!
 
 800
 01:05:48,871 --> 01:05:50,664
-Kugutsu no Jutsu (Poppenspelerjutsu), hè…?
+Kugutsu no Jutsu
+(Poppenspeler-jutsu), hè…?
 
 801
 01:05:55,618 --> 01:05:57,412

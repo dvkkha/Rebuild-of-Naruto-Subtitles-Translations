@@ -387,7 +387,7 @@ Ik kwam hier om te spioneren.
 89
 00:07:25,403 --> 00:07:27,113
 Was dat Shunshin no Jutsu?
-(Lichaamsflits)
+(Lichaamsflits-jutsu)
 
 90
 00:07:27,138 --> 00:07:28,848
@@ -710,7 +710,7 @@ daarvan mijn chakra?</i>
 161
 00:11:46,914 --> 00:11:48,582
 <i>Suikodan no Jutsu!
-(Haaienbomjutsu)</i>
+(Haaienbom-jutsu)</i>
 
 162
 00:11:53,337 --> 00:11:54,949
@@ -799,7 +799,7 @@ Ik leen even je rug!
 181
 00:13:04,241 --> 00:13:06,076
 <i>Kuchiyose no Jutsu…
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 182
 00:13:17,296 --> 00:13:19,673
@@ -924,8 +924,7 @@ het water weg.
 
 209
 00:15:16,790 --> 00:15:18,876
-<i>Daikodan no Jutsu!
-(Grote Haaienbom)</i>
+<i>Grote Suikodan no Jutsu!</i>
 
 210
 00:15:20,127 --> 00:15:21,545
@@ -934,8 +933,8 @@ het water weg.
 
 211
 00:15:32,056 --> 00:15:35,893
-<i>Deze Daikodan no Jutsu
-is geen gewone jutsu.</i>
+<i>Deze Daikodan no Jutsu (Grote
+Haaienbom) is geen gewone jutsu.</i>
 
 212
 00:15:35,935 --> 00:15:41,440
@@ -1522,7 +1521,7 @@ Dat weet ik!
 
 341
 00:26:35,385 --> 00:26:36,720
-<i>Waterkerkerjutsu!</i>
+<i>Waterkerker-jutsu!</i>
 
 342
 00:26:40,056 --> 00:26:41,725
@@ -1878,7 +1877,7 @@ Het water is zo zwaar…
 
 419
 00:32:12,530 --> 00:32:14,073
-Dit is de Waterkerkerjutsu!
+Dit is de Waterkerker-jutsu!
 
 420
 00:32:17,159 --> 00:32:19,579
@@ -2351,7 +2350,7 @@ Ik laat je je er niet mee bemoeien!
 523
 00:41:40,200 --> 00:41:42,452
 <i>Mijn Kami no Shisha no Jutsu (Papieren
-Godsboodschapper) is opgeheven.</i>
+Godsboodschapper-jutsu) is opgeheven.</i>
 
 524
 00:41:43,646 --> 00:41:47,441
@@ -3036,7 +3035,7 @@ Zachtjes, zachtjes!
 
 674
 00:54:23,520 --> 00:54:25,147
-Door de Waterkerkerjutsu
+Door de Waterkerker-jutsu
 
 675
 00:54:25,381 --> 00:54:28,134
@@ -4269,7 +4268,7 @@ Dit gaat lukken!</i>
 949
 01:12:06,544 --> 01:12:08,463
 <i>Yoton: Sekkaigyo no Jutsu!
-(Lavastijl: Ongebluste Kalk)</i>
+(Lavastijl: Ongebluste Kalk-jutsu)</i>
 
 950
 01:12:20,273 --> 01:12:21,524
@@ -4364,8 +4363,8 @@ Nu kun je niet bewegen!
 
 971
 01:13:32,954 --> 01:13:36,958
-<i>Mijn Ongebluste Kalk is als
-sneldrogend cement.</i>
+<i>Mijn Sekkaigyo no Jutsu (Ongebluste
+Kalk-jutsu) is als sneldrogend cement.</i>
 
 972
 01:13:37,687 --> 01:13:40,187

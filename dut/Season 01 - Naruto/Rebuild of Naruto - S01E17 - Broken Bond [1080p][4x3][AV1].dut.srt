@@ -40,7 +40,7 @@ Echt…
 10
 00:00:33,074 --> 00:00:34,409
 <i>Kuchiyose no Jutsu!
-(Oproeping)</i>
+(Oproeping-jutsu)</i>
 
 11
 00:00:46,615 --> 00:00:48,915
@@ -447,7 +447,7 @@ Sasuke, laten we naar huis gaan.
 102
 00:12:31,138 --> 00:12:34,474
 Kom op… Je hebt beloofd
-me een nieuwe shurikenjutsu te leren.
+me een nieuwe shuriken-jutsu te leren.
 
 103
 00:12:35,197 --> 00:12:39,476
@@ -1148,8 +1148,8 @@ De bekwaamste Uchiha.
 
 257
 00:23:40,014 --> 00:23:42,600
-De man die gevreesd werd als Shisui
-de Shunshin no Jutsu. (Lichaamsflits)
+De man die gevreesd werd als
+Shisui de Lichaamsflits.
 
 258
 00:23:43,213 --> 00:23:46,174
@@ -1457,7 +1457,7 @@ Ik ben altijd de beste van de klas, dus…
 324
 00:28:59,571 --> 00:29:01,983
 <i>Katon: Gokakyu no Jutsu!
-(Vuurstijl: Grote Vuurbal)</i>
+(Vuurstijl: Grote Vuurbal-jutsu)</i>
 
 325
 00:29:08,121 --> 00:29:09,122
@@ -1829,7 +1829,7 @@ Laat vader het je leren.
 
 409
 00:35:55,377 --> 00:35:59,548
-Maar jij bent beter in shurikenjutsu,
+Maar jij bent beter in shuriken-jutsu,
 grote broer…
 
 410
@@ -1907,7 +1907,7 @@ Je lunchtrommeltje, Sasuke!
 426
 00:37:36,520 --> 00:37:37,980
 Als je je zorgen maakt over het
-oefenen van shurikenjutsu,
+oefenen van shuriken-jutsu,
 
 427
 00:37:38,005 --> 00:37:40,341
@@ -2309,11 +2309,11 @@ opgetekende geheim van…
 517
 00:47:05,341 --> 00:47:11,549
 het ware doel van de
-oogjutsu van de Uchiha-clan.
+oog-jutsu van de Uchiha-clan.
 
 518
 00:47:12,786 --> 00:47:15,264
-<i>Het ware doel van de oogjutsu
+<i>Het ware doel van de oog-jutsu
 van de Uchiha-clan…?</i>
 
 519
@@ -2640,7 +2640,7 @@ als het moet!
 591
 00:54:56,026 --> 00:54:57,645
 <i>Kage Bunshin no Jutsu!
-(Schaduwkloon)</i>
+(Schaduwkloon-jutsu)</i>
 
 592
 00:55:10,099 --> 00:55:11,475
@@ -2768,7 +2768,7 @@ lezen?
 620
 00:58:07,776 --> 00:58:10,613
 <i>Katon: Hosenka no Jutsu!
-(Vuurstijl: Feniksbloem)</i>
+(Vuurstijl: Feniksbloem-jutsu)</i>
 
 621
 00:58:24,585 --> 00:58:28,714
@@ -3352,7 +3352,7 @@ Sasuke!
 752
 01:13:12,430 --> 01:13:14,390
 <i>Katon: Ryuka no Jutsu!
-(Vuurstijl: Drakenvlam)</i>
+(Vuurstijl: Drakenvlam-jutsu)</i>
 
 753
 01:13:53,221 --> 01:13:56,552
@@ -4432,8 +4432,8 @@ Meester Viezerik?
 
 995
 01:46:42,146 --> 01:46:46,567
-Ik heb onderzoek gedaan naar
-de Onsterfelijkheidsjutsu van Orochimaru.
+Ik heb onderzoek gedaan
+naar de Fushi Tensei van Orochimaru.
 
 996
 01:46:47,169 --> 01:46:48,461

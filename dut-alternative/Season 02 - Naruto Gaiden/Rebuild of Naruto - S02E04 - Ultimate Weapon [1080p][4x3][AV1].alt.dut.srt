@@ -1,6 +1,6 @@
 1
 00:01:36,638 --> 00:01:37,639
-<i>Oproeping!</i>
+<i>Oproeping-jutsu!</i>
 
 2
 00:01:48,691 --> 00:01:50,652
@@ -2087,7 +2087,7 @@ zoals ons met wind wegblazen</i>
 
 470
 00:40:42,892 --> 00:40:44,018
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 471
 00:40:44,947 --> 00:40:45,947
@@ -2469,7 +2469,7 @@ Nu!
 
 556
 00:48:20,270 --> 00:48:21,939
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 557
 00:48:23,229 --> 00:48:24,070
@@ -2739,7 +2739,7 @@ Laat de rest aan ons over!
 
 619
 00:52:29,985 --> 00:52:31,569
-<i>Gedeeltelijke Vergrotingsjutsu!</i>
+<i>Gedeeltelijke Vergroting-jutsu!</i>
 
 620
 00:52:33,905 --> 00:52:35,782

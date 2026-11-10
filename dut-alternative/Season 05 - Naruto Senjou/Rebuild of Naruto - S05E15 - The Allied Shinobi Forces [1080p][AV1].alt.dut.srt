@@ -430,7 +430,7 @@ voorlopig door hun chakra heen zijn.
 
 100
 00:08:19,706 --> 00:08:21,862
-Je favoriete schaduwkloonjutsu?
+Je favoriete schaduwkloon-jutsu?
 
 101
 00:08:22,084 --> 00:08:24,086
@@ -609,11 +609,11 @@ tegenover Hinata, Naruto!
 
 141
 00:10:48,356 --> 00:10:50,149
-<i>Keverstoringsjutsu!</i>
+<i>Keverstoring-jutsu!</i>
 
 142
 00:10:53,032 --> 00:10:54,784
-<i>Mistverbergingsjutsu!</i>
+<i>Mistverberging-jutsu!</i>
 
 143
 00:11:02,936 --> 00:11:04,354
@@ -968,8 +968,8 @@ gieten we ongebluste kalk erin!</i>
 
 221
 00:16:06,810 --> 00:16:09,854
-– <i>Lavastijl: Ongebluste Kalk!</i>
-– <i>Lavastijl: Ongebluste Kalk!</i>
+– <i>Lavastijl: Ongebluste Kalk-jutsu!</i>
+– <i>Lavastijl: Ongebluste Kalk-jutsu!</i>
 
 222
 00:16:14,512 --> 00:16:16,389
@@ -978,8 +978,8 @@ Jullie zijn de volgende!</i>
 
 223
 00:16:17,203 --> 00:16:19,789
-– <i>Waterstijl: Waterbomjutsu!</i>
-– <i>Waterstijl: Waterbomjutsu!</i>
+– <i>Waterstijl: Waterbom-jutsu!</i>
+– <i>Waterstijl: Waterbom-jutsu!</i>
 
 224
 00:16:20,849 --> 00:16:22,767
@@ -1004,7 +1004,7 @@ Kom op!
 
 229
 00:16:33,544 --> 00:16:35,462
-<i>Vuurstijl: Majestueuze Vlam!</i>
+<i>Vuurstijl: Majestueuze Vlam-jutsu!</i>
 
 230
 00:16:36,412 --> 00:16:39,123
@@ -1590,7 +1590,7 @@ Probeer ze gewoon te ontwijken.
 
 360
 00:26:57,824 --> 00:26:59,823
-<i>Mijn Bergjutsu zou hem
+<i>Mijn Berg-jutsu zou hem
 in elk geval moeten vertragen</i>
 
 361
@@ -1663,7 +1663,7 @@ zijn niet genoeg…</i>
 
 377
 00:28:01,221 --> 00:28:03,515
-<i>Aardestijl: Bergjutsu!</i>
+<i>Aardestijl: Berg-jutsu!</i>
 
 378
 00:28:06,810 --> 00:28:07,977
@@ -2201,7 +2201,7 @@ deze chakra gebruiken…</i>
 
 500
 00:36:55,454 --> 00:36:56,789
-<i>Schaduwkloonjutsu!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 501
 00:36:59,759 --> 00:37:00,968
@@ -2265,7 +2265,7 @@ ze kracht van Naruto kreeg…
 
 515
 00:38:02,405 --> 00:38:04,031
-<i>Vergrotingsjutsu!</i>
+<i>Vergroting-jutsu!</i>
 
 516
 00:38:08,179 --> 00:38:09,764
@@ -2318,7 +2318,7 @@ Ze blijven maar komen…
 
 527
 00:38:45,781 --> 00:38:48,034
-Nu de verlammingsjutsu van de Nara-clan…
+Nu de verlamming-jutsu van de Nara-clan…
 
 528
 00:38:50,286 --> 00:38:52,872
@@ -2978,7 +2978,7 @@ Ik kan het niet langer tegenhouden!
 671
 00:50:02,874 --> 00:50:05,127
 Verdomme! Hij stoot
-deze Bergjutsu af,
+deze Berg-jutsu af,
 
 672
 00:50:05,152 --> 00:50:06,570
@@ -4690,7 +4690,7 @@ Zo te zien waren het niet alleen praatjes.
 
 1054
 01:17:13,503 --> 01:17:15,881
-<i>Houtstijl: Houtkloonjutsu!</i>
+<i>Houtstijl: Houtkloon-jutsu!</i>
 
 1055
 01:17:19,384 --> 01:17:21,626
@@ -4925,11 +4925,11 @@ met deze jutsu!
 
 1106
 01:20:46,619 --> 01:20:48,495
-<i>Schaduwkloonjutsu!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1107
 01:20:49,199 --> 01:20:50,659
-Zei je net Schaduwkloonjutsu?
+Zei je net Schaduwkloon-jutsu?
 
 1108
 01:20:50,686 --> 01:20:52,488
@@ -5127,11 +5127,11 @@ wat we kunnen, toch?
 
 1152
 01:23:43,018 --> 01:23:44,519
-<i>Vergrotingsjutsu!</i>
+<i>Vergroting-jutsu!</i>
 
 1153
 01:23:48,606 --> 01:23:50,358
-<i>Schaduwwurggreep!</i>
+<i>Schaduwwurggreep-jutsu!</i>
 
 1154
 01:24:05,790 --> 01:24:09,753
@@ -5296,8 +5296,8 @@ op elk moment genezen.
 
 1190
 01:26:23,944 --> 01:26:25,445
-– <i>Oproepingsjutsu!</i>
-– <i>Oproepingsjutsu!</i>
+– <i>Oproeping-jutsu!</i>
+– <i>Oproeping-jutsu!</i>
 
 1191
 01:26:42,989 --> 01:26:43,990
@@ -5485,7 +5485,7 @@ Het is in orde.
 1233
 01:29:32,524 --> 01:29:35,527
 Deze slakken horen bij
-de geneesjutsu van de Vijfde.
+de genees-jutsu van de Vijfde.
 
 1234
 01:29:35,870 --> 01:29:37,705
@@ -6321,7 +6321,7 @@ Deze leen ik even.
 
 1420
 01:44:54,823 --> 01:44:56,197
-<i>Grote Vuurbal!</i>
+<i>Grote Vuurbal-jutsu!</i>
 
 1421
 01:44:58,956 --> 01:44:59,790
@@ -6544,7 +6544,7 @@ Madara’s chakra!</i>
 
 1471
 01:51:05,325 --> 01:51:07,369
-<i>Wedergeboorte van Rinne?</i>
+<i>Wedergeboorte van Rinne-jutsu?</i>
 
 1472
 01:51:08,117 --> 01:51:11,620
@@ -6596,7 +6596,7 @@ Oké!
 
 1483
 01:51:46,026 --> 01:51:47,880
-<i>Schaduwkloonjutsu!</i>
+<i>Schaduwkloon-jutsu!</i>
 
 1484
 01:51:50,203 --> 01:51:51,413
@@ -6692,7 +6692,7 @@ Dat is Heer Vierde Hokage!
 
 1506
 01:54:55,060 --> 01:54:57,687
-Een markering van de Teleportatiejutsu
+Een markering van de Teleportatie-jutsu
 verdwijnt nooit.
 
 1507
