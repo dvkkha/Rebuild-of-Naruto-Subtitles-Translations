@@ -15,13 +15,14 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 
 | Language | Folder | File suffix | Episodes | Notes |
 |---|---|---|---|---|
-| 🇩🇪 German | [`ger/`](ger/) | `.ger.srt` | 73 / 73 | Jutsu names in Japanese, with a German translation in parentheses on first mention |
-| 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 73 / 73 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
-| 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 73 / 73 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
+| 🇬🇧 English | [`eng/`](eng/) | `.en.srt` | 1 / 74 | Only *The Last* (S07E01), which is missing from Maediem's English subtitles. All other episodes: see Maediem's repository |
+| 🇩🇪 German | [`ger/`](ger/) | `.ger.srt` | 74 / 74 | Jutsu names in Japanese, with a German translation in parentheses on first mention |
+| 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 74 / 74 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
+| 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 74 / 74 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
 
 Each language folder has its own README in that language.
 
-**Not included:** *The Last – Naruto the Movie* (S07E01), because there is no English source for it.
+**Note:** Maediem's repository has no subtitles for *The Last – Naruto the Movie* (S07E01). The [`eng/`](eng/) folder provides English subtitles for it, converted from the English subtitle track of the Rebuild release. The German and Dutch translations of this episode are based on that file. The ending song is marked with ♪ in the translations and not translated.
 
 ---
 
@@ -59,7 +60,7 @@ Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].alt.dut.srt  (Dutch,
 | `Season 04 - Naruto Shippuden` | S04E01 – S04E23 |
 | `Season 05 - Naruto Senjou` | S05E01 – S05E19 |
 | `Season 06 - Itachi Shiden` | S06E01 |
-| `Season 07 - Naruto Hiden` | S07E02 – S07E04 |
+| `Season 07 - Naruto Hiden` | S07E01 – S07E04 |
 | `Season 08 - Naruto Next Generations` | S08E01 – S08E02 |
 
 ### Getting your player to load the subtitles

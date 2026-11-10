@@ -19,7 +19,7 @@ Weitere Sprachen findest du in der [Übersicht des Repositorys](../README.md).
 
 Dieses Projekt bietet:
 
-- **Vollständige deutsche Untertitel** für alle Folgen des Rebuilds (außer *The Last*, siehe unten).
+- **Vollständige deutsche Untertitel** für alle Folgen des Rebuilds.
 - **Gleiches Timing wie die englischen Untertitel von Maediem**: Nummern, Zeitstempel und Zeilenumbrüche sind identisch. Die Untertitel passen also auf die **Rebuild-spezifischen Schnitte** und nicht auf die Original-Folgen.
 - **Einheitliche Begriffe** über alle Folgen hinweg, z. B.:
   - Jutsu-Namen auf Japanisch mit deutscher Übersetzung in Klammern beim ersten Vorkommen, z. B. *Kage Bunshin no Jutsu (Schattendoppelgänger)*
@@ -45,10 +45,10 @@ Die Untertitel haben dieselbe Ordnerstruktur und Benennung wie die englischen Un
 | `Season 04 - Naruto Shippuden` | S04E01 – S04E23 |
 | `Season 05 - Naruto Senjou` | S05E01 – S05E19 |
 | `Season 06 - Itachi Shiden` | S06E01 |
-| `Season 07 - Naruto Hiden` | S07E02 – S07E04 |
+| `Season 07 - Naruto Hiden` | S07E01 – S07E04 |
 | `Season 08 - Naruto Next Generations` | S08E01 – S08E02 |
 
-**Nicht enthalten:** *The Last – Naruto the Movie* (S07E01), da es dafür keine englische Vorlage gibt.
+**Hinweis:** Für *The Last – Naruto the Movie* (S07E01) gibt es bei Maediem keine Untertitel. Diese Folge wurde nach der englischen Untertitelspur aus dem Rebuild-Release übersetzt (siehe Ordner [`eng/`](../eng/)). Das Abspannlied ist mit ♪ markiert und nicht übersetzt.
 
 ---
 

@@ -28,7 +28,7 @@ Verder is de tekst van beide versies precies hetzelfde. Kies gewoon de versie di
 
 ## Wat je kunt verwachten
 
-- **Volledige Nederlandse ondertitels** voor alle afleveringen van de Rebuild (behalve *The Last*, zie hieronder).
+- **Volledige Nederlandse ondertitels** voor alle afleveringen van de Rebuild.
 - **Dezelfde nummering en tijdcodes als de Engelse ondertitels van Maediem**. De ondertitels passen dus op de **Rebuild-montage** en niet op de originele afleveringen.
 - **Goed leesbaar:** maximaal 42 tekens per regel en maximaal 2 regels per ondertitel.
 - **Vaste termen** in alle afleveringen, bijvoorbeeld:
@@ -56,10 +56,10 @@ De mappen en bestandsnamen zijn dezelfde als bij de Engelse ondertitels van Maed
 | `Season 04 - Naruto Shippuden` | S04E01 – S04E23 |
 | `Season 05 - Naruto Senjou` | S05E01 – S05E19 |
 | `Season 06 - Itachi Shiden` | S06E01 |
-| `Season 07 - Naruto Hiden` | S07E02 – S07E04 |
+| `Season 07 - Naruto Hiden` | S07E01 – S07E04 |
 | `Season 08 - Naruto Next Generations` | S08E01 – S08E02 |
 
-**Niet inbegrepen:** *The Last – Naruto the Movie* (S07E01), omdat daar geen Engelse bron voor is.
+**Let op:** voor *The Last – Naruto the Movie* (S07E01) heeft Maediem geen ondertitels. Deze aflevering is vertaald op basis van het Engelse ondertitelspoor uit de Rebuild-release (zie map [`eng/`](../eng/)). Het eindlied is met ♪ gemarkeerd en niet vertaald.
 
 ---
 
