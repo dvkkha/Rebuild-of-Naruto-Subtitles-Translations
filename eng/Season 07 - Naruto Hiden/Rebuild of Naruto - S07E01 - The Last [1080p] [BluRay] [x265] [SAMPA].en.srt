@@ -91,7 +91,8 @@ Are you stupid?
 
 21
 00:02:41,995 --> 00:02:44,487
-Get ready! Shadow Clone Jutsu!
+Get ready! Kage Bunshin no Jutsu!
+(Shadow Clone Jutsu)
 
 22
 00:02:49,920 --> 00:02:51,502
@@ -952,7 +953,7 @@ That's Hanabi!
 
 223
 00:15:42,483 --> 00:15:43,473
-Super Beast Scroll!
+Chōjū Giga! (Super Beast Scroll)
 
 224
 00:16:04,130 --> 00:16:05,165
@@ -1089,7 +1090,8 @@ What're you doing to Hinata?!
 
 256
 00:18:24,729 --> 00:18:26,345
-Multi-Shadow Clone Jutsu!
+Tajū Kage Bunshin no Jutsu!
+(Multi-Shadow Clone Jutsu)
 
 257
 00:18:37,908 --> 00:18:38,898
@@ -1472,8 +1474,8 @@ NINJA ACADEMY
 
 345
 00:26:03,645 --> 00:26:05,682
-<i>Ninja Art! Beast Mimicry!</i>
-<i>All-Fours Jutsu!</i>
+<i>Gijū Ninpō! (Ninja Art! Beast Mimicry!)</i>
+<i>Shikyaku no Jutsu! (All-Fours Jutsu)</i>
 
 346
 00:26:05,856 --> 00:26:06,846
@@ -1497,7 +1499,7 @@ NINJA ACADEMY
 
 351
 00:26:25,209 --> 00:26:26,745
-<i>Universal Pull!</i>
+<i>Banshō Ten’in! (Universal Pull)</i>
 
 352
 00:26:32,674 --> 00:26:33,835
@@ -1529,7 +1531,7 @@ NINJA ACADEMY
 
 359
 00:27:00,494 --> 00:27:02,030
-<i>Universal Pull.</i>
+<i>Banshō Ten’in.</i>
 
 360
 00:27:19,138 --> 00:27:21,800
@@ -2049,7 +2051,7 @@ in a genjutsu again!
 
 483
 00:34:11,841 --> 00:34:12,922
-Super Beast Scroll!
+Chōjū Giga!
 
 484
 00:34:18,807 --> 00:34:20,138
@@ -2061,7 +2063,7 @@ Damn it!
 
 486
 00:34:51,172 --> 00:34:52,162
-Shadow Stitching!
+Kage Nui! (Shadow Stitching)
 
 487
 00:34:57,178 --> 00:34:58,168
@@ -2896,16 +2898,18 @@ Please keep calm!
 
 684
 00:52:33,275 --> 00:52:35,016
-Water Style! Water Dragon Jutsu!
+Suiton! Suiryūdan no Jutsu!
+(Water Style! Water Dragon Jutsu)
 
 685
 00:52:36,070 --> 00:52:37,856
-Lava Style! Lava Monster Jutsu!
+Yōton! Yōkai no Jutsu!
+(Lava Style! Lava Monster Jutsu)
 
 686
 00:52:41,408 --> 00:52:43,991
-Particle Style!
-Atomic Dismantling Jutsu!
+Jinton! Genkai Hakuri no Jutsu!
+(Particle Style! Atomic Dismantling Jutsu)
 
 687
 00:52:50,834 --> 00:52:52,074
@@ -3498,7 +3502,7 @@ Sai, retreat!
 
 820
 01:03:18,461 --> 01:03:19,747
-Super Beast Scroll!
+Chōjū Giga!
 
 821
 01:03:28,805 --> 01:03:32,218
@@ -4132,7 +4136,7 @@ Rasen Shuriken!
 
 965
 01:15:11,298 --> 01:15:12,663
-Shadow Paralysis Jutsu!
+Kagemane no Jutsu! (Shadow Paralysis Jutsu)
 
 966
 01:15:18,431 --> 01:15:19,592
@@ -4254,8 +4258,8 @@ This way?
 
 994
 01:17:52,126 --> 01:17:53,992
-Wind Style!
-Sky Sand Defensive Wall!
+Fūton! Kūsa Bōheki!
+(Wind Style! Sky Sand Defensive Wall)
 
 995
 01:18:04,471 --> 01:18:06,462
@@ -4496,7 +4500,8 @@ What?
 
 1052
 01:22:03,836 --> 01:22:06,294
-Eight Trigrams Twin Lion Surging Shot!
+Hakke Sōjishi Hōgeki!
+(Eight Trigrams Twin Lion Surging Shot)
 
 1053
 01:22:20,894 --> 01:22:22,430
@@ -4835,7 +4840,8 @@ It's Toneri!
 
 1132
 01:29:33,994 --> 01:29:35,405
-Silver Wheel Rebirth Explosion!
+Ginrin Tensei Baku!
+(Silver Wheel Rebirth Explosion)
 
 1133
 01:29:56,391 --> 01:29:56,846
@@ -5036,11 +5042,12 @@ I won't let the Earth get destroyed!
 
 1179
 01:33:14,172 --> 01:33:15,458
-Rasen-Rampage!
+Rasenrangan! (Rasen-Rampage)
 
 1180
 01:33:34,109 --> 01:33:35,895
-Golden Wheel Rebirth Explosion!
+Kinrin Tensei Baku!
+(Golden Wheel Rebirth Explosion)
 
 1181
 01:33:38,363 --> 01:33:39,398
@@ -5088,11 +5095,11 @@ What?!
 
 1192
 01:34:36,379 --> 01:34:38,666
-Massive...Rasengan...
+Chōōdama... Rasen...
 
 1193
 01:34:38,756 --> 01:34:39,996
-Barrage!
+Tarengan! (Massive Rasengan Barrage)
 
 1194
 01:35:04,657 --> 01:35:07,069

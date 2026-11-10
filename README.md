@@ -5,7 +5,7 @@ This repository provides **translated subtitles** for the fan edit *Rebuild of N
 All translations are based on the revised English subtitles by **Maediem**:
 👉 [Maediem/Rebuild-of-Naruto-Subtitles](https://github.com/Maediem/Rebuild-of-Naruto-Subtitles/)
 
-Many thanks to Maediem for the improved English subtitles timed to the Rebuild cuts. This project would not be possible without them.
+Many thanks to Maediem for the improved English subtitles timed to the Rebuild cuts. This project would not be possible without them. Maediem also kindly gave permission to publish an edited version of his English subtitles with Japanese jutsu names (see [`eng/`](eng/)).
 
 > ⚠️ **Disclaimer:** This project is **not affiliated with the *Rebuild of Naruto* fan edit itself** and is not responsible for it. It only provides subtitles for viewers of the Rebuild version.
 
@@ -15,14 +15,14 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 
 | Language | Folder | File suffix | Episodes | Notes |
 |---|---|---|---|---|
-| 🇬🇧 English | [`eng/`](eng/) | `.en.srt` | 1 / 74 | Only *The Last* (S07E01), which is missing from Maediem's English subtitles. All other episodes: see Maediem's repository |
+| 🇬🇧 English | [`eng/`](eng/) | `.en.srt` | 74 / 74 | Maediem's subtitles with Japanese jutsu names, with the English name in parentheses on first mention in each episode (published with Maediem's permission). Includes *The Last* (S07E01) |
 | 🇩🇪 German | [`ger/`](ger/) | `.ger.srt` | 74 / 74 | Jutsu names in Japanese, with a German translation in parentheses on first mention |
 | 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 74 / 74 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
 | 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 74 / 74 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
 
 Each language folder has its own README in that language.
 
-**Note:** Maediem's repository has no subtitles for *The Last – Naruto the Movie* (S07E01). The [`eng/`](eng/) folder provides English subtitles for it, converted from the English subtitle track of the Rebuild release. The German and Dutch translations of this episode are based on that file. The ending song is marked with ♪ in the translations and not translated.
+**Note:** Maediem's repository has no subtitles for *The Last – Naruto the Movie* (S07E01). The [`eng/`](eng/) folder includes English subtitles for it, converted from the English subtitle track of the Rebuild release. The German and Dutch translations of this episode are based on that file. The ending song is marked with ♪ in the translations and not translated. S07E01 files are named after the release: `Rebuild of Naruto - S07E01 - The Last [1080p] [BluRay] [x265] [SAMPA]`.
 
 ---
 
@@ -98,6 +98,7 @@ Then open a **pull request**, or get in touch via an issue or on Discord.
 ## Credits
 
 - **Maediem** – revised English subtitles that all translations are based on ([Maediem/Rebuild-of-Naruto-Subtitles](https://github.com/Maediem/Rebuild-of-Naruto-Subtitles/))
+  Many thanks to Maediem for the source subtitles and for permission to publish an edited English version with Japanese jutsu names (`eng/`).
 - **Vinstaro** – help with the Dutch subtitles
 
 ---
