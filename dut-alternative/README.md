@@ -4,6 +4,8 @@ Dit is de **alternatieve Nederlandse versie** met **Nederlandse jutsu-namen** (*
 
 Verder is de tekst precies dezelfde als in de hoofdversie in [`dut/`](../dut/). Daar gebruiken de ondertitels Japanse jutsu-namen, met de Nederlandse vertaling tussen haakjes de eerste keer in elke aflevering.
 
+Met dank aan **Vinstaro** voor de hulp bij de Nederlandse ondertitels.
+
 Alle informatie over de vertaling, de mappen en het hernoemen van bestanden staat in de [README van de hoofdversie](../dut/README.md).
 
 > Let op: gebruik per aflevering maar **één** van de twee versies. Als je ze allebei naast de video zet, kiest je speler er zelf een.

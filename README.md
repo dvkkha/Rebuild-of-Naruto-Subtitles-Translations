@@ -16,7 +16,7 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 | Language | Folder | File suffix | Episodes | Notes |
 |---|---|---|---|---|
 | 🇩🇪 German | [`ger/`](ger/) | `.ger.srt` | 73 / 73 | Jutsu names in Japanese, with a German translation in parentheses on first mention |
-| 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 73 / 73 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode |
+| 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 73 / 73 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
 | 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 73 / 73 | Same text, but with Dutch jutsu names (*Schaduwkloon* instead of *Kage Bunshin no Jutsu*) |
 
 Each language folder has its own README in that language.
@@ -91,6 +91,13 @@ New translations are welcome! To keep everything consistent:
 5. Use the [jutsu list](docs/Jutsu-List.csv) as a starting point for jutsu names. A column for your language is welcome too.
 
 Then open a **pull request**, or get in touch via an issue or on Discord.
+
+---
+
+## Credits
+
+- **Maediem** – revised English subtitles that all translations are based on ([Maediem/Rebuild-of-Naruto-Subtitles](https://github.com/Maediem/Rebuild-of-Naruto-Subtitles/))
+- **Vinstaro** – help with the Dutch subtitles
 
 ---
 

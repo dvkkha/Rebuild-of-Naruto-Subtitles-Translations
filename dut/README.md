@@ -7,6 +7,8 @@ De vertaling is gebaseerd op de verbeterde Engelse ondertitels van **Maediem**:
 
 Veel dank aan Maediem voor de verbeterde Engelse ondertitels, afgestemd op de Rebuild-montage. Zonder hem was dit project niet mogelijk geweest.
 
+Met dank aan **Vinstaro** voor de hulp bij de Nederlandse ondertitels.
+
 > ⚠️ **Let op:** dit project heeft **geen enkele band met de fan-edit *Rebuild of Naruto* zelf** en is er niet verantwoordelijk voor. Het levert alleen ondertitels voor kijkers van de Rebuild-versie.
 
 Andere talen vind je in het [overzicht van de repository](../README.md).
