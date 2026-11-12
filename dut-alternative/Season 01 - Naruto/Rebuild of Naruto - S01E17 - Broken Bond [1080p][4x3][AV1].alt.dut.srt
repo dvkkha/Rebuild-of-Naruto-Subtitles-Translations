@@ -5,11 +5,11 @@ Wat zei je?!
 2
 00:00:03,253 --> 00:00:06,131
 Bedoel je dat alleen nieuwelingen
-achter Sasuke aan zijn gegaan?!
+Sasuke zijn gevolgd?!
 
 3
 00:00:06,699 --> 00:00:08,326
-Er was echt niets aan te doen…
+Er was niets aan te doen…
 
 4
 00:00:09,049 --> 00:00:11,440
@@ -69,12 +69,12 @@ Oké.
 
 17
 00:01:03,605 --> 00:01:05,482
-Zodra je hebt vastgesteld dat
-je de geur hebt opgepikt,
+Zodra je de geur
+hebt opgepikt,
 
 18
 00:01:05,507 --> 00:01:07,509
-geef je me een seintje en kom ik meteen.
+sein je mij en kom ik meteen.
 
 19
 00:01:08,457 --> 00:01:09,875
@@ -128,16 +128,17 @@ dat degene die Sasuke kan tegenhouden…</i>
 
 30
 00:04:18,123 --> 00:04:20,959
-<i>Naruto… dat ben jij alleen.</i>
+<i>Naruto… dat ben jij.</i>
 
 31
 00:04:22,053 --> 00:04:27,558
 <i>Naruto… Dit is een…
-verzoek voor het leven…</i>
+eenmalig verzoek…</i>
 
 32
 00:04:28,793 --> 00:04:33,048
-<i>Alsjeblieft… breng Sasuke terug.</i>
+<i>Breng Sasuke…
+Breng Sasuke terug.</i>
 
 33
 00:04:36,776 --> 00:04:38,903
@@ -219,8 +220,8 @@ Wie het ook is,
 
 51
 00:06:13,119 --> 00:06:15,037
-niemand heeft het recht
-mij te vertellen wat ik moet doen.
+niemand vertelt mij
+wat ik moet doen.
 
 52
 00:06:17,043 --> 00:06:18,461
@@ -555,7 +556,7 @@ altijd
 126
 00:14:16,379 --> 00:14:19,215
 verantwoordelijk voor het beschermen
-van de bevolking en de vrede in dit dorp.
+van de bevolking en de vrede hier.
 
 127
 00:14:19,942 --> 00:14:24,321
@@ -641,7 +642,7 @@ Over de speciale missie van morgen…
 
 145
 00:15:26,300 --> 00:15:27,718
-Ik heb besloten dat ik ook met je meega.
+Ik heb besloten dat ik met je meega.
 
 146
 00:15:29,011 --> 00:15:29,803
@@ -725,7 +726,7 @@ Je linkerbeen…
 
 164
 00:16:44,654 --> 00:16:46,218
-Leg er zeker ijs op.
+Leg er ijs op.
 
 165
 00:16:48,048 --> 00:16:48,757
@@ -805,7 +806,7 @@ Ja.
 
 182
 00:17:50,986 --> 00:17:52,738
-Ik vraag me af… of hij ook geweldig is.
+Is hij ook zo geweldig?
 
 183
 00:17:53,322 --> 00:17:55,365
@@ -1095,8 +1096,8 @@ de vergadering kwam, was Shisui.
 
 246
 00:22:54,289 --> 00:22:58,960
-Als ik het me goed herinner, keek je naar
-hem op als naar een echte grote broer.
+Zoals ik me herinner, keek je altijd
+naar hem op als naar een grote broer.
 
 247
 00:23:01,063 --> 00:23:05,286
@@ -1220,12 +1221,12 @@ Luister goed, Itachi.
 
 273
 00:24:37,338 --> 00:24:39,924
-Probeer maar eens zoiets
-als de clan verraden en…
+Als je probeert de clan
+te verraden,
 
 274
 00:24:40,224 --> 00:24:41,934
-dat kost je duur!
+komt dat je duur te staan!
 
 275
 00:24:50,764 --> 00:24:52,307
@@ -1254,7 +1255,7 @@ je eigen vermogens…
 280
 00:25:09,409 --> 00:25:13,837
 en onderschatten de mijne.
-Daarom krimpen jullie voor me ineen.
+Daarom vrezen jullie mij.
 
 281
 00:25:14,596 --> 00:25:17,098
@@ -1485,7 +1486,7 @@ en spuwt het daarna in één keer uit.
 
 331
 00:29:24,012 --> 00:29:24,512
-Probeer het maar.
+Probeer maar.
 
 332
 00:29:24,929 --> 00:29:25,472
@@ -1638,11 +1639,11 @@ Dat is het niet…
 
 367
 00:32:19,479 --> 00:32:21,356
-Ik heb… de jutsu door.
+De jutsu heb ik door.
 
 368
 00:32:22,065 --> 00:32:23,608
-Dus ik wil dat u het ziet.
+Ik wil het u laten zien.
 
 369
 00:32:39,374 --> 00:32:40,875
@@ -1654,7 +1655,7 @@ Dus ik wil dat u het ziet.
 
 371
 00:33:15,159 --> 00:33:17,582
-Dat is mijn jongen.
+Zoals verwacht van mijn zoon.
 
 372
 00:33:20,741 --> 00:33:21,892
@@ -1672,11 +1673,11 @@ op je rug.
 
 375
 00:33:32,969 --> 00:33:33,886
-Juist!
+Ja!
 
 376
 00:33:34,322 --> 00:33:36,684
-En… laat me één ding zeggen.
+En… nog één ding.
 
 377
 00:33:39,017 --> 00:33:41,102
@@ -1726,11 +1727,11 @@ broer niet goed met elkaar overweg, dus…
 
 387
 00:34:31,611 --> 00:34:33,112
-Ik dacht…
+Ik denk…
 
 388
 00:34:34,447 --> 00:34:36,499
-dat ik misschien gewoon een vervanger
+dat ik gewoon een vervanger
 voor grote broer ben.
 
 389
@@ -1813,17 +1814,17 @@ Grote broer!
 
 406
 00:35:43,975 --> 00:35:44,957
-Kun je me vandaag…
+Kun je…
 
 407
 00:35:45,576 --> 00:35:48,841
-na school helpen
+vandaag na school helpen
 met mijn shurikentraining?
 
 408
 00:35:49,879 --> 00:35:54,068
 Ik heb het druk…
-Laat vader het je leren.
+Vader kan het je leren.
 
 409
 00:35:55,377 --> 00:35:59,548
@@ -1941,7 +1942,7 @@ Hij is al een eersteklas shinobi.
 434
 00:38:03,888 --> 00:38:06,717
 Hij studeerde op zijn zevende als beste
-van zijn klas af aan de Academie,
+van zijn klas af,
 
 435
 00:38:06,742 --> 00:38:09,078
@@ -2176,16 +2177,15 @@ Waarom heb je het gedaan?
 
 488
 00:44:04,391 --> 00:44:08,270
-Om de grenzen van mijn
-eigen kunnen te testen.
+Om mijn eigen grenzen te testen.
 
 489
 00:44:09,229 --> 00:44:12,149
-Om je eigen vermogen te meten?
+Om je eigen grenzen te testen?
 
 490
 00:44:13,875 --> 00:44:15,085
-Is dat alles?
+Daarom?
 
 491
 00:44:19,239 --> 00:44:23,369
@@ -2307,26 +2307,25 @@ opgetekende geheim van…
 517
 00:47:05,341 --> 00:47:11,549
 het ware doel van de
-oog-jutsu van de Uchiha-clan.
+oogjutsu van de Uchiha-clan.
 
 518
 00:47:12,786 --> 00:47:15,264
-<i>Het ware doel van de oog-jutsu
+<i>Het ware doel van de oogjutsu
 van de Uchiha-clan…?</i>
 
 519
 00:47:17,059 --> 00:47:19,353
-Als je deze ogen verkrijgt,
+Als je net zoals ik,
 
 520
 00:47:19,792 --> 00:47:22,411
-word je de derde persoon,
-mezelf meegerekend,
+de Mangekyo Sharingan verkrijgt,
+word je
 
 521
 00:47:22,436 --> 00:47:25,647
-die
-de Mangekyo Sharingan gebruikt.
+de derde eigenaar.
 
 522
 00:47:26,468 --> 00:47:27,928
@@ -2478,7 +2477,7 @@ die het heeft overleefd…
 
 555
 00:51:27,793 --> 00:51:30,379
-<i>Dat is mijn jongen.</i>
+<i>Zoals verwacht van mijn zoon.</i>
 
 556
 00:51:31,589 --> 00:51:35,092
@@ -2560,11 +2559,13 @@ Het was niet zinloos…
 
 573
 00:53:30,145 --> 00:53:36,318
-Voor mij werd je mijn… beste vriend.
+Voor mij werd je mijn…
+beste vriend.
 
 574
 00:53:37,840 --> 00:53:40,259
-We zijn… vrienden geworden?
+We zijn…
+vrienden geworden?
 
 575
 00:53:41,343 --> 00:53:42,720
@@ -2572,7 +2573,7 @@ Waarom dan?!
 
 576
 00:53:42,818 --> 00:53:44,570
-Juist daarom…
+Juist om die reden…
 
 577
 00:53:46,015 --> 00:53:47,683
@@ -2593,7 +2594,7 @@ tegen me wilt vechten!
 
 581
 00:54:03,949 --> 00:54:05,166
-Sasuke…!
+Sasuke!
 
 582
 00:54:15,392 --> 00:54:16,977
@@ -2628,7 +2629,7 @@ Jij…!
 589
 00:54:48,410 --> 00:54:52,456
 Ik doe hetzelfde!
-Ik sla je knock-out…
+Ik sla je bewusteloos…
 
 590
 00:54:52,481 --> 00:54:54,998
@@ -2658,7 +2659,7 @@ kracht zo ver pareren…</i>
 
 596
 00:56:06,572 --> 00:56:07,781
-<i>Naruto…!</i>
+<i>Naruto…</i>
 
 597
 00:56:16,665 --> 00:56:21,211
@@ -2756,7 +2757,7 @@ En?
 618
 00:57:59,810 --> 00:58:02,661
 Kon jij echt
-in mijn hart…
+mijn hart…
 
 619
 00:58:03,630 --> 00:58:05,033
@@ -2823,11 +2824,12 @@ besloot ik dat je mijn rivaal was.</i>
 
 633
 00:59:29,709 --> 00:59:31,502
-<i>en ik voelde dat nog sterker…</i>
+<i>en dat gevoel werd sterker…</i>
 
 634
 00:59:31,940 --> 00:59:33,873
-<i>omdat ik een loser werd genoemd.</i>
+<i>omdat iedereen mij
+een mislukking vond.</i>
 
 635
 00:59:36,323 --> 00:59:38,660
@@ -2868,8 +2870,8 @@ je dat zei!</i>
 
 643
 01:00:12,516 --> 01:00:17,306
-<i>Dat waren je eerste woorden…
-waarmee je me erkende…</i>
+<i>Dat waren de eerste woorden…
+waarmee je mij erkende…</i>
 
 644
 01:00:18,742 --> 01:00:21,161
@@ -2898,7 +2900,7 @@ vuisten hoefden uit te wisselen!</i>
 
 650
 01:00:40,847 --> 01:00:45,893
-<i>Maar… jij probeert me
+<i>Maar nu probeer jij me…
 echt uit te schakelen.</i>
 
 651
@@ -2916,11 +2918,12 @@ wat je daarnet zei.</i>
 
 654
 01:01:00,370 --> 01:01:01,788
-<i>Dat was misschien…</i>
+<i>Maar…</i>
 
 655
 01:01:03,452 --> 01:01:05,871
-<i>Dat was misschien alleen ik…</i>
+<i>Maar misschien zag ik dat
+alleen zo…</i>
 
 656
 01:01:08,498 --> 01:01:10,292
@@ -2936,11 +2939,11 @@ Naruto!
 
 659
 01:01:27,935 --> 01:01:31,563
-<i>Ik ben zo zielig, hè…</i>
+<i>Ik ben echt een sukkel, hè?</i>
 
 660
 01:01:36,276 --> 01:01:38,099
-<i>Ik weet niet waarom, maar…</i>
+<i>Ik weet niet waarom…</i>
 
 661
 01:01:41,949 --> 01:01:43,751
@@ -2952,16 +2955,16 @@ Naruto!
 
 663
 01:01:50,374 --> 01:01:51,148
-<i>Ik…</i>
+<i>Ik wil…</i>
 
 664
 01:01:56,976 --> 01:01:58,097
-<i>wil niet dat jij…</i>
+<i>niet dat jij…</i>
 
 665
 01:02:02,010 --> 01:02:06,306
-<i>wordt meegenomen
-door iemand als Orochimaru!</i>
+<i>door iemand als Orochimaru
+wordt meegenomen!</i>
 
 666
 01:02:14,773 --> 01:02:17,776
@@ -2974,11 +2977,12 @@ maar het heeft geen zin.
 
 668
 01:02:23,699 --> 01:02:25,438
-Je kunt geen handtekens maken…
+Nu kan je niet meer
 
 669
 01:02:26,143 --> 01:02:28,395
-of die jutsu van je nog gebruiken.
+handtekens of die jutsu
+meer gebruiken.
 
 670
 01:02:33,000 --> 01:02:34,075
@@ -2990,7 +2994,7 @@ of die jutsu van je nog gebruiken.
 
 672
 01:03:58,335 --> 01:03:59,961
-<i>Wat is dit voor een intimiderende kracht?</i>
+<i>Wat is dit voor een aura?!</i>
 
 673
 01:04:01,135 --> 01:04:04,138
@@ -3003,7 +3007,7 @@ rode chakra daarnet?</i>
 
 675
 01:04:09,930 --> 01:04:12,432
-Wat ben jij in vredesnaam?!
+Wat ben jij in godsnaam?!
 
 676
 01:04:13,725 --> 01:04:15,143
@@ -3011,21 +3015,21 @@ Je vriend!
 
 677
 01:04:16,645 --> 01:04:18,355
-Daarom zeg ik je
+Daarom zeg ik
 
 678
 01:04:18,480 --> 01:04:20,982
-dat ik niet laat gebeuren dat iemand als
-Orochimaru je in handen krijgt!
+dat Orochimaru jou niet
+in zijn handen krijgt!
 
 679
 01:04:21,191 --> 01:04:24,111
-Ik zeg je, ik hou je tegen…
+Daarom zal ik je tegenhouden…
 
 680
 01:04:24,507 --> 01:04:27,135
-zelfs als ik elk bot
-in je lichaam moet breken!
+al moet ik
+je botten breken!
 
 681
 01:05:13,762 --> 01:05:16,139
@@ -3039,12 +3043,12 @@ Kom tot jezelf!
 683
 01:06:05,228 --> 01:06:09,024
 Als je niet bij zinnen komt,
-moet ik je botten breken
+zal ik je botten breken
 
 684
 01:06:09,128 --> 01:06:12,285
-zodat je niet kunt bewegen en dan
-neem ik je zo mee naar huis, Sasuke!
+en dan neem ik je zo mee
+naar huis, Sasuke!
 
 685
 01:06:15,388 --> 01:06:17,307
@@ -3076,7 +3080,7 @@ lijd ik zo!
 
 691
 01:06:38,680 --> 01:06:41,014
-Hoe kun jij nou begrijpen…
+Hoe kun jij ooit begrijpen…
 
 692
 01:06:41,612 --> 01:06:43,695
@@ -3089,8 +3093,8 @@ Het is waar dat ik niet kan begrijpen…
 
 694
 01:07:14,458 --> 01:07:16,446
-hoe het voelt om echt
-ouders of broers te hebben…
+hoe het is om ouders of
+broers te hebben…
 
 695
 01:07:17,826 --> 01:07:18,868
@@ -3122,13 +3126,13 @@ hun innerlijke mens verwarmen.</i>
 
 701
 01:07:36,720 --> 01:07:40,015
-<i>Hé! Hé! Laat je niet te veel meeslepen
-en eet niet te veel!</i>
+<i>Hé! Hé! Zorg dat je niet
+te veel eet!</i>
 
 702
 01:07:41,641 --> 01:07:45,854
-Misschien is dit…
-hoe het voelt om een vader te hebben.
+Dat het zo voelt…
+om een vader te hebben.
 
 703
 01:07:48,784 --> 01:07:50,123
@@ -3140,7 +3144,7 @@ Als ik bij jou ben…
 
 705
 01:07:53,298 --> 01:07:55,300
-<i>Wat zei je, loser?!</i>
+<i>Wat zei je, sukkel?!</i>
 
 706
 01:07:56,656 --> 01:07:59,576
@@ -3149,8 +3153,7 @@ wat er ook gebeurt!</i>
 
 707
 01:07:59,743 --> 01:08:01,244
-<i>Zeg maar
-wat je wilt.</i>
+<i>Je doet maar.</i>
 
 708
 01:08:02,805 --> 01:08:04,014
@@ -3158,26 +3161,26 @@ wat je wilt.</i>
 
 709
 01:08:04,039 --> 01:08:05,999
-<i>Ga je maar niet
-te comfortabel voelen.</i>
+<i>Doe maar niet
+zo stoer.</i>
 
 710
 01:08:08,030 --> 01:08:11,701
-Misschien…
-is dit hoe het is om een broer te hebben.
+Misschien voelt het zo
+om een broer te hebben.
 
 711
 01:08:13,937 --> 01:08:15,612
-Waarom, Naruto…?
+Waarom, Naruto?
 
 712
 01:08:16,919 --> 01:08:19,546
-Waarom ga je zo ver voor mij?
+Waarom ga je voor mij zo ver?
 
 713
 01:08:19,842 --> 01:08:23,303
-Omdat dit voor mij de eerste
-echte band is die ik ooit heb gehad!
+Omdat ik eindelijk een band
+met iemand voel.
 
 714
 01:08:44,226 --> 01:08:47,756
@@ -3202,7 +3205,7 @@ Dan verbreek ik die band.
 
 719
 01:09:27,497 --> 01:09:29,082
-Die band verbreken…?
+Verbreken, hè?
 
 720
 01:09:32,168 --> 01:09:35,505
@@ -3242,8 +3245,8 @@ Maar…
 
 728
 01:10:02,491 --> 01:10:06,829
-je kunt nog niet eens
-een krasje op mijn voorhoofd maken.
+je kunt nog steeds geen schrammetje
+op mijn voorhoofd maken.
 
 729
 01:10:07,745 --> 01:10:09,956
@@ -3252,8 +3255,8 @@ helemaal niets aan.
 
 730
 01:10:10,331 --> 01:10:13,960
-Het lijkt erop dat wat ik ook zeg,
-het geen effect meer heeft, hè?
+Ik geloof dat het niks uitmaakt
+wat ik zeg, hè?
 
 731
 01:10:15,336 --> 01:10:16,963
@@ -3261,7 +3264,7 @@ Sasuke!
 
 732
 01:10:17,547 --> 01:10:19,382
-Ik ben klaar met praten…
+Genoeg gepraat…
 
 733
 01:10:20,341 --> 01:10:22,760
@@ -3269,7 +3272,7 @@ Vanaf nu is het alleen nog vechten.
 
 734
 01:10:23,636 --> 01:10:24,319
-Kom op!
+Kom!
 
 735
 01:10:35,023 --> 01:10:36,232
@@ -3277,8 +3280,8 @@ Kom op!
 
 736
 01:10:51,623 --> 01:10:53,500
-<i>Ik kan nu
-de bewegingen van deze gast zien…</i>
+<i>Ik kan nu zijn
+bewegingen zien…</i>
 
 737
 01:10:53,525 --> 01:10:55,610
@@ -3304,7 +3307,7 @@ in hoe hij zijn kracht gebruikt…</i>
 742
 01:11:18,191 --> 01:11:22,362
 <i>zie ik helder
-een beeld van zijn volgende zet.</i>
+wat zijn volgende zet wordt.</i>
 
 743
 01:11:30,578 --> 01:11:32,288
@@ -3317,12 +3320,12 @@ en kan ik die sparen.</i>
 
 745
 01:11:36,584 --> 01:11:39,504
-<i>Het vloekzegel kost
+<i>Het vloekzegel verbruikt
 te veel chakra.</i>
 
 746
 01:11:41,297 --> 01:11:42,924
-<i>Als ik zoveel kan zien…</i>
+<i>Nu ik zoveel kan zien…</i>
 
 747
 01:11:43,049 --> 01:11:49,414
@@ -3335,7 +3338,7 @@ op Naruto’s bewegingen die ik voorzie.</i>
 
 749
 01:12:02,819 --> 01:12:05,405
-<i>Hij leest mijn bewegingen volledig.</i>
+<i>Hij doorziet mijn aanvallen volledig.</i>
 
 750
 01:12:08,074 --> 01:12:09,784
@@ -3364,53 +3367,53 @@ Naruto!
 
 756
 01:15:02,123 --> 01:15:05,042
-Jij bent zwak, hè, jongen?
+Jij bent zwak, hè, jochie?
 
 757
 01:15:12,216 --> 01:15:16,679
-Je mag mij wel dankbaar zijn…
+Jij mag mij…
 
 758
 01:15:17,604 --> 01:15:19,897
-en de Vierde,
+wel dankbaar zijn.
 
 759
 01:15:19,922 --> 01:15:24,510
-die mij in zo’n snotaap
-als jij heeft verzegeld!
+En ook degene die mij in zo’n snotaap
+als jij opsloot: de Vierde Hokage!
 
 760
 01:15:48,795 --> 01:15:50,630
-Wat is er aan de hand?
+Wat gebeurt er?
 
 761
 01:17:06,747 --> 01:17:08,499
-<i>Wat was dat net?</i>
+<i>Wat was dat nou?</i>
 
 762
 01:17:09,333 --> 01:17:11,210
-<i>Zelfs als ik Naruto’s bewegingen
-volledig kan lezen…</i>
+<i>Ik kan Naruto’s
+bewegingen wel lezen…</i>
 
 763
 01:17:11,294 --> 01:17:13,921
-<i>maakt zijn chakra
-een eigen beweging.</i>
+<i>maar zijn chakra
+gaat zijn eigen gang.</i>
 
 764
 01:17:15,381 --> 01:17:19,093
-<i>Het is alsof de chakra zelf
-een eigen wil heeft…</i>
+<i>Het lijkt wel of de chakra
+een eigen wil heeft.</i>
 
 765
 01:17:21,053 --> 01:17:23,264
-<i>Zelfs met mijn ogen
-kan ik hem niet volledig lezen.</i>
+<i>Ook met mijn ogen
+kan ik niet alles doorzien.</i>
 
 766
 01:17:24,765 --> 01:17:27,977
 <i>Die rode chakra…
-dat is geen gewone chakra!</i>
+is geen gewone chakra!</i>
 
 767
 01:17:30,980 --> 01:17:33,316
@@ -3422,7 +3425,7 @@ dat is geen gewone chakra!</i>
 
 769
 01:17:37,142 --> 01:17:41,355
-<i>die Akatsuki ons heeft gegeven.</i>
+<i>die de Akatsuki ons heeft gegeven.</i>
 
 770
 01:17:41,834 --> 01:17:42,877
@@ -3483,8 +3486,7 @@ hè, Naruto?
 
 783
 01:20:35,498 --> 01:20:38,751
-Het is zeker waar
-dat jij bijzonder bent…
+Je bent zeker speciaal.
 
 784
 01:20:40,961 --> 01:20:42,171
@@ -3492,7 +3494,7 @@ Maar…
 
 785
 01:20:43,339 --> 01:20:45,988
-ik ben bijzonderder dan jij.
+ik ben specialer dan jij.
 
 786
 01:20:53,891 --> 01:20:55,434
@@ -3500,11 +3502,11 @@ ik ben bijzonderder dan jij.
 
 787
 01:21:08,864 --> 01:21:10,491
-Met bijzonder…
+Speciaal?
 
 788
 01:21:11,825 --> 01:21:15,591
-Met bijzonder bedoelde je dat?!
+Noem je dit speciaal?!
 
 789
 01:21:20,985 --> 01:21:22,987
@@ -3540,11 +3542,11 @@ wat risico’s te hebben, hè?
 
 796
 01:23:16,367 --> 01:23:17,660
-Wist je dat?
+Wist je …
 
 797
 01:23:23,916 --> 01:23:25,125
-Dat deze plek…
+dat deze plek…
 
 798
 01:23:25,834 --> 01:23:28,420
@@ -3552,8 +3554,8 @@ het Dal van het Einde heet.
 
 799
 01:23:31,090 --> 01:23:37,012
-Dit is een passend toneel,
-vind je niet, Naruto?
+Dit is een passend strijdtoneel.
+Toch, Naruto?
 
 800
 01:23:46,814 --> 01:23:48,440
@@ -3561,21 +3563,21 @@ O ja…
 
 801
 01:23:49,775 --> 01:23:52,378
-Ik zei dat er
-niet meer gepraat zou worden, hè?
+Ik zei toch: “genoeg gepraat”?
 
 802
 01:23:53,946 --> 01:23:56,949
-Nou, in dat geval,
-zullen we er een einde aan maken…?
+Zullen we er dan maar
+een einde aan maken?
 
 803
 01:23:57,604 --> 01:23:59,265
-Aan dit gevecht…
+Aan ons gevecht…
 
 804
 01:24:00,160 --> 01:24:02,204
-Aan al onze gevechten tot nu toe!
+En al onze gevechten
+tot nu toe!
 
 805
 01:24:46,540 --> 01:24:47,520
@@ -3623,11 +3625,11 @@ Naruto…
 
 815
 01:30:22,724 --> 01:30:24,392
-Ik weet wat voor persoon je bent…
+Ik ken jou…
 
 816
 01:30:25,477 --> 01:30:26,907
-Je hebt vast wanhopig gevochten.
+Je hebt alles gegeven.
 
 817
 01:30:33,679 --> 01:30:35,013
@@ -3662,7 +3664,7 @@ met een eeuwige strijd…
 
 824
 01:31:27,482 --> 01:31:29,735
-Net als het lot van de twee mensen
+Net als het lot van de twee
 die op deze beelden hier staan,
 
 825
@@ -3687,7 +3689,7 @@ Zolang Naruto en Sasuke allebei leven…
 
 830
 01:32:27,667 --> 01:32:30,112
-<i>alles doen wat jij zegt!</i>
+<i>doen wat jij zegt!</i>
 
 831
 01:32:37,992 --> 01:32:41,537
@@ -3700,7 +3702,7 @@ op mijn eigen manier!</i>
 
 833
 01:32:47,878 --> 01:32:49,338
-<i>Zonder mankeren!</i>
+<i>Zonder twijfel!</i>
 
 834
 01:33:03,376 --> 01:33:06,225
@@ -3746,7 +3748,7 @@ Hoe is het met Naruto Uzumaki?
 
 844
 01:33:59,342 --> 01:34:00,191
-Het gaat goed met hem.
+Het gaat goed.
 
 845
 01:34:01,052 --> 01:34:04,723
@@ -3760,12 +3762,11 @@ Hoe is het met de andere genin?
 847
 01:34:14,706 --> 01:34:17,125
 Ja!
-Op bevel van de Hokage
 
 848
 01:34:17,209 --> 01:34:18,953
-zijn de eerste en tweede medische eenheid
-uitgezonden…
+De Hokage beval de eerste en
+tweede eenheid te sturen.
 
 849
 01:34:19,557 --> 01:34:21,593
@@ -3799,7 +3800,7 @@ zijn in kritieke toestand.
 855
 01:34:40,209 --> 01:34:42,294
 Op dit moment
-valt niet te zeggen wat er gaat gebeuren.
+zijn hun situaties onzeker.
 
 856
 01:34:55,065 --> 01:34:56,232
@@ -3824,11 +3825,11 @@ Breng nu het hertengewei!
 
 861
 01:35:18,338 --> 01:35:19,005
-Ja, vrouwe!
+Ja!
 
 862
 01:35:24,549 --> 01:35:26,306
-Hoe is het met hem, zus?
+Hoe is hij, zus?
 
 863
 01:35:33,705 --> 01:35:35,631
@@ -3837,12 +3838,12 @@ Voorlopig geen wandelingen voor hem…
 864
 01:35:36,061 --> 01:35:38,021
 De spieren van zijn ledematen
-zijn ernstig beschadigd.
+zijn erg beschadigd.
 
 865
 01:35:38,191 --> 01:35:40,777
 Jij bent toch dierenarts, zus?
-Kun je iets doen…?
+Kun je iets…
 
 866
 01:35:41,006 --> 01:35:42,067
@@ -3878,17 +3879,17 @@ om de cellen te regenereren,
 
 873
 01:36:18,819 --> 01:36:21,876
-dus reken je niet verkeerd bij de
+dus onderschat niet de
 regeneratiesnelheid van de wonden!
 
 874
 01:36:22,147 --> 01:36:22,958
-Juist!
+Ja!
 
 875
 01:36:23,862 --> 01:36:26,364
-Doe de chakrabeheersing
-alsof we een draad door een naald halen!
+De chakra-beheersing
+moet zeer nauwkeurig gebeuren!
 
 876
 01:36:26,698 --> 01:36:27,657
@@ -3896,8 +3897,7 @@ Begrepen!
 
 877
 01:36:48,888 --> 01:36:51,432
-Het heeft geen zin dat
-jij gefrustreerd raakt, toch?
+Je zorgen maken heeft geen zin, toch?
 
 878
 01:36:52,840 --> 01:36:54,976
@@ -3936,7 +3936,8 @@ dat ik niet geschikt ben als shinobi.
 
 886
 01:37:24,437 --> 01:37:27,884
-Verrassend kwetsbaar… voor een man.
+Verrassend kwetsbaar…
+voor een man.
 
 887
 01:37:29,641 --> 01:37:30,862
@@ -3973,17 +3974,17 @@ Shikamaru…
 
 895
 01:38:03,766 --> 01:38:06,756
-Laat je je door een meisje
-afkraken en loop je gewoon weg?
+Loop jij weg nadat een meisje
+je heeft afgekraakt?
 
 896
 01:38:07,982 --> 01:38:09,348
-Ik wil geen ruzie.
+Het is gedoe.
 
 897
 01:38:09,373 --> 01:38:13,169
-Het is een gedoe,
-en bovendien ben ik geen vrouw.
+Ik heb geen zin in ruzie,
+en ik ben geen vrouw.
 
 898
 01:38:13,665 --> 01:38:16,933
@@ -3996,8 +3997,8 @@ Je bent gewoon een lafaard!
 
 900
 01:38:20,478 --> 01:38:23,148
-Zelfs als je stopt als shinobi,
-gaan de missies gewoon door.
+Als je stopt blijven
+de missies doorgaan.
 
 901
 01:38:23,773 --> 01:38:26,109
@@ -4023,31 +4024,30 @@ de teamleider was…
 
 906
 01:38:40,115 --> 01:38:42,941
-blijft je kameraden dat
-misschien bespaard.
+bleven je kameraden misschien
+wel in leven.
 
 907
 01:38:43,895 --> 01:38:47,438
-Als je over deze keer nadenkt,
-de ervaring gebruikt en ervan leert,
+Leer van deze keer en
+gebruik de ervaring
 
 908
 01:38:47,689 --> 01:38:50,688
-kun je missies misschien
-nog beter uitvoeren.
+om je volgende missies
+nog beter uit te voeren.
 
 909
 01:38:53,361 --> 01:38:56,406
-Als je echt vindt dat je kameraden
-belangrijk voor je zijn,
+Als je echt om je kameraden geeft
 
 910
 01:38:56,682 --> 01:38:58,827
-denk dan, voor je aan wegrennen denkt…
+denk dan in plaats van wegrennen
 
 911
 01:38:59,388 --> 01:39:03,900
-na over hoe je de leider wordt
+over hoe je de leider wordt
 die zij nodig hebben!
 
 912
@@ -4057,7 +4057,7 @@ lafaard!
 
 913
 01:39:28,592 --> 01:39:30,215
-Het gaat nu goed met hem!
+Het gaat goedkomen!
 
 914
 01:39:32,717 --> 01:39:35,061
@@ -4071,7 +4071,7 @@ bijwerkingen van de pillen.
 
 916
 01:39:39,200 --> 01:39:41,559
-Je was deze keer een enorme hulp, Shikaku.
+Je was een enorme hulp, Shikaku.
 
 917
 01:39:42,317 --> 01:39:45,897
@@ -4099,7 +4099,7 @@ Vrouwe Tsunade!
 922
 01:40:01,846 --> 01:40:05,022
 Neji Hyuga…
-Zijn leven is niet langer in gevaar.
+Hij is uit de kritieke toestand!
 
 923
 01:40:08,378 --> 01:40:10,588
@@ -4131,7 +4131,7 @@ Dat is het allerbelangrijkste.
 
 929
 01:40:50,420 --> 01:40:51,806
-De volgende keer zeker…
+De volgende keer…
 
 930
 01:40:52,515 --> 01:40:54,296
@@ -4222,8 +4222,8 @@ naar Konoha.
 
 949
 01:43:02,151 --> 01:43:04,387
-Als ze dat niet had gedaan, zou Choji
-op dit moment…
+Als ze dat niet had gedaan
+was Choji…
 
 950
 01:43:06,768 --> 01:43:10,059
@@ -4231,7 +4231,7 @@ De Vijfde Hokage…
 
 951
 01:43:20,140 --> 01:43:21,350
-Kom je op bezoek?
+Op bezoek?
 
 952
 01:43:22,851 --> 01:43:24,449
@@ -4248,12 +4248,11 @@ Naruto…
 955
 01:43:40,381 --> 01:43:42,842
 Ik hoorde dat je
-behoorlijk ernstig gewond was…
+ernstig gewond was…
 
 956
 01:43:43,561 --> 01:43:45,344
-Maar je ziet er goed uit,
-gezien de omstandigheden…
+Maar je ziet er goed uit…
 
 957
 01:43:50,266 --> 01:43:52,602
@@ -4281,7 +4280,7 @@ Ik…
 962
 01:44:14,540 --> 01:44:19,507
 Hé… Het is mooi weer vandaag.
-Doe dus de gordijnen open.
+Doe de gordijnen open.
 
 963
 01:44:23,983 --> 01:44:25,985
@@ -4295,7 +4294,7 @@ wat er ook gebeurt!
 
 965
 01:44:29,137 --> 01:44:33,141
-Ik heb het beloofd op mijn leven.
+Ik heb het beloofd.
 Dat heb ik gezegd, dus ik…!
 
 966
@@ -4370,7 +4369,7 @@ Drie jaar…?
 982
 01:45:58,938 --> 01:46:03,094
 Ik heb betrouwbare
-informatie over Akatsuki gekregen.
+informatie over de Akatsuki gekregen.
 
 983
 01:46:03,595 --> 01:46:04,464
@@ -4391,8 +4390,7 @@ Dat kan me niet schelen!
 
 987
 01:46:17,971 --> 01:46:19,858
-Praten over dingen die
-zo ver in de toekomst liggen…
+Dat is nog zo ver weg…
 
 988
 01:46:20,275 --> 01:46:23,091
@@ -4404,11 +4402,12 @@ Wat bedoel je?
 
 990
 01:46:26,047 --> 01:46:28,466
-Als ik niet meteen achter Sasuke aan ga,
+Ik moet eerst Sasuke
+achtervolgen!
 
 991
 01:46:28,684 --> 01:46:31,520
-wordt hij misschien
+Anders wordt Sasuke
 door Orochimaru gedood!
 
 992
@@ -4432,12 +4431,12 @@ de Onsterfelijkheid-jutsu van Orochimaru.
 
 996
 01:46:47,169 --> 01:46:48,461
-Het schijnt dat hij met die jutsu
+Met die jutsu
 
 997
 01:46:48,669 --> 01:46:54,075
-pas over drie jaar weer naar
-een nieuw vat kan overgaan.
+kan hij pas over drie jaar weer naar
+een nieuw vat overgaan.
 
 998
 01:46:54,617 --> 01:46:59,584
@@ -4467,7 +4466,7 @@ Maar…
 
 1004
 01:47:21,644 --> 01:47:24,438
-vergeet Sasuke…
+Sasuke moet je vergeten.
 
 1005
 01:47:26,505 --> 01:47:30,801
@@ -4490,8 +4489,8 @@ Sasuke is net als Orochimaru.
 
 1009
 01:47:45,385 --> 01:47:49,146
-Als je erover denkt hem terug te halen,
-vergeet het dan maar.
+Als je denkt hem terug te kunnen halen,
+vergeet het.
 
 1010
 01:47:49,257 --> 01:47:52,469
@@ -4563,7 +4562,7 @@ wat ik aan het doen was.</i>
 1025
 01:48:48,606 --> 01:48:51,567
 <i>uiteindelijk zou hij
-onmogelijk terugkomen.</i>
+nooit terugkomen.</i>
 
 1026
 01:48:52,137 --> 01:48:56,674
@@ -4577,16 +4576,16 @@ hetzelfde meemaakt…</i>
 
 1028
 01:49:06,763 --> 01:49:09,724
-Als je achter Sasuke aan gaat,
+Als je Sasuke achterna gaat,
 komt er geen training.
 
 1029
 01:49:10,414 --> 01:49:12,136
-Dan laat ik de ANBU je in de gaten houden
+De ANBU zal op je letten
 
 1030
 01:49:12,245 --> 01:49:15,421
-en verbied ik je zo nodig
+en dan verbied ik je
 het dorp te verlaten.
 
 1031
@@ -4596,7 +4595,7 @@ Je bent geen gewoon joch…
 1032
 01:49:20,262 --> 01:49:22,807
 Je hebt de Kyubi in je,
-waar Akatsuki achter aan zit!
+waar de Akatsuki achter aan zit!
 
 1033
 01:49:23,371 --> 01:49:25,659
@@ -4628,8 +4627,8 @@ toch gebeuren.
 
 1039
 01:49:45,617 --> 01:49:48,766
-Hou op met lijden om hem.
-Laat hem gewoon gaan.
+Hou op met lijden.
+Laat het los.
 
 1040
 01:49:49,750 --> 01:49:51,418
@@ -4651,7 +4650,7 @@ Als je een dwaas blijft…
 
 1044
 01:50:01,387 --> 01:50:03,889
-is de werkelijkheid dat het zwaar wordt
+wordt het zwaar
 om in deze wereld te leven.
 
 1045
@@ -4660,12 +4659,11 @@ Prima.
 
 1046
 01:50:09,946 --> 01:50:12,326
-Als dat wijs zijn is…
+Als dat wijsheid is…
 
 1047
 01:50:12,984 --> 01:50:14,693
-dan ben ik de rest van mijn leven
-graag een dwaas!
+dan blijf ik een dwaas!
 
 1048
 01:50:16,861 --> 01:50:17,945
@@ -4678,13 +4676,13 @@ ik Sasuke terug, wat er ook gebeurt!
 
 1050
 01:50:22,242 --> 01:50:25,486
-En ik schop Akatsuki
+En ik schop de Akatsuki
 ook nog eens in elkaar!
 
 1051
 01:50:41,173 --> 01:50:44,051
 Als iemand zoals jij
-het alleen zou doen…
+dit alleen zou doen…
 
 1052
 01:50:45,300 --> 01:50:46,866

@@ -2463,7 +2463,7 @@ wordt het interessant.
 558
 00:45:09,844 --> 00:45:13,306
 Zorg ervoor dat je deze
-test niet afgelast.
+test niet stopt.
 
 559
 00:45:15,433 --> 00:45:18,436
@@ -2626,7 +2626,7 @@ vallende blaadjes kan vangen…</i>
 595
 00:48:31,545 --> 00:48:33,923
 <i>blijft het voor altijd
-een onbeantwoorde liefde! Of eigenlijk…</i>
+een onbeantwoorde liefde!</i>
 
 596
 00:48:34,586 --> 00:48:36,484
@@ -2826,8 +2826,7 @@ Jullie hebben Sasuke dit aangedaan.
 
 639
 00:51:21,143 --> 00:51:22,644
-Hoe kunnen jullie zeggen
-dat jullie met hem willen vechten?!
+Waarom willen jullie vechten?!
 
 640
 00:51:23,592 --> 00:51:28,322
@@ -4979,7 +4978,7 @@ Een hinderlaag, toch?
 
 1132
 01:23:36,549 --> 01:23:38,885
-Met andere woorden, we gaan
+Oftewel, we gaan
 achter de rollen aan van de teams
 
 1133

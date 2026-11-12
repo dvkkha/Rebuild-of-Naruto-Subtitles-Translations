@@ -366,7 +366,7 @@ Hè?
 84
 00:05:56,269 --> 00:06:00,107
 Ze zijn opdringerig,
-ze bemoeien zich overal mee,
+en bemoeien zich overal mee,
 
 85
 00:06:00,151 --> 00:06:04,030
@@ -764,7 +764,7 @@ Lee…
 
 175
 00:13:17,546 --> 00:13:20,424
-Als ik had geweten dat dit zou gebeuren,
+Als ik dit had geweten,
 had ik je hier nooit mee naartoe genomen.
 
 176
@@ -924,7 +924,7 @@ Hé, wacht even.
 
 210
 00:15:55,162 --> 00:15:56,705
-Ik weet niet echt wat er aan de hand is,
+Ik weet niet wat er aan de hand is,
 
 211
 00:15:56,789 --> 00:16:00,834
@@ -975,7 +975,7 @@ Hier is het helemaal niet leuk.
 
 221
 00:16:38,964 --> 00:16:40,256
-Het is hier precies zoals de Derde Hokage.
+Het is net als de Derde.
 
 222
 00:16:40,374 --> 00:16:41,458
@@ -1090,7 +1090,7 @@ Heb je haar gevonden, Tonton?
 
 247
 00:20:31,650 --> 00:20:34,862
-Celrevitalisatie, zie ik.
+Celrevitalisatie, hè.
 
 248
 00:20:43,323 --> 00:20:45,492
@@ -1133,7 +1133,7 @@ met de naam Kabuto?
 
 257
 00:21:15,403 --> 00:21:16,237
-Wat is er met hem?
+Wat dan?
 
 258
 00:21:16,508 --> 00:21:20,054
@@ -1321,7 +1321,7 @@ je revalidatie hebt overgeslagen?
 
 299
 00:25:00,169 --> 00:25:01,128
-Dat kan echt niet!
+Dat kan niet!
 
 300
 00:25:10,967 --> 00:25:12,636
@@ -1451,7 +1451,7 @@ Kan ik worden zoals u?</i>
 327
 00:27:33,860 --> 00:27:36,696
 Waarom gebeurt zoiets
-alleen mij?
+bij mij?
 
 328
 00:27:37,405 --> 00:27:39,536
@@ -1562,8 +1562,8 @@ die het gevecht zagen
 
 352
 00:29:29,376 --> 00:29:31,586
-en de examinatoren waren
-ook die mening toegedaan…
+en de examinatoren deelden
+die mening ook.
 
 353
 00:29:32,535 --> 00:29:35,663
@@ -1897,8 +1897,7 @@ Mooi geschild.
 
 427
 00:35:00,807 --> 00:35:02,975
-Ik snijd hem in stukjes zodat
-hij makkelijk te eten is, en…
+Ik snijd hem in stukjes…
 
 428
 00:35:04,227 --> 00:35:05,853
@@ -1928,8 +1927,8 @@ Wat is er?
 
 434
 00:35:23,996 --> 00:35:26,457
-Vecht tegen me…
-Nu meteen!
+Laten we nu…
+Vechten!
 
 435
 00:35:27,917 --> 00:35:31,921
@@ -1942,7 +1941,7 @@ Wat zeg je nou?
 
 437
 00:35:33,631 --> 00:35:35,007
-Vecht gewoon!
+Laten we vechten!
 
 438
 00:35:38,469 --> 00:35:39,428
@@ -1954,13 +1953,13 @@ Denk je dat je me hebt gered?
 
 440
 00:35:42,473 --> 00:35:44,392
-Het kan me niet schelen of ze de Vijfde
-Hokage is of wat dan ook, maar…
+Het kan me niet schelen
+of ze de Vijfde is…
 
 441
 00:35:44,588 --> 00:35:46,090
-ze had zich gewoon
-met haar eigen zaken moeten bemoeien!
+Ik heb nergens
+om gevraagd!
 
 442
 00:35:46,644 --> 00:35:47,353
@@ -1997,8 +1996,8 @@ Dit is perfect!
 
 450
 00:36:12,670 --> 00:36:15,339
-Ik dacht net
-dat ik tegen je wilde vechten!
+Ik denk er precies
+hetzelfde over!
 
 451
 00:36:17,864 --> 00:36:18,782
@@ -2034,7 +2033,7 @@ ik je hier eindelijk kan verslaan!
 458
 00:37:33,751 --> 00:37:36,587
 Wat zei je?
-Word niet verwaand, loser!
+Word niet verwaand, mislukkeling!
 
 459
 00:37:37,255 --> 00:37:40,508
@@ -2048,17 +2047,17 @@ heb ik geen interesse in jou…</i>
 
 461
 00:37:51,477 --> 00:37:55,940
-Jij… Een loser als jij moet
+Jij… Een mislukking als jij moet
 niet zo uit de hoogte doen!
 
 462
 00:37:56,087 --> 00:37:59,591
-Hah! Het is niks voor jou je zelfbeheersing
-te verliezen en herrie te schoppen.
+Het is niks voor jou je zelfbeheersing
+te verliezen en te bleren.
 
 463
 00:37:59,735 --> 00:38:00,945
-Helemaal niks voor jou.
+Echt niks voor jou.
 
 464
 00:38:01,612 --> 00:38:05,950
@@ -2067,11 +2066,11 @@ gezocht en nu bang bent, hè, Sasuke?
 
 465
 00:38:06,450 --> 00:38:07,618
-Kom maar op, nu!
+Kom maar op!
 
 466
 00:38:07,743 --> 00:38:10,955
-Doe eerst je hoofdband om!
+Maar eerst: doe je hoofdband om!
 Ik wacht wel.
 
 467
@@ -2089,7 +2088,7 @@ op mijn voorhoofd kunnen maken!
 
 470
 00:38:22,837 --> 00:38:23,671
-Je hebt het mis!
+Fout!
 
 471
 00:38:24,343 --> 00:38:28,806
@@ -2169,11 +2168,11 @@ H-Hou op…
 
 489
 00:41:01,709 --> 00:41:03,169
-Ik win, wat er ook gebeurt!
+Ik win sowieso!
 
 490
 00:41:03,377 --> 00:41:05,212
-Vlei jezelf niet!
+Dat dacht ik niet!
 
 491
 00:41:05,296 --> 00:41:06,297
@@ -2185,11 +2184,11 @@ Hou op!
 
 493
 00:41:22,771 --> 00:41:23,439
-<i>Verdomme.</i>
+<i>Oh nee…</i>
 
 494
 00:41:24,148 --> 00:41:25,524
-<i>Ik kan niet helemaal stoppen.</i>
+<i>Ik kan niet stoppen…</i>
 
 495
 00:41:43,228 --> 00:41:45,522
@@ -2198,8 +2197,8 @@ boven op het ziekenhuis?
 
 496
 00:41:46,404 --> 00:41:50,033
-Jullie gingen iets te ver
-voor zomaar een ruzie, jullie twee.
+Jullie twee gingen iets te ver
+voor zomaar een ruzie.
 
 497
 00:42:13,822 --> 00:42:16,825
@@ -2228,7 +2227,7 @@ zijn weerzien met Itachi…</i>
 
 503
 00:43:05,916 --> 00:43:09,670
-<i>Naruto, hoe ver ga jij nog?</i>
+<i>Naruto, hoeveel groei jij nog?</i>
 
 504
 00:43:11,171 --> 00:43:14,675
@@ -2238,7 +2237,7 @@ die techniek heeft geleerd?
 505
 00:43:15,707 --> 00:43:18,585
 Ook al was het een middel
-om Akatsuki te weerstaan,
+om de Akatsuki te weerstaan,
 
 506
 00:43:18,779 --> 00:43:21,699
@@ -2479,31 +2478,30 @@ Nou, rustig…
 
 559
 00:47:21,311 --> 00:47:22,854
-Wat als…
+Wat als ik…
 
 560
 00:47:23,077 --> 00:47:26,330
-ik degene van wie jij
-het meest houdt zou doden…
+iedereen van wie jij
+houdt zou doden…
 
 561
 00:47:26,650 --> 00:47:29,569
-zou je dan begrijpen
-hoe erg je je vergist
+zou je dan alles terugnemen
 
 562
 00:47:29,611 --> 00:47:30,987
-in alles wat je net zei?
+van wat je net zei?
 
 563
 00:47:31,446 --> 00:47:34,449
-Nou, het zou me niet uitmaken
-als je dat deed.
+Nou, dat zou mij niet
+meer echt uitmaken.
 
 564
 00:47:34,989 --> 00:47:38,492
-Helaas heb ik niet eens
-één zo iemand.
+Jammer genoeg,
+heb ik niemand meer over.
 
 565
 00:47:39,079 --> 00:47:41,748
@@ -2511,16 +2509,16 @@ Iedereen is al vermoord.
 
 566
 00:47:44,584 --> 00:47:46,670
-Ik heb langer geleefd dan jij…
+Ik leef al langer dan jij…
 
 567
 00:47:47,506 --> 00:47:48,673
-Voor mij is ook niet alles goed gegaan.
+en heb ook geleden.
 
 568
 00:47:50,129 --> 00:47:53,841
-Ik ken maar al te goed de pijn
-van het verliezen van wie je dierbaar is.
+Ik ken de pijn van het
+verliezen van dierbaren.
 
 569
 00:47:57,639 --> 00:48:00,684
@@ -2547,7 +2545,7 @@ gevonden, toch?
 
 574
 00:48:16,241 --> 00:48:18,493
-Juist omdat ik ook mensen heb verloren,
+Omdat ik ook mensen heb verloren,
 begrijp ik het.
 
 575
@@ -2582,7 +2580,7 @@ wat ik zeg verkeerd is.
 581
 00:48:46,188 --> 00:48:49,024
 Als ik het me goed herinner,
-is dat Kakashi de Kopieerninja.
+is dat de Kopieerninja Kakashi.
 
 582
 00:48:49,774 --> 00:48:51,109
@@ -2701,8 +2699,8 @@ Ja.
 
 608
 00:52:31,413 --> 00:52:36,042
-Hij zei: “Sasuke komt naar mij toe,
-zonder mankeren, op zoek naar kracht.”
+“Sasuke zal naar mij toekomen,
+op zoek naar kracht.”
 
 609
 00:52:36,526 --> 00:52:39,465
@@ -2720,7 +2718,7 @@ Wat?!
 
 612
 00:52:47,595 --> 00:52:49,431
-Hij was een van de Sannin
+Hij was één van de Sannin
 
 613
 00:52:49,472 --> 00:52:52,350
@@ -2827,13 +2825,12 @@ Waarom zou ik jou iets moeten vertellen?!
 
 636
 00:55:32,444 --> 00:55:34,404
-Ik zeg je dat je je neus
-uit mijn zaken moet houden.
+Stop je neus niet
+in mijn zaken.
 
 637
 00:55:35,384 --> 00:55:37,135
-Hou op met me lastig te vallen
-over alles wat ik doe.
+Bemoei je niet met mij.
 
 638
 00:55:40,935 --> 00:55:45,273
@@ -2842,7 +2839,7 @@ alleen maar problemen, hè?
 
 639
 00:55:48,484 --> 00:55:49,360
-Weet je het nog?
+Weet je nog?
 
 640
 00:55:50,653 --> 00:55:54,782
@@ -3006,7 +3003,7 @@ Als je maar bij me blijft, Sasuke,
 677
 00:58:52,363 --> 00:58:54,406
 zorg ik ervoor dat je er geen spijt
-van krijgt, wat er ook gebeurt!
+van krijgt!
 
 678
 00:58:54,431 --> 00:58:58,561
@@ -3029,7 +3026,7 @@ Ik help je zelfs met je wraak!
 682
 00:59:10,327 --> 00:59:12,788
 Ik zorg dat het op de een of andere
-manier lukt, dat beloof ik je…!
+manier lukt!
 
 683
 00:59:13,600 --> 00:59:16,995
@@ -3189,7 +3186,7 @@ Ja, ja.
 
 719
 01:02:16,887 --> 01:02:17,860
-Eén keer “ja” is genoeg!
+Eén “ja” is genoeg!
 
 720
 01:02:19,188 --> 01:02:21,899
@@ -3633,7 +3630,7 @@ die achtervolgen.
 
 817
 01:08:31,722 --> 01:08:35,393
-Met andere woorden: de vijand kan
+Oftewel: de vijand kan
 makkelijk het initiatief nemen.
 
 818
@@ -3778,8 +3775,7 @@ en jou bewaar ik voor de genadeslag.
 
 847
 01:10:11,086 --> 01:10:12,921
-Met andere woorden: jouw rol is
-om de verslagen vijand aan te vallen.
+Oftewel, de verwarde vijand aanvallen.
 
 848
 01:10:13,974 --> 01:10:16,101
@@ -3793,13 +3789,12 @@ uitkijk achteraan.
 
 850
 01:10:21,415 --> 01:10:23,417
-Je gebruikt je Byakugan
-om voortdurend te controleren
+Gebruik je Byakugan
+om te controleren
 
 851
 01:10:23,735 --> 01:10:25,236
-of er geen dode hoeken
-in onze opstelling zijn.
+of we geen dode hoeken hebben.
 
 852
 01:10:25,777 --> 01:10:27,905
@@ -3913,8 +3908,8 @@ heeft gecontroleerd, vertrekken we.
 
 875
 01:12:06,003 --> 01:12:07,629
-Iedereen,
-haal je ninjagereedschap tevoorschijn.
+Haal jullie
+ninjagereedschap tevoorschijn.
 
 876
 01:12:16,638 --> 01:12:19,891
@@ -4049,7 +4044,8 @@ helemaal niets van mij.</i>
 
 904
 01:14:42,190 --> 01:14:45,151
-Naruto… dankjewel…
+Naruto…
+dankjewel…
 
 905
 01:14:46,674 --> 01:14:52,096

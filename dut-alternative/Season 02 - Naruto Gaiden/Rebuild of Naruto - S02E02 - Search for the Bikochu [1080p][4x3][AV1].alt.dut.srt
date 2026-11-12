@@ -293,7 +293,7 @@ Zoiets heet geen werk.
 66
 00:06:55,901 --> 00:06:58,685
 <i>Het is een missie om informatie
-over Akatsuki te verzamelen…</i>
+over de Akatsuki te verzamelen…</i>
 
 67
 00:06:58,983 --> 00:07:00,217
@@ -2223,7 +2223,7 @@ uit het ei.
 
 497
 00:35:33,677 --> 00:35:34,536
-Met andere woorden,
+Oftewel,
 
 498
 00:35:34,561 --> 00:35:37,644

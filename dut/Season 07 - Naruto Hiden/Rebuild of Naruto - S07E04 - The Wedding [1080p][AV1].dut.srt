@@ -1751,7 +1751,7 @@ dienst heeft voor missies.
 
 394
 00:20:27,612 --> 00:20:31,070
-Met andere woorden: we gaan
+Oftewel: we gaan
 de cadeaus zeven en schiften.
 
 395
@@ -1953,7 +1953,7 @@ dienst heeft voor missies.</i>
 
 438
 00:22:32,427 --> 00:22:35,471
-<i>Met andere woorden: we gaan
+<i>Oftewel: we gaan
 de cadeaus zeven en schiften.</i>
 
 439
@@ -8562,7 +8562,7 @@ ze nog meer in verwarring.</i>
 
 1912
 01:32:46,143 --> 01:32:47,478
-<i>Met andere woorden:</i>
+<i>Oftewel:</i>
 
 1913
 01:32:47,503 --> 01:32:51,340
