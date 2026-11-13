@@ -1019,7 +1019,7 @@ Akamaru!
 
 235
 00:20:27,929 --> 00:20:29,097
-<i>Die Soldatenpillen!</i>
+<i>Die Hyōrōgan (Soldatenpillen)!</i>
 
 236
 00:20:43,700 --> 00:20:45,869
@@ -1546,7 +1546,7 @@ Choji … du …
 355
 00:31:24,882 --> 00:31:27,802
 Shikamaru …
-Nimm diese Soldatenpillen für alle …
+Nimm diese Hyōrōgan für alle …
 
 356
 00:31:29,014 --> 00:31:31,308
@@ -1581,7 +1581,7 @@ Geht, alle!
 363
 00:31:55,865 --> 00:31:58,868
 <i>Die Dreifarbigen Pillen?
-Das sind keine Soldatenpillen.</i>
+Das sind keine Hyōrōgan.</i>
 
 364
 00:31:59,375 --> 00:32:00,293

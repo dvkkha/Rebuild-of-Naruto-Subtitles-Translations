@@ -696,7 +696,7 @@ Moment, was …?
 158
 00:15:37,761 --> 00:15:41,515
 Du hast also endlich
-den Schattendoppelgänger gelernt …
+den Kage Bunshin (Schattendoppelgänger) gelernt …
 
 159
 00:15:42,290 --> 00:15:44,205
@@ -1518,11 +1518,11 @@ H-Hilfe …
 
 341
 00:27:49,279 --> 00:27:50,280
-Ein Fluchmal!
+Ein Juin (Fluchmal)!
 
 342
 00:27:51,249 --> 00:27:54,294
-Dieser Kerl hat Orochimarus Fluchmal!
+Dieser Kerl hat Orochimarus Juin!
 
 343
 00:27:57,670 --> 00:28:00,965
@@ -2479,7 +2479,7 @@ sein Suiton mit meinem Fūton verbunden,
 
 559
 00:44:07,203 --> 00:44:09,955
-um das Orkan-Wirbel-Jutsu zu bilden.
+um das Gufū Suika no Jutsu (Orkan-Wirbel-Jutsu) zu bilden.
 
 560
 00:44:09,980 --> 00:44:12,274
@@ -2522,7 +2522,7 @@ ist ein Kombinations-Ninjutsu unmöglich.
 
 569
 00:44:44,306 --> 00:44:48,477
-Yamato muss bei seinem Orkan-Wirbel-Jutsu
+Yamato muss bei seinem Gufū Suika no Jutsu
 perfektes Timing gehabt haben.
 
 570
@@ -5661,12 +5661,12 @@ Gut.
 1276
 01:39:16,992 --> 01:39:19,662
 Der Feind besteht aus vier Leuten
-und einem Ninja-Hund.
+und einem Ninken (Ninja-Hund).
 
 1277
 01:39:20,030 --> 01:39:22,908
 Gozu und ich haben
-Pfotenabdrücke eines Ninja-Hundes entdeckt.
+Pfotenabdrücke eines Ninken entdeckt.
 
 1278
 01:39:24,662 --> 01:39:28,332
@@ -5684,7 +5684,7 @@ Was?! Was ist mit Kihōs Jutsu?
 1281
 01:39:34,416 --> 01:39:39,254
 Ich bin sicher, Kihōs Jutsu hat
-die Nase des Ninja-Hundes unwirksam gemacht.
+die Nase des Ninken unwirksam gemacht.
 
 1282
 01:39:39,566 --> 01:39:40,776
@@ -6185,7 +6185,7 @@ Stirb!
 
 1398
 01:49:06,039 --> 01:49:07,624
-Ein Schattendoppelgänger …
+Ein Kage Bunshin …
 
 1399
 01:49:07,624 --> 01:49:08,712
@@ -6784,7 +6784,7 @@ einen Ort, an den er heimkehren kann.
 
 1535
 02:02:14,261 --> 02:02:17,220
-Wir haben Shinos parasitäre Insekten gefunden!
+Wir haben Shinos Kikaichū (parasitäre Insekten) gefunden!
 Wir müssen sie sofort verfolgen.
 
 1536
@@ -8306,7 +8306,7 @@ Versuchen wir es!
 
 1880
 02:25:45,278 --> 02:25:48,030
-Naruto, mach drei Schattendoppelgänger,
+Naruto, mach drei Kage Bunshin,
 
 1881
 02:25:48,030 --> 02:25:50,450

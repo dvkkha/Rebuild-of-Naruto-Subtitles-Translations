@@ -1156,7 +1156,7 @@ mein Körper aushält!</i>
 
 266
 00:25:03,413 --> 00:25:04,998
-<i>Ein Raiton-Schattendoppelgänger!</i>
+<i>Ein Raiton Kage Bunshin!</i>
 
 267
 00:25:19,589 --> 00:25:21,132
@@ -1194,7 +1194,7 @@ Hast du genug Chakra?
 275
 00:25:39,374 --> 00:25:42,043
 Ich habe schon meinen
-Raiton-Schattendoppelgänger eingesetzt
+Raiton Kage Bunshin eingesetzt
 
 276
 00:25:42,104 --> 00:25:44,106
@@ -1369,7 +1369,7 @@ scheint nicht vorgetäuscht zu sein.
 315
 00:29:45,325 --> 00:29:48,328
 Ich weiß, dass du kein
-Schattendoppelgänger bist.
+Kage Bunshin bist.
 
 316
 00:29:49,037 --> 00:29:50,997
@@ -2595,7 +2595,7 @@ beim Erlernen angeht.</i>
 
 596
 00:54:26,554 --> 00:54:27,639
-<i>Ein Schattendoppelgänger?!</i>
+<i>Ein Kage Bunshin?!</i>
 
 597
 00:54:28,515 --> 00:54:30,767
@@ -4655,7 +4655,7 @@ aufgenommen habt, fangt mit dem Genjutsu an!
 1072
 01:33:51,208 --> 01:33:55,713
 Denk daran … Du hast nur noch
-einen Schattendoppelgänger,
+einen Kage Bunshin,
 
 1073
 01:33:55,738 --> 01:33:57,948
@@ -4679,7 +4679,7 @@ läuft in fünf Minuten aus.
 
 1077
 01:34:08,809 --> 01:34:11,812
-Schattendoppelgänger einzusetzen,
+Kage Bunshin einzusetzen,
 die für dich stillhalten
 
 1078
@@ -4709,12 +4709,12 @@ ist äußerst schwierig.
 1083
 01:34:26,369 --> 01:34:30,831
 Auf Naruto-chans jetzigem Niveau
-waren zwei Schattendoppelgänger seine Grenze.
+waren zwei Kage Bunshin seine Grenze.
 
 1084
 01:34:31,280 --> 01:34:35,617
 Außerdem kann ich nur drei
-Schattendoppelgänger für den Kampf erzeugen.
+Kage Bunshin für den Kampf erzeugen.
 
 1085
 01:34:36,420 --> 01:34:41,467
@@ -6943,7 +6943,7 @@ hat mein Chakra durcheinandergebracht.</i>
 
 1595
 02:24:20,985 --> 02:24:24,322
-<i>Dadurch habe ich meinen Schattendoppelgänger verloren.</i>
+<i>Dadurch habe ich meinen Kage Bunshin verloren.</i>
 
 1596
 02:24:25,437 --> 02:24:29,775
@@ -7175,7 +7175,7 @@ mit dem Kage Shuriken no Jutsu (Schatten-Shuriken) geworfen?!</i>
 1649
 02:28:50,713 --> 02:28:53,758
 <i>Er stand damals schon
-mit einem Schattendoppelgänger bereit.</i>
+mit einem Kage Bunshin bereit.</i>
 
 1650
 02:28:55,426 --> 02:28:59,013
@@ -7200,7 +7200,7 @@ Wir haben noch zwei Sekunden! Los!
 
 1655
 02:29:20,183 --> 02:29:23,812
-<i>So viele Schattendoppelgänger hatte er
+<i>So viele Kage Bunshin hatte er
 in Schutt verwandelt?!</i>
 
 1656
@@ -7213,7 +7213,7 @@ Null!
 
 1658
 02:29:55,194 --> 02:29:57,113
-Jetzt setzt er Schattendoppelgänger
+Jetzt setzt er Kage Bunshin
 als Unterstützung ein!
 
 1659

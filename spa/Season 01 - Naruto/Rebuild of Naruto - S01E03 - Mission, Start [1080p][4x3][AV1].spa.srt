@@ -1,0 +1,5510 @@
+1
+00:01:35,180 --> 00:01:36,759
+¡Sasuke, en el punto B!
+
+2
+00:01:37,222 --> 00:01:38,848
+<i>¡Sakura, en el punto C!</i>
+
+3
+00:01:41,810 --> 00:01:43,905
+<i>¡Naruto, en el punto A!</i>
+
+4
+00:01:44,479 --> 00:01:45,479
+<i>¡Qué lento eres, Naruto!</i>
+
+5
+00:01:46,540 --> 00:01:48,124
+<i>Bien, Equipo 7...</i>
+
+6
+00:01:48,149 --> 00:01:49,149
+<i>¡¿Mmm?!</i>
+
+7
+00:01:49,192 --> 00:01:50,192
+<i>¡El objetivo se mueve!</i>
+
+8
+00:01:51,319 --> 00:01:52,319
+<i>¡Seguidlo!</i>
+
+9
+00:01:54,905 --> 00:01:56,345
+¿A qué distancia estás del objetivo?
+
+10
+00:01:57,826 --> 00:02:01,037
+¡A cinco metros! ¡Listo!
+
+11
+00:02:02,080 --> 00:02:03,081
+¡Yo también!
+
+12
+00:02:03,806 --> 00:02:04,806
+¡Yo también...!
+
+13
+00:02:05,875 --> 00:02:06,875
+Bien...
+
+14
+00:02:09,504 --> 00:02:10,204
+¡Ahora!
+
+15
+00:02:11,214 --> 00:02:12,590
+¡Uryaaah!
+
+16
+00:02:13,591 --> 00:02:15,009
+¡Lo tengo!
+
+17
+00:02:15,885 --> 00:02:17,571
+<i>¿Lleva el lazo
+en la oreja derecha...?</i>
+
+18
+00:02:17,595 --> 00:02:19,097
+<i>¿Es nuestro objetivo, Tora?</i>
+
+19
+00:02:20,723 --> 00:02:22,392
+Es el objetivo, sin duda.
+
+20
+00:02:23,226 --> 00:02:27,480
+¡Muy bien, misión de captura de la
+mascota perdida, Tora, completada!
+
+21
+00:02:28,648 --> 00:02:34,821
+¡Ay, mi Tora precioso!
+¡Qué preocupada estaba!
+
+22
+00:02:36,031 --> 00:02:38,575
+¡Bien merecido lo tiene ese gato!
+
+23
+00:02:38,992 --> 00:02:41,870
+No me extraña que se escapara...
+
+24
+00:02:42,996 --> 00:02:43,996
+¡Bueno!
+
+25
+00:02:44,455 --> 00:02:47,792
+La siguiente misión
+del Equipo 7 de Kakashi es...
+
+26
+00:02:50,700 --> 00:02:56,331
+Un recado en el pueblo de al lado...
+cuidar al hijo del consejero mayor...
+
+27
+00:02:56,759 --> 00:02:58,279
+Ayudar a recoger patatas...
+
+28
+00:02:58,303 --> 00:02:59,429
+¡Nooooo!
+
+29
+00:02:59,858 --> 00:03:01,735
+¡No! ¡No, gracias!
+
+30
+00:03:02,098 --> 00:03:02,907
+Yo
+
+31
+00:03:02,932 --> 00:03:05,643
+¡quiero una misión mucho más chula!
+
+32
+00:03:06,025 --> 00:03:07,109
+¡Dadnos otra cosa!
+
+33
+00:03:07,653 --> 00:03:08,653
+<i>En eso tiene razón...</i>
+
+34
+00:03:09,004 --> 00:03:10,672
+<i>Jo... ¡Qué pesado!</i>
+
+35
+00:03:11,691 --> 00:03:14,235
+<i>Ya me imaginaba que tarde o temprano
+se iba a rebotar.</i>
+
+36
+00:03:15,045 --> 00:03:19,064
+¡Idiota! ¡Todavía sois novatos!
+
+37
+00:03:19,361 --> 00:03:20,612
+Todos los ninjas empiezan...
+
+38
+00:03:20,700 --> 00:03:21,780
+con estas misiones sencillas
+
+39
+00:03:21,805 --> 00:03:23,726
+para ganar experiencia
+e ir subiendo poco a poco.
+
+40
+00:03:23,751 --> 00:03:25,336
+¡P-Pero...!
+
+41
+00:03:25,538 --> 00:03:27,999
+¡Pero hasta ahora solo nos han tocado
+misiones de pacotilla!
+
+42
+00:03:29,709 --> 00:03:31,211
+¡Ya basta!
+
+43
+00:03:32,045 --> 00:03:33,045
+¡Naruto!
+
+44
+00:03:34,130 --> 00:03:38,911
+Deja que te explique
+cómo funcionan las misiones.
+
+45
+00:03:40,261 --> 00:03:41,261
+¡Escúchame!
+
+46
+00:03:41,721 --> 00:03:45,225
+A la Villa llegan peticiones
+todos los días.
+
+47
+00:03:46,256 --> 00:03:48,758
+Desde cuidar niños
+hasta asesinatos...
+
+48
+00:03:50,427 --> 00:03:54,597
+Todo tipo de peticiones
+que se recogen en una lista...
+
+49
+00:03:54,901 --> 00:04:00,448
+y se clasifican en los rangos
+A, B, C y D según su dificultad.
+
+50
+00:04:01,142 --> 00:04:03,732
+Todos los ninjas de nuestra Villa...
+
+51
+00:04:03,757 --> 00:04:09,346
+se clasifican según su nivel:
+jonin, chunin y genin.
+
+52
+00:04:10,725 --> 00:04:14,020
+Nosotros, los superiores,
+asignamos esas peticiones como misiones
+
+53
+00:04:14,045 --> 00:04:17,340
+a ninjas del nivel
+adecuado.
+
+54
+00:04:18,007 --> 00:04:24,764
+Y cuando la misión se cumple,
+el cliente nos paga.
+
+55
+00:04:25,749 --> 00:04:30,170
+Como acabáis de haceros genin...
+
+56
+00:04:30,908 --> 00:04:33,202
+por ahora solo podéis con
+misiones de rango D.
+
+57
+00:04:34,315 --> 00:04:34,816
+¡¿Mmm?!
+
+58
+00:04:35,316 --> 00:04:37,940
+Ayer comí
+ramen de caldo de cerdo,
+
+59
+00:04:37,965 --> 00:04:39,087
+así que hoy toca ramen de miso...
+
+60
+00:04:39,112 --> 00:04:40,488
+¡Escucha!
+
+61
+00:04:40,982 --> 00:04:42,483
+L-Lo siento.
+
+62
+00:04:42,865 --> 00:04:47,117
+¡Ah! ¡Siempre me estás
+sermoneando, viejo!
+
+63
+00:04:47,589 --> 00:04:53,095
+¡Pero ya no soy el gamberrete
+que era antes!
+
+64
+00:04:54,290 --> 00:04:55,290
+¡Hmpf!
+
+65
+00:04:59,424 --> 00:05:01,426
+<i>Jo,
+luego me va a caer una bronca...</i>
+
+66
+00:05:08,433 --> 00:05:09,809
+¡Está bien!
+
+67
+00:05:10,184 --> 00:05:10,518
+¡¿Eh?!
+
+68
+00:05:11,239 --> 00:05:13,325
+Si tanto insistís...
+
+69
+00:05:13,931 --> 00:05:16,225
+os asignaré una misión de rango C.
+
+70
+00:05:17,335 --> 00:05:19,379
+Seréis guardaespaldas.
+
+71
+00:05:19,902 --> 00:05:20,902
+¡¿En serio?!
+
+72
+00:05:21,404 --> 00:05:22,139
+¡Ajá!
+
+73
+00:05:22,359 --> 00:05:23,286
+¿De quién? ¿De quién?
+
+74
+00:05:23,841 --> 00:05:24,842
+¡¿De un señor feudal?!
+
+75
+00:05:24,991 --> 00:05:26,811
+¡¿O de una princesa?!
+
+76
+00:05:27,005 --> 00:05:28,465
+No os aceleréis.
+
+77
+00:05:29,085 --> 00:05:30,461
+¡Ahora os lo presento!
+
+78
+00:05:31,991 --> 00:05:34,369
+¿Puede pasar, por favor...?
+
+79
+00:05:37,712 --> 00:05:41,924
+¿Qué es esto?
+¡Una panda de mocosos!
+
+80
+00:05:44,913 --> 00:05:45,838
+¿Eh?
+
+81
+00:05:50,856 --> 00:05:53,567
+Sobre todo tú, el bajito
+con cara de tonto.
+
+82
+00:05:53,936 --> 00:05:56,898
+¿Tú de verdad eres ninja?
+
+83
+00:05:58,602 --> 00:06:01,230
+¿Quién es el bajito
+con cara de tonto?
+
+84
+00:06:01,871 --> 00:06:02,871
+¿Eh?
+
+85
+00:06:03,488 --> 00:06:04,860
+¡¡Lo mato!!
+
+86
+00:06:04,885 --> 00:06:06,341
+¡No puedes matar al cliente
+
+87
+00:06:06,366 --> 00:06:08,159
+que tienes que proteger,
+idiota!
+
+88
+00:06:11,954 --> 00:06:16,376
+Soy Tazuna,
+maestro constructor de puentes.
+
+89
+00:06:17,180 --> 00:06:21,435
+¡Me protegeréis
+con vuestras vidas
+
+90
+00:06:21,911 --> 00:06:24,622
+hasta que vuelva a mi tierra
+y termine el puente!
+
+91
+00:06:27,445 --> 00:06:28,996
+¡¡En marcha!!
+
+92
+00:06:29,263 --> 00:06:31,599
+¡¿Por qué estás tan emocionado?!
+
+93
+00:06:32,308 --> 00:06:36,913
+¡Es que nunca había salido
+de la Villa!
+
+94
+00:06:37,010 --> 00:06:41,014
+¡Eh! ¿De verdad pretendéis que me crea
+que este renacuajo puede protegerme?
+
+95
+00:06:42,623 --> 00:06:45,876
+Soy jonin, así que yo estoy al mando.
+No hay de qué preocuparse.
+
+96
+00:06:45,988 --> 00:06:49,409
+<i>¡¿Renacuajo?!</i>
+
+97
+00:06:50,797 --> 00:06:52,007
+¡Eh, viejo!
+
+98
+00:06:52,078 --> 00:06:54,122
+¡No te atrevas a burlarte de los ninjas!
+
+99
+00:06:54,343 --> 00:06:56,053
+¡Que yo soy la caña!
+
+100
+00:06:56,332 --> 00:06:59,502
+¡Y soy un ninja superélite
+que algún día será Hokage!
+
+101
+00:07:00,003 --> 00:07:02,337
+Me llamo Naruto Uzumaki.
+
+102
+00:07:02,441 --> 00:07:03,568
+¡Que no se te olvide!
+
+103
+00:07:04,966 --> 00:07:09,053
+El Hokage es el mejor ninja
+de la Villa, ¿no?
+
+104
+00:07:09,913 --> 00:07:13,000
+Tú no tienes pinta
+de Hokage...
+
+105
+00:07:13,540 --> 00:07:15,326
+¡Aaah! ¡Cállate!
+
+106
+00:07:15,590 --> 00:07:19,510
+¡Estoy dispuesto a hacer lo que sea
+para llegar a Hokage!
+
+107
+00:07:19,868 --> 00:07:24,542
+¡Y entonces tendrás que
+reconocer mi fuerza!
+
+108
+00:07:25,904 --> 00:07:28,448
+Nunca te reconoceré, renacuajo...
+
+109
+00:07:28,948 --> 00:07:31,075
+¡Ni aunque llegues a Hokage!
+
+110
+00:07:31,229 --> 00:07:33,565
+¡¿Qué?! ¡Te voy a matar!
+
+111
+00:07:33,828 --> 00:07:35,788
+¡Que pares ya, idiota!
+
+112
+00:07:35,813 --> 00:07:38,565
+¡Venga! ¡Déjame darle!
+¡Solo un puñetazo!
+
+113
+00:07:45,203 --> 00:07:47,163
+Oye... ¿Tazuna...?
+
+114
+00:07:47,753 --> 00:07:48,753
+¿Qué pasa?
+
+115
+00:07:49,318 --> 00:07:52,071
+Tu país es
+el País de las Olas, ¿no?
+
+116
+00:07:53,222 --> 00:07:54,640
+¿Y qué?
+
+117
+00:07:55,129 --> 00:07:56,672
+Oye, Kakashi-sensei...
+
+118
+00:07:57,006 --> 00:07:58,761
+¿En ese país también hay ninjas?
+
+119
+00:07:59,282 --> 00:08:02,035
+No, en el País de las Olas
+no hay ninjas...
+
+120
+00:08:02,744 --> 00:08:07,415
+Pero en otras naciones, aunque las culturas
+y costumbres sean distintas,
+
+121
+00:08:07,950 --> 00:08:10,536
+existen Villas Ocultas
+y en ellas hay ninjas.
+
+122
+00:08:14,505 --> 00:08:16,882
+Para la mayoría de las naciones del continente,
+
+123
+00:08:17,538 --> 00:08:21,292
+las Villas Ocultas representan
+su poder militar.
+
+124
+00:08:22,461 --> 00:08:23,519
+Dicho de otro modo,
+
+125
+00:08:23,544 --> 00:08:27,215
+así es como las naciones mantienen
+el equilibrio con sus vecinos.
+
+126
+00:08:28,674 --> 00:08:32,720
+Pero una Villa Oculta no está
+sometida a su nación.
+
+127
+00:08:33,137 --> 00:08:35,348
+Están en igualdad de condiciones.
+
+128
+00:08:37,141 --> 00:08:39,660
+En una isla pequeña como
+el País de las Olas,
+
+129
+00:08:39,685 --> 00:08:41,996
+en la que es difícil que
+influyan otras naciones,
+
+130
+00:08:42,021 --> 00:08:44,734
+no hace falta
+una Villa Oculta.
+
+131
+00:08:47,777 --> 00:08:50,838
+De todas las naciones
+que tienen una Villa Oculta,
+
+132
+00:08:50,863 --> 00:08:57,762
+las del Fuego, el Agua,
+el Rayo, el Viento y la Tierra
+
+133
+00:08:57,787 --> 00:09:00,723
+son conocidas como
+las Cinco Grandes Naciones Shinobi.
+
+134
+00:09:00,748 --> 00:09:02,788
+Destacan por sus extensos
+territorios y su enorme poder.
+
+135
+00:09:04,961 --> 00:09:07,041
+La Villa Oculta de la Hoja,
+en el País del Fuego.
+
+136
+00:09:07,964 --> 00:09:10,049
+La Villa Oculta de la Niebla,
+en el País del Agua.
+
+137
+00:09:10,758 --> 00:09:13,039
+La Villa Oculta de la Nube,
+en el País del Rayo.
+
+138
+00:09:13,594 --> 00:09:15,721
+La Villa Oculta de la Arena,
+en el País del Viento.
+
+139
+00:09:16,721 --> 00:09:19,015
+La Villa Oculta de la Roca,
+en el País de la Tierra.
+
+140
+00:09:19,892 --> 00:09:21,936
+Solo los líderes
+de estas cinco Villas Ocultas
+
+141
+00:09:22,206 --> 00:09:24,417
+pueden ostentar el título
+de «Kage», que significa «sombra».
+
+142
+00:09:26,357 --> 00:09:27,775
+«Hokage» (Sombra de Fuego),
+
+143
+00:09:27,900 --> 00:09:29,068
+«Mizukage» (Sombra de Agua),
+
+144
+00:09:29,151 --> 00:09:30,212
+«Raikage» (Sombra del Rayo),
+
+145
+00:09:30,236 --> 00:09:31,362
+«Kazekage» (Sombra del Viento),
+
+146
+00:09:31,407 --> 00:09:32,487
+«Tsuchikage» (Sombra de la Tierra).
+
+147
+00:09:32,697 --> 00:09:34,448
+Los cinco Kage (las Cinco Sombras)
+
+148
+00:09:34,574 --> 00:09:38,361
+están al frente de
+decenas de miles de shinobi
+
+149
+00:09:38,386 --> 00:09:39,929
+en sus naciones de todo el mundo.
+
+150
+00:09:40,568 --> 00:09:42,486
+Bueno... tranquilo.
+
+151
+00:09:43,332 --> 00:09:46,836
+En una misión de rango C es difícil
+que haya combates entre ninjas.
+
+152
+00:09:47,545 --> 00:09:51,752
+Entonces no tenemos que preocuparnos
+por luchar contra ninjas enemigos, ¿no?
+
+153
+00:09:52,127 --> 00:09:53,049
+Claro que no.
+
+154
+00:10:33,633 --> 00:10:34,258
+¡¿Qué?!
+
+155
+00:10:34,550 --> 00:10:35,009
+¡¿Eh?!
+
+156
+00:10:35,092 --> 00:10:36,469
+¿Q-Qué?
+
+157
+00:10:36,969 --> 00:10:37,970
+¡Uno!
+
+158
+00:10:48,939 --> 00:10:51,067
+¡K-Kakashi-sensei!
+
+159
+00:10:59,959 --> 00:11:00,959
+¡¿Mmm?!
+
+160
+00:11:04,900 --> 00:11:05,900
+<i>¡No se suelta!</i>
+
+161
+00:11:11,737 --> 00:11:13,050
+<i>¡¡H-Hala!!</i>
+
+162
+00:11:20,537 --> 00:11:21,157
+¡Uy!
+
+163
+00:11:21,629 --> 00:11:22,004
+¡¡Agh!!
+
+164
+00:11:22,181 --> 00:11:23,181
+<i>¡Que vienen!</i>
+
+165
+00:11:23,516 --> 00:11:25,393
+<i>Tengo que hacer algo...
+¡¡Tengo que hacerlo!!</i>
+
+166
+00:11:25,989 --> 00:11:27,240
+¡Atrás!
+
+167
+00:11:36,835 --> 00:11:37,493
+Hola...
+
+168
+00:11:38,098 --> 00:11:40,767
+<i>¡Kakashi-sensei! ¡Está vivo!</i>
+
+169
+00:11:41,201 --> 00:11:42,952
+<i>Hmpf. Fanfarrón.</i>
+
+170
+00:11:45,645 --> 00:11:46,514
+¡¿Qué?!
+
+171
+00:11:46,605 --> 00:11:47,814
+¿Entonces qué era eso...?
+
+172
+00:11:51,283 --> 00:11:55,162
+Naruto, siento no haberte
+ayudado enseguida.
+
+173
+00:11:56,163 --> 00:11:57,206
+Te han herido.
+
+174
+00:11:59,071 --> 00:12:02,700
+No esperaba que te quedaras tan paralizado.
+
+175
+00:12:03,957 --> 00:12:06,042
+En fin, buen trabajo, Sasuke.
+
+176
+00:12:06,541 --> 00:12:07,541
+Y tú también, Sakura.
+
+177
+00:12:09,812 --> 00:12:12,899
+<i>Yo... no he podido hacer nada...</i>
+
+178
+00:12:13,866 --> 00:12:15,284
+<i>pero Sasuke...</i>
+
+179
+00:12:15,484 --> 00:12:17,153
+<i>Era su primer combate de verdad...</i>
+
+180
+00:12:18,109 --> 00:12:20,362
+<i>¿No ha tenido nada de miedo?</i>
+
+181
+00:12:20,670 --> 00:12:25,883
+<i>Me ha salvado como si nada...
+sin mancharse siquiera la ropa.</i>
+
+182
+00:12:27,806 --> 00:12:28,806
+Oye...
+
+183
+00:12:28,831 --> 00:12:29,831
+¡¿Eh?!
+
+184
+00:12:30,328 --> 00:12:31,830
+¿Estás herido...
+
+185
+00:12:33,403 --> 00:12:34,404
+miedica?
+
+186
+00:12:38,746 --> 00:12:39,496
+¡Sasuke!
+
+187
+00:12:39,521 --> 00:12:40,521
+¡Naruto!
+
+188
+00:12:41,858 --> 00:12:43,944
+Tienen veneno
+en las garras.
+
+189
+00:12:45,065 --> 00:12:47,734
+Hay que sacarte
+el veneno enseguida.
+
+190
+00:12:47,924 --> 00:12:48,608
+¡¿Qué?!
+
+191
+00:12:49,683 --> 00:12:52,811
+Hay que abrir la herida
+y extraer la sangre envenenada.
+
+192
+00:12:53,174 --> 00:12:54,300
+Intenta no moverte.
+
+193
+00:12:54,507 --> 00:12:55,717
+El veneno se extendería.
+
+194
+00:12:56,848 --> 00:12:58,224
+Por cierto, Tazuna...
+
+195
+00:12:58,416 --> 00:13:00,293
+¡¿Q-Qué pasa...?!
+
+196
+00:13:02,068 --> 00:13:03,862
+Tengo que hablar contigo.
+
+197
+00:13:07,177 --> 00:13:09,638
+Chunin de la
+Villa Oculta de la Niebla...
+
+198
+00:13:10,472 --> 00:13:15,045
+Son ninjas famosos por seguir
+luchando, cueste lo que cueste.
+
+199
+00:13:16,645 --> 00:13:18,939
+¿Cómo has podido
+adivinar nuestros movimientos?
+
+200
+00:13:20,232 --> 00:13:22,234
+No suele haber
+charcos
+
+201
+00:13:22,818 --> 00:13:26,739
+en un día despejado como hoy
+cuando lleva días sin llover.
+
+202
+00:13:27,907 --> 00:13:31,410
+Si lo sabías, ¿por qué has dejado
+que se enfrentaran primero los niños?
+
+203
+00:13:32,411 --> 00:13:36,248
+Si hubiera querido, podría
+haberlos matado al instante...
+
+204
+00:13:37,082 --> 00:13:41,295
+Pero...
+tenía que saber...
+
+205
+00:13:42,880 --> 00:13:46,091
+a por quién venían...
+
+206
+00:13:46,675 --> 00:13:49,053
+¡¿Mmm?! ¿Qué quieres decir?
+
+207
+00:13:50,137 --> 00:13:51,231
+Quiero decir que
+
+208
+00:13:51,256 --> 00:13:53,926
+tenía que saber si
+iban a por ti
+
+209
+00:13:54,600 --> 00:14:00,064
+o a por nosotros, los shinobi.
+
+210
+00:14:01,398 --> 00:14:05,903
+Nadie nos dijo que
+te persiguieran ninjas.
+
+211
+00:14:06,963 --> 00:14:09,924
+Lo que nos pediste
+era, en principio,
+
+212
+00:14:09,949 --> 00:14:12,952
+protección contra
+maleantes y ladrones corrientes...
+
+213
+00:14:14,317 --> 00:14:18,349
+Nuestra misión era protegerte
+hasta que se terminara el puente...
+
+214
+00:14:20,351 --> 00:14:22,353
+Pero si nuestros enemigos fueran ninjas,
+
+215
+00:14:22,675 --> 00:14:26,253
+la misión sería de rango B o superior,
+que es más cara.
+
+216
+00:14:27,992 --> 00:14:29,910
+Tendrías tus motivos...
+
+217
+00:14:30,471 --> 00:14:32,973
+pero mentir en una petición de misión
+es inaceptable.
+
+218
+00:14:33,389 --> 00:14:37,142
+Esto se sale
+de nuestra misión.
+
+219
+00:14:38,310 --> 00:14:41,146
+Esta misión es demasiado difícil para nosotros...
+
+220
+00:14:42,016 --> 00:14:43,016
+¡Deberíamos dejarla!
+
+221
+00:14:44,203 --> 00:14:46,164
+Hace falta anestesia
+para la herida de Naruto
+
+222
+00:14:46,193 --> 00:14:48,445
+y para sacarle la sangre envenenada...
+
+223
+00:14:49,238 --> 00:14:50,238
+¿Mmm? ¡¿Qué?!
+
+224
+00:14:53,247 --> 00:14:54,915
+¡Qué problema!
+
+225
+00:14:55,538 --> 00:14:58,833
+Como hay que curar la herida de Naruto,
+¿volvemos a la Villa...?
+
+226
+00:15:06,463 --> 00:15:06,880
+¡Ah!
+
+227
+00:15:07,089 --> 00:15:07,690
+¡Oh!
+
+228
+00:15:13,595 --> 00:15:15,389
+¡¿Por qué soy tan distinto?!
+
+229
+00:15:15,919 --> 00:15:19,868
+¿Por qué siempre yo...?
+¡Maldita sea!
+
+230
+00:15:19,893 --> 00:15:22,396
+¡Naruto! ¡¿Qué haces?!
+
+231
+00:15:24,231 --> 00:15:26,942
+Se supone que me estoy haciendo más fuerte...
+
+232
+00:15:27,835 --> 00:15:29,627
+Llevo tiempo cumpliendo
+misiones y
+
+233
+00:15:29,652 --> 00:15:32,461
+entrenando por mi cuenta
+todos los días...
+
+234
+00:15:36,244 --> 00:15:40,706
+¡No pienso dejar que nadie
+vuelva a tener que salvarme!
+
+235
+00:15:42,202 --> 00:15:44,996
+Nunca más me quedaré paralizado
+ni saldré huyendo...
+
+236
+00:15:46,336 --> 00:15:48,297
+No perderé contra Sasuke...
+
+237
+00:15:50,394 --> 00:15:53,731
+¡Lo juro por el dolor de esta mano!
+¡Vaya que sí!
+
+238
+00:15:56,037 --> 00:15:59,290
+¡Te protegeré con este kunai, viejo!
+
+239
+00:16:06,440 --> 00:16:08,067
+¡La misión continúa!
+
+240
+00:16:08,877 --> 00:16:09,877
+Naruto...
+
+241
+00:16:10,194 --> 00:16:12,946
+Sacarse el veneno está muy bien,
+
+242
+00:16:13,024 --> 00:16:15,693
+pero si sigues así,
+te vas a desangrar.
+
+243
+00:16:24,040 --> 00:16:27,432
+Te vas a desangrar
+si no paras... ¡En serio!
+
+244
+00:16:27,903 --> 00:16:30,606
+¡Argh! ¡No! ¡No!
+
+245
+00:16:30,631 --> 00:16:32,883
+¡No quiero morir así, ¿sabes?!
+
+246
+00:16:33,092 --> 00:16:34,718
+Enséñame la mano.
+
+247
+00:16:34,843 --> 00:16:37,362
+¡¡Nooo! ¡Socorro!!
+
+248
+00:16:37,387 --> 00:16:38,387
+¡Naruto!
+
+249
+00:16:38,680 --> 00:16:40,891
+Mira que eres temerario,
+¿eh?
+
+250
+00:16:41,558 --> 00:16:42,893
+¡No tienes remedio!
+
+251
+00:16:49,996 --> 00:16:51,247
+<i>La herida...</i>
+
+252
+00:16:52,218 --> 00:16:53,298
+<i>ya está empezando a cerrarse...</i>
+
+253
+00:17:04,377 --> 00:17:06,213
+¡¿Que habéis fallado?!
+
+254
+00:17:07,018 --> 00:17:10,313
+¡Os pagué mucho dinero
+para contrataros
+
+255
+00:17:10,575 --> 00:17:13,030
+porque decíais
+que erais ninjas de élite!
+
+256
+00:17:14,091 --> 00:17:16,552
+Deja de refunfuñar...
+
+257
+00:17:20,347 --> 00:17:26,937
+La próxima vez lo mato yo mismo...
+
+258
+00:17:29,189 --> 00:17:31,567
+¡¿S-Seguro que no hay problema?!
+
+259
+00:17:32,276 --> 00:17:35,445
+Parece que el enemigo
+ha contratado a buenos ninjas...
+
+260
+00:17:35,671 --> 00:17:40,259
+Ahora que los Hermanos Demonio han fallado,
+nuestro objetivo estará en alerta máxima.
+
+261
+00:17:40,284 --> 00:17:42,077
+No va a ser fácil...
+
+262
+00:17:42,161 --> 00:17:44,955
+¡¿Quién te crees que soy?!
+
+263
+00:17:49,209 --> 00:17:52,671
+Soy Zabuza Momochi,
+el Demonio de la Niebla.
+
+264
+00:18:12,715 --> 00:18:15,529
+Qué niebla más espesa.
+No se ve nada.
+
+265
+00:18:17,279 --> 00:18:19,031
+Pronto se debería ver el puente.
+
+266
+00:18:20,208 --> 00:18:23,128
+Al otro lado del puente
+está el País de las Olas.
+
+267
+00:18:44,772 --> 00:18:47,650
+¡Hala!
+¡Es enorme!
+
+268
+00:18:48,143 --> 00:18:50,354
+¡E-Eh!
+Habla más bajo, por favor.
+
+269
+00:18:51,063 --> 00:18:53,183
+Gracias a la niebla hemos llegado
+hasta aquí sin que nos vean.
+
+270
+00:18:54,234 --> 00:18:56,612
+He apagado el motor y remo para no hacer ruido.
+
+271
+00:18:57,058 --> 00:18:59,644
+Si nos descubren ahora,
+estaremos en un buen lío.
+
+272
+00:19:05,494 --> 00:19:06,495
+Tazuna.
+
+273
+00:19:09,970 --> 00:19:14,683
+Antes de llegar al muelle
+quiero preguntarte algo.
+
+274
+00:19:18,840 --> 00:19:23,512
+¿Quién te persigue?
+¿Y por qué?
+
+275
+00:19:23,948 --> 00:19:25,617
+Si no nos lo dices...
+
+276
+00:19:26,202 --> 00:19:30,957
+la misión podría acabar
+en cuanto lleguemos a la orilla.
+
+277
+00:19:34,773 --> 00:19:37,067
+Parece que no me queda más remedio
+que contároslo.
+
+278
+00:19:37,651 --> 00:19:40,112
+No, quiero que lo sepáis.
+
+279
+00:19:41,209 --> 00:19:42,919
+Como dijiste,
+
+280
+00:19:43,288 --> 00:19:46,333
+esto probablemente se sale
+de vuestra misión.
+
+281
+00:19:46,910 --> 00:19:51,915
+Me persigue
+un hombre terrible.
+
+282
+00:19:52,713 --> 00:19:53,338
+¿Quién?
+
+283
+00:19:53,742 --> 00:19:57,203
+Seguramente
+habréis oído hablar de él.
+
+284
+00:19:58,148 --> 00:20:03,153
+Un magnate naviero
+llamado Gato.
+
+285
+00:20:03,471 --> 00:20:07,141
+¿Qué? ¿Gato... el de la Compañía Gato?
+
+286
+00:20:07,166 --> 00:20:09,794
+¿Uno de los hombres más ricos del mundo?
+
+287
+00:20:10,350 --> 00:20:14,563
+De cara al público, es el presidente
+de una naviera...
+
+288
+00:20:16,068 --> 00:20:17,962
+Pero, por debajo, está metido
+en el tráfico de drogas
+
+289
+00:20:17,987 --> 00:20:21,115
+y el contrabando, y usa a mafiosos
+y ninjas para el trabajo sucio.
+
+290
+00:20:21,320 --> 00:20:23,572
+Lleva un negocio despreciable
+
+291
+00:20:23,770 --> 00:20:27,399
+y se adueña sin piedad de empresas
+e incluso de naciones enteras.
+
+292
+00:20:32,581 --> 00:20:34,041
+Fue hace más o menos un año...
+
+293
+00:20:34,458 --> 00:20:37,711
+cuando ese hombre puso los ojos
+en el País de las Olas...
+
+294
+00:20:38,253 --> 00:20:41,757
+Con su dinero y la violencia
+se metió en el país
+
+295
+00:20:42,090 --> 00:20:43,525
+y, antes de que nadie se diera cuenta,
+
+296
+00:20:43,550 --> 00:20:48,555
+se había hecho con todo el
+transporte marítimo de la isla.
+
+297
+00:20:49,824 --> 00:20:54,488
+En un país insular como el País de las Olas,
+controlar el mar...
+
+298
+00:20:54,513 --> 00:20:58,725
+significa controlar la economía,
+el gobierno, a la gente... todo.
+
+299
+00:20:59,586 --> 00:21:02,756
+Lo único que teme Gato...
+
+300
+00:21:04,154 --> 00:21:06,406
+es que se termine el puente.
+
+301
+00:21:07,655 --> 00:21:09,740
+Pero no lo entiendo.
+
+302
+00:21:10,202 --> 00:21:13,038
+Tu enemigo es un hombre peligroso
+que incluso se vale de ninjas.
+
+303
+00:21:13,391 --> 00:21:16,060
+¿Por qué nos lo ocultaste
+al hacer la petición?
+
+304
+00:21:17,042 --> 00:21:18,627
+El País de las Olas...
+
+305
+00:21:19,645 --> 00:21:24,984
+es un país muy pobre.
+Ni siquiera el señor feudal tiene dinero.
+
+306
+00:21:25,857 --> 00:21:30,028
+No nos podemos permitir una misión
+de rango B o superior.
+
+307
+00:21:31,139 --> 00:21:35,727
+Bueno, si dejáis la misión
+en cuanto desembarque,
+
+308
+00:21:36,057 --> 00:21:38,768
+sin duda me matarán.
+
+309
+00:21:39,064 --> 00:21:41,817
+Me matarán antes de llegar a casa.
+
+310
+00:21:42,892 --> 00:21:45,311
+¡Pero no os preocupéis!
+
+311
+00:21:46,053 --> 00:21:50,016
+Si muero, mi querido nieto,
+que va a cumplir ocho años...
+
+312
+00:21:50,154 --> 00:21:53,365
+¡solo llorará a moco tendido!
+
+313
+00:21:53,829 --> 00:21:54,830
+¡Oh!
+
+314
+00:21:55,729 --> 00:21:59,399
+Y... mi hija solo culpará
+a los ninjas de la Hoja
+
+315
+00:21:59,511 --> 00:22:03,932
+¡el resto de su vida
+y vivirá en la pena!
+
+316
+00:22:09,355 --> 00:22:09,981
+Bueno...
+
+317
+00:22:10,064 --> 00:22:11,483
+supongo que no nos queda otra.
+
+318
+00:22:11,721 --> 00:22:13,265
+Seguiremos siendo sus guardaespaldas.
+
+319
+00:22:15,016 --> 00:22:16,016
+<i>¡He ganado!</i>
+
+320
+00:22:19,813 --> 00:22:21,314
+Enseguida llegamos.
+
+321
+00:22:21,648 --> 00:22:22,482
+Tazuna.
+
+322
+00:22:22,524 --> 00:22:25,569
+Parece que todavía no nos han visto...
+
+323
+00:22:26,319 --> 00:22:27,362
+Gracias.
+
+324
+00:22:54,502 --> 00:22:55,753
+Yo llego hasta aquí.
+
+325
+00:22:56,281 --> 00:22:57,281
+Ya nos veremos.
+
+326
+00:22:57,490 --> 00:22:59,993
+Sí. Nos has ayudado mucho.
+
+327
+00:23:01,011 --> 00:23:02,011
+Ten cuidado.
+
+328
+00:23:14,376 --> 00:23:15,127
+¡Bien!
+
+329
+00:23:15,383 --> 00:23:18,762
+Llevadme a casa sano y salvo.
+
+330
+00:23:18,816 --> 00:23:20,067
+Entendido.
+
+331
+00:23:20,824 --> 00:23:25,996
+<i>El siguiente no será un chunin.
+Será un jonin.</i>
+
+332
+00:23:26,995 --> 00:23:28,413
+<i>¡Maldita sea!</i>
+
+333
+00:23:40,416 --> 00:23:43,252
+<i>¡No pienso dejar que este
+se lleve todo el protagonismo!</i>
+
+334
+00:23:49,417 --> 00:23:50,417
+¡Ahí!
+
+335
+00:23:53,763 --> 00:23:56,099
+Je... Solo era un ratón.
+
+336
+00:23:56,204 --> 00:23:58,498
+¡Deja de hacerte el chulo!
+
+337
+00:23:58,523 --> 00:24:00,816
+¡Si ahí no había nada
+desde el principio!
+
+338
+00:24:01,055 --> 00:24:02,348
+Por favor, Naruto.
+
+339
+00:24:02,499 --> 00:24:04,251
+No tires kunais a lo loco.
+
+340
+00:24:04,467 --> 00:24:05,635
+Son muy peligrosos.
+
+341
+00:24:06,650 --> 00:24:09,444
+¡Eh, mocoso!
+¡Deja de hacer el tonto!
+
+342
+00:24:09,730 --> 00:24:11,815
+¿Eh? ¡Ahí hay alguien!
+
+343
+00:24:12,221 --> 00:24:13,221
+¡Ahí!
+
+344
+00:24:15,121 --> 00:24:16,706
+¡Que pares ya!
+
+345
+00:24:17,639 --> 00:24:22,310
+¡D-De verdad que alguien
+nos lleva todo el rato en el punto de mira!
+
+346
+00:24:22,561 --> 00:24:23,812
+¡Sí, claro!
+
+347
+00:24:23,837 --> 00:24:26,214
+¡Déjalo ya!
+
+348
+00:24:28,088 --> 00:24:30,174
+¡Naruto!
+¡¿Qué has hecho?!
+
+349
+00:24:30,199 --> 00:24:31,608
+¡Es un conejito!
+
+350
+00:24:32,445 --> 00:24:35,532
+N-No quería...
+Perdona, conejito.
+
+351
+00:24:35,615 --> 00:24:37,117
+Solo es un conejo, vaya.
+
+352
+00:24:39,151 --> 00:24:40,527
+<i>Es una liebre de las nieves.</i>
+
+353
+00:24:41,334 --> 00:24:43,837
+<i>Pero eso no explica
+el color de su pelaje...</i>
+
+354
+00:24:44,951 --> 00:24:48,955
+<i>El pelaje se vuelve blanco solo en invierno,
+cuando hay poca luz.</i>
+
+355
+00:24:50,725 --> 00:24:52,201
+<i>Lo que significa...</i>
+
+356
+00:24:52,226 --> 00:24:57,272
+<i>que la criaron en cautividad
+para usarla en un Kawarimi.</i>
+
+357
+00:24:58,290 --> 00:24:59,958
+<i>Parece que ya están aquí...</i>
+
+358
+00:25:07,230 --> 00:25:12,694
+<i>Ya veo... Con los Hermanos Demonio
+no bastaba para estos.</i>
+
+359
+00:25:13,724 --> 00:25:15,977
+<i>El Ninja Imitador de la
+Villa Oculta de la Hoja...</i>
+
+360
+00:25:16,781 --> 00:25:19,826
+<i>Kakashi el del Sharingan va con ellos...</i>
+
+361
+00:25:36,742 --> 00:25:38,202
+<i>Si no me equivoco, es...</i>
+
+362
+00:25:38,519 --> 00:25:40,229
+<i>Esta vez sí que lo voy a conseguir...</i>
+
+363
+00:25:40,254 --> 00:25:42,215
+<i>¡No perderé contra Sasuke!</i>
+
+364
+00:25:43,224 --> 00:25:44,985
+Vaya, vaya...
+
+365
+00:25:45,010 --> 00:25:48,931
+¡Pero si es Zabuza Momochi,
+el ninja renegado de la Niebla!
+
+366
+00:25:49,397 --> 00:25:50,690
+<i>Preparados...</i>
+
+367
+00:25:50,740 --> 00:25:51,408
+<i>¡Ya!</i>
+
+368
+00:25:53,507 --> 00:25:54,633
+Atrás, vosotros.
+
+369
+00:25:54,809 --> 00:25:57,937
+Está a un nivel totalmente distinto
+de los de antes.
+
+370
+00:26:00,633 --> 00:26:02,051
+Contra este, entonces...
+
+371
+00:26:02,251 --> 00:26:03,251
+¿Eh?
+
+372
+00:26:03,276 --> 00:26:04,276
+Ah.
+
+373
+00:26:05,477 --> 00:26:07,855
+Esto se va a poner feo.
+
+374
+00:26:08,217 --> 00:26:10,928
+Kakashi el del Sharingan, ¿me equivoco?
+
+375
+00:26:14,089 --> 00:26:15,632
+Lo siento, pero...
+
+376
+00:26:15,995 --> 00:26:18,414
+¿Me entregas al viejo?
+
+377
+00:26:22,081 --> 00:26:25,468
+<i>¿E-Eh? ¿Sharingan?
+¿Qué es eso?</i>
+
+378
+00:26:25,838 --> 00:26:28,674
+Formación Manji...
+
+379
+00:26:28,853 --> 00:26:30,188
+Proteged a Tazuna.
+
+380
+00:26:30,730 --> 00:26:32,731
+Vosotros no os metáis en la pelea.
+
+381
+00:26:32,832 --> 00:26:34,959
+Ese es el trabajo en equipo
+que exige esta situación.
+
+382
+00:26:37,709 --> 00:26:38,709
+¡¿Eh?!
+
+383
+00:26:41,527 --> 00:26:42,820
+Lucha conmigo.
+
+384
+00:26:44,956 --> 00:26:47,208
+<i>¿Q-Qué le pasa en el ojo...?</i>
+
+385
+00:26:48,104 --> 00:26:49,230
+Vaya, vaya...
+
+386
+00:26:49,255 --> 00:26:52,842
+No esperaba ver tan pronto
+el legendario Sharingan...
+
+387
+00:26:53,002 --> 00:26:54,295
+Es todo un honor.
+
+388
+00:26:54,575 --> 00:26:56,952
+Todos hablan del Sharingan...
+
+389
+00:26:57,288 --> 00:26:58,372
+¡¿Qué es?!
+
+390
+00:26:59,328 --> 00:27:00,329
+... El Sharingan.
+
+391
+00:27:01,194 --> 00:27:04,238
+Es un poder especial que permite leer
+los movimientos y copiar técnicas.
+
+392
+00:27:04,656 --> 00:27:10,027
+El Sharingan es un Dōjutsu (Técnica Ocular), un tipo de
+jutsu que se manifiesta en los ojos.
+
+393
+00:27:11,503 --> 00:27:15,409
+Pero ese no es el único poder
+del Sharingan...
+
+394
+00:27:17,652 --> 00:27:19,237
+Bien dicho.
+
+395
+00:27:19,322 --> 00:27:21,199
+Hay algo más...
+
+396
+00:27:26,494 --> 00:27:29,456
+Cuando estaba en el ANBU
+de la Niebla,
+
+397
+00:27:29,663 --> 00:27:31,999
+tenía una Guía de Bolsillo de shinobi...
+
+398
+00:27:32,024 --> 00:27:34,610
+Tú estabas entre los que tenía fichados.
+
+399
+00:27:35,879 --> 00:27:38,089
+Tienes un historial impresionante...
+
+400
+00:27:38,636 --> 00:27:41,847
+El hombre que ha copiado
+más de mil técnicas...
+
+401
+00:27:42,023 --> 00:27:44,004
+Kakashi, el Ninja Imitador.
+
+402
+00:27:45,029 --> 00:27:49,033
+<i>¿Qué? ¿Kakashi-sensei
+es tan increíble?</i>
+
+403
+00:27:49,807 --> 00:27:51,517
+¡H-Hala!
+
+404
+00:27:53,037 --> 00:27:55,707
+<i>El Sharingan... es un rasgo especial</i>
+
+405
+00:27:56,010 --> 00:27:58,930
+<i>que solo aparece en unos pocos
+miembros del clan Uchiha.</i>
+
+406
+00:27:59,068 --> 00:28:00,653
+<i>¿Es posible que él...?</i>
+
+407
+00:28:02,155 --> 00:28:04,491
+Basta de charla.
+
+408
+00:28:05,366 --> 00:28:08,328
+Tengo que matar al viejo cuanto antes.
+
+409
+00:28:15,627 --> 00:28:20,298
+Pero, Kakashi, parece que primero
+tendré que acabar contigo.
+
+410
+00:28:28,223 --> 00:28:29,098
+¡Ahí!
+
+411
+00:28:29,123 --> 00:28:30,166
+¿Y está encima del agua?
+
+412
+00:28:32,268 --> 00:28:34,270
+<i>¡Está concentrando mucho chakra!</i>
+
+413
+00:28:34,845 --> 00:28:37,723
+<i>Ninpō: Kirigakure no Jutsu (Técnica del Banco de Niebla).</i>
+
+414
+00:28:41,953 --> 00:28:42,953
+¡¿Ha desaparecido?!
+
+415
+00:28:43,571 --> 00:28:46,157
+Seguro que viene a matarme a mí primero...
+
+416
+00:28:46,324 --> 00:28:47,826
+¿Quién es ese?
+
+417
+00:28:48,418 --> 00:28:49,628
+Zabuza Momochi.
+
+418
+00:28:50,286 --> 00:28:52,413
+Era miembro del ANBU
+de la Niebla
+
+419
+00:28:52,438 --> 00:28:55,274
+y es un maestro de la
+Sairento Kiringu (la Muerte Silenciosa).
+
+420
+00:28:55,750 --> 00:28:57,460
+Así que no bajéis la guardia.
+
+421
+00:29:08,207 --> 00:29:10,543
+¡La niebla es cada vez más espesa!
+
+422
+00:29:10,849 --> 00:29:13,351
+El País de las Olas
+está rodeado de mar.
+
+423
+00:29:13,810 --> 00:29:15,895
+Aquí la niebla se forma enseguida.
+
+424
+00:29:19,274 --> 00:29:20,274
+¡Sensei!
+
+425
+00:29:22,611 --> 00:29:23,654
+<i>Ocho puntos.</i>
+
+426
+00:29:24,006 --> 00:29:25,591
+¿Eh? ¿Qué?
+
+427
+00:29:26,698 --> 00:29:29,659
+<i>La laringe, la columna,
+los pulmones, el hígado...</i>
+
+428
+00:29:30,326 --> 00:29:32,871
+<i>la yugular, la vena subclavia,</i>
+
+429
+00:29:33,204 --> 00:29:35,582
+<i>los riñones y el corazón...</i>
+
+430
+00:29:36,655 --> 00:29:39,449
+<i>Veamos, ¿qué punto vital
+elijo?</i>
+
+431
+00:29:47,635 --> 00:29:49,304
+<i>¡Qué sed de sangre!</i>
+
+432
+00:29:50,555 --> 00:29:53,747
+<i>Si respiro, aunque sea una vez,
+o muevo los ojos,</i>
+
+433
+00:29:53,772 --> 00:29:57,185
+<i>me marcará y me matará...
+Eso es lo que siento.</i>
+
+434
+00:29:57,186 --> 00:30:01,232
+<i>¡No puedo! ¡Prefiero morir
+a seguir sintiendo esto!</i>
+
+435
+00:30:02,307 --> 00:30:03,307
+Sasuke.
+
+436
+00:30:04,068 --> 00:30:07,739
+Tranquilo.
+Os protegeré con mi vida.
+
+437
+00:30:09,073 --> 00:30:13,077
+No permitiré
+que maten a mis compañeros.
+
+438
+00:30:13,708 --> 00:30:15,112
+Eso habrá que verlo...
+
+439
+00:30:16,931 --> 00:30:17,931
+Se acabó.
+
+440
+00:30:36,239 --> 00:30:37,449
+¡Sensei!
+¡Detrás de ti!
+
+441
+00:30:39,284 --> 00:30:40,577
+¡Muere!
+
+442
+00:30:46,277 --> 00:30:47,695
+<i>¿Mizu Bunshin no Jutsu? (Técnica de replicación de agua)</i>
+
+443
+00:30:49,447 --> 00:30:50,447
+<i>¡No puede ser!</i>
+
+444
+00:30:57,798 --> 00:30:58,798
+No te muevas.
+
+445
+00:31:00,050 --> 00:31:01,050
+Se acabó.
+
+446
+00:31:01,668 --> 00:31:02,835
+¡Hala!
+
+447
+00:31:11,502 --> 00:31:12,837
+¿Has dicho que se acabó?
+
+448
+00:31:13,593 --> 00:31:15,429
+No lo entiendes, ¿verdad?
+
+449
+00:31:16,403 --> 00:31:20,157
+Con una imitación barata
+nunca me vencerás.
+
+450
+00:31:21,107 --> 00:31:22,275
+Ni de broma.
+
+451
+00:31:24,482 --> 00:31:26,317
+Pero reconozco que eres bueno.
+
+452
+00:31:27,268 --> 00:31:33,024
+Ya habías copiado entonces
+mi Mizu Bunshin, ¿eh?
+
+453
+00:31:33,992 --> 00:31:37,745
+<i>No permitiré
+que maten a mis compañeros.</i>
+
+454
+00:31:38,079 --> 00:31:45,795
+Usaste el clon para ponerlo en tu lugar
+y distraerme.
+
+455
+00:31:46,587 --> 00:31:52,635
+Mientras, con el Kirigakure no Jutsu
+te escondías y me observabas...
+
+456
+00:31:53,302 --> 00:31:54,345
+Pero...
+
+457
+00:31:55,471 --> 00:31:57,598
+yo no soy tonto.
+
+458
+00:32:08,151 --> 00:32:09,151
+<i>¡Ahora!</i>
+
+459
+00:32:13,247 --> 00:32:14,247
+<i>Makibishi.</i>
+
+460
+00:32:18,036 --> 00:32:19,120
+¡Qué tonto!
+
+461
+00:32:23,875 --> 00:32:27,420
+<i>¿Q-Qué pasa con esta agua...?
+Pesa muchísimo.</i>
+
+462
+00:32:28,126 --> 00:32:29,877
+Hmpf... ¡Necio!
+
+463
+00:32:30,757 --> 00:32:32,008
+<i>¡Suirō no Jutsu! (Prisión de Agua)</i>
+
+464
+00:32:32,467 --> 00:32:33,467
+<i>¡Maldita sea!</i>
+
+465
+00:32:35,988 --> 00:32:38,074
+<i>Escapar al agua...</i>
+
+466
+00:32:38,345 --> 00:32:39,345
+<i>¡ha sido un error enorme!</i>
+
+467
+00:32:42,518 --> 00:32:43,603
+Te tengo...
+
+468
+00:32:43,978 --> 00:32:46,481
+Esta prisión es especial.
+¡No hay escapatoria!
+
+469
+00:32:47,231 --> 00:32:49,442
+Contigo ya acabaré
+luego.
+
+470
+00:32:50,294 --> 00:32:53,798
+Cuando me haya cargado a esos.
+
+471
+00:32:54,822 --> 00:32:56,282
+<i>¡Mizu Bunshin no Jutsu!</i>
+
+472
+00:32:57,784 --> 00:32:59,304
+<i>No esperaba este nivel...</i>
+
+473
+00:33:11,631 --> 00:33:14,967
+Vais de duros con esa
+bandana...
+
+474
+00:33:15,821 --> 00:33:19,407
+Pero... un verdadero ninja es aquel
+
+475
+00:33:19,889 --> 00:33:23,142
+que ha rozado la muerte
+incontables veces.
+
+476
+00:33:24,163 --> 00:33:25,163
+Es decir,
+
+477
+00:33:25,603 --> 00:33:28,481
+solo los que merecen aparecer
+en mi Guía de Bolsillo
+
+478
+00:33:28,733 --> 00:33:30,818
+merecen llamarse ninjas.
+
+479
+00:33:32,455 --> 00:33:36,793
+Vosotros, mocosos, no merecéis
+ni que se os llame ninjas.
+
+480
+00:33:37,907 --> 00:33:38,907
+<i>¡Ha vuelto a desaparecer!</i>
+
+481
+00:33:48,084 --> 00:33:49,585
+¡No eres más que un crío!
+
+482
+00:33:50,824 --> 00:33:51,824
+¡Naruto!
+
+483
+00:33:54,340 --> 00:33:57,426
+¡Vosotros tres!
+¡Coged a Tazuna y huid!
+
+484
+00:33:57,885 --> 00:33:59,303
+¡No tenéis nada que hacer
+contra este tío!
+
+485
+00:34:00,093 --> 00:34:02,603
+Mientras me tenga atrapado
+en el Suirō,
+
+486
+00:34:02,628 --> 00:34:04,046
+no puede moverse de ahí.
+
+487
+00:34:04,474 --> 00:34:06,202
+Y el Mizu Bunshin tampoco puede alejarse mucho
+
+488
+00:34:06,227 --> 00:34:08,354
+del cuerpo real.
+
+489
+00:34:08,980 --> 00:34:10,481
+¡Así que de momento, huid!
+
+490
+00:34:17,655 --> 00:34:18,655
+¡Sasuke!
+
+491
+00:34:19,388 --> 00:34:20,388
+Sasuke...
+
+492
+00:34:24,495 --> 00:34:28,791
+<i>E-Este es el nivel de un jonin...
+Un ninja de verdad...</i>
+
+493
+00:34:29,431 --> 00:34:31,892
+<i>¡En serio! ¡En serio!</i>
+
+494
+00:34:32,128 --> 00:34:33,128
+<i>¡¡Nos van a matar!!</i>
+
+495
+00:34:36,449 --> 00:34:37,084
+¡Ay!
+
+496
+00:34:58,196 --> 00:35:02,742
+<i>Naruto, ven aquí.
+Quiero darte una cosa.</i>
+
+497
+00:35:04,704 --> 00:35:07,374
+<i>Enhorabuena por graduarte.</i>
+
+498
+00:35:08,467 --> 00:35:09,969
+<i>Te toman un rehén,</i>
+
+499
+00:35:09,994 --> 00:35:12,663
+<i>te ves ante dos opciones imposibles
+y acabas muerto.</i>
+
+500
+00:35:14,626 --> 00:35:17,212
+<i>En cada misión
+os jugáis la vida.</i>
+
+501
+00:35:19,425 --> 00:35:20,551
+<i>¡Aprobados!</i>
+
+502
+00:35:20,968 --> 00:35:26,474
+<i>¡Ya no soy el gamberrete
+que te crees!</i>
+
+503
+00:35:27,683 --> 00:35:28,963
+<i>¡Voy a superar a todos los Hokage!</i>
+
+504
+00:35:29,750 --> 00:35:32,419
+<i>¡Y así toda la Villa</i>
+
+505
+00:35:32,444 --> 00:35:34,738
+<i>tendrá que reconocer que existo!</i>
+
+506
+00:35:36,299 --> 00:35:37,299
+<i>Eso es...</i>
+
+507
+00:35:37,526 --> 00:35:41,030
+<i>Ahora soy ninja. Y...</i>
+
+508
+00:35:42,153 --> 00:35:44,780
+<i>¡decidí que no me
+quedaría paralizado!</i>
+
+509
+00:35:46,005 --> 00:35:47,089
+<i>¡Que no saldría huyendo!</i>
+
+510
+00:35:48,250 --> 00:35:50,544
+¡Hmpf! Idiota...
+
+511
+00:36:02,235 --> 00:36:04,821
+¡¿Pero qué haces...
+lanzándote tú solo?!
+
+512
+00:36:05,103 --> 00:36:06,688
+Si ni Sasuke puede con él...
+
+513
+00:36:07,233 --> 00:36:11,237
+Por mucho que lo intentemos,
+unos genin no tenemos nada que hacer...
+
+514
+00:36:18,317 --> 00:36:19,317
+<i>¡¿Eh?!</i>
+
+515
+00:36:26,320 --> 00:36:27,320
+<i>¡¿La bandana...?!</i>
+
+516
+00:36:44,719 --> 00:36:47,426
+¡Eh, tú, el Sin Cejas!
+
+517
+00:36:49,611 --> 00:36:53,073
+Apunta en tu Guía de Bolsillo...
+
+518
+00:36:53,923 --> 00:36:57,510
+al hombre que un día será Hokage
+de la Villa Oculta de la Hoja.
+
+519
+00:36:57,758 --> 00:36:59,593
+El ninja de la Villa Oculta de la Hoja...
+
+520
+00:37:01,027 --> 00:37:03,280
+¡Naruto Uzumaki!
+
+521
+00:37:06,365 --> 00:37:11,746
+<i>Cuando vi a ese crío por primera vez,
+no me inspiraba ninguna confianza...</i>
+
+522
+00:37:12,350 --> 00:37:15,061
+¡Sasuke! ¡Tengo un plan!
+
+523
+00:37:15,249 --> 00:37:16,249
+¿Cuál?
+
+524
+00:37:16,459 --> 00:37:17,668
+Tengo un plan.
+
+525
+00:37:18,586 --> 00:37:21,589
+¡Hmpf! ¿Trabajo en equipo, dices?
+
+526
+00:37:22,590 --> 00:37:25,384
+<i>¿Q-Qué es esta sensación?</i>
+
+527
+00:37:26,469 --> 00:37:28,012
+<i>¿Naruto siempre ha sido así...?</i>
+
+528
+00:37:29,428 --> 00:37:30,428
+Ahora...
+
+529
+00:37:31,849 --> 00:37:33,184
+¡vamos allá!
+
+530
+00:37:36,421 --> 00:37:39,841
+Mucho hablar para ser un mocoso.
+A ver si lo demuestras.
+
+531
+00:37:40,742 --> 00:37:42,577
+<i>E-Esto no pinta bien...</i>
+
+532
+00:37:42,844 --> 00:37:45,430
+¡¿Qué hacéis?!
+¡Os he dicho que huyáis!
+
+533
+00:37:45,959 --> 00:37:48,240
+¡En cuanto me atrapó estaba claro
+lo que iba a pasar!
+
+534
+00:37:48,400 --> 00:37:49,400
+¡Rápido! ¡Huid!
+
+535
+00:37:49,887 --> 00:37:53,224
+¡Escuchadme!
+¡Nuestra misión es proteger a Tazuna!
+
+536
+00:37:53,871 --> 00:37:55,122
+¡¿Lo habéis olvidado?!
+
+537
+00:37:58,282 --> 00:37:59,282
+Viejo...
+
+538
+00:37:59,623 --> 00:38:00,785
+Bueno...
+
+539
+00:38:01,825 --> 00:38:04,286
+yo os he metido en esto...
+
+540
+00:38:04,608 --> 00:38:08,112
+y no estaría bien dejar que os mataran
+a los cuatro por salvarme.
+
+541
+00:38:09,263 --> 00:38:11,307
+Lo siento, chicos...
+
+542
+00:38:12,004 --> 00:38:13,922
+¡Luchad todo lo que queráis!
+
+543
+00:38:15,944 --> 00:38:16,987
+¿Lo has oído?
+
+544
+00:38:18,404 --> 00:38:19,739
+¿Estás listo?
+
+545
+00:38:29,922 --> 00:38:32,173
+De verdad que no habéis aprendido
+nada, ¿eh?
+
+546
+00:38:32,602 --> 00:38:33,979
+¡¿Q-Qué?!
+
+547
+00:38:35,067 --> 00:38:37,319
+Todavía jugáis a ser ninjas.
+
+548
+00:38:37,812 --> 00:38:41,191
+Cuando yo tenía vuestra edad,
+
+549
+00:38:41,928 --> 00:38:45,015
+¡estas manos ya estaban
+manchadas de sangre!
+
+550
+00:38:47,526 --> 00:38:49,153
+¡Zabuza, el Demonio!
+
+551
+00:38:49,831 --> 00:38:53,960
+¿Vaya? ¿Así que has oído hablar de mí...?
+
+552
+00:38:56,630 --> 00:39:01,259
+Hace tiempo, a la Villa de la Niebla
+la llamaban «la Villa de la Niebla Sangrienta».
+
+553
+00:39:02,247 --> 00:39:05,125
+Los aspirantes a ninja tenían que superar
+la prueba más dura.
+
+554
+00:39:08,154 --> 00:39:10,948
+¿Conoces hasta
+el examen de graduación...?
+
+555
+00:39:11,586 --> 00:39:13,338
+¿El examen de graduación?
+
+556
+00:39:15,837 --> 00:39:17,547
+¿Qué es eso?
+
+557
+00:39:17,831 --> 00:39:19,751
+Ese examen de graduación
+del que hablas...
+
+558
+00:39:25,479 --> 00:39:27,773
+Los alumnos se mataban entre ellos.
+
+559
+00:39:28,319 --> 00:39:29,319
+¿Qué?
+
+560
+00:39:34,430 --> 00:39:37,433
+Compañeros que habían comido
+del mismo plato
+
+561
+00:39:37,458 --> 00:39:39,710
+se emparejaban e intentaban
+matarse.
+
+562
+00:39:40,352 --> 00:39:42,938
+No acababa
+hasta que uno moría.
+
+563
+00:39:43,757 --> 00:39:49,679
+Amigos que se habían contado
+sus sueños y aspiraciones...
+
+564
+00:39:52,264 --> 00:39:53,264
+Qué crueldad...
+
+565
+00:39:54,825 --> 00:39:56,076
+Hace diez años,
+
+566
+00:39:56,368 --> 00:40:00,956
+el examen de graduación de la Niebla
+tuvo que cambiar radicalmente.
+
+567
+00:40:02,333 --> 00:40:07,505
+Porque el año anterior
+había aparecido un demonio.
+
+568
+00:40:08,418 --> 00:40:09,585
+¿Qué tuvo que ver con el cambio?
+
+569
+00:40:10,093 --> 00:40:12,554
+¿Qué había hecho ese demonio?
+
+570
+00:40:13,993 --> 00:40:17,288
+Sin escrúpulos ni dudas...
+
+571
+00:40:18,474 --> 00:40:21,519
+un niño que aún ni siquiera
+se había graduado como ninja
+
+572
+00:40:21,978 --> 00:40:26,816
+masacró a más de cien
+de sus compañeros.
+
+573
+00:40:30,475 --> 00:40:34,187
+Qué divertido fue...
+
+574
+00:40:44,466 --> 00:40:45,466
+¡Sasuke!
+
+575
+00:40:56,669 --> 00:40:57,669
+¡Muere!
+
+576
+00:40:58,780 --> 00:41:00,365
+<i>¡Kage Bunshin no Jutsu! (Clones de Sombra)</i>
+
+577
+00:41:04,314 --> 00:41:09,360
+Ah... Kage Bunshin,
+y un montón.
+
+578
+00:41:10,985 --> 00:41:12,319
+¡Allá voy!
+
+579
+00:41:25,583 --> 00:41:27,501
+Está visto que es imposible...
+
+580
+00:41:31,380 --> 00:41:34,550
+<i>¡Solo queda una forma
+de vencer a este tío!</i>
+
+581
+00:41:35,156 --> 00:41:36,156
+¡Sasuke!
+
+582
+00:41:40,540 --> 00:41:41,159
+<i>¡Ya veo!</i>
+
+583
+00:41:41,548 --> 00:41:43,467
+<i>¡Así que ese es tu plan, Naruto!</i>
+
+584
+00:41:43,767 --> 00:41:45,394
+<i>¡Para ser tú, no está mal!</i>
+
+585
+00:41:56,021 --> 00:41:57,272
+<i>Fūma Shuriken (Shuriken Viento Diabólico)</i>
+
+586
+00:41:58,184 --> 00:42:01,187
+A mí un shuriken no me hace nada.
+
+587
+00:42:10,132 --> 00:42:11,132
+<i>Ya veo.</i>
+
+588
+00:42:12,091 --> 00:42:14,718
+<i>Esta vez vas
+a por mi cuerpo real...</i>
+
+589
+00:42:16,090 --> 00:42:17,090
+<i>Pero...</i>
+
+590
+00:42:17,348 --> 00:42:18,348
+<i>¡no es tan fácil!</i>
+
+591
+00:42:21,113 --> 00:42:23,313
+<i>¡Un segundo shuriken escondido
+en la sombra del primero!</i>
+
+592
+00:42:27,144 --> 00:42:28,144
+<i>Pero...</i>
+
+593
+00:42:29,646 --> 00:42:31,356
+<i>Todavía te falta mucho.</i>
+
+594
+00:42:37,394 --> 00:42:38,812
+¡Te pillé!
+
+595
+00:42:51,585 --> 00:42:53,170
+¡Maldito mocoso!
+
+596
+00:43:02,350 --> 00:43:03,601
+¡Kakashi-sensei!
+
+597
+00:43:08,060 --> 00:43:09,060
+Naruto...
+
+598
+00:43:09,612 --> 00:43:11,322
+Tu estrategia ha sido excelente.
+
+599
+00:43:12,441 --> 00:43:14,902
+Habéis crecido...
+Los dos.
+
+600
+00:43:16,634 --> 00:43:20,513
+Los Kage Bunshin no servían
+para derribar a Zabuza,
+
+601
+00:43:20,883 --> 00:43:25,637
+¡sino para esconderme a mí, transformado
+en un Fūma Shuriken!
+
+602
+00:43:26,109 --> 00:43:27,527
+Ha sido pura suerte...
+
+603
+00:43:28,146 --> 00:43:29,939
+¡Pura suerte, dice!
+
+604
+00:43:30,802 --> 00:43:33,972
+<i>Aun así, han trabajado en equipo
+a la perfección...</i>
+
+605
+00:43:33,997 --> 00:43:35,546
+<i>en una situación desesperada.</i>
+
+606
+00:43:36,948 --> 00:43:38,032
+<i>Y eso que...</i>
+
+607
+00:43:38,465 --> 00:43:40,305
+<i>esos dos siempre se llevan
+como el perro y el gato.</i>
+
+608
+00:43:41,144 --> 00:43:41,811
+Hmpf...
+
+609
+00:43:42,219 --> 00:43:45,305
+Me he distraído y he
+soltado mi Suirō no Jutsu...
+
+610
+00:43:45,715 --> 00:43:46,715
+¡No es eso!
+
+611
+00:43:47,400 --> 00:43:48,985
+No lo has soltado...
+
+612
+00:43:50,260 --> 00:43:51,428
+Te han obligado a romperlo.
+
+613
+00:43:52,424 --> 00:43:56,678
+Te lo digo solo una vez: la misma
+técnica no me funciona dos veces.
+
+614
+00:43:57,777 --> 00:43:59,070
+¿Y qué vas a hacer?
+
+615
+00:44:17,296 --> 00:44:18,588
+<i>Buey, Mono, Liebre.
+Rata, Jabalí, Pájaro, Buey.</i>
+
+616
+00:44:18,589 --> 00:44:20,189
+<i>Buey, Mono, Liebre.
+Rata, Jabalí, Pájaro, Buey.</i>
+
+617
+00:44:24,972 --> 00:44:25,972
+<i>Sello: Pájaro</i>
+
+618
+00:44:28,762 --> 00:44:30,514
+<i>¡Suiton: Suiryūdan no Jutsu! (Técnica acuática: Dragón de Agua)</i>
+
+619
+00:44:50,614 --> 00:44:52,658
+<i>Lo ha copiado todo en segundos...</i>
+
+620
+00:44:53,435 --> 00:44:55,187
+<i>¡y a la perfección...!</i>
+
+621
+00:45:09,973 --> 00:45:11,099
+<i>Qué raro...</i>
+
+622
+00:45:11,329 --> 00:45:13,790
+<i>¡Hemos hecho la técnica
+exactamente a la vez!</i>
+
+623
+00:45:15,409 --> 00:45:17,161
+<i>No puede ser que él...</i>
+
+624
+00:45:35,150 --> 00:45:36,318
+<i>Este tío...</i>
+
+625
+00:45:37,363 --> 00:45:38,948
+<i>¡Mis movimientos...!</i>
+
+626
+00:45:40,181 --> 00:45:41,683
+<i>Los está...</i>
+
+627
+00:45:42,780 --> 00:45:44,405
+leyendo a la perfección.
+
+628
+00:45:44,466 --> 00:45:45,467
+<i>¿Qué?</i>
+
+629
+00:45:45,759 --> 00:45:48,220
+<i>¡¿Me está leyendo la mente?!</i>
+
+630
+00:45:51,641 --> 00:45:53,851
+<i>¡Maldito sea! Es...</i>
+
+631
+00:45:54,601 --> 00:45:57,896
+Intentas intimidarme
+con esa mirada fría... ¿Verdad?
+
+632
+00:46:01,490 --> 00:46:05,869
+¡Ja! Solo sabes copiar...
+No eres más que una pobre imitación.
+
+633
+00:46:06,446 --> 00:46:08,926
+– ¡No podrás vencerme!
+– ¡No podrás vencerme!
+
+634
+00:46:09,027 --> 00:46:10,027
+– ¡Tú!
+– ¡Tú!
+
+635
+00:46:11,118 --> 00:46:15,122
+¡Te voy a cerrar esa boca
+de mono imitador para siempre!
+
+636
+00:46:19,768 --> 00:46:20,977
+<i>¡¿Q-Qué es eso?!</i>
+
+637
+00:46:25,197 --> 00:46:26,197
+<i>¿Yo?</i>
+
+638
+00:46:26,967 --> 00:46:28,635
+<i>¡E-Es absurdo!</i>
+
+639
+00:46:29,883 --> 00:46:31,718
+<i>¿Es un genjutsu?</i>
+
+640
+00:46:34,660 --> 00:46:36,996
+<i>¡Suiton: Daibakufu no Jutsu! (Técnica acuática: Gran Vórtice de Agua)</i>
+
+641
+00:46:38,803 --> 00:46:40,137
+¡¿Q-Qué?!
+
+642
+00:46:45,903 --> 00:46:46,903
+¡No puede ser!
+
+643
+00:46:55,057 --> 00:46:57,727
+<i>Estaba a punto de
+usar esa técnica...</i>
+
+644
+00:47:03,114 --> 00:47:04,657
+<i>No puedo seguirle el ritmo...</i>
+
+645
+00:47:05,130 --> 00:47:06,423
+<i>¡a sus técnicas!</i>
+
+646
+00:47:46,838 --> 00:47:47,838
+Se acabó...
+
+647
+00:48:06,400 --> 00:48:07,400
+¿Por qué...?
+
+648
+00:48:08,428 --> 00:48:12,056
+¿Acaso puedes ver el futuro...?
+
+649
+00:48:12,108 --> 00:48:13,108
+Sí...
+Lo veo...
+
+650
+00:48:14,324 --> 00:48:15,784
+¡Tu muerte!
+
+651
+00:48:40,475 --> 00:48:42,728
+Tenías razón. Está muerto.
+
+652
+00:49:17,179 --> 00:49:18,847
+Está muerto, sin duda.
+
+653
+00:49:24,061 --> 00:49:25,407
+Te lo agradezco.
+
+654
+00:49:26,396 --> 00:49:31,485
+Llevaba tiempo esperando la ocasión
+de matar a Zabuza.
+
+655
+00:49:34,905 --> 00:49:36,573
+A juzgar por esa máscara...
+
+656
+00:49:37,063 --> 00:49:39,691
+eres un Oinin (Ninja Cazador)
+de la Villa Oculta de la Niebla.
+
+657
+00:49:41,232 --> 00:49:44,313
+Impresionante.
+Sabes mucho.
+
+658
+00:49:44,837 --> 00:49:49,508
+<i>Por su constitución y su voz,
+no debe de ser mucho mayor que Naruto...</i>
+
+659
+00:49:50,930 --> 00:49:52,182
+<i>¿Y es un Oinin...?</i>
+
+660
+00:49:59,846 --> 00:50:02,724
+<i>No es un niño corriente...</i>
+
+661
+00:50:14,026 --> 00:50:16,947
+¡¿Tú quién eres?!
+
+662
+00:50:25,038 --> 00:50:26,469
+¡Eh, tú!
+
+663
+00:50:27,596 --> 00:50:30,599
+Tranquilo, Naruto.
+No es un enemigo.
+
+664
+00:50:31,588 --> 00:50:33,673
+¡No es eso lo que pregunto!
+
+665
+00:50:33,965 --> 00:50:35,008
+Yo...
+
+666
+00:50:35,654 --> 00:50:36,947
+¡Que digo yo!
+
+667
+00:50:37,130 --> 00:50:39,340
+Ese Zabuza...
+¡A ese Zabuza lo han matado!
+
+668
+00:50:40,178 --> 00:50:42,848
+Un tío que era tan fuerte...
+
+669
+00:50:43,014 --> 00:50:46,810
+¡Y lo ha matado así de fácil
+un crío que no es mayor que yo!
+
+670
+00:50:46,977 --> 00:50:48,770
+¡No pienso aceptarlo!
+
+671
+00:50:50,914 --> 00:50:51,637
+Bueno,
+
+672
+00:50:51,662 --> 00:50:53,747
+entiendo que no te lo creas.
+
+673
+00:50:54,609 --> 00:50:57,279
+Pero... esto también es la realidad.
+
+674
+00:51:02,563 --> 00:51:05,858
+En este mundo hay niños
+más pequeños que tú...
+
+675
+00:51:06,859 --> 00:51:08,736
+y más fuertes que yo.
+
+676
+00:51:30,508 --> 00:51:34,679
+Vuestra batalla ha terminado, por ahora.
+
+677
+00:51:35,596 --> 00:51:38,516
+Tengo que deshacerme de este cuerpo...
+
+678
+00:51:39,463 --> 00:51:42,090
+Guarda muchos secretos.
+
+679
+00:51:42,115 --> 00:51:44,284
+Y ahora, si me disculpáis.
+
+680
+00:51:49,539 --> 00:51:50,539
+¡Ha desaparecido!
+
+681
+00:51:55,546 --> 00:51:57,965
+Nuestra misión aún no ha terminado.
+
+682
+00:51:59,337 --> 00:52:01,673
+Tenemos que llevar a Tazuna sano y salvo a su casa.
+
+683
+00:52:03,863 --> 00:52:05,991
+¡Lo siento mucho, chicos!
+
+684
+00:52:06,190 --> 00:52:09,026
+¡Podéis descansar en mi casa!
+
+685
+00:52:09,849 --> 00:52:10,849
+¡Vale!
+
+686
+00:52:10,934 --> 00:52:12,143
+¡Ánimo, en marcha!
+
+687
+00:52:23,372 --> 00:52:24,372
+¡¿Q-Qué?!
+
+688
+00:52:24,491 --> 00:52:25,492
+¡¿Qué ha pasado?!
+
+689
+00:52:27,410 --> 00:52:28,411
+¡Kakashi-sensei!
+
+690
+00:52:36,446 --> 00:52:38,323
+¡Kakashi-sensei!
+
+691
+00:52:51,312 --> 00:52:53,981
+<i>Parece que he abusado
+del Sharingan...</i>
+
+692
+00:52:55,772 --> 00:52:57,649
+¿Estás bien, sensei?
+
+693
+00:52:58,149 --> 00:53:02,279
+Me he pasado... No podré moverme
+bien durante una semana.
+
+694
+00:53:02,946 --> 00:53:03,697
+Bueno...
+
+695
+00:53:03,906 --> 00:53:06,575
+Entonces mejor no te muevas nada.
+
+696
+00:53:06,908 --> 00:53:07,908
+V-Vale...
+
+697
+00:53:12,183 --> 00:53:14,636
+¡Eh! El sensei se ha despertado.
+
+698
+00:53:14,958 --> 00:53:16,209
+¡Venga!
+
+699
+00:53:16,699 --> 00:53:18,117
+Tu Sharingan es increíble,
+
+700
+00:53:18,368 --> 00:53:21,830
+pero si te deja así de agotado,
+¿de verdad merece la pena?
+
+701
+00:53:22,078 --> 00:53:23,491
+L-Lo siento...
+
+702
+00:53:23,878 --> 00:53:25,088
+Pero, ¿sabes?
+
+703
+00:53:25,389 --> 00:53:27,906
+¡Ha acabado con un ninja muy poderoso!
+
+704
+00:53:27,931 --> 00:53:30,033
+Seguramente podamos estar
+tranquilos durante un tiempo.
+
+705
+00:53:30,348 --> 00:53:34,436
+Por cierto, ese chico de la máscara...
+¿Quién era?
+
+706
+00:53:35,437 --> 00:53:37,647
+Era del ANBU
+de la Villa Oculta de la Niebla.
+
+707
+00:53:38,523 --> 00:53:40,817
+Solo los Oinin de élite
+llevan máscaras así.
+
+708
+00:53:41,901 --> 00:53:43,101
+¿Oinin?
+
+709
+00:53:43,486 --> 00:53:46,114
+Bueno, se les conoce comúnmente como
+«la Unidad de Eliminación de Cadáveres»,
+
+710
+00:53:46,906 --> 00:53:50,660
+y su deber es borrar todo rastro
+de la existencia de un ninja.
+
+711
+00:53:51,494 --> 00:53:53,055
+El cuerpo de un ninja
+revela muchas cosas...
+
+712
+00:53:53,080 --> 00:53:57,793
+Los secretos del ninjutsu y las
+características del chakra de su villa...
+
+713
+00:53:57,834 --> 00:54:02,756
+la composición de las medicinas secretas
+usadas en su cuerpo, por ejemplo.
+
+714
+00:54:04,591 --> 00:54:06,343
+Por ejemplo, si yo muriera,
+
+715
+00:54:07,135 --> 00:54:10,013
+investigarían a fondo
+todos los secretos de mi Sharingan
+
+716
+00:54:11,214 --> 00:54:12,465
+y, en el peor de los casos,
+
+717
+00:54:12,490 --> 00:54:15,577
+podrían robar todas mis técnicas.
+
+718
+00:54:16,603 --> 00:54:18,208
+En otras palabras,
+los Oinin son especialistas
+
+719
+00:54:18,233 --> 00:54:21,236
+que impiden que se filtren
+los secretos de la villa
+
+720
+00:54:21,608 --> 00:54:24,444
+dando caza a los ninjas renegados
+que huyen de su villa
+
+721
+00:54:24,720 --> 00:54:29,058
+y eliminando por completo
+sus cuerpos.
+
+722
+00:54:33,041 --> 00:54:34,041
+<i>¿Qué es esto?</i>
+
+723
+00:54:35,830 --> 00:54:37,390
+<i>Tiene que significar algo...</i>
+
+724
+00:54:38,859 --> 00:54:41,278
+<i>Tengo la sensación
+de que se me escapa algo.</i>
+
+725
+00:54:42,170 --> 00:54:44,714
+¡¿Qué pasa?!
+¿Sensei?
+
+726
+00:54:45,933 --> 00:54:46,934
+Los Oinin...
+
+727
+00:54:47,166 --> 00:54:50,628
+se deshacen de los cadáveres
+al instante, allí mismo.
+
+728
+00:54:51,054 --> 00:54:52,514
+¿Y qué?
+
+729
+00:54:53,681 --> 00:54:57,102
+¿Cómo se deshizo ese chico de la máscara
+del cuerpo de Zabuza?
+
+730
+00:54:59,996 --> 00:55:01,414
+¡¿Y nosotros qué sabemos?!
+
+731
+00:55:01,773 --> 00:55:04,359
+¡Ese enmascarado
+se llevó a Zabuza!
+
+732
+00:55:05,610 --> 00:55:06,610
+Exacto...
+
+733
+00:55:07,612 --> 00:55:11,658
+Si necesitaba una prueba de su muerte,
+le habría bastado con llevarse la cabeza...
+
+734
+00:55:12,867 --> 00:55:13,993
+Y luego está...
+
+735
+00:55:14,077 --> 00:55:18,164
+el arma que ese Oinin
+usó para matar a Zabuza...
+
+736
+00:55:19,866 --> 00:55:20,866
+Solo con un senbon...
+
+737
+00:55:21,960 --> 00:55:22,960
+Es imposible...
+
+738
+00:55:23,315 --> 00:55:25,901
+Sí... ¡es imposible!
+
+739
+00:55:27,761 --> 00:55:31,091
+¡¿Se puede saber
+de qué estáis hablando?!
+
+740
+00:55:32,231 --> 00:55:34,942
+Es muy probable que...
+¡Zabuza siga vivo!
+
+741
+00:55:36,891 --> 00:55:38,768
+¡¿Qué demonios quieres decir?!
+
+742
+00:55:38,793 --> 00:55:42,363
+¡Pero, Kakashi-sensei,
+tú comprobaste que estaba muerto!
+
+743
+00:55:43,022 --> 00:55:44,691
+Lo comprobé, pero...
+
+744
+00:55:45,692 --> 00:55:49,487
+seguramente solo estaba
+en un estado de muerte aparente.
+
+745
+00:55:50,748 --> 00:55:55,545
+Los senbon que usó el Oinin
+rara vez llegan a matar...
+
+746
+00:55:55,618 --> 00:55:57,871
+a menos que alcancen un punto vital.
+
+747
+00:55:58,728 --> 00:56:01,314
+En origen se usaban
+para tratamientos médicos,
+
+748
+00:56:01,339 --> 00:56:02,798
+como la acupuntura.
+
+749
+00:56:03,961 --> 00:56:07,381
+Los Oinin conocen al detalle
+la anatomía del cuerpo humano...
+
+750
+00:56:08,214 --> 00:56:12,177
+Dejar a alguien al borde de la muerte
+debe de ser sencillo para ellos.
+
+751
+00:56:13,428 --> 00:56:16,639
+Primero, se tomó la molestia
+de llevarse el cuerpo de Zabuza,
+
+752
+00:56:16,681 --> 00:56:18,725
+que seguramente pesaba más que él.
+
+753
+00:56:19,942 --> 00:56:24,431
+Segundo, usó senbon, un arma
+con pocas probabilidades de ser mortal.
+
+754
+00:56:26,015 --> 00:56:27,266
+Teniendo en cuenta estas dos cosas,
+
+755
+00:56:27,317 --> 00:56:32,197
+es más probable que el chico no quisiera
+matar a Zabuza, sino salvarlo.
+
+756
+00:56:33,615 --> 00:56:35,658
+¿No le estás dando
+demasiadas vueltas?
+
+757
+00:56:36,166 --> 00:56:37,096
+No...
+
+758
+00:56:37,191 --> 00:56:41,279
+Cuando algo no cuadra,
+hay que prepararse para lo peor.
+
+759
+00:56:41,831 --> 00:56:43,666
+Para un shinobi, es una regla de oro.
+
+760
+00:56:49,523 --> 00:56:54,528
+<i>Hmpf... Mira que alegrarse
+de que Zabuza pueda estar vivo...</i>
+
+761
+00:56:55,077 --> 00:56:58,242
+Sensei, ¿qué podemos hacer para prepararnos?
+
+762
+00:56:59,057 --> 00:57:00,817
+Si tú no vas a poder moverte
+en un tiempo...
+
+763
+00:57:01,017 --> 00:57:03,061
+¡Os voy a poner a entrenar!
+
+764
+00:57:03,520 --> 00:57:08,358
+¡E-Espera un momento! Por mucho que entrenemos,
+¡no nos vamos a volver tan fuertes!
+
+765
+00:57:08,806 --> 00:57:13,431
+¡Es un ninja que te puso en apuros
+incluso a ti, con tu Sharingan!
+
+766
+00:57:13,675 --> 00:57:16,427
+<i>¡¿Quieres que nos maten?!</i>
+
+767
+00:57:16,952 --> 00:57:17,952
+Sakura...
+
+768
+00:57:18,184 --> 00:57:20,979
+¿Quién me salvó
+cuando estaba en apuros?
+
+769
+00:57:21,955 --> 00:57:25,625
+Habéis crecido muy deprisa...
+¡Sobre todo Naruto!
+
+770
+00:57:27,100 --> 00:57:28,894
+¡Tú eres el que más ha crecido!
+
+771
+00:57:30,856 --> 00:57:35,569
+¡Así que te has dado cuenta, Kakashi-sensei!
+¡Esto se pone interesante!
+
+772
+00:57:36,029 --> 00:57:37,655
+No tiene nada de interesante...
+
+773
+00:57:43,810 --> 00:57:44,962
+¿Y tú quién demonios eres?
+
+774
+00:57:45,353 --> 00:57:47,855
+¡Eh, Inari!
+¡¿Dónde estabas?!
+
+775
+00:57:48,327 --> 00:57:49,995
+Bienvenido a casa... abuelo...
+
+776
+00:57:50,356 --> 00:57:52,525
+Inari, ¡¿qué forma de saludar es esa?!
+
+777
+00:57:52,814 --> 00:57:55,775
+¡Estos son los ninjas
+que han escoltado a tu abuelo!
+
+778
+00:57:56,281 --> 00:57:58,616
+Tranquilo, tranquilo.
+¿Verdad, Inari?
+
+779
+00:58:01,244 --> 00:58:03,162
+Pero, mamá, estos van a morir...
+
+780
+00:58:03,496 --> 00:58:06,374
+No pueden ganar a Gato
+y a sus hombres.
+
+781
+00:58:06,499 --> 00:58:08,418
+¡¿Qué has dicho, mocoso?!
+
+782
+00:58:08,835 --> 00:58:10,670
+¡Escúchame bien!
+
+783
+00:58:10,853 --> 00:58:13,514
+¡Soy un superhéroe que va a convertirse
+en un ninja increíble,
+
+784
+00:58:13,539 --> 00:58:14,707
+el que se convertirá en Hokage!
+
+785
+00:58:14,858 --> 00:58:17,277
+Me da igual que se llame Gato
+o Perro o como sea...
+
+786
+00:58:17,302 --> 00:58:19,846
+¡Esos tíos no me
+preocupan para nada!
+
+787
+00:58:20,096 --> 00:58:25,018
+¡Ja! ¿Un héroe? Qué tontería.
+¡Los héroes no existen!
+
+788
+00:58:25,319 --> 00:58:26,412
+¡¿Qué has dicho?!
+
+789
+00:58:26,436 --> 00:58:27,756
+¡Basta ya!
+
+790
+00:58:28,146 --> 00:58:31,107
+Si no quieres morir,
+más te vale volver a tu casa...
+
+791
+00:58:32,859 --> 00:58:34,652
+Inari, ¿adónde vas?
+
+792
+00:58:36,571 --> 00:58:38,531
+Al mar...
+Voy a mirar el mar...
+
+793
+00:58:43,664 --> 00:58:44,706
+Lo siento mucho.
+
+794
+00:58:47,540 --> 00:58:51,085
+Ese mocoso... ¡Le voy a
+enseñar una lección!
+
+795
+00:58:56,674 --> 00:58:57,674
+¿Eh?
+
+796
+00:58:59,078 --> 00:59:00,162
+<i>¡¿Está llorando?!</i>
+
+797
+00:59:10,049 --> 00:59:11,425
+Papá...
+
+798
+00:59:19,321 --> 00:59:21,579
+¡Bien, empieza el entrenamiento!
+
+799
+00:59:22,170 --> 00:59:23,170
+¡Sí, señor!
+
+800
+00:59:23,366 --> 00:59:30,081
+Pero... antes, repasemos
+lo básico del chakra, el poder de un ninja.
+
+801
+00:59:30,502 --> 00:59:31,502
+Veamos...
+
+802
+00:59:31,838 --> 00:59:35,640
+¡Eso ya lo sabemos!
+El «chacra», ¿no?
+
+803
+00:59:36,227 --> 00:59:37,227
+Es «chakra»...
+
+804
+00:59:38,270 --> 00:59:40,073
+Adelante, Sakura.
+
+805
+00:59:40,169 --> 00:59:41,545
+Atento, Naruto...
+
+806
+00:59:43,096 --> 00:59:48,310
+¡El chakra es la energía que
+necesita un ninja para usar técnicas!
+
+807
+00:59:48,932 --> 00:59:50,684
+Está formado por dos energías:
+
+808
+00:59:50,709 --> 00:59:55,255
+Primero, la energía física que se obtiene
+de todas y cada una de las células del cuerpo.
+
+809
+00:59:55,798 --> 01:00:02,096
+¡Segundo, la energía espiritual acumulada
+con años de entrenamiento y experiencia!
+
+810
+01:00:02,652 --> 01:00:07,239
+Es decir, las técnicas extraen
+y combinan estas dos energías
+
+811
+01:00:07,264 --> 01:00:08,599
+del interior del cuerpo,
+
+812
+01:00:08,624 --> 01:00:11,752
+y a esto se le llama
+«combinar el chakra».
+
+813
+01:00:12,039 --> 01:00:17,211
+Después, el chakra se activa
+formando sellos con las manos.
+
+814
+01:00:18,236 --> 01:00:19,320
+¡Exactamente!
+
+815
+01:00:19,672 --> 01:00:22,967
+Desde luego, Iruka-sensei ha formado
+a unos alumnos excelentes.
+
+816
+01:00:24,679 --> 01:00:28,683
+¡Me da igual! Puede que no entienda
+las explicaciones difíciles,
+
+817
+01:00:28,708 --> 01:00:30,614
+¡pero lo aprenderé con mi cuerpo!
+
+818
+01:00:30,932 --> 01:00:32,309
+Naruto tiene toda la razón...
+
+819
+01:00:32,960 --> 01:00:35,588
+Todos nosotros ya
+sabemos usar técnicas...
+
+820
+01:00:35,730 --> 01:00:39,775
+¡No! Ninguno de vosotros usa
+el chakra de forma eficiente todavía.
+
+821
+01:00:40,177 --> 01:00:41,177
+¡¿Qué?!
+
+822
+01:00:41,979 --> 01:00:43,272
+Escuchad...
+
+823
+01:00:43,816 --> 01:00:45,526
+Como ha explicado Sakura,
+
+824
+01:00:45,721 --> 01:00:50,643
+combinar el chakra consiste en tomar
+la energía física y la espiritual
+
+825
+01:00:50,733 --> 01:00:52,569
+y mezclarlas
+dentro del cuerpo.
+
+826
+01:00:54,388 --> 01:00:59,476
+Y la cantidad necesaria de cada energía
+
+827
+01:00:59,840 --> 01:01:02,342
+varía según
+la técnica que se quiera activar...
+
+828
+01:01:02,783 --> 01:01:05,952
+¡Ahora mismo, ninguno de vosotros
+usa el chakra de forma eficiente!
+
+829
+01:01:07,305 --> 01:01:10,391
+Aunque seáis capaces de reunir
+mucho chakra,
+
+830
+01:01:10,933 --> 01:01:13,352
+si no sabéis controlarlo
+de forma equilibrada,
+
+831
+01:01:13,936 --> 01:01:16,731
+no solo se reducirá a la mitad
+la eficacia de la técnica,
+
+832
+01:01:17,081 --> 01:01:19,041
+sino que puede que
+ni siquiera se active.
+
+833
+01:01:19,578 --> 01:01:23,290
+Si malgastáis energía,
+no podréis luchar mucho tiempo.
+
+834
+01:01:23,315 --> 01:01:25,817
+Esos son algunos de
+los problemas que pueden surgir.
+
+835
+01:01:26,493 --> 01:01:28,704
+¿Q-Qué tenemos que hacer...?
+
+836
+01:01:30,395 --> 01:01:32,689
+¡Aprender a controlar el chakra
+con vuestro propio cuerpo!
+
+837
+01:01:32,966 --> 01:01:37,513
+¡Es un entrenamiento durísimo
+en el que os jugaréis la vida!
+
+838
+01:01:39,724 --> 01:01:41,199
+¿Q-Qué vamos a hacer?
+
+839
+01:01:42,273 --> 01:01:43,273
+¿Hm?
+
+840
+01:01:44,194 --> 01:01:45,194
+Trepar árboles...
+
+841
+01:01:45,272 --> 01:01:46,607
+¡¿Trepar árboles?!
+
+842
+01:01:47,020 --> 01:01:48,020
+Exacto.
+
+843
+01:01:48,045 --> 01:01:50,172
+¡Pero no se trata de trepar
+árboles sin más!
+
+844
+01:01:50,825 --> 01:01:52,535
+Treparéis
+sin usar las manos.
+
+845
+01:01:52,795 --> 01:01:54,339
+¿Qué? ¿Cómo?
+
+846
+01:01:56,546 --> 01:01:58,507
+Bueno, mirad.
+
+847
+01:02:14,648 --> 01:02:15,774
+Está trepando...
+
+848
+01:02:16,624 --> 01:02:19,210
+¡Sube por el tronco
+solo con los pies!
+
+849
+01:02:22,363 --> 01:02:24,365
+Pues eso, más o menos así...
+
+850
+01:02:25,013 --> 01:02:28,600
+Concentrad el chakra en las plantas
+de los pies y usadlo para pegaros al árbol.
+
+851
+01:02:29,323 --> 01:02:32,076
+Si usáis bien el chakra,
+podéis hacer cosas como esta.
+
+852
+01:02:32,353 --> 01:02:33,354
+¡Espera un momento!
+
+853
+01:02:33,781 --> 01:02:36,283
+¿Y cómo nos va a hacer más fuertes
+algo así?
+
+854
+01:02:36,782 --> 01:02:38,784
+A eso iba...
+
+855
+01:02:39,430 --> 01:02:41,666
+El objetivo de este entrenamiento
+es acumular
+
+856
+01:02:41,691 --> 01:02:45,361
+la cantidad justa de chakra
+en un punto concreto...
+
+857
+01:02:46,033 --> 01:02:49,078
+Es sorprendentemente difícil,
+incluso para un ninja experto.
+
+858
+01:02:50,032 --> 01:02:53,119
+La cantidad de chakra necesaria
+para trepar árboles es muy sutil.
+
+859
+01:02:54,168 --> 01:02:59,006
+Y las plantas de los pies son la parte del
+cuerpo donde más cuesta concentrar el chakra.
+
+860
+01:02:59,988 --> 01:03:03,242
+Es decir, si dominas
+el control necesario para esto,
+
+861
+01:03:03,793 --> 01:03:08,672
+podrás dominar
+cualquier técnica. ¡En teoría, claro!
+
+862
+01:03:09,917 --> 01:03:13,170
+El segundo objetivo es mantener
+ese chakra combinado.
+
+863
+01:03:13,992 --> 01:03:17,078
+Cuando más chakra combinan los ninjas
+es en combate.
+
+864
+01:03:17,885 --> 01:03:19,261
+En esas circunstancias,
+
+865
+01:03:19,286 --> 01:03:22,915
+controlar y mantener el chakra
+se convierte en lo más difícil.
+
+866
+01:03:24,064 --> 01:03:28,404
+Pero, en fin, hablando
+no vais a conseguir nada...
+
+867
+01:03:29,313 --> 01:03:32,191
+Tendréis que aprenderlo con el cuerpo.
+
+868
+01:03:36,153 --> 01:03:38,530
+Usad el kunai para
+marcar el punto más alto
+
+869
+01:03:38,706 --> 01:03:41,459
+al que podáis llegar
+con vuestra fuerza actual.
+
+870
+01:03:43,011 --> 01:03:47,182
+Después, intentaréis hacer
+una marca aún más alta.
+
+871
+01:03:48,674 --> 01:03:51,427
+No tenéis nivel para
+subir andando desde el principio,
+
+872
+01:03:52,145 --> 01:03:55,276
+así que coged carrerilla y aprovechad el impulso
+para ir acostumbrándoos... ¿Entendido?
+
+873
+01:03:57,158 --> 01:04:01,403
+¡Este entrenamiento no es nada!
+¡Ja! ¡Va a ser pan comido!
+
+874
+01:04:02,197 --> 01:04:05,492
+¡Al fin y al cabo, soy el que
+más ha crecido!
+
+875
+01:04:05,746 --> 01:04:09,333
+Basta de cháchara...
+Manos a la obra. Elegid un árbol y a trepar.
+
+876
+01:04:11,681 --> 01:04:15,268
+<i>Vale, primero tengo que concentrar
+chakra en las plantas de los pies...</i>
+
+877
+01:04:23,450 --> 01:04:27,663
+¡¡Listo!! ¡Allá voy!
+
+878
+01:04:43,831 --> 01:04:47,334
+<i>No pensaba que fuera tan difícil
+mantener una cantidad constante de chakra...</i>
+
+879
+01:04:47,614 --> 01:04:49,574
+<i>Si el chakra es demasiado fuerte,
+te repele...</i>
+
+880
+01:04:51,950 --> 01:04:56,329
+<i>Pero si es demasiado débil,
+pierdes el agarre y te caes.</i>
+
+881
+01:04:59,031 --> 01:04:59,573
+<i>¡Vaya...!</i>
+
+882
+01:04:59,666 --> 01:05:02,210
+<i>La diferencia entre Naruto y Sasuke
+es la que esperaba.</i>
+
+883
+01:05:02,622 --> 01:05:03,957
+¡Esto es bastante fácil!
+
+884
+01:05:04,903 --> 01:05:05,903
+¿Qué?
+
+885
+01:05:06,636 --> 01:05:08,054
+¡S-Sakura!
+
+886
+01:05:13,770 --> 01:05:15,847
+¡Hala! ¡Muy bien, Sakura!
+
+887
+01:05:15,970 --> 01:05:18,170
+¡Es lo que cabía esperar
+de alguien tan genial como ella!
+
+888
+01:05:18,235 --> 01:05:20,057
+<i>¡Pero me fastidia un poco!</i>
+
+889
+01:05:20,799 --> 01:05:21,421
+¡Bah!
+
+890
+01:05:21,667 --> 01:05:24,295
+<i>Quería que Sasuke se fijara en mí...</i>
+
+891
+01:05:24,670 --> 01:05:26,797
+<i>¡¿Por qué siempre me pasa lo mismo?!</i>
+
+892
+01:05:27,256 --> 01:05:29,884
+Bueno, Sakura no solo sabe
+mucho sobre el chakra,
+
+893
+01:05:30,092 --> 01:05:33,095
+también tiene un control y una
+resistencia bastante buenos.
+
+894
+01:05:33,554 --> 01:05:34,680
+Parece que...
+
+895
+01:05:34,890 --> 01:05:40,312
+Parece que ella es la que tiene más posibilidades
+de llegar a Hokage... al contrario que otro.
+
+896
+01:05:40,759 --> 01:05:44,763
+Y el clan Uchiha
+tampoco parece gran cosa.
+
+897
+01:05:45,203 --> 01:05:46,955
+¡Cállate, sensei!
+
+898
+01:05:47,856 --> 01:05:49,817
+<i>¡Ahora Sasuke me va a odiar!</i>
+
+899
+01:05:52,698 --> 01:05:55,493
+<i>Dicho esto...
+Naruto y Sasuke...</i>
+
+900
+01:05:55,618 --> 01:05:58,996
+<i>Esos dos tienen una cantidad increíble
+de chakra oculto...</i>
+
+901
+01:05:59,021 --> 01:06:00,301
+<i>¡que Sakura jamás podría igualar!</i>
+
+902
+01:06:00,955 --> 01:06:05,042
+<i>Si este entrenamiento sale bien,
+les será de gran ayuda...</i>
+
+903
+01:06:05,503 --> 01:06:08,631
+¡Bien! ¡Primero alcanzaré a Sasuke!
+
+904
+01:06:08,923 --> 01:06:10,488
+¡Lo conseguiré... seguro!
+
+905
+01:06:15,815 --> 01:06:16,815
+<i>¡Bah!</i>
+
+906
+01:06:17,935 --> 01:06:20,104
+<i>Solo están perdiendo
+el tiempo con eso...</i>
+
+907
+01:06:32,947 --> 01:06:35,032
+Ohhhhh...
+
+908
+01:06:36,833 --> 01:06:37,833
+¡Ay!
+
+909
+01:06:46,981 --> 01:06:48,504
+<i>¡Estoy hecha polvo!</i>
+
+910
+01:06:48,912 --> 01:06:51,081
+<i>¿Cuánto aguante
+tienen esos dos?</i>
+
+911
+01:06:57,430 --> 01:07:01,017
+<i>Pero Naruto no mejora
+nada de nada.</i>
+
+912
+01:07:01,702 --> 01:07:04,134
+<i>Pronto se rendirá y
+empezará a patalear.</i>
+
+913
+01:07:06,624 --> 01:07:07,208
+¡Maldita sea!
+
+914
+01:07:07,440 --> 01:07:11,154
+<i>¡Lo ves! ¡Está claro que
+es facilísimo de calar!</i>
+
+915
+01:07:12,369 --> 01:07:13,787
+¡Eh, Sakura!
+
+916
+01:07:14,316 --> 01:07:16,026
+¿Me das algún consejo?
+
+917
+01:07:16,574 --> 01:07:17,574
+¿Qué?
+
+918
+01:07:17,781 --> 01:07:19,867
+¡Pero que Sasuke no se entere!
+Venga, venga.
+
+919
+01:07:23,026 --> 01:07:27,531
+<i>Cada vez es más fuerte...
+¿Hasta dónde llegará?</i>
+
+920
+01:07:28,461 --> 01:07:29,545
+<i>En cualquier caso, Naruto...</i>
+
+921
+01:07:30,171 --> 01:07:34,341
+<i>la cantidad de chakra latente que tienes
+seguramente supera con creces la de Sasuke.</i>
+
+922
+01:07:36,552 --> 01:07:39,764
+<i>¡Puede que incluso la mía!</i>
+
+923
+01:07:40,473 --> 01:07:43,184
+<i>Tengo muchas ganas de
+verte crecer... De verdad.</i>
+
+924
+01:08:07,002 --> 01:08:09,602
+Parece que estás ahí solita
+matando el tiempo.
+
+925
+01:08:11,243 --> 01:08:14,204
+¿Y el mocoso rubio
+y el estirado?
+
+926
+01:08:14,715 --> 01:08:16,755
+Están en mitad del
+entrenamiento de trepar árboles.
+
+927
+01:08:16,842 --> 01:08:18,010
+¿Tú no tienes que hacerlo?
+
+928
+01:08:18,650 --> 01:08:22,772
+Lo dominé enseguida, así que
+Kakashi-sensei me ha puesto de guardia.
+
+929
+01:08:24,558 --> 01:08:25,558
+¿En serio?
+
+930
+01:08:26,393 --> 01:08:27,686
+<i>¡¿Qué?!</i>
+
+931
+01:08:29,772 --> 01:08:31,315
+¿Tienes un momento, Tazuna?
+
+932
+01:08:32,543 --> 01:08:34,128
+¿Eh? ¿Qué pasa, Giichi?
+
+933
+01:08:34,870 --> 01:08:36,413
+Pues, verás...
+
+934
+01:08:36,999 --> 01:08:38,917
+He estado dándole vueltas...
+
+935
+01:08:39,365 --> 01:08:42,952
+Lo del puente...
+¡quiero dejarlo!
+
+936
+01:08:43,449 --> 01:08:47,203
+¿Qué? ¿Así de repente? ¡¿Tú también?!
+
+937
+01:08:48,260 --> 01:08:51,346
+Tazuna, nos conocemos desde hace mucho.
+
+938
+01:08:51,874 --> 01:08:54,126
+Me gustaría ayudar,
+pero si seguimos adelante,
+
+939
+01:08:54,204 --> 01:08:56,540
+Gato también irá
+a por nosotros.
+
+940
+01:08:57,049 --> 01:09:00,928
+Y... si te matan,
+¡todo habrá sido en vano!
+
+941
+01:09:03,222 --> 01:09:06,892
+¿Por qué no dejas
+de construir el puente?
+
+942
+01:09:10,187 --> 01:09:12,189
+Este puente es nuestro.
+
+943
+01:09:12,866 --> 01:09:15,786
+Es el puente que todos
+en el pueblo hemos construido
+
+944
+01:09:16,026 --> 01:09:19,113
+creyendo que devolverá
+el comercio y el transporte
+
+945
+01:09:19,196 --> 01:09:21,448
+a nuestra tierra.
+
+946
+01:09:22,158 --> 01:09:24,493
+Pero estamos hablando de nuestras vidas...
+
+947
+01:09:25,464 --> 01:09:26,757
+Ya es mediodía...
+
+948
+01:09:27,163 --> 01:09:28,622
+Dejémoslo por hoy.
+
+949
+01:09:30,791 --> 01:09:31,791
+¡Tazuna!
+
+950
+01:09:33,555 --> 01:09:36,433
+Giichi... no hace falta
+que vuelvas mañana.
+
+951
+01:09:43,108 --> 01:09:45,131
+¡Maldita sea!
+
+952
+01:09:47,798 --> 01:09:49,923
+¡¿Qué pasa?!
+¡¿Por qué no me sale?!
+
+953
+01:10:06,690 --> 01:10:08,608
+<i>¡No pienso perder contra ti!</i>
+
+954
+01:10:22,164 --> 01:10:23,999
+Oye, ¿adónde vamos?
+
+955
+01:10:24,238 --> 01:10:27,616
+Me han pedido que compre unas cosas
+para la cena de camino a casa...
+
+956
+01:10:30,517 --> 01:10:31,517
+¡Al ladrón!
+
+957
+01:10:38,843 --> 01:10:40,387
+<i>¿Qué le pasa... a este pueblo?</i>
+
+958
+01:10:41,901 --> 01:10:42,902
+Ya hemos llegado...
+
+959
+01:10:44,036 --> 01:10:45,036
+Bienvenidos...
+
+960
+01:10:55,964 --> 01:10:57,590
+<i>Aquí no hay casi nada...</i>
+
+961
+01:11:04,218 --> 01:11:06,553
+¡Pervertido!
+
+962
+01:11:10,173 --> 01:11:12,995
+Vaya susto me he llevado antes.
+
+963
+01:11:13,246 --> 01:11:14,956
+¡¿Qué le pasa a este pueblo?!
+
+964
+01:11:16,563 --> 01:11:17,563
+<i>¿Otra vez?</i>
+
+965
+01:11:18,357 --> 01:11:19,357
+Oye...
+
+966
+01:11:23,028 --> 01:11:24,028
+¿Qué?
+
+967
+01:11:25,030 --> 01:11:26,030
+¡Dame algo!
+
+968
+01:11:30,619 --> 01:11:32,788
+Oh... toma...
+
+969
+01:11:33,956 --> 01:11:34,956
+¡Bieeen!
+
+970
+01:11:36,667 --> 01:11:37,668
+Gracias.
+
+971
+01:11:43,299 --> 01:11:45,217
+Todo está así desde
+que apareció Gato.
+
+972
+01:11:46,051 --> 01:11:49,305
+Aquí todos los adultos
+se han vuelto unos cobardes.
+
+973
+01:11:55,436 --> 01:11:58,981
+Por eso el puente
+es necesario...
+
+974
+01:12:00,009 --> 01:12:01,385
+Es un símbolo de valor...
+
+975
+01:12:02,178 --> 01:12:05,395
+para devolverles el ánimo
+y que no se rindan.
+
+976
+01:12:05,420 --> 01:12:06,921
+Para la gente de esta tierra...
+
+977
+01:12:06,946 --> 01:12:08,864
+que se ha resignado
+a no hacer nada...
+
+978
+01:12:11,702 --> 01:12:16,415
+Si conseguimos...
+terminar ese puente...
+
+979
+01:12:18,898 --> 01:12:21,358
+este pueblo volverá
+a ser lo que era...
+
+980
+01:12:22,496 --> 01:12:24,331
+y todos regresarán.
+
+981
+01:12:43,609 --> 01:12:44,860
+<i>¡Maldita sea! ¡Maldita sea!</i>
+
+982
+01:12:45,155 --> 01:12:47,491
+<i>¡¿Me estás diciendo que
+Sasuke sigue subiendo?!</i>
+
+983
+01:12:52,462 --> 01:12:53,088
+<i>Mierda...</i>
+
+984
+01:12:53,369 --> 01:12:54,953
+<i>Me está alcanzando...</i>
+
+985
+01:12:57,169 --> 01:13:00,381
+<i>¡Maldita sea! ¡No! ¡No!</i>
+
+986
+01:13:01,001 --> 01:13:04,922
+<i>¡Si dejo que Sasuke me distraiga,
+perderé la concentración!</i>
+
+987
+01:13:06,173 --> 01:13:07,841
+<i>¡Concéntrate!
+¡Concéntrate!</i>
+
+988
+01:13:08,175 --> 01:13:10,677
+<i>Vale... ¡Creo que ya le estoy
+pillando el truco!</i>
+
+989
+01:13:11,303 --> 01:13:12,763
+<i>¡Vale! ¡Ahora!</i>
+
+990
+01:13:12,930 --> 01:13:13,930
+Oye... ¡Naruto!
+
+991
+01:13:16,308 --> 01:13:19,038
+¡Eh! ¡¿Qué demonios
+te pasa?!
+
+992
+01:13:19,287 --> 01:13:21,205
+¡Intento concentrarme,
+así que no me molestes!
+
+993
+01:13:21,992 --> 01:13:24,786
+E... Eh... Pues...
+
+994
+01:13:25,734 --> 01:13:27,236
+¡¿Q-Qué quieres?!
+
+995
+01:13:30,896 --> 01:13:34,858
+A-Antes le pediste a Sakura
+que te diera algún consejo...
+
+996
+01:13:35,532 --> 01:13:37,201
+¿Qué te dijo?
+
+997
+01:13:41,854 --> 01:13:43,188
+¡No pienso decírtelo!
+
+998
+01:13:54,179 --> 01:13:55,155
+¡Vaya!
+
+999
+01:13:55,180 --> 01:13:56,682
+¡Qué divertido es esto!
+
+1000
+01:13:56,896 --> 01:14:00,150
+¡Hacía mucho que no comíamos
+con tanta gente!
+
+1001
+01:14:06,733 --> 01:14:07,733
+¡Otra ración, por favor!
+
+1002
+01:14:13,574 --> 01:14:15,742
+¡Si vas a vomitar, deja de comer!
+
+1003
+01:14:16,243 --> 01:14:17,703
+No, voy a comer.
+
+1004
+01:14:18,652 --> 01:14:20,529
+Tengo que comer, aunque
+sea a la fuerza.
+
+1005
+01:14:20,873 --> 01:14:23,375
+Tengo que hacerme fuerte
+cuanto antes, así que...
+
+1006
+01:14:24,209 --> 01:14:25,209
+Mm-hmm.
+
+1007
+01:14:25,836 --> 01:14:28,130
+Pero si luego lo vomitáis todo,
+no sirve de nada.
+
+1008
+01:14:34,761 --> 01:14:38,640
+Disculpa, ¿por qué hay
+una foto rota colgada aquí?
+
+1009
+01:14:43,310 --> 01:14:44,310
+Es mi marido...
+
+1010
+01:14:46,523 --> 01:14:49,485
+Un hombre al que este pueblo
+llegó a llamar héroe...
+
+1011
+01:14:58,406 --> 01:14:59,406
+¡Papá!
+
+1012
+01:14:59,431 --> 01:15:02,309
+¡Te tengo dicho que no hables
+de él delante de Inari!
+
+1013
+01:15:08,141 --> 01:15:10,727
+¿Por qué a Inari le afecta tanto
+que se hable de su padre?
+
+1014
+01:15:11,817 --> 01:15:14,570
+Hay una historia detrás,
+¿verdad?
+
+1015
+01:15:16,323 --> 01:15:19,660
+Inari no era hijo de sangre
+de ese hombre,
+
+1016
+01:15:20,520 --> 01:15:24,190
+pero eran como padre e hijo
+y se llevaban muy bien...
+
+1017
+01:15:26,998 --> 01:15:30,626
+Por aquel entonces, Inari era un niño
+que se reía todo el tiempo...
+
+1018
+01:15:32,532 --> 01:15:33,532
+Sin embargo...
+
+1019
+01:15:34,609 --> 01:15:35,610
+Sin embargo...
+
+1020
+01:15:37,196 --> 01:15:42,910
+Inari cambió... después de
+lo que le pasó a su padre.
+
+1021
+01:15:44,581 --> 01:15:45,332
+¡Pochi!
+
+1022
+01:15:45,499 --> 01:15:46,499
+¡Pochi!
+
+1023
+01:15:48,941 --> 01:15:49,941
+¡Te equivocas!
+
+1024
+01:15:50,212 --> 01:15:52,339
+Se llama Estrella Fugaz...
+
+1025
+01:15:52,798 --> 01:15:54,341
+¡Desde hoy es mi perro!
+
+1026
+01:15:54,565 --> 01:15:57,962
+¡No es Estrella Fugaz!
+¡Es mi Pochi! ¡Devuélvemelo!
+
+1027
+01:15:58,317 --> 01:16:00,125
+¡Pochi es mi amigo!
+
+1028
+01:16:00,180 --> 01:16:02,484
+¡¿Por qué íbamos a dárselo
+a un llorica como tú?!
+
+1029
+01:16:04,351 --> 01:16:05,351
+¡Cállate!
+
+1030
+01:16:12,192 --> 01:16:13,192
+¡Pochi!
+
+1031
+01:16:16,738 --> 01:16:19,032
+Eso te pasa por no
+dárnoslo por las buenas...
+
+1032
+01:16:19,633 --> 01:16:21,718
+¡Ese perro me
+da completamente igual!
+
+1033
+01:16:22,536 --> 01:16:23,954
+¡Eh, suéltalo!
+
+1034
+01:16:25,622 --> 01:16:28,750
+¡¿Qué has hecho?!
+¡¿Quieres matar a Pochi?!
+
+1035
+01:16:29,436 --> 01:16:32,439
+¡Je! Es tu chucho favorito, ¿no?
+
+1036
+01:16:32,671 --> 01:16:34,423
+Pues sálvalo, rápido.
+
+1037
+01:16:36,675 --> 01:16:38,051
+¿Qué pasa?
+
+1038
+01:16:38,719 --> 01:16:40,432
+¡¿Te da igual que se muera?!
+
+1039
+01:16:47,019 --> 01:16:48,812
+– Pero...
+– ¡Mira! Ni siquiera sabe nadar,
+
+1040
+01:16:48,837 --> 01:16:51,089
+– ¡y eso que es un perro!
+– Pero...
+
+1041
+01:16:51,541 --> 01:16:55,379
+<i>Lo siento, Pochi...
+No sé nadar...</i>
+
+1042
+01:16:56,386 --> 01:16:59,800
+¡Eh! ¡Si eres su dueño,
+tírate a por él!
+
+1043
+01:17:06,622 --> 01:17:10,500
+Esto pinta mal, Akane.
+¿Y si no sabe nadar?
+
+1044
+01:17:12,711 --> 01:17:13,711
+¡S-Socorro!
+
+1045
+01:17:14,254 --> 01:17:15,254
+Déjalo.
+
+1046
+01:17:15,881 --> 01:17:16,881
+P-Pero...
+
+1047
+01:17:18,258 --> 01:17:21,303
+Pues ve tú a salvarlo.
+
+1048
+01:17:23,680 --> 01:17:26,433
+<i>N-No quiero morir...
+¡Que alguien me salve!</i>
+
+1049
+01:17:27,726 --> 01:17:28,726
+¡P-Pochi!
+
+1050
+01:17:30,187 --> 01:17:31,229
+¡Pochi!
+
+1051
+01:17:31,643 --> 01:17:32,978
+¡Pochi!
+
+1052
+01:17:40,206 --> 01:17:42,166
+Estrella Fugaz se ha escapado. ¡A por él!
+
+1053
+01:17:50,963 --> 01:17:54,967
+<i>Ohhh... No puedo respirar...
+Se acabó...</i>
+
+1054
+01:18:02,344 --> 01:18:03,970
+¿Ya te has despertado, chaval?
+
+1055
+01:18:09,434 --> 01:18:12,521
+Les he echado una buena bronca
+a esos críos.
+
+1056
+01:18:13,271 --> 01:18:14,398
+¡Toma, come!
+
+1057
+01:18:15,982 --> 01:18:18,110
+<i>¿Esto es real? Oh...</i>
+
+1058
+01:18:18,684 --> 01:18:20,769
+¿Tú... me has salvado?
+
+1059
+01:18:21,613 --> 01:18:24,616
+¡Come! Empieza por eso.
+
+1060
+01:18:26,827 --> 01:18:29,371
+Ya veo. A ti también
+te ha traicionado tu perro...
+
+1061
+01:18:30,163 --> 01:18:34,000
+En mi país, los perros son animales
+con un gran sentido de la lealtad...
+
+1062
+01:18:34,668 --> 01:18:37,587
+Bueno, fuiste tú quien traicionó
+primero la confianza de tu perro,
+
+1063
+01:18:37,612 --> 01:18:39,212
+así que no puedes
+hacer nada al respecto.
+
+1064
+01:18:40,882 --> 01:18:43,510
+Tenía miedo y no podía moverme.
+
+1065
+01:18:46,223 --> 01:18:47,849
+Quería salvarlo...
+
+1066
+01:18:48,408 --> 01:18:51,077
+Pero... no tengo valor, así que...
+
+1067
+01:18:51,351 --> 01:18:52,477
+Ya veo.
+
+1068
+01:18:53,729 --> 01:18:56,815
+Claro, un niño de tu edad
+tendría miedo.
+
+1069
+01:18:58,578 --> 01:18:59,662
+Pero, ¿sabes una cosa?, chaval.
+
+1070
+01:19:00,360 --> 01:19:02,028
+Recuerda esto.
+
+1071
+01:19:02,571 --> 01:19:03,571
+¿Eh?
+
+1072
+01:19:04,114 --> 01:19:06,867
+Un hombre debe vivir sin arrepentirse de nada.
+
+1073
+01:19:09,055 --> 01:19:11,767
+Lo que de verdad
+me importa,
+
+1074
+01:19:11,991 --> 01:19:15,161
+lo protegeré hasta el final
+con estos dos brazos.
+
+1075
+01:19:15,500 --> 01:19:18,503
+Por muy duro o doloroso que sea...
+
+1076
+01:19:18,587 --> 01:19:21,214
+¡aunque me cueste la vida!
+
+1077
+01:19:24,634 --> 01:19:26,470
+¡Te-Tenemos problemas, Kaiza!
+
+1078
+01:19:26,617 --> 01:19:28,786
+¡Con tanta lluvia
+ha reventado la presa del río!
+
+1079
+01:19:29,174 --> 01:19:31,629
+¡A este paso,
+el distrito D se inundará!
+
+1080
+01:19:31,892 --> 01:19:32,517
+¡¿Qué?!
+
+1081
+01:19:32,851 --> 01:19:33,393
+¡Papá!
+
+1082
+01:19:33,727 --> 01:19:35,604
+Inari, ve atrás
+y trae una cuerda.
+
+1083
+01:19:35,729 --> 01:19:36,729
+¡Vale!
+
+1084
+01:19:37,189 --> 01:19:37,998
+¡No hay nada que hacer!
+
+1085
+01:19:38,023 --> 01:19:40,103
+Lo único que podemos hacer
+es atar una cuerda y tirar...
+
+1086
+01:19:40,277 --> 01:19:42,780
+¡No digas tonterías!
+¡¿Cómo vamos a atar una cuerda?!
+
+1087
+01:19:43,195 --> 01:19:45,989
+¡Si nos metemos en una corriente
+tan fuerte, moriremos!
+
+1088
+01:19:46,281 --> 01:19:49,034
+¡Pero si esperamos, arrasará
+a todos los del distrito D!
+
+1089
+01:19:49,451 --> 01:19:50,452
+¿Qué hacemos?
+
+1090
+01:19:51,036 --> 01:19:52,036
+Lo haré yo.
+
+1091
+01:19:53,942 --> 01:19:54,942
+¡Kaiza!
+
+1092
+01:19:55,582 --> 01:19:56,750
+¡No seas insensato!
+
+1093
+01:19:57,083 --> 01:19:58,752
+¡Ni siquiera tú podrías!
+
+1094
+01:19:59,544 --> 01:20:00,544
+¡Papá!
+
+1095
+01:20:00,879 --> 01:20:02,047
+No te preocupes...
+
+1096
+01:20:02,923 --> 01:20:04,257
+Tu padre es invencible.
+
+1097
+01:20:04,883 --> 01:20:08,595
+Tu padre quiere a este pueblo
+donde has nacido, así que...
+
+1098
+01:20:12,766 --> 01:20:15,435
+<i>Lo que de verdad me importa...</i>
+
+1099
+01:20:29,282 --> 01:20:32,244
+¡Lo ha conseguido!
+¡La cuerda... ha atado la cuerda!
+
+1100
+01:20:32,269 --> 01:20:34,146
+¡Vamos, tirad todos!
+
+1101
+01:20:34,329 --> 01:20:35,330
+¡Sí!
+
+1102
+01:20:36,289 --> 01:20:40,544
+Desde aquel día... la gente
+de este pueblo llamó héroe a Kaiza.
+
+1103
+01:20:40,671 --> 01:20:44,967
+Y se convirtió en un padre
+del que Inari podía estar orgulloso.
+
+1104
+01:20:46,424 --> 01:20:49,970
+Fue más o menos entonces cuando Gato
+puso sus ojos en estas tierras.
+
+1105
+01:20:50,345 --> 01:20:52,889
+Y entonces, una noche...
+
+1106
+01:21:07,123 --> 01:21:08,333
+Me han dicho...
+
+1107
+01:21:08,565 --> 01:21:11,484
+que vas a proteger este pueblo
+con esos brazos...
+
+1108
+01:21:19,082 --> 01:21:21,126
+¡Atrévete a intentarlo!
+
+1109
+01:21:44,190 --> 01:21:45,190
+¡Escuchad!
+
+1110
+01:21:45,584 --> 01:21:50,009
+Este hombre ha cometido actos violentos
+contra la Corporación Gato
+
+1111
+01:21:50,034 --> 01:21:52,119
+y ha alterado el orden
+de esta isla.
+
+1112
+01:21:53,272 --> 01:21:55,441
+¡Por ello, será ejecutado!
+
+1113
+01:21:58,955 --> 01:22:03,168
+Espero que no vuelvan a producirse
+altercados tan insignificantes.
+
+1114
+01:22:03,627 --> 01:22:04,627
+¡Papá!
+
+1115
+01:22:05,003 --> 01:22:06,171
+Para, Inari...
+
+1116
+01:22:11,509 --> 01:22:12,509
+Hazlo...
+
+1117
+01:22:16,514 --> 01:22:17,514
+Papá...
+
+1118
+01:22:23,605 --> 01:22:25,065
+¡Papá!
+
+1119
+01:22:34,342 --> 01:22:37,814
+Desde entonces,
+Inari ha cambiado...
+
+1120
+01:22:38,392 --> 01:22:40,853
+y también Tsunami...
+y la gente del pueblo...
+
+1121
+01:22:51,591 --> 01:22:53,343
+¿Qué haces, Naruto?
+
+1122
+01:22:53,779 --> 01:22:57,241
+Ya has entrenado bastante por hoy.
+Has gastado demasiado chakra.
+
+1123
+01:22:57,803 --> 01:22:59,443
+Si sigues gastando más,
+te morirás.
+
+1124
+01:23:00,684 --> 01:23:01,977
+Lo demostraré.
+
+1125
+01:23:03,770 --> 01:23:04,770
+¿El qué?
+
+1126
+01:23:07,440 --> 01:23:08,440
+Demostraré que...
+
+1127
+01:23:09,025 --> 01:23:11,778
+existen los héroes...
+
+1128
+01:23:15,273 --> 01:23:16,449
+¡en este mundo!
+
+1129
+01:24:25,720 --> 01:24:27,430
+¡Buenos días!
+
+1130
+01:24:31,024 --> 01:24:32,024
+Toma.
+
+1131
+01:24:32,049 --> 01:24:33,049
+Gracias.
+
+1132
+01:24:33,276 --> 01:24:36,446
+¿Naruto no volvió
+anoche?
+
+1133
+01:24:36,696 --> 01:24:37,989
+Es tan tonto
+
+1134
+01:24:38,239 --> 01:24:40,200
+que se pasa todas las noches fuera
+trepando árboles.
+
+1135
+01:24:40,617 --> 01:24:44,621
+A lo mejor ya se ha muerto
+de gastar tanto chakra.
+
+1136
+01:24:45,414 --> 01:24:47,207
+¿Estará bien Naruto?
+
+1137
+01:24:47,791 --> 01:24:50,251
+Mira que un niño fuera
+en plena noche...
+
+1138
+01:24:50,865 --> 01:24:52,908
+Bueno, no tienes que preocuparte.
+
+1139
+01:24:53,254 --> 01:24:56,007
+Aunque no lo parezca,
+es un ninja hecho y derecho.
+
+1140
+01:24:56,483 --> 01:24:57,700
+Quién sabe...
+
+1141
+01:24:58,145 --> 01:25:02,399
+Ese idiota seguramente
+estará hecho polvo ahora mismo.
+
+1142
+01:25:12,360 --> 01:25:15,113
+Si sigues durmiendo aquí,
+te vas a resfriar.
+
+1143
+01:25:23,593 --> 01:25:24,803
+¿Quién eres?
+
+1144
+01:25:28,081 --> 01:25:33,795
+¿Eh...? ¿Me has despertado tú?
+Digo... ¿qué haces aquí fuera?
+
+1145
+01:25:34,420 --> 01:25:35,620
+Estoy recogiendo hierbas medicinales.
+
+1146
+01:25:36,417 --> 01:25:37,585
+¿Hierbas?
+
+1147
+01:25:37,924 --> 01:25:41,803
+Sí. Para curar heridas,
+enfermedades y cosas así.
+
+1148
+01:25:50,728 --> 01:25:52,897
+Qué temprano te levantas.
+
+1149
+01:25:53,356 --> 01:25:54,399
+Tú también.
+
+1150
+01:25:54,566 --> 01:25:57,235
+¿Qué hacías tan temprano
+en un sitio así?
+
+1151
+01:25:59,116 --> 01:26:00,295
+¡Entrenar!
+
+1152
+01:26:03,020 --> 01:26:06,607
+¿Acaso eres...
+un ninja o algo así?
+
+1153
+01:26:08,005 --> 01:26:09,882
+Por esa bandana y eso...
+
+1154
+01:26:10,203 --> 01:26:12,038
+¿Lo parezco? ¿Sí?
+
+1155
+01:26:12,566 --> 01:26:14,393
+¡Sí! ¡Soy un ninja!
+
+1156
+01:26:15,393 --> 01:26:18,896
+¿De verdad?
+Qué admirable.
+
+1157
+01:26:21,512 --> 01:26:25,015
+Pero... ¿por qué entrenas?
+
+1158
+01:26:25,446 --> 01:26:27,949
+¡Quiero hacerme más fuerte!
+
+1159
+01:26:28,892 --> 01:26:32,228
+Pero si ya pareces
+bastante fuerte.
+
+1160
+01:26:32,253 --> 01:26:35,506
+¡No, no! ¡Quiero ser
+aún más fuerte!
+
+1161
+01:26:37,647 --> 01:26:40,024
+¿Para qué?
+
+1162
+01:26:40,615 --> 01:26:43,118
+¡Para ser el mejor ninja
+de mi villa!
+
+1163
+01:26:43,781 --> 01:26:46,618
+¡Voy a conseguir que todos
+reconozcan mi fuerza!
+
+1164
+01:26:47,052 --> 01:26:50,472
+¡Y tengo que demostrarle algo
+a cierta persona!
+
+1165
+01:26:51,940 --> 01:26:57,529
+¿Lo haces por otra persona?
+¿O lo haces por ti mismo?
+
+1166
+01:26:58,630 --> 01:26:59,630
+¿Eh?
+
+1167
+01:27:01,376 --> 01:27:03,593
+¡¿Q-Qué te hace tanta gracia?!
+
+1168
+01:27:05,449 --> 01:27:08,243
+¿Tienes a alguien
+que sea importante para ti?
+
+1169
+01:27:09,311 --> 01:27:10,354
+¿Importante?
+
+1170
+01:27:11,142 --> 01:27:13,186
+¿Qué quieres decir?
+
+1171
+01:27:16,731 --> 01:27:17,731
+<i>¿Qué será?</i>
+
+1172
+01:27:18,211 --> 01:27:22,841
+Cuando una persona tiene algo importante
+que quiere proteger...
+
+1173
+01:27:23,655 --> 01:27:25,866
+es cuando puede volverse
+fuerte de verdad.
+
+1174
+01:27:32,288 --> 01:27:35,250
+<i>Si le pones un dedo encima a Iruka-sensei,</i>
+
+1175
+01:27:36,292 --> 01:27:37,292
+<i>¡te mato!</i>
+
+1176
+01:27:38,392 --> 01:27:41,490
+¡Sí! ¡Eso lo sé de sobra!
+
+1177
+01:27:46,790 --> 01:27:48,542
+Te harás fuerte.
+
+1178
+01:27:48,870 --> 01:27:49,870
+¡Sí!
+
+1179
+01:27:50,127 --> 01:27:53,005
+Espero que volvamos a vernos.
+
+1180
+01:27:54,852 --> 01:27:56,437
+Ah... y...
+
+1181
+01:27:57,814 --> 01:27:59,066
+¡Soy un chico!
+
+1182
+01:28:00,625 --> 01:28:03,970
+<i>¡No puede ser!
+¡Es aún más guapo que Sakura!</i>
+
+1183
+01:28:25,842 --> 01:28:27,844
+¿Por qué? Qué raro.
+
+1184
+01:28:28,060 --> 01:28:30,104
+Este mundo está lleno de misterios...
+
+1185
+01:28:30,377 --> 01:28:32,806
+Ay.
+¡Eh! ¡¿Qué haces?!
+
+1186
+01:28:33,025 --> 01:28:36,111
+¿Se te ha olvidado comer, alcornoque?
+
+1187
+01:28:42,275 --> 01:28:43,318
+¿Naruto?
+
+1188
+01:28:47,601 --> 01:28:49,478
+¿Qué demonios estará haciendo Naruto?
+
+1189
+01:28:49,966 --> 01:28:53,094
+Y Sasuke tampoco ha vuelto
+de su paseo...
+
+1190
+01:29:00,658 --> 01:29:04,261
+No puede ser...
+¿Naruto ya llega tan alto?
+
+1191
+01:29:05,323 --> 01:29:06,323
+¡Hala!
+
+1192
+01:29:08,426 --> 01:29:09,677
+¡¿Qué os parece, qué os parece?!
+
+1193
+01:29:09,802 --> 01:29:12,659
+¡Ya puedo subir hasta aquí!
+
+1194
+01:29:16,617 --> 01:29:17,617
+¡Uaaah!
+
+1195
+01:29:19,073 --> 01:29:20,073
+¡Ay, idiota!
+
+1196
+01:29:20,396 --> 01:29:21,192
+¡Esto pinta mal!
+
+1197
+01:29:26,611 --> 01:29:28,112
+¡Os pillé!
+
+1198
+01:29:30,138 --> 01:29:31,806
+¡Habéis picado, habéis picado!
+
+1199
+01:29:34,043 --> 01:29:36,086
+¡No nos des esos sustos!
+
+1200
+01:29:37,053 --> 01:29:39,555
+<i>¡Me las pagará! ¡Cha!</i>
+
+1201
+01:29:40,532 --> 01:29:42,450
+<i>Ha crecido un poco, hmm.</i>
+
+1202
+01:29:57,536 --> 01:29:59,623
+Serás idiota.
+
+1203
+01:30:01,022 --> 01:30:02,022
+¿Sasuke...?
+
+1204
+01:30:02,892 --> 01:30:05,061
+Bien hecho, Sasuke.
+¡Eres genial!
+
+1205
+01:30:06,609 --> 01:30:09,821
+<i>Estos chicos están creciendo de verdad.</i>
+
+1206
+01:30:17,662 --> 01:30:18,662
+Así que Naruto, ¿eh?
+
+1207
+01:30:33,768 --> 01:30:34,888
+Volvamos.
+
+1208
+01:30:35,280 --> 01:30:36,280
+¡Vale!
+
+1209
+01:30:41,493 --> 01:30:42,952
+Llegan tarde.
+
+1210
+01:30:43,127 --> 01:30:45,337
+No solo Naruto, también Sasuke.
+
+1211
+01:30:50,814 --> 01:30:52,232
+¿Qué os ha pasado?
+
+1212
+01:30:52,257 --> 01:30:54,343
+Estáis los dos llenos de barro y agotados.
+
+1213
+01:30:56,307 --> 01:30:59,519
+Los dos... hemos llegado hasta arriba del todo.
+
+1214
+01:31:00,743 --> 01:31:01,743
+Bien.
+
+1215
+01:31:02,810 --> 01:31:07,398
+Naruto, Sasuke, a partir de mañana
+vosotros también protegeréis a Tazuna.
+
+1216
+01:31:08,551 --> 01:31:09,885
+¡Entendido! ¡Uaaah!
+
+1217
+01:31:10,792 --> 01:31:11,793
+¡Idiota!
+
+1218
+01:31:15,572 --> 01:31:19,075
+Un poco más
+y el puente estará terminado.
+
+1219
+01:31:19,435 --> 01:31:20,936
+Es gracias a vosotros.
+
+1220
+01:31:21,270 --> 01:31:23,397
+Aun así, no bajéis la guardia...
+
+1221
+01:31:24,809 --> 01:31:27,896
+Hace mucho que quiero
+preguntarte una cosa...
+
+1222
+01:31:29,061 --> 01:31:33,566
+¿Por qué seguís aquí
+aunque os mentí sobre la misión?
+
+1223
+01:31:36,398 --> 01:31:39,360
+Abandonar una causa justa
+es de cobardes.
+
+1224
+01:31:39,411 --> 01:31:41,900
+Es un viejo dicho que me gusta mucho.
+
+1225
+01:31:59,369 --> 01:32:02,206
+¡¿Por qué te esfuerzas tanto
+que estás a punto de desplomarte?!
+
+1226
+01:32:02,292 --> 01:32:05,921
+¡Por mucho que entrenes, no podrás
+hacer nada contra los hombres de Gato!
+
+1227
+01:32:06,303 --> 01:32:10,307
+Cállate. No soy como tú.
+
+1228
+01:32:10,332 --> 01:32:13,377
+¡Cállate!
+¡Me pones enfermo solo de verte!
+
+1229
+01:32:13,803 --> 01:32:16,973
+¡Deja de meterte donde no te llaman!
+¡No sabes nada de esta tierra!
+
+1230
+01:32:17,451 --> 01:32:19,619
+¡No soy como tú, que siempre
+vas tan tranquilo y despreocupado,
+
+1231
+01:32:19,644 --> 01:32:22,236
+alguien que no sabe
+lo que es sufrir de verdad!
+
+1232
+01:32:24,336 --> 01:32:28,882
+¡Un idiota como tú puede llorar todo lo que quiera!
+¡Llorica!
+
+1233
+01:32:30,778 --> 01:32:32,780
+¡Naruto! ¡Te has pasado!
+
+1234
+01:32:37,485 --> 01:32:38,485
+Naruto...
+
+1235
+01:32:53,442 --> 01:32:55,110
+¿Tienes un momento?
+
+1236
+01:33:03,463 --> 01:33:06,508
+Naruto no lo ha dicho
+con mala intención...
+
+1237
+01:33:08,058 --> 01:33:10,019
+Es que es un poco bruto, así que...
+
+1238
+01:33:11,478 --> 01:33:14,940
+Tazuna nos ha contado
+la historia de tu padre.
+
+1239
+01:33:16,216 --> 01:33:20,596
+Igual que tú, Naruto también creció
+sin padre...
+
+1240
+01:33:21,994 --> 01:33:24,455
+De hecho, no llegó a conocer
+a ninguno de sus padres.
+
+1241
+01:33:25,144 --> 01:33:27,981
+Y no solo eso.
+No tenía ni un solo amigo.
+
+1242
+01:33:28,308 --> 01:33:29,308
+¿Qué?
+
+1243
+01:33:29,732 --> 01:33:30,732
+Sin embargo...
+
+1244
+01:33:31,106 --> 01:33:34,443
+Nunca lo he visto
+quejarse ni llorar.
+
+1245
+01:33:36,103 --> 01:33:41,442
+Siempre se esfuerza al máximo,
+solo porque quiere que lo reconozcan.
+
+1246
+01:33:42,180 --> 01:33:45,851
+Siempre se juega la vida
+por ese sueño.
+
+1247
+01:33:49,355 --> 01:33:52,609
+Seguramente ya se haya cansado de llorar.
+
+1248
+01:33:54,819 --> 01:33:58,906
+Por eso Naruto entiende cómo te sientes,
+seguramente mejor que nadie.
+
+1249
+01:34:00,885 --> 01:34:02,595
+Lo que te ha dicho Naruto antes...
+
+1250
+01:34:03,388 --> 01:34:08,560
+seguro que es algo que se ha dicho
+a sí mismo una y otra vez.
+
+1251
+01:34:22,448 --> 01:34:24,533
+Te has recuperado bastante.
+
+1252
+01:34:25,391 --> 01:34:26,391
+Bien...
+
+1253
+01:34:26,975 --> 01:34:28,810
+Solo un poco más, Haku.
+
+1254
+01:34:29,622 --> 01:34:30,622
+Sí.

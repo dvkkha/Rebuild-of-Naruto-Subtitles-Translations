@@ -509,7 +509,7 @@ des Neunschwänzigen übernimmst,</i>
 114
 00:09:44,125 --> 00:09:47,003
 <i>Ach, und du solltest
-keine Schattendoppelgänger einsetzen,</i>
+keine Kage Bunshin (Schattendoppelgänger) einsetzen,</i>
 
 115
 00:09:47,044 --> 00:09:49,088
@@ -518,7 +518,7 @@ Biju-Chakra-Modus bist.</i>
 
 116
 00:09:50,256 --> 00:09:53,175
-<i>Schattendoppelgänger aus
+<i>Kage Bunshin aus
 deinem eigenen Chakra werden genommen.</i>
 
 117
@@ -3933,7 +3933,7 @@ Was meinst du damit?
 
 883
 01:00:31,794 --> 01:00:35,423
-An uns wurden ein Fluchmal-Jutsu und
+An uns wurden ein Juin (Fluchmal) und
 ein Versiegelungs-Jutsu angewandt.
 
 884

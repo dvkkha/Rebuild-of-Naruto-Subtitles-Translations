@@ -27,7 +27,7 @@ Dieses Projekt bietet:
   - Anreden wie in der deutschen Synchronisation (*Meister Hokage*, *Meister Siebter*, *-sensei* …)
 - Korrekturen von Fehlern, die im englischen Original noch vorhanden waren.
 
-Eine Liste aller Jutsus (Japanisch / Englisch / Deutsch / Niederländisch) liegt im Ordner [`docs/`](../docs/).
+Eine Liste aller Jutsus (Japanisch / Englisch / Deutsch / Niederländisch / Spanisch) liegt im Ordner [`docs/`](../docs/).
 
 ---
 

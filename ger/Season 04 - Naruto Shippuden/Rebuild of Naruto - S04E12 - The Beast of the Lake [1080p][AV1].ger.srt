@@ -2299,7 +2299,7 @@ Anscheinend ist das keine Illusion …
 
 530
 00:43:25,689 --> 00:43:27,483
-<i>Shōton: Jadekristall-Klinge!</i>
+<i>Shōton: Suishōtō (Jadekristall-Klinge)!</i>
 
 531
 00:43:30,611 --> 00:43:31,502
@@ -2521,7 +2521,7 @@ Keine Bewegung!
 581
 00:46:31,625 --> 00:46:34,170
 Du hast also einen deiner
-Schattendoppelgänger versteckt.
+Kage Bunshin (Schattendoppelgänger) versteckt.
 
 582
 00:46:34,670 --> 00:46:35,671
@@ -4651,7 +4651,7 @@ als Leibwächter und bei Suche und Festnahme verlassen hast.
 1063
 01:18:09,898 --> 01:18:14,235
 Du bist Spezialist für die Geheimtechnik,
-parasitäre Insekten zu steuern.
+Kikaichū (parasitäre Insekten) zu steuern.
 
 1064
 01:18:15,070 --> 01:18:15,840
@@ -7005,7 +7005,7 @@ Friss das!
 1606
 01:59:25,428 --> 01:59:27,555
 <i>Kombinations-Ninjutsu!
-Fūton: Krötenwasserkugel!</i>
+Fūton: Gama Teppō (Krötenwasserkugel)!</i>
 
 1607
 01:59:28,502 --> 01:59:29,349

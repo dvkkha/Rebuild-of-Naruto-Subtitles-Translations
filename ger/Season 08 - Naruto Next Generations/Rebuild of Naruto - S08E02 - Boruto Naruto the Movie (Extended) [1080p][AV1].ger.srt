@@ -2363,7 +2363,7 @@ erwische ich ihn hiermit!
 536
 00:36:02,145 --> 00:36:05,106
 <i>Du lockst ihn mit
-deinen Schattendoppelgängern.</i>
+deinen Kage Bunshin.</i>
 
 537
 00:36:05,314 --> 00:36:08,109
@@ -2957,7 +2957,7 @@ so beschäftigt wie eh und je.</i>
 
 671
 00:45:08,107 --> 00:45:10,567
-Er hat seinen Schattendoppelgänger
+Er hat seinen Kage Bunshin
 das Fernsehinterview machen lassen.
 
 672
@@ -4237,7 +4237,7 @@ Himawaris Geburtstag vermasselt.
 
 964
 01:01:04,395 --> 01:01:06,606
-Du hast einen Schattendoppelgänger
+Du hast einen Kage Bunshin
 nach Hause geschickt?
 
 965
@@ -7333,7 +7333,7 @@ Eine E-Mail?
 
 1666
 01:47:35,225 --> 01:47:38,061
-Er hat nicht mal einen Schattendoppelgänger geschickt?
+Er hat nicht mal einen Kage Bunshin geschickt?
 Blöder Alter.
 
 1667
@@ -7613,7 +7613,7 @@ Du kannst dich nicht mehr herausreden.
 1730
 01:51:37,258 --> 01:51:39,594
 Naruto kann über tausend
-Schattendoppelgänger erzeugen.
+Kage Bunshin erzeugen.
 
 1731
 01:51:40,845 --> 01:51:41,930
@@ -9507,7 +9507,7 @@ Ich wusste es!
 
 2168
 02:24:04,276 --> 02:24:07,196
-Du hast Chakra in den Eisensand
+Du hast Chakra in den Satetsu (Eisensand)
 geleitet, um ihn zu steuern.
 
 2169
@@ -9705,7 +9705,7 @@ dem des Kazekage,
 2213
 02:29:25,733 --> 02:29:28,361
 aber Eigenschaften und Stärke seines
-Eisensands übertreffen es.
+Satetsu übertreffen es.
 
 2214
 02:29:29,683 --> 02:29:30,684
@@ -9901,7 +9901,7 @@ so richtig gegeneinander kämpfen, was?
 2258
 02:31:25,478 --> 02:31:29,065
 Ich habe gehört, du kannst bis zu
-vier Schattendoppelgänger erzeugen?
+vier Kage Bunshin erzeugen?
 
 2259
 02:31:29,732 --> 02:31:30,733
@@ -10082,7 +10082,7 @@ Das war gefährlich.
 2299
 02:34:14,313 --> 02:34:18,275
 Ich wollte das beenden, bevor du
-deine Schattenlähmung einsetzt!
+dein Kagemane no Jutsu (Schattenlähmung) einsetzt!
 
 2300
 02:34:19,568 --> 02:34:21,237
@@ -10094,7 +10094,7 @@ Siehst du?
 
 2302
 02:34:30,746 --> 02:34:33,123
-Deine Schattenlähmung ist
+Dein Kagemane ist
 viel schärfer geworden!
 
 2303
@@ -10181,7 +10181,7 @@ Unmöglich …
 2322
 02:35:34,601 --> 02:35:38,272
 Ich habe mir schon gedacht,
-dass du auf Schattendoppelgänger zurückgreifst …
+dass du auf Kage Bunshin zurückgreifst …
 
 2323
 02:35:38,647 --> 02:35:41,650
@@ -10273,7 +10273,7 @@ Ihr seid unglaublich …
 2343
 02:37:22,501 --> 02:37:25,650
 Es ist noch in der Entwicklungsphase,
-und es ist nur ein Schattendoppelgänger möglich …
+und es ist nur ein Kage Bunshin möglich …
 
 2344
 02:37:25,754 --> 02:37:28,841
@@ -11202,7 +11202,7 @@ Du setzt auch ungewöhnliche Jutsu ein.
 2554
 02:50:03,120 --> 02:50:05,330
 Wie steuerst du den
-Eisensand überhaupt so?
+Satetsu überhaupt so?
 
 2555
 02:50:05,954 --> 02:50:09,166
@@ -11301,7 +11301,7 @@ Ich habe in meinen Händen keinen Widerstand gespürt.
 
 2577
 02:51:45,398 --> 02:51:46,691
-Ein Eisensand-Doppelgänger?!
+Ein Satetsu-Doppelgänger?!
 
 2578
 02:51:46,926 --> 02:51:47,593
@@ -11392,7 +11392,7 @@ Verdammt, er hat ihn erwischt!
 2597
 02:53:03,854 --> 02:53:06,691
 Er hat Mitsuki absichtlich seine
-Eisensandmauer zerstören lassen
+Satetsu-Mauer zerstören lassen
 
 2598
 02:53:06,861 --> 02:53:10,031
@@ -11439,12 +11439,12 @@ Ich werde dich dazu bringen, es mir zu zeigen.
 2607
 02:53:39,296 --> 02:53:42,616
 Bei dem Angriff vorhin habe ich dir
-eine Eisensand-Markierung verpasst.
+eine Satetsu-Markierung verpasst.
 
 2608
 02:53:43,113 --> 02:53:45,073
 Ich nehme an, du kennst
-die Eigenschaften des Eisensands.
+die Eigenschaften des Satetsu.
 
 2609
 02:53:46,298 --> 02:53:47,090
@@ -12312,7 +12312,7 @@ Das haben wir an der Akademie gelernt.
 
 2805
 03:05:08,295 --> 03:05:10,506
-Wie man Eisensand in einem
+Wie man Satetsu in einem
 Magnetfeld manipuliert,
 
 2806
@@ -12516,7 +12516,7 @@ Verstehe!
 
 2851
 03:07:56,875 --> 03:07:58,752
-Wenn es jetzt ist, wo beide Eisensand-Hände
+Wenn es jetzt ist, wo beide Satetsu-Hände
 beschäftigt sind …
 
 2852
@@ -12603,7 +12603,7 @@ Sarada Uchiha kann nicht weiterkämpfen!
 
 2872
 03:09:33,513 --> 03:09:37,809
-Der Eisensand, den ich an deinem Körper befestigt
+Der Satetsu, den ich an deinem Körper befestigt
 habe, wirkt wie ein Peilsender.
 
 2873
@@ -14447,7 +14447,7 @@ Kurz gesagt, er ist ein Ninja geworden.
 3299
 03:45:00,952 --> 03:45:03,830
 Es ist, als würde ich meinen
-eigenen Schattendoppelgänger ansehen.
+eigenen Kage Bunshin ansehen.
 
 3300
 03:45:04,190 --> 03:45:07,114
@@ -15198,7 +15198,7 @@ ihr Narren!
 3475
 04:02:03,067 --> 04:02:05,695
 <i>Das ist Shikamarus
-Schattenlähmung!</i>
+Kagemane!</i>
 
 3476
 04:02:07,280 --> 04:02:10,116
@@ -15364,7 +15364,7 @@ an denselben Ort –
 
 3514
 04:04:17,743 --> 04:04:18,994
-Die Schattenlähmung …
+Das Kagemane …
 
 3515
 04:04:19,019 --> 04:04:19,853
@@ -15908,7 +15908,7 @@ Das ist leicht.
 
 3641
 04:14:18,895 --> 04:14:20,438
-Shinki hat den Eisensand eingesetzt und …
+Shinki hat den Satetsu eingesetzt und …
 
 3642
 04:14:20,827 --> 04:14:21,912
@@ -16128,7 +16128,7 @@ Papa …
 
 3691
 04:17:13,391 --> 04:17:16,060
-Sieht aus, als wärst du kein Schattendoppelgänger.
+Sieht aus, als wärst du kein Kage Bunshin.
 
 3692
 04:17:16,586 --> 04:17:18,588
@@ -16457,7 +16457,7 @@ echt jetzt!</i>
 
 3767
 04:21:38,640 --> 04:21:39,974
-Ein Schattendoppelgänger?
+Ein Kage Bunshin?
 
 3768
 04:21:40,433 --> 04:21:42,519

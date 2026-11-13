@@ -19,10 +19,11 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 | 🇩🇪 German | [`ger/`](ger/) | `.ger.srt` | 74 / 74 | Jutsu names in Japanese, with a German translation in parentheses on first mention |
 | 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 74 / 74 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
 | 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 74 / 74 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
+| 🇪🇸 Spanish | [`spa/`](spa/) | `.spa.srt` | 74 / 74 | Spanish from Spain. Jutsu names in Japanese, with a Spanish translation in parentheses on first mention in each episode |
 
 Each language folder has its own README in that language.
 
-**Note:** Maediem's repository has no subtitles for *The Last – Naruto the Movie* (S07E01). The [`eng/`](eng/) folder includes English subtitles for it, converted from the English subtitle track of the Rebuild release. The German and Dutch translations of this episode are based on that file. The ending song is marked with ♪ in the translations and not translated. S07E01 files are named after the release: `Rebuild of Naruto - S07E01 - The Last [1080p] [BluRay] [x265] [SAMPA]`.
+**Note:** Maediem's repository has no subtitles for *The Last – Naruto the Movie* (S07E01). The [`eng/`](eng/) folder includes English subtitles for it, converted from the English subtitle track of the Rebuild release. The German, Dutch and Spanish translations of this episode are based on that file. The ending song is marked with ♪ in the translations and not translated. S07E01 files are named after the release: `Rebuild of Naruto - S07E01 - The Last [1080p] [BluRay] [x265] [SAMPA]`.
 
 ---
 
@@ -37,7 +38,7 @@ Each language folder has its own README in that language.
 
 All translations keep Maediem's **numbering and timestamps** unchanged. This means they match the **Rebuild-specific cuts**, not the original TV episodes.
 
-For readability, lines in the Dutch version are wrapped to at most 42 characters and 2 lines. The German version keeps Maediem's original line breaks.
+For readability, lines in the Dutch version are wrapped to at most 42 characters and 2 lines. The German and Spanish versions keep Maediem's original line breaks (with a few exceptions in the Spanish version where a line would get too long).
 
 ---
 
@@ -50,6 +51,7 @@ Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].en.srt       (Englis
 Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].ger.srt      (German)
 Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].dut.srt      (Dutch)
 Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].alt.dut.srt  (Dutch, alternative)
+Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].spa.srt      (Spanish)
 ```
 
 | Season folder | Episodes |
@@ -77,7 +79,7 @@ The [`docs/`](docs/) folder contains reference material for translators and for 
 
 | File | Contents |
 |---|---|
-| [`Jutsu-List.csv`](docs/Jutsu-List.csv) / [`.xlsx`](docs/Jutsu-List.xlsx) | Nearly 600 jutsu, styles and proper names in **Japanese, English, German and Dutch**, with the episode where each first appears |
+| [`Jutsu-List.csv`](docs/Jutsu-List.csv) / [`.xlsx`](docs/Jutsu-List.xlsx) | Nearly 600 jutsu, styles and proper names in **Japanese, English, German, Dutch and Spanish**, with the episode where each first appears |
 
 ---
 
@@ -86,7 +88,7 @@ The [`docs/`](docs/) folder contains reference material for translators and for 
 New translations are welcome! To keep everything consistent:
 
 1. Base the translation on **Maediem's English subtitles**. Keep the numbering and timestamps unchanged.
-2. Create a folder named after the **ISO 639-2 language code** (e.g. `fre`, `spa`, `ita`, `por`) with the same season folders and file names, using the matching suffix (`.fre.srt` …).
+2. Create a folder named after the **ISO 639-2 language code** (e.g. `fre`, `ita`, `por`) with the same season folders and file names, using the matching suffix (`.fre.srt` …).
 3. Add a short `README.md` in your language to the folder.
 4. Add a row for your language to the table at the top of this README.
 5. Use the [jutsu list](docs/Jutsu-List.csv) as a starting point for jutsu names. A column for your language is welcome too.

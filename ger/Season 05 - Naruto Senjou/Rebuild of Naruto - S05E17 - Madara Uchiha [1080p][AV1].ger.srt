@@ -2047,7 +2047,7 @@ Ich kann mich nicht bewegen …
 
 469
 00:41:46,462 --> 00:41:47,702
-<i>Ein Fluchmal!</i>
+<i>Ein Juin (Fluchmal)!</i>
 
 470
 00:41:49,465 --> 00:41:51,258
@@ -3570,7 +3570,7 @@ der wilden blauen Bestie, was?
 
 818
 01:06:29,402 --> 01:06:30,695
-<i>Die Acht Tore …</i>
+<i>Das Hachimon Tonkō …</i>
 
 819
 01:06:31,028 --> 01:06:32,655
@@ -4265,7 +4265,7 @@ Vater … Was ist das?!
 
 980
 01:16:15,427 --> 01:16:16,905
-Die Acht Tore …
+Das Hachimon Tonkō …
 
 981
 01:16:17,072 --> 01:16:18,282
@@ -4431,7 +4431,7 @@ Gegen die hast du keine Chance!
 1018
 01:18:18,985 --> 01:18:22,030
 Ich habe das Tor des Todes …
-die Formation der Acht Tore!
+das Hachimon Tonkō no Jin (Formation der Acht Tore)!
 
 1019
 01:18:22,149 --> 01:18:23,626
@@ -4448,7 +4448,7 @@ Ich halte mich an meine Selbstregel!
 1022
 01:18:29,413 --> 01:18:31,707
 <i>Öffne dich! Hachimon
-Tonkō no Jin (Formation der Acht Tore)!</i>
+Tonkō no Jin!</i>
 
 1023
 01:18:32,082 --> 01:18:35,711
@@ -4594,7 +4594,7 @@ den Fäusten getroffen werden, die sie erzeugen.</i>
 1054
 01:21:06,111 --> 01:21:09,072
 Man kämpft selten gegen
-die Formation der Acht Tore!
+das Hachimon Tonkō no Jin!
 
 1055
 01:21:09,197 --> 01:21:11,324
@@ -4726,7 +4726,7 @@ eines meiner Kunai tragen.
 
 1083
 01:22:34,549 --> 01:22:36,926
-<i>Acht Tore:
+<i>Hachimon Tonkō:
 Sechstes Tor, Keimon – Tor der Sicht!</i>
 
 1084
@@ -4740,7 +4740,7 @@ Lee!
 1086
 01:22:43,307 --> 01:22:44,809
 Du beherrschst
-die Acht Tore auch?!
+das Hachimon Tonkō auch?!
 
 1087
 01:22:45,001 --> 01:22:47,379
@@ -6670,7 +6670,7 @@ Das Chakra dieses Knotens ist nicht erloschen.
 1512
 01:50:39,215 --> 01:50:41,801
 <i>Sag bloß nicht, er hat das
-Ende der Acht Tore aufgehalten?!</i>
+Ende des Hachimon Tonkō aufgehalten?!</i>
 
 1513
 01:50:55,652 --> 01:50:58,489
@@ -7759,7 +7759,7 @@ Den habe ich eiskalt aufgehalten
 
 1761
 02:08:50,758 --> 02:08:52,009
-mit meinen Schattendoppelgängern und
+mit meinen Kage Bunshin (Schattendoppelgängern) und
 den Stäben der Sechs Pfade!
 
 1762

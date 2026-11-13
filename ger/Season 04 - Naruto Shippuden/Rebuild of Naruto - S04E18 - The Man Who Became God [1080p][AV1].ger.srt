@@ -1621,7 +1621,7 @@ Bist du verrückt?!
 367
 00:27:11,129 --> 00:27:14,799
 Der Schlüssel zu
-Narutos Acht-Trigramme-Siegel
+Narutos Hakke no Fūin Shiki (Acht-Trigramme-Siegel)
 
 368
 00:27:14,799 --> 00:27:16,676
@@ -2839,7 +2839,7 @@ Den Rücken für einen Angriff freizulassen!
 
 643
 00:49:48,485 --> 00:49:50,153
-Du bist auch ein Schattendoppelgänger?!
+Du bist auch ein Kage Bunshin (Schattendoppelgänger)?!
 
 644
 00:49:50,371 --> 00:49:52,081
@@ -3841,7 +3841,7 @@ Es kommt von da drinnen.
 
 867
 01:07:33,632 --> 01:07:35,051
-<i>Ein Schattendoppelgänger!</i>
+<i>Ein Kage Bunshin!</i>
 
 868
 01:07:37,136 --> 01:07:39,055

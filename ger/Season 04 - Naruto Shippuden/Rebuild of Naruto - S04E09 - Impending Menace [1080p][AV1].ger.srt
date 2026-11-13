@@ -2256,7 +2256,7 @@ hast du das sicher schon bemerkt …
 509
 00:35:25,248 --> 00:35:28,334
 Alles, was der
-Schattendoppelgänger erlebt,
+Kage Bunshin erlebt,
 
 510
 00:35:28,376 --> 00:35:32,463
@@ -2279,7 +2279,7 @@ wovon Sie reden.
 514
 00:35:43,224 --> 00:35:47,436
 Dann erschaffen wir beide
-Schattendoppelgänger.
+Kage Bunshin.
 
 515
 00:35:48,020 --> 00:35:49,689
@@ -2381,7 +2381,7 @@ Jetzt verstehst du es, oder?
 
 538
 00:37:11,020 --> 00:37:12,897
-Die Erfahrungen der Schattendoppelgänger
+Die Erfahrungen der Kage Bunshin
 
 539
 00:37:12,939 --> 00:37:15,066
@@ -2399,7 +2399,7 @@ weil ich die
 
 542
 00:37:19,904 --> 00:37:21,906
-Schattendoppelgänger einfach so
+Kage Bunshin einfach so
 benutzt habe, ohne nachzudenken.
 
 543
@@ -2490,7 +2490,7 @@ Hä?! Warum nicht?
 561
 00:38:23,050 --> 00:38:26,053
 Sie können doch auch
-Schattendoppelgänger erschaffen, oder?
+Kage Bunshin erschaffen, oder?
 
 562
 00:38:26,846 --> 00:38:27,805
@@ -2503,7 +2503,7 @@ Chakra wie du.
 
 564
 00:38:31,934 --> 00:38:34,437
-Und ich kann meine Schattendoppelgänger
+Und ich kann meine Kage Bunshin
 auch nicht so lange aufrechterhalten.
 
 565
@@ -2599,7 +2599,7 @@ Und wie ich schon gesagt habe,
 584
 00:39:43,881 --> 00:39:46,717
 machst du dieses Training die ganze Zeit
-mit Schattendoppelgängern.
+mit Kage Bunshin.
 
 585
 00:39:46,842 --> 00:39:50,137
@@ -3172,7 +3172,7 @@ Danke!
 
 713
 00:47:55,956 --> 00:47:57,708
-Oh, das war ein Schattendoppelgänger?
+Oh, das war ein Kage Bunshin?
 
 714
 00:47:58,625 --> 00:47:59,751
@@ -3212,7 +3212,7 @@ von Asuma erfahren.</i>
 722
 00:48:21,309 --> 00:48:24,473
 <i>die Eigenschaften seiner
-Schattendoppelgänger, dieser Naruto …</i>
+Kage Bunshin, dieser Naruto …</i>
 
 723
 00:48:28,706 --> 00:48:29,707
@@ -3355,7 +3355,7 @@ Ruh dich weiter aus.
 
 755
 00:51:01,308 --> 00:51:03,769
-Beim Training mit Schattendoppelgängern
+Beim Training mit Kage Bunshin
 
 756
 00:51:03,810 --> 00:51:05,896
@@ -3745,7 +3745,7 @@ Kakashi-sensei!
 845
 00:57:35,368 --> 00:57:38,788
 Finden Sie nicht, dass ich
-mehr Schattendoppelgänger brauche?!
+mehr Kage Bunshin brauche?!
 
 846
 00:57:38,997 --> 00:57:40,874
@@ -6669,7 +6669,7 @@ und die Aufgaben aufteilen!
 
 1511
 01:54:12,425 --> 01:54:15,970
-Mein Schattendoppelgänger-Trick vorhin
+Mein Kage-Bunshin-Trick vorhin
 hat dir also einen Hinweis gegeben, was?
 
 1512
@@ -6679,7 +6679,7 @@ sowohl das Chakra</i>
 
 1513
 01:54:19,512 --> 01:54:22,015
-<i>als auch das Geschick mit Schattendoppelgängern,
+<i>als auch das Geschick mit Kage Bunshin,
 damit diese Methode funktioniert.</i>
 
 1514

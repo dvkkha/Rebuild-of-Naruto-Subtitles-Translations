@@ -1375,7 +1375,7 @@ Ich wusste, dass ich dich hier finde.
 
 315
 00:16:31,528 --> 00:16:33,700
-Du wolltest einen Schattendoppelgänger
+Du wolltest einen Kage Bunshin (Schattendoppelgänger)
 aus der Schriftrolle der Siegel benutzen
 
 316
@@ -5062,7 +5062,7 @@ Okay, das Duell beginnt!
 1139
 00:53:47,693 --> 00:53:50,982
 Wer die leckersten
-Soldatenpillen macht, gewinnt.
+Hyōrōgan (Soldatenpillen) macht, gewinnt.
 
 1140
 00:53:51,830 --> 00:53:53,323
@@ -5098,7 +5098,7 @@ Berg Eis gegessen,
 
 1147
 00:54:08,386 --> 00:54:10,388
-aber für Soldatenpillen
+aber für Hyōrōgan
 habe ich immer Platz!
 
 1148
@@ -5141,7 +5141,7 @@ Okay, ohne weitere Umschweife!
 
 1157
 00:54:29,758 --> 00:54:32,584
-Der Soldatenpillen-Wettbewerb, der zeigt,
+Der Hyōrōgan-Wettbewerb, der zeigt,
 wer weiblicher ist, beginnt!
 
 1158
@@ -8032,11 +8032,11 @@ Ich bin Kiba …
 
 1816
 01:27:18,625 --> 01:27:20,960
-Das ist mein Ninja-Hund Akamaru.
+Das ist mein Ninken (Ninja-Hund) Akamaru.
 
 1817
 01:27:21,172 --> 01:27:22,659
-Du bist ein Ninja-Hund-Meister?!
+Du bist ein Ninken-Meister?!
 
 1818
 01:27:22,816 --> 01:27:23,710

@@ -75,7 +75,7 @@ Ihr seid so nutzlos!
 17
 00:01:13,156 --> 00:01:15,992
 Warum habt ihr meine
-Enthauptungsklinge zurückgelassen?!
+Kubikiribōchō (Enthauptungsklinge) zurückgelassen?!
 
 18
 00:01:16,085 --> 00:01:17,712
@@ -954,7 +954,7 @@ Hab dich!
 214
 00:15:41,774 --> 00:15:45,444
 Du bist nicht der Einzige,
-der Schattendoppelgänger einsetzt.
+der Kage Bunshin (Schattendoppelgänger) einsetzt.
 
 215
 00:15:45,798 --> 00:15:48,175
@@ -3335,7 +3335,7 @@ Welche denn?
 
 757
 00:51:10,276 --> 00:51:12,695
-Benutz Schattendoppelgänger fürs Training.
+Benutz Kage Bunshin fürs Training.
 
 758
 00:51:12,991 --> 00:51:15,827
@@ -3348,7 +3348,7 @@ Da hast du recht.
 
 760
 00:51:18,116 --> 00:51:22,370
-Die Erfahrung der Schattendoppelgänger
+Die Erfahrung der Kage Bunshin
 geht auf das Original über.
 
 761
@@ -3357,7 +3357,7 @@ Aber umgekehrt gilt das auch …
 
 762
 00:51:26,179 --> 00:51:29,516
-Wenn sich ein Schattendoppelgänger
+Wenn sich ein Kage Bunshin
 vollständig in einen Frosch verwandelt,
 
 763

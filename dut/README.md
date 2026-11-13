@@ -38,7 +38,7 @@ Verder is de tekst van beide versies precies hetzelfde. Kies gewoon de versie di
   - Rangen blijven onvertaald: genin, chunin, jonin, ANBU
 - Fouten uit het Engelse origineel zijn waar mogelijk verbeterd.
 
-Een lijst van alle jutsu's (Japans / Engels / Duits / Nederlands) staat in de map [`docs/`](../docs/).
+Een lijst van alle jutsu's (Japans / Engels / Duits / Nederlands / Spaans) staat in de map [`docs/`](../docs/).
 
 ---
 

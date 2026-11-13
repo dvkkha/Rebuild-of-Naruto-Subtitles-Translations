@@ -770,7 +770,7 @@ die Ramen von Ichiraku sind.
 176
 00:12:58,027 --> 00:13:01,906
 Der Nährwert ist auf
-einer Stufe mit Soldatenpillen …
+einer Stufe mit Hyōrōgan (Soldatenpillen) …
 
 177
 00:13:02,239 --> 00:13:05,576
@@ -1370,7 +1370,7 @@ Du bist doch der Lächerliche!
 
 313
 00:21:39,873 --> 00:21:40,957
-Ein Schattendoppelgänger?
+Ein Kage Bunshin (Schattendoppelgänger)?
 
 314
 00:21:41,474 --> 00:21:42,767
@@ -1487,7 +1487,7 @@ wenn er sich mit Typen wie dir abgeben muss.
 
 340
 00:23:13,767 --> 00:23:15,268
-Das war ein Schattendoppelgänger!
+Das war ein Kage Bunshin!
 
 341
 00:23:15,535 --> 00:23:18,830
@@ -1525,7 +1525,7 @@ Wirf mich nicht mit Papa in einen Topf!
 348
 00:23:41,461 --> 00:23:44,339
 Shikadai, geh und hol
-den Schattendoppelgänger von Meister Siebter.
+den Kage Bunshin von Meister Siebter.
 
 349
 00:23:44,731 --> 00:23:46,608
@@ -2809,7 +2809,7 @@ Sasuke treffen.
 
 643
 00:42:59,577 --> 00:43:01,870
-Ich lasse einen Schattendoppelgänger
+Ich lasse einen Kage Bunshin
 hier im Dorf
 
 644
@@ -5380,7 +5380,7 @@ Um es dir einfacher zu erklären …
 
 1234
 01:25:58,069 --> 01:26:00,738
-Er war wie ein Schattendoppelgänger,
+Er war wie ein Kage Bunshin,
 der nie verschwindet.
 
 1235

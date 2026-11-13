@@ -2045,7 +2045,7 @@ Pakkun!
 467
 00:38:01,904 --> 00:38:04,865
 Kakashi hat uns,
-die acht Ninja-Hunde, angewiesen,
+die acht Ninken (Ninja-Hunde), angewiesen,
 
 468
 00:38:04,865 --> 00:38:06,878
@@ -3009,7 +3009,7 @@ Ich gehe zuerst!
 
 688
 00:58:37,138 --> 00:58:38,264
-<i>Ein Schattendoppelgänger?!</i>
+<i>Ein Kage Bunshin (Schattendoppelgänger)?!</i>
 
 689
 00:58:39,766 --> 00:58:40,600
@@ -3017,7 +3017,7 @@ Ich gehe zuerst!
 
 690
 00:58:42,435 --> 00:58:44,270
-<i>Das ist auch ein Schattendoppelgänger!</i>
+<i>Das ist auch ein Kage Bunshin!</i>
 
 691
 00:58:57,164 --> 00:58:59,287
@@ -3037,7 +3037,7 @@ Was ist hier los?!
 
 695
 00:59:37,615 --> 00:59:39,200
-<i>Sind das Schattendoppelgänger?</i>
+<i>Sind das Kage Bunshin?</i>
 
 696
 01:00:11,443 --> 01:00:13,529
@@ -3289,7 +3289,7 @@ Kein Wunder … dass mein Genjutsu nicht gewirkt hat.
 
 753
 01:06:01,374 --> 01:06:03,376
-Das ist ein Schattendoppelgänger.
+Das ist ein Kage Bunshin.
 
 754
 01:06:03,853 --> 01:06:04,353

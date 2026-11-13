@@ -25,7 +25,7 @@ Only the **jutsu names** have changed. Everything else (text, numbering, timing)
 - Names that are Japanese in the English version already stay as they are (*Rasengan*, *Chidori*, *Amaterasu* …).
 - Where a line would get too long, it has been re-wrapped to keep it readable.
 
-A list of all jutsu (Japanese / English / German / Dutch) is in the [`docs/`](../docs/) folder.
+A list of all jutsu (Japanese / English / German / Dutch / Spanish) is in the [`docs/`](../docs/) folder.
 
 ---
 

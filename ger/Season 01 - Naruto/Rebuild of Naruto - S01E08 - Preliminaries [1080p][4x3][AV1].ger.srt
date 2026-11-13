@@ -401,7 +401,7 @@ Wie ist es?
 
 92
 00:06:50,129 --> 00:06:52,214
-Tut das Fluchmal noch weh?
+Tut das Juin (Fluchmal) noch weh?
 
 93
 00:06:52,570 --> 00:06:53,570
@@ -1130,7 +1130,7 @@ M-Meister Hokage …!
 
 260
 00:16:19,336 --> 00:16:22,164
-Aber wenn das Fluchmal aktiv wird
+Aber wenn das Juin aktiv wird
 
 261
 00:16:22,247 --> 00:16:24,833
@@ -1267,7 +1267,7 @@ Keine Einwände, oder?
 
 291
 00:18:56,135 --> 00:18:58,095
-<i>Das Fluchmal scheint wehzutun.</i>
+<i>Das Juin scheint wehzutun.</i>
 
 292
 00:19:00,039 --> 00:19:05,253
@@ -1296,7 +1296,7 @@ Sie wussten es also?
 
 298
 00:19:30,827 --> 00:19:32,996
-Wenn das Fluchmal an deinem Hals
+Wenn das Juin an deinem Hals
 außer Kontrolle gerät,
 
 299
@@ -1322,7 +1322,7 @@ also viel Glück.
 
 304
 00:19:51,315 --> 00:19:55,611
-<i>Dieses Fluchmal scheint
+<i>Dieses Juin scheint
 auf mein Chakra zu reagieren.</i>
 
 305
@@ -1398,7 +1398,7 @@ absorbiert ist, Sasuke,</i>
 321
 00:21:56,315 --> 00:22:00,569
 <i>musst du dich auf die Kraft
-meines Fluchmals verlassen …</i>
+meines Juin verlassen …</i>
 
 322
 00:22:05,628 --> 00:22:07,255
@@ -1623,7 +1623,7 @@ Jetzt bringe ich dich nach hinten …
 
 374
 00:26:35,361 --> 00:26:36,695
-und versiegle das Fluchmal.
+und versiegle das Juin.
 
 375
 00:26:36,962 --> 00:26:38,922
@@ -1745,7 +1745,7 @@ Gleich ist es vorbei.
 
 403
 00:29:54,873 --> 00:29:57,917
-Wenn das Fluchmal das nächste Mal
+Wenn das Juin das nächste Mal
 wieder anfängt zu wirken …
 
 404
@@ -1769,7 +1769,7 @@ und dein Wille schwächer wird …
 
 408
 00:30:16,864 --> 00:30:18,908
-bricht das Fluchmal wieder aus.
+bricht das Juin wieder aus.
 
 409
 00:30:23,547 --> 00:30:24,756
@@ -6801,7 +6801,7 @@ Was ist das genau?
 
 1583
 01:52:29,617 --> 01:52:32,662
-Diese Acht Inneren Tore
+Dieses Hachimon Tonkō (Acht Innere Tore)
 und dieses Ura Renge?
 
 1584
@@ -6834,7 +6834,7 @@ das Tor des Schockes und das Tor des Todes.
 
 1590
 01:52:54,976 --> 01:52:56,728
-Man nennt sie die Acht Inneren Tore.
+Man nennt sie das Hachimon Tonkō.
 
 1591
 01:52:58,396 --> 01:52:59,876
@@ -7468,7 +7468,7 @@ vor uns an Sasuke heranzukommen und …</i>
 
 1738
 02:04:33,048 --> 02:04:35,885
-<i>ihm ein Fluchmal zu verpassen,
+<i>ihm ein Juin zu verpassen,
 ohne ihn zu töten …</i>
 
 1739
