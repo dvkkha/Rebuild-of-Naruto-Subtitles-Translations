@@ -3859,7 +3859,7 @@ Nog laatste woorden?
 
 869
 01:05:06,695 --> 01:05:07,947
-Jullie zijn geslaagd!
+Geslaagd!
 
 870
 01:05:08,531 --> 01:05:08,989
@@ -3871,11 +3871,11 @@ Wat?!
 
 872
 01:05:12,701 --> 01:05:13,827
-Jullie zijn geslaagd!
+Geslaagd!
 
 873
 01:05:16,163 --> 01:05:18,249
-Zijn we geslaagd?!
+Geslaagd?!
 Waarom?!
 
 874
@@ -3902,8 +3902,8 @@ Maar…
 
 879
 01:05:38,915 --> 01:05:42,752
-wie zijn vrienden in de steek
-laat, is nog erger dan uitschot.
+wie zijn kameraden in de steek laat,
+is erger dan uitschot.
 
 880
 01:05:49,271 --> 01:05:53,192

@@ -439,7 +439,7 @@ voor je kameraden, toch?
 
 100
 00:07:24,187 --> 00:07:25,855
-Ik heb ook vrienden gemaakt.
+Ik heb ook kameraden gemaakt.
 
 101
 00:07:27,455 --> 00:07:31,000
@@ -737,7 +737,7 @@ Pardon.
 
 168
 00:12:57,220 --> 00:12:58,178
-U wilde me spreken?
+Zocht u mij?
 
 169
 00:12:58,972 --> 00:13:01,391
@@ -770,8 +770,8 @@ om zijn kameraden te beschermen
 
 175
 00:13:25,287 --> 00:13:27,164
-en heeft daarna een eind
-aan zijn leven gemaakt…
+en heeft daarna zelfmoord
+gepleegd…
 
 176
 00:13:27,189 --> 00:13:30,192
@@ -780,8 +780,8 @@ een schaduw over Kakashi.
 
 177
 00:13:31,502 --> 00:13:35,130
-En u wilt hem onder
-mijn toezicht plaatsen…
+En u wilt…
+dat ik op hem let…
 
 178
 00:13:39,610 --> 00:13:41,111
@@ -1451,8 +1451,8 @@ Minato Namikaze,
 
 328
 00:22:12,171 --> 00:22:14,173
-de man van wie men verwacht
-dat hij de volgende Hokage wordt.
+de man die
+de volgende Hokage wordt.
 
 329
 00:22:14,987 --> 00:22:18,282
@@ -1908,7 +1908,7 @@ Rin!
 
 433
 00:28:11,031 --> 00:28:12,366
-Ik begin meteen met de behandeling!
+Ik begin meteen!
 
 434
 00:28:14,034 --> 00:28:15,202
@@ -1945,15 +1945,16 @@ Wat is hier gebeurd?
 
 442
 00:28:27,923 --> 00:28:30,345
-We hebben ze veilig tot hier geëscorteerd,
+We hebben ze veilig
+tot hier geëscorteerd,
 
 443
 00:28:31,277 --> 00:28:32,637
-maar de andere twee waren verraders…
+maar die twee waren verraders…
 
 444
 00:28:33,257 --> 00:28:34,258
-Twee van hen?
+Die twee?
 
 445
 00:28:34,555 --> 00:28:37,933
@@ -1969,7 +1970,7 @@ Maar we mogen de inhoud niet bekijken…
 
 448
 00:28:51,999 --> 00:28:52,999
-Maak je daar geen zorgen over.
+Rustig maar.
 
 449
 00:28:53,880 --> 00:28:57,216
@@ -2075,7 +2076,7 @@ Maar kijk naar het resultaat!
 472
 00:30:21,367 --> 00:30:23,191
 Als jij je kameraad niet
-de rug had toegekeerd,
+had genegeerd,
 
 473
 00:30:23,216 --> 00:30:24,474
@@ -2868,8 +2869,8 @@ elke keer weer Obito tegenkomt!
 
 653
 00:40:48,682 --> 00:40:52,686
-Wie de regels en voorschriften breekt,
-wordt als uitschot beschouwd!
+Ninja’s die de regels en bevelen negeren
+zijn uitschot.
 
 654
 00:40:53,045 --> 00:40:54,046
@@ -2883,7 +2884,7 @@ in je hart?!
 656
 00:40:59,237 --> 00:41:02,156
 Jij hebt het alleen maar over
-regels en voorschriften!
+regels en bevelen!
 
 657
 00:41:02,280 --> 00:41:04,282
@@ -2900,7 +2901,8 @@ Jij bent te toegeeflijk voor Obito, Rin.
 
 660
 00:41:13,248 --> 00:41:15,667
-Dit is ook voor mij een belangrijke dag.
+Dit is voor mij ook
+een belangrijke dag.
 
 661
 00:41:16,189 --> 00:41:18,024
@@ -4160,8 +4162,8 @@ Zeker, in de shinobiwereld
 
 939
 00:58:36,771 --> 00:58:40,191
-worden zij die de regels en voorschriften
-breken, als uitschot gezien…
+zijn degenen die de regels en bevelen
+negeren uitschot.
 
 940
 00:58:41,233 --> 00:58:42,235
@@ -4169,8 +4171,8 @@ Maar…
 
 941
 00:58:43,670 --> 00:58:47,591
-zij die hun kameraden in de steek laten…
-zijn erger dan uitschot!
+wie zijn kameraden in de steek laat,
+is erger dan uitschot!
 
 942
 00:58:49,111 --> 00:58:52,531
@@ -4180,7 +4182,7 @@ kies ik ervoor de regels te breken.
 943
 00:58:53,430 --> 00:58:56,142
 En als dat me geen
-echte ninja maakt…
+echte shinobi maakt…
 
 944
 00:58:57,906 --> 00:59:01,368
@@ -4197,7 +4199,7 @@ Wat is de situatie?
 
 947
 00:59:36,530 --> 00:59:38,449
-Ik schat dat het er zo’n vijftig
+Ik schat dat er zo’n vijftig
 zijn van de vijand.
 
 948
@@ -4295,7 +4297,8 @@ de “Witte Hoektand” van Konoha bent?!
 
 968
 01:01:27,332 --> 01:01:28,959
-Dit is een aandenken aan mijn vader.
+Dit is een aandenken
+van mijn vader.
 
 969
 01:01:30,488 --> 01:01:33,366
@@ -4335,7 +4338,7 @@ bang voor je te zijn.
 977
 01:01:58,833 --> 01:02:00,596
 <i>aan de kleinste beweging
-en het geringste geluid dat hij maakt.</i>
+of geluid dat hij maakt.</i>
 
 978
 01:02:01,422 --> 01:02:03,091
@@ -4803,7 +4806,8 @@ Neem Rin…
 
 1084
 01:12:29,460 --> 01:12:34,173
-Neem Rin en… maak dat je… wegkomt.
+Neem Rin en… maak dat je…
+wegkomt.
 
 1085
 01:12:35,293 --> 01:12:38,379
@@ -4817,7 +4821,7 @@ Obito…
 1087
 01:12:42,400 --> 01:12:44,402
 Het is goed…
-Ga nou maar…
+Ga…
 
 1088
 01:12:47,536 --> 01:12:48,537
@@ -4851,7 +4855,7 @@ van haar hield…</i>
 
 1095
 01:13:38,224 --> 01:13:42,645
-<i>Ik wou… dat ik meer tijd had gehad…
+<i>Ik wou… dat ik meer tijd had gehad
 met iedereen.</i>
 
 1096
@@ -4869,7 +4873,7 @@ die ik dankzij jou heb vervolmaakt!</i>
 
 1099
 01:14:32,140 --> 01:14:36,811
-Hmm… Heb je zelfs in deze situatie
+Heb je zelfs in deze situatie
 nog de wil om te vechten?
 
 1100
@@ -4923,8 +4927,8 @@ om jou te beschermen.
 
 1111
 01:15:15,730 --> 01:15:18,108
-Dan, Kakashi! Dan zou je ook moeten weten
-wat ik voor jou voel…
+Maar dan, Kakashi…
+Mijn gevoelens voor jou…
 
 1112
 01:15:18,133 --> 01:15:19,134
@@ -4936,11 +4940,12 @@ Ik wilde je in de steek laten…
 
 1114
 01:15:21,359 --> 01:15:22,973
-Ik ben niets dan uitschot.
+Ik ben erger
+dan uitschot…
 
 1115
 01:15:32,540 --> 01:15:33,583
-Rin, ga!
+Snel, Rin!
 
 1116
 01:15:42,474 --> 01:15:45,162
@@ -4952,8 +4957,7 @@ Waar ben ik?
 
 1118
 01:15:53,652 --> 01:15:55,252
-Het lijkt erop
-dat je weer bij bewustzijn bent.
+Je bent weer bij bewustzijn.
 
 1119
 01:15:55,406 --> 01:15:56,407
@@ -4979,7 +4983,7 @@ Dan… de vijand?
 
 1124
 01:16:08,470 --> 01:16:10,096
-Die heb ik allemaal uitgeschakeld…
+Die heb ik uitgeschakeld.
 
 1125
 01:16:11,983 --> 01:16:12,776
