@@ -75,7 +75,7 @@ Warum machst du so was?
 18
 00:01:14,141 --> 00:01:18,843
 Ich dachte, das wär ne coole Art,
-meinen Abschluss zu feiern, echt jetzt!
+meinen Abschluss zu feiern, dattebayo!
 
 19
 00:01:21,560 --> 00:01:24,168
@@ -1163,7 +1163,7 @@ Heute ist … ein besonderer Tag, also …
 
 266
 00:23:02,454 --> 00:23:03,664
-Essen ist fertig!
+Mahlzeit!
 
 267
 00:23:34,489 --> 00:23:37,532
@@ -3244,7 +3244,7 @@ Ich esse einfach heimlich das Mittagessen!
 
 753
 00:55:51,698 --> 00:55:53,462
-Guten Appetit!!
+Mahlzeit!!
 
 754
 00:55:53,487 --> 00:55:54,487

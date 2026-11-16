@@ -3061,8 +3061,8 @@ stelle ich mir vor …
 
 699
 01:07:28,712 --> 01:07:30,422
-– <i>Guten Appetit!</i>
-– <i>Guten Appetit!</i>
+– <i>Mahlzeit!</i>
+– <i>Mahlzeit!</i>
 
 700
 01:07:31,589 --> 01:07:34,426

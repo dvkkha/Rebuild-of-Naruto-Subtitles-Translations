@@ -738,7 +738,7 @@ Dann iss halt nichts!
 
 173
 00:12:54,482 --> 00:12:55,472
-Zeit zum Reinhauen!
+Mahlzeit!
 
 174
 00:12:57,026 --> 00:12:58,232
@@ -897,7 +897,7 @@ Senpai, die Gyoza sind fertig!
 
 210
 00:14:17,315 --> 00:14:18,305
-Lasst uns essen!
+Mahlzeit!
 
 211
 00:14:20,151 --> 00:14:22,688
@@ -1783,7 +1783,7 @@ NARUTO UZUMAKI
 
 420
 00:30:27,451 --> 00:30:28,441
-<i>Lasst uns essen!</i>
+<i>Mahlzeit!</i>
 
 421
 00:30:31,872 --> 00:30:33,203
