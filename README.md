@@ -20,6 +20,7 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 | 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 74 / 74 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
 | 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 74 / 74 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
 | 🇪🇸 Spanish | [`spa/`](spa/) | `.spa.srt` | 74 / 74 | Spanish from Spain. Jutsu names in Japanese, with a Spanish translation in parentheses on first mention in each episode |
+| 🇧🇷 Portuguese (Brazil) | [`por/`](por/) | `.por.srt` | 24 / 74 | By [ThiagoCalisto](https://github.com/ThiagoCalisto). Work in progress: S01 (without E05), S03 and S04E04–E08 |
 
 Each language folder has its own README in that language.
 
@@ -52,6 +53,7 @@ Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].ger.srt      (German
 Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].dut.srt      (Dutch)
 Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].alt.dut.srt  (Dutch, alternative)
 Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].spa.srt      (Spanish)
+Rebuild of Naruto - S01E01 - Academy Days [1080p][4x3][AV1].por.srt      (Portuguese)
 ```
 
 | Season folder | Episodes |
@@ -88,7 +90,7 @@ The [`docs/`](docs/) folder contains reference material for translators and for 
 New translations are welcome! To keep everything consistent:
 
 1. Base the translation on **Maediem's English subtitles**. Keep the numbering and timestamps unchanged.
-2. Create a folder named after the **ISO 639-2 language code** (e.g. `fre`, `ita`, `por`) with the same season folders and file names, using the matching suffix (`.fre.srt` …).
+2. Create a folder named after the **ISO 639-2 language code** (e.g. `fre`, `ita`, `jpn`) with the same season folders and file names, using the matching suffix (`.fre.srt` …).
 3. Add a short `README.md` in your language to the folder.
 4. Add a row for your language to the table at the top of this README.
 5. Use the [jutsu list](docs/Jutsu-List.csv) as a starting point for jutsu names. A column for your language is welcome too.
