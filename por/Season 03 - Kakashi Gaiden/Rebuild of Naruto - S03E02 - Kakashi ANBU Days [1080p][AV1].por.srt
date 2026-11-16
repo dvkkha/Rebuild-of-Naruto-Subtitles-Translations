@@ -12,7 +12,7 @@ Aceite isto do Hokage!
 
 4
 00:01:21,805 --> 00:01:23,537
-Leve isto ao Lorde Tsuchikage
+Leve isto ao Senhor Tsuchikage
 
 5
 00:01:23,562 --> 00:01:25,689
@@ -85,8 +85,8 @@ Naturalmente, será recusado.
 
 20
 00:02:40,076 --> 00:02:43,392
-O que quer que a Folha
-Oculta negocie com a Areia Oculta,
+O que quer que a Folha Oculta
+negocie com a Areia Oculta,
 
 21
 00:02:43,417 --> 00:02:46,921
@@ -95,8 +95,8 @@ unidade da Pedra.
 
 22
 00:02:47,101 --> 00:02:49,228
-– Certo! –
-Exatamente!
+- Certo!
+- Exatamente!
 
 23
 00:02:49,572 --> 00:02:50,573
@@ -118,8 +118,8 @@ enviamos 1000 dos nossos shinobi.
 
 27
 00:03:05,197 --> 00:03:09,826
-E ouvi dizer que apenas um deles, o
-Relâmpago Amarelo, conteve a invasão.
+E ouvi dizer que bastou um homem,
+o Relâmpago Amarelo, para detê-los.
 
 28
 00:03:11,487 --> 00:03:14,115
@@ -146,7 +146,7 @@ Com certeza.
 33
 00:03:33,797 --> 00:03:37,275
 Vocês, pensem no fardo
-sobre o Terceiro Lorde!
+sobre o Senhor Terceiro!
 
 34
 00:03:37,388 --> 00:03:41,314
@@ -239,8 +239,8 @@ passo adicional seria desastroso
 
 54
 00:05:32,957 --> 00:05:35,376
-para o já Folha
-Oculta exausta.
+para a já exausta
+Folha Oculta.
 
 55
 00:05:35,790 --> 00:05:38,095
@@ -267,8 +267,8 @@ Como você assumirá a responsabilidade?
 
 60
 00:05:59,582 --> 00:06:04,003
-Tenho a intenção de renunciar como o
-Terceiro Hokage, e ter o Quarto Hokage instalado.
+Pretendo deixar o cargo de Terceiro
+Hokage e nomear o Quarto.
 
 61
 00:06:12,121 --> 00:06:13,956
@@ -285,8 +285,8 @@ Hum...
 
 64
 00:06:20,671 --> 00:06:24,321
-A verdade seja dita, o
-Terceiro Hokage estava muito macio...
+Para falar a verdade,
+o Terceiro foi brando demais...
 
 65
 00:06:24,346 --> 00:06:26,723
@@ -295,8 +295,8 @@ vila ser encurralado.
 
 66
 00:06:28,137 --> 00:06:32,058
-Nós precisamos de um
-Hokage quem vai mudar as coisas,
+Precisamos de um Hokage
+que mude as coisas,
 
 67
 00:06:32,083 --> 00:06:34,711
@@ -317,8 +317,8 @@ um dos Sannin Lendários.
 
 71
 00:06:46,823 --> 00:06:48,408
-– Oh...
-– Ele?
+- Oh...
+- Ele?
 
 72
 00:06:49,200 --> 00:06:51,452
@@ -335,8 +335,8 @@ No entanto...
 
 75
 00:07:05,344 --> 00:07:08,972
-Uma vontade sinistra e ganância
-espreitam profundamente por trás daqueles olhos.
+Uma ambição sombria se esconde
+por trás daqueles olhos.
 
 76
 00:07:10,140 --> 00:07:14,061
@@ -445,7 +445,7 @@ O que você está fazendo aí?
 
 100
 00:09:21,154 --> 00:09:23,657
-O que o Lorde Terceiro queria com você?
+O que o Senhor Terceiro queria com você?
 
 101
 00:09:24,459 --> 00:09:25,126
@@ -522,8 +522,8 @@ e continue governando a Folha Oculta.
 
 118
 00:10:32,158 --> 00:10:35,829
-A este ritmo, a Folha
-Oculta não tem futuro.
+Desse jeito, a Folha Oculta
+não tem futuro.
 
 119
 00:10:36,127 --> 00:10:38,713
@@ -563,8 +563,8 @@ Vamos, Kinoe, Kinoto, Hinoe!
 
 127
 00:11:13,565 --> 00:11:14,566
-– Senhor!
-– Senhor!
+- Senhor!
+- Senhor!
 
 128
 00:11:26,310 --> 00:11:28,187
@@ -614,8 +614,8 @@ Rin...
 
 139
 00:12:07,898 --> 00:12:11,693
-Parece que
-Minato-sensei vai se tornar Hokage!
+Parece que o Minato-sensei
+vai ser Hokage!
 
 140
 00:12:12,700 --> 00:12:16,001
@@ -624,8 +624,8 @@ sucessor do Terceiro Hokage
 
 141
 00:12:16,111 --> 00:12:20,783
-e mudará a Folha
-Oculta... e o mundo shinobi.
+e mudar a Folha Oculta...
+e o mundo shinobi.
 
 142
 00:12:23,132 --> 00:12:25,509
@@ -706,7 +706,7 @@ Morra!
 
 160
 00:14:24,917 --> 00:14:27,628
-<i>Furacão Severo da Folha!</i>
+<i>Konoha Daisenpū! (Furacão Severo da Folha)</i>
 
 161
 00:14:31,307 --> 00:14:32,178
@@ -782,7 +782,7 @@ Eu vim aqui hoje...
 178
 00:16:07,447 --> 00:16:11,535
 designar você para a
-ANBU sob meu comando direto.
+aNBU sob meu comando direto.
 
 179
 00:16:14,947 --> 00:16:16,615
@@ -794,7 +794,8 @@ Eu quero que você seja meu braço direito...
 
 181
 00:16:51,160 --> 00:16:53,336
-Aqui está um conjunto de equipamentos para você.
+Aqui está um conjunto de
+equipamentos para você.
 
 182
 00:16:57,750 --> 00:16:58,918
@@ -835,8 +836,8 @@ Estou contando com todos vocês.
 
 190
 00:17:52,404 --> 00:17:53,405
-– Sim, senhor!
-– Sim, senhor!
+- Sim, senhor!
+- Sim, senhor!
 
 191
 00:18:29,597 --> 00:18:30,598
@@ -1143,8 +1144,8 @@ Eu tenho... jurado segredo...
 
 262
 00:24:51,252 --> 00:24:53,630
-mas
-Minato-sensei vai ser pai.
+mas o Minato-sensei
+vai ser pai.
 
 263
 00:24:55,209 --> 00:24:57,336
@@ -1152,7 +1153,8 @@ Esta geração não conhecerá a guerra.
 
 264
 00:24:58,675 --> 00:25:00,969
-Se ao menos tivéssemos nascido um pouco mais tarde...
+Se ao menos tivéssemos
+nascido um pouco mais tarde...
 
 265
 00:25:05,576 --> 00:25:07,411
@@ -1236,8 +1238,8 @@ te chamando de frio.
 
 283
 00:26:04,492 --> 00:26:06,998
-Bem, eu sei disso
-Eu não deveria falar
+Bem, eu sei que
+não devia falar
 
 284
 00:26:07,023 --> 00:26:08,858
@@ -1287,12 +1289,12 @@ O Nove-Caudas!
 
 295
 00:26:57,475 --> 00:26:59,227
-– Corra! Ajuda! –
-É o Nove-Caudas!
+- Corra! Ajuda! –
+é a Nove-Caudas!
 
 296
 00:27:19,651 --> 00:27:21,781
-Lorde Terceiro! O Nove-Caudas!
+Senhor Terceiro! O Nove-Caudas!
 
 297
 00:27:22,228 --> 00:27:24,481
@@ -1337,8 +1339,8 @@ manipular a Nove-Caudas!
 
 306
 00:27:49,373 --> 00:27:53,605
-Se eles assumirem o controle da
-Nove-Caudas, e usá-lo a seu favor,
+Se eles tomarem o controle da Nove-Caudas
+e usarem a seu favor,
 
 307
 00:27:54,501 --> 00:27:57,712
@@ -1471,7 +1473,8 @@ Pois eu acredito em você.
 
 337
 00:29:17,032 --> 00:29:19,191
-Este não é o momento para uma discussão familiar!
+Este não é o momento para
+uma discussão familiar!
 
 338
 00:29:20,832 --> 00:29:24,168
@@ -1747,8 +1750,8 @@ Feudal de volta à sua província.
 
 400
 00:34:59,806 --> 00:35:00,397
-– Sim, senhor!
-– Sim, senhor!
+- Sim, senhor!
+- Sim, senhor!
 
 401
 00:35:01,352 --> 00:35:02,812
@@ -1756,11 +1759,12 @@ Este é o plano.
 
 402
 00:35:18,958 --> 00:35:19,844
-<i>Estilo Madeira?!</i>
+<i>Mokuton?! (Estilo Madeira)</i>
 
 403
 00:35:23,719 --> 00:35:25,512
-<i>Estilo Madeira: Jutsu da Floresta Gigante!</i>
+<i>Mokuton: Jukai Kōtan!
+(Estilo Madeira: Nascimento da Floresta Profunda)</i>
 
 404
 00:35:38,324 --> 00:35:39,085
@@ -1792,12 +1796,12 @@ Bom trabalho, Kakashi.
 
 411
 00:36:16,359 --> 00:36:19,028
-<i>Estilo Madeira: Jutsu da Floresta Gigante!</i>
+<i>Mokuton: Jukai Kōtan!</i>
 
 412
 00:36:20,455 --> 00:36:23,250
-<i>Quem era o menino que
-usa o Estilo Madeira?</i>
+<i>Quem era o garoto
+que usa o Mokuton?</i>
 
 413
 00:36:26,970 --> 00:36:29,139
@@ -1819,13 +1823,13 @@ mundo sangrento e dilacerado pela guerra.</i>
 
 417
 00:37:11,484 --> 00:37:15,071
-<i>Somente ele dominou o
-ninjutsu do Estilo Madeira...</i>
+<i>Ele, e só ele, dominou
+o ninjutsu Mokuton...</i>
 
 418
 00:37:18,656 --> 00:37:22,118
-<i>Somente ele dominou o
-ninjutsu do Estilo Madeira...</i>
+<i>Ele, e só ele, dominou
+o ninjutsu Mokuton...</i>
 
 419
 00:37:23,526 --> 00:37:25,736
@@ -1838,7 +1842,7 @@ ninjutsu do Estilo Madeira...</i>
 421
 00:37:28,286 --> 00:37:30,507
 <i>Como ele consegue
-usar o Estilo Madeira?</i>
+usar o Mokuton?</i>
 
 422
 00:37:33,633 --> 00:37:34,549
@@ -1870,8 +1874,8 @@ Sim, senhor!
 
 429
 00:37:54,578 --> 00:37:57,852
-Há muito tempo, o
-Primeiro Hokage, Hashirama...
+Há muito tempo, o Primeiro Hokage,
+o Senhor Hashirama...
 
 430
 00:37:57,995 --> 00:37:59,854
@@ -1879,18 +1883,18 @@ depois de uma batalha até a morte com Madara...
 
 431
 00:37:59,879 --> 00:38:03,215
-usou o Estilo Madeira
-para reprimir a Nove-Caudas.
+usou o Mokuton para
+conter a Nove-Caudas.
 
 432
 00:38:03,424 --> 00:38:07,928
-Depois disso, não houve ninguém para
-assumir o Jutsu de Estilo Madeira...
+Depois disso, não houve ninguém
+para herdar o Jutsu Mokuton...
 
 433
 00:38:08,358 --> 00:38:10,281
-Ou o Sharingan ou o
-Estilo Madeira são necessários
+O Sharingan ou o
+Mokuton são necessários
 
 434
 00:38:10,306 --> 00:38:12,263
@@ -1907,8 +1911,8 @@ que eles pesquisaram
 
 437
 00:38:18,378 --> 00:38:21,589
-e tentaram reviver o Jutsu
-de Estilo Madeira do Primeiro.
+e tentaram reviver
+o Jutsu Mokuton do Primeiro.
 
 438
 00:38:22,667 --> 00:38:24,002
@@ -1936,8 +1940,8 @@ infelizmente, aquele jutsu...
 
 443
 00:38:43,471 --> 00:38:46,683
-foi considerado um
-Jutsu Proibido e selado.
+foi considerado um Jutsu Proibido
+e selado.
 
 444
 00:38:47,602 --> 00:38:51,906
@@ -1993,7 +1997,7 @@ as células do Hashirama.
 455
 00:39:28,869 --> 00:39:31,695
 Mesmo que sejam
-rumores, por que alguém... ?
+rumores, por que alguém...?
 
 456
 00:39:31,966 --> 00:39:35,595
@@ -2006,8 +2010,8 @@ Até eu já me perguntei às vezes,
 
 458
 00:39:37,399 --> 00:39:41,138
-se houvesse apenas alguém que
-conhecesse o Estilo Madeira...
+se pelo menos houvesse alguém
+que conhecesse o Mokuton...
 
 459
 00:39:42,406 --> 00:39:43,623
@@ -2020,7 +2024,8 @@ precisaria ter sacrificado sua vida.
 
 461
 00:39:51,027 --> 00:39:56,408
-<i>Não é por isso que o Quarto Lorde perdeu sua vida?</i>
+<i>Não é por isso que o Senhor</i>
+<i>Quarto perdeu a vida?</i>
 
 462
 00:39:58,639 --> 00:40:01,726
@@ -2083,7 +2088,7 @@ na hora do tigre,
 475
 00:41:00,583 --> 00:41:04,813
 o Terceiro Hokage e cinco
-ANBU sob seu comando direto
+aNBU sob seu comando direto
 
 476
 00:41:05,048 --> 00:41:06,975
@@ -2127,8 +2132,8 @@ em algum ponto pelo caminho...
 
 485
 00:41:31,957 --> 00:41:35,252
-tirar a vida do Senhor
-Terceiro rapidamente e discretamente.
+matar o Terceiro Hokage
+de forma rápida e discreta.
 
 486
 00:41:35,555 --> 00:41:38,447
@@ -2145,8 +2150,8 @@ Entendido?
 
 489
 00:41:44,428 --> 00:41:45,554
-– Sim, senhor!
-– Sim, senhor!
+- Sim, senhor!
+- Sim, senhor!
 
 490
 00:41:51,291 --> 00:41:53,126
@@ -2162,7 +2167,7 @@ Ataque do inimigo!
 
 493
 00:43:04,044 --> 00:43:05,337
-<i>Jutsu Estilo Madeira!</i>
+<i>Jutsu Mokuton!</i>
 
 494
 00:43:06,063 --> 00:43:06,688
@@ -2174,7 +2179,7 @@ O quê?!
 
 496
 00:43:21,656 --> 00:43:24,158
-<i>Estilo Madeira: Jutsu da Floresta Gigante!</i>
+<i>Mokuton: Jukai Kōtan!</i>
 
 497
 00:43:30,924 --> 00:43:31,835
@@ -2186,7 +2191,7 @@ Você...
 
 499
 00:43:49,696 --> 00:43:52,031
-Onde aprendeu o Estilo Madeira?
+Onde você aprendeu o Mokuton?
 
 500
 00:43:54,466 --> 00:43:56,885
@@ -2489,8 +2494,8 @@ Hum?
 
 567
 00:48:57,221 --> 00:48:59,515
-Há alguém na Fundação
-que usa o Estilo Madeira...
+Tem alguém na Fundação
+que usa o Mokuton...
 
 568
 00:49:00,956 --> 00:49:02,624
@@ -2583,8 +2588,8 @@ descobrir sobre este lugar e seus segredos.
 
 588
 00:50:35,842 --> 00:50:40,180
-Bem, estamos lidando com o Terceiro
-Lorde. Ele vai perceber isso eventualmente.
+Bem, estamos falando do Senhor Terceiro.
+Uma hora ele vai perceber.
 
 589
 00:50:41,122 --> 00:50:45,126
@@ -2600,7 +2605,7 @@ Não... Ele provavelmente já suspeitou.
 
 592
 00:51:56,110 --> 00:51:59,577
-O Terceiro Lorde está
+O Senhor Terceiro está
 reassumindo o título de Hokage...
 
 593
@@ -2615,7 +2620,7 @@ Eu sei o que você quer dizer, Genma...
 595
 00:52:08,659 --> 00:52:11,454
 Não vai ser fácil para
-o Terceiro Lorde, sabe!
+o Senhor Terceiro, sabe!
 
 596
 00:52:11,645 --> 00:52:13,147
@@ -2629,12 +2634,12 @@ melhor pelo vilarejo, só isso.
 598
 00:52:17,220 --> 00:52:22,100
 Vamos celebrar o retorno do
-Terceiro Lorde com alguns bolinhos!
+Senhor Terceiro com alguns bolinhos!
 
 599
 00:52:22,601 --> 00:52:23,686
-– É!
-– É!
+- É!
+- É!
 
 600
 00:53:06,172 --> 00:53:09,675
@@ -2695,7 +2700,7 @@ Você vai me matar?
 613
 00:54:43,642 --> 00:54:48,147
 Você está à altura da
-tarefa... Sensei Sarutobi?
+tarefa... Sarutobi-sensei?
 
 614
 00:54:58,431 --> 00:55:00,183
@@ -2726,7 +2731,7 @@ espere por Orochimaru.
 
 620
 00:56:19,777 --> 00:56:20,778
-<i>Lâmina de Raio!</i>
+<i>Chidori!</i>
 
 621
 00:56:49,346 --> 00:56:50,347
@@ -2776,8 +2781,8 @@ a missão anterior.
 
 632
 00:58:58,724 --> 00:59:03,062
-De acordo com relatórios de
-inteligência, Orochimaru está gravemente ferido.
+De acordo com relatórios de inteligência,
+Orochimaru está gravemente ferido.
 
 633
 00:59:03,382 --> 00:59:05,618
@@ -2847,8 +2852,8 @@ Ficarei feliz em colaborar.
 
 648
 00:59:51,877 --> 00:59:54,588
-Pelo bem da Vila da
-Folha, farei tudo o que puder.
+Pelo bem da Folha Oculta,
+farei tudo o que puder.
 
 649
 00:59:55,128 --> 00:59:57,714
@@ -2868,7 +2873,7 @@ Kakashi-senpai...
 
 653
 01:00:33,030 --> 01:00:34,532
-O Lorde Hokage está chamando.
+O Senhor Hokage está chamando.
 
 654
 01:00:35,588 --> 01:00:36,673
@@ -2984,8 +2989,8 @@ Então, você quer que eu vá?
 
 679
 01:02:04,892 --> 01:02:08,384
-Faz três anos desde
-Orochimaru deixou a vila.
+Faz três anos que
+o Orochimaru deixou a vila.
 
 680
 01:02:08,409 --> 01:02:11,579
@@ -3003,8 +3008,8 @@ Sim, senhor.
 
 683
 01:02:34,523 --> 01:02:37,735
-Eu entendo o esconderijo do
-Orochimaru foi encontrado.
+Soube que encontraram
+o esconderijo do Orochimaru.
 
 684
 01:02:37,813 --> 01:02:40,358
@@ -3098,8 +3103,8 @@ que está dentro juntos?
 
 704
 01:04:36,268 --> 01:04:39,979
-Seja o que for que encontrarmos, Nós
-compartilharemos as informações uns com os outros.
+Seja lá o que encontrarmos,
+vamos dividir as informações.
 
 705
 01:04:41,764 --> 01:04:42,781
@@ -3279,8 +3284,7 @@ Está aberto.
 
 746
 01:07:42,486 --> 01:07:44,098
-Você está ciente de que
-o Jutsu do Estilo Madeira
+Você sabe que o Jutsu Mokuton
 
 747
 01:07:44,123 --> 01:07:46,956
@@ -3293,8 +3297,8 @@ Eu não sabia disso.
 
 749
 01:07:49,416 --> 01:07:51,794
-Seu jutsu do Estilo Madeira
-não é apenas para a Fundação...
+Seu jutsu Mokuton não é só
+para a Fundação...
 
 750
 01:07:52,080 --> 01:07:55,458
@@ -3416,7 +3420,8 @@ Você é quem matou um amigo.
 
 777
 01:10:58,743 --> 01:10:59,744
-<i>Substituto Estilo Madeira...</i>
+<i>Mokuton: Moku Bunshin no Jutsu
+(Clone de Madeira)...</i>
 
 778
 01:11:00,860 --> 01:11:02,445
@@ -3572,8 +3577,8 @@ Hã?
 
 813
 01:13:16,477 --> 01:13:21,387
-Para produzir um usuário de Estilo
-Madeira, 59 outras crianças foram perdidas...
+Para criar um usuário do Mokuton,
+59 outras crianças foram sacrificadas...
 
 814
 01:13:22,782 --> 01:13:25,785
@@ -3594,7 +3599,7 @@ da Fundação da Folha Oculta.
 
 818
 01:13:52,569 --> 01:13:53,570
-<i>Estilo Água!</i>
+<i>Suiton! (Estilo Água)</i>
 
 819
 01:13:57,364 --> 01:14:00,076
@@ -3619,18 +3624,16 @@ Pessoalmente?
 
 824
 01:14:17,501 --> 01:14:21,008
-Eu uma vez vi o
-Primeiro Hokage em batalha.
+Uma vez eu vi o Primeiro Hokage em batalha.
 
 825
 01:14:21,975 --> 01:14:24,394
-Emergência da Floresta Profunda:
-Florescimento da Floresta Profunda...
+Jukai Kōtan (Nascimento
+da Floresta Profunda)...
 
 826
 01:14:24,557 --> 01:14:27,477
-Que formidável
-ninjutsu do Estilo Madeira.
+Que jutsu Mokuton formidável.
 
 827
 01:14:28,273 --> 01:14:31,442
@@ -3639,13 +3642,11 @@ todas minhas esperanças em você...
 
 828
 01:14:33,345 --> 01:14:36,120
-Manipule o Estilo
-Terra e o Estilo Água
+Use Doton (Estilo Terra) e Suiton
 
 829
 01:14:36,145 --> 01:14:37,813
-Mudança na Natureza do
-Chakra simultaneamente!
+e liberá-las ao mesmo tempo!
 
 830
 01:14:43,160 --> 01:14:44,453
@@ -3705,7 +3706,7 @@ unificar o mundo shinobi.
 842
 01:15:22,339 --> 01:15:25,414
 Tenho grandes esperanças
-para o seu jutsu Estilo Madeira.
+no seu Mokuton.
 
 843
 01:15:31,044 --> 01:15:32,940
@@ -3844,7 +3845,7 @@ Eu não posso.
 875
 01:17:46,513 --> 01:17:50,016
 Então vou prendê-lo e
-entregá-lo ao Lorde Hokage.
+entregá-lo ao Senhor Hokage.
 
 876
 01:17:50,984 --> 01:17:52,736
@@ -3889,8 +3890,8 @@ Mexa-se!
 
 886
 01:18:28,889 --> 01:18:30,974
-Ouço que os agentes da
-Fundação são todos treinados
+Ouvi dizer que os agentes da Fundação
+são todos treinados
 
 887
 01:18:30,999 --> 01:18:32,376
@@ -3992,8 +3993,8 @@ abandonar esta missão,</i>
 
 910
 01:20:52,657 --> 01:20:55,785
-<i>e vou relatar ao Lorde
-Danzo que eu falhei.</i>
+<i>e vou informar ao Senhor Danzo
+que falhei.</i>
 
 911
 01:20:56,419 --> 01:20:58,588
@@ -4026,8 +4027,8 @@ Senhor Terceiro...
 
 918
 01:21:24,817 --> 01:21:26,652
-Em relação à Fundação
-Usuário do Estilo Madeira...
+Sobre o usuário de Mokuton
+da Fundação...
 
 919
 01:21:27,478 --> 01:21:29,736
@@ -4094,8 +4095,8 @@ que você fez isso?
 
 933
 01:22:35,031 --> 01:22:37,637
-Por favor, vá até
-Danzo e salve Kinoe.
+Por favor, vá até o Senhor Danzo
+e salve o Kinoe.
 
 934
 01:22:45,205 --> 01:22:46,312
@@ -4175,13 +4176,13 @@ Kakashi é um shinobi da Folha.
 
 952
 01:24:09,782 --> 01:24:14,161
-Ele é um camarada da
-Folha. É certo matar um amigo?
+Ele é um companheiro da Folha.
+É certo matar um companheiro?
 
 953
 01:24:14,625 --> 01:24:19,171
-Considere apenas aqueles na
-Fundação como seus amigos.
+Considere companheiros só
+os membros da Fundação.
 
 954
 01:24:20,164 --> 01:24:22,992
@@ -4213,8 +4214,8 @@ Kinoto... O que é um shinobi da Fundação?
 
 960
 01:24:39,845 --> 01:24:42,612
-Shinobi da
-Fundação não têm nomes.
+Os shinobi da Fundação
+não têm nome.
 
 961
 01:24:42,977 --> 01:24:46,474
@@ -4276,8 +4277,8 @@ Não apenas da Fundação!
 
 975
 01:25:31,543 --> 01:25:34,755
-Um shinobi da Vila Oculta da
-Folha, que tem um tronco e galhos!
+Um shinobi da Folha Oculta,
+que tem um tronco e galhos!
 
 976
 01:25:35,654 --> 01:25:36,947
@@ -4297,7 +4298,7 @@ Leve-o para a sala de tratamento.
 
 980
 01:25:49,036 --> 01:25:50,830
-Prenda-o com uma Marca da Maldição.
+Prendam-no com um Juin (Marca da Maldição).
 
 981
 01:25:51,405 --> 01:25:52,068
@@ -4339,7 +4340,7 @@ Não temos conhecimento da agenda do Danzo.
 
 990
 01:26:20,278 --> 01:26:22,572
-Volte e relate isso ao Lorde Terceiro.
+Volte e relate isso ao Senhor Terceiro.
 
 991
 01:26:23,323 --> 01:26:24,324
@@ -4371,8 +4372,8 @@ Droga, Kinoe...
 
 998
 01:27:02,619 --> 01:27:04,704
-Que ideias absurdas
-Kakashi colocou na cabeça dele?
+Que ideias malucas o Kakashi
+colocou na cabeça dele?
 
 999
 01:27:05,869 --> 01:27:08,205
@@ -4396,7 +4397,7 @@ Kinoe!
 
 1004
 01:27:33,821 --> 01:27:34,568
-<i>Estilo Madeira!</i>
+<i>Mokuton!</i>
 
 1005
 01:27:36,839 --> 01:27:37,840
@@ -4408,7 +4409,7 @@ Achei ele! Ali!
 
 1007
 01:27:51,843 --> 01:27:52,675
-<i>Estilo de Vento:</i>
+<i>Fūton:</i>
 
 1008
 01:27:52,966 --> 01:27:54,593
@@ -4416,7 +4417,8 @@ Achei ele! Ali!
 
 1009
 01:27:57,615 --> 01:27:59,617
-<i>Estilo Madeira: Parede em Domo!</i>
+<i>Mokuton: Mokujōheki!
+(Estilo Madeira: Muralha em Cúpula)</i>
 
 1010
 01:28:06,735 --> 01:28:10,906
@@ -4481,8 +4483,8 @@ por sua própria vontade,
 
 1024
 01:29:08,945 --> 01:29:10,738
-em território da
-Fundação e isso é sério.
+no território da Fundação,
+e isso é grave.
 
 1025
 01:29:11,432 --> 01:29:12,475
@@ -4527,7 +4529,7 @@ superior desta vila.
 
 1034
 01:29:49,490 --> 01:29:50,892
-Você sabe que o usuário do Estilo Madeira
+Você sabe que o usuário do Mokuton
 
 1035
 01:29:50,917 --> 01:29:54,163
@@ -4541,8 +4543,8 @@ realizamos testes para adquirir esse poder.
 
 1037
 01:30:01,819 --> 01:30:04,322
-Agora eu entendo lá é um
-usuário de Estilo Madeira.
+Agora sei que existe
+um usuário do Mokuton.
 
 1038
 01:30:04,347 --> 01:30:07,045
@@ -4569,13 +4571,13 @@ Escute, Danzo.
 
 1043
 01:30:19,935 --> 01:30:23,188
-A criança jinchuriki
+A criança Jinchuriki
 agora tem quatro anos.
 
 1044
 01:30:24,086 --> 01:30:25,975
-O Jutsu de Selamento do
-Estilo Madeira está se tornando
+O Jutsu de Selamento do Mokuton
+está se tornando
 
 1045
 01:30:26,000 --> 01:30:28,293
@@ -4592,7 +4594,7 @@ Você vai confiar este usuário a mim?
 1048
 01:30:36,437 --> 01:30:39,023
 Eu vou designá-lo para o
-ANBU sob meu controle direto.
+aNBU sob meu controle direto.
 
 1049
 01:30:40,858 --> 01:30:41,859
@@ -4609,8 +4611,8 @@ valioso subordinado a você.
 
 1052
 01:30:47,301 --> 01:30:50,929
-Mas pelo bem da Vila Oculta da
-Folha, transfira ele para mim.
+Mas, pelo bem da Folha Oculta,
+transfira ele para mim.
 
 1053
 01:30:58,411 --> 01:31:01,998
@@ -4618,8 +4620,8 @@ Então tudo será resolvido amigavelmente...
 
 1054
 01:31:06,971 --> 01:31:09,855
-Membros da Fundação ter
-uma Marca da Maldição,
+Os membros da Fundação
+estão presos por um Juin,
 
 1055
 01:31:09,880 --> 01:31:11,901
@@ -4628,7 +4630,7 @@ informações ultrassecretas.
 
 1056
 01:31:12,229 --> 01:31:14,481
-Eu não vou remover a Marca da Maldição.
+Eu não vou remover o Juin.
 
 1057
 01:31:14,937 --> 01:31:16,378
@@ -4645,7 +4647,7 @@ Agora eu o recebo sob meus cuidados.
 1060
 01:31:21,243 --> 01:31:25,894
 Daqui em diante, você será um
-ANBU sob minhas ordens diretas.
+aNBU sob minhas ordens diretas.
 
 1061
 01:31:32,852 --> 01:31:33,586
@@ -4688,8 +4690,8 @@ Mas esse nome é...
 
 1070
 01:32:17,165 --> 01:32:20,377
-Você não se chamava
-Tenzo antigamente?
+Você não se chamava Tenzo
+antigamente?
 
 1071
 01:32:21,768 --> 01:32:22,905
@@ -4713,8 +4715,8 @@ Bem-vindo!
 
 1076
 01:32:31,941 --> 01:32:34,235
-— Prazer, Tenzo! —
-Espero muito de você!
+- Prazer, Tenzo!
+- Espero muito de você!
 
 1077
 01:32:34,852 --> 01:32:36,270
@@ -4738,8 +4740,8 @@ Droga!
 
 1082
 01:33:10,269 --> 01:33:13,648
-Como sempre, sua Lâmina
-Relâmpago está impressionante, senpai.
+Como sempre, o seu Chidori
+continua brilhante, senpai.
 
 1083
 01:33:14,624 --> 01:33:15,666
@@ -5173,8 +5175,8 @@ informações com a ANBU Hannya
 
 1180
 01:39:29,176 --> 01:39:31,511
-da Terra das
-Florestas na fronteira.
+da Terra das Florestas
+na fronteira.
 
 1181
 01:39:31,939 --> 01:39:36,861
@@ -5258,8 +5260,8 @@ Você fará uma troca secreta
 
 1199
 01:40:21,792 --> 01:40:23,627
-com a ANBU Hannya do
-País das Florestas.
+com a ANBU Hannya
+da Terra das Florestas.
 
 1200
 01:40:24,138 --> 01:40:26,709
@@ -5285,8 +5287,8 @@ Se eles entregarem um pergaminho falso,
 
 1205
 01:40:41,380 --> 01:40:44,461
-isso provará que a Terra das
-Florestas não tem interesse
+isso vai provar que
+a Terra das Florestas não tem interesse
 
 1206
 01:40:44,486 --> 01:40:47,144
@@ -5382,7 +5384,7 @@ e nós dois.
 1226
 01:42:30,271 --> 01:42:32,640
 Você pertence à ANBU Hannya
-do País das Florestas, certo?
+da Terra das Florestas, certo?
 
 1227
 01:42:32,950 --> 01:42:35,656
@@ -5462,13 +5464,13 @@ Reforços!
 
 1244
 01:43:30,895 --> 01:43:31,709
-<i>- Estilo Terra:
-- Estilo Terra:</i>
+<i>- Doton:
+- Doton:</i>
 
 1245
 01:43:31,828 --> 01:43:33,163
-<i>- Colapso de Pedra!
-- Colapso de Pedra!</i>
+<i>- Ganseki Kuzushi! (Desmoronamento de Rocha)
+- Ganseki Kuzushi! (Desmoronamento de Rocha)</i>
 
 1246
 01:43:34,765 --> 01:43:35,766
@@ -5476,7 +5478,8 @@ Corra!
 
 1247
 01:43:38,708 --> 01:43:40,543
-<i>Estilo Terra: Parede de Lama!</i>
+<i>Doton: Doryūheki!</i>
+<i>(Estilo Terra: Parede de Lama)</i>
 
 1248
 01:44:04,634 --> 01:44:06,427
@@ -5607,7 +5610,7 @@ Senhor Terceiro...
 1277
 01:45:45,126 --> 01:45:48,118
 Entendo por que disse que a
-ANBU não é adequada para mim.
+aNBU não é adequada para mim.
 
 1278
 01:45:48,949 --> 01:45:49,923
@@ -5615,8 +5618,8 @@ Entendo...
 
 1279
 01:45:50,434 --> 01:45:55,699
-Mas também não acho que
-Kakashi seja adequado para a ANBU.
+Mas também não acho que o Kakashi
+seja adequado para a ANBU.
 
 1280
 01:45:56,846 --> 01:45:57,864
@@ -5674,7 +5677,7 @@ Irmão mais velho! Adivinha?
 
 1292
 01:46:45,614 --> 01:46:49,090
-Meu Sensei me
+Meu sensei me
 elogiou na Academia hoje.
 
 1293
@@ -5705,13 +5708,13 @@ Que tipo de missão é esta?
 
 1299
 01:47:37,224 --> 01:47:40,164
-Quando o incidente da
-Nove-Caudas ocorreu há seis anos,
+Quando aconteceu o incidente
+da Nove-Caudas, seis anos atrás,
 
 1300
 01:47:40,288 --> 01:47:44,292
 os superiores suspeitaram que o
-Clã Uchiha estava por trás disso.
+clã Uchiha estava por trás disso.
 
 1301
 01:47:45,152 --> 01:47:48,947
@@ -5903,8 +5906,8 @@ Não, é retaliação.
 
 1345
 01:49:47,593 --> 01:49:51,153
-A negatividade do incidente da
-Nove-Caudas há seis anos ainda paira sobre eles.
+A negatividade do incidente da Nove-Caudas,
+seis anos atrás, ainda paira sobre eles.
 
 1346
 01:49:52,033 --> 01:49:55,036
@@ -5917,8 +5920,8 @@ Essa é a causa da suspeita...
 
 1348
 01:49:59,178 --> 01:50:03,807
-Além disso, os Uchiha consideraram nosso
-afastamento deles durante o ataque da Nove-Caudas
+Além disso, os Uchiha viram o nosso
+afastamento deles da Nove-Caudas
 
 1349
 01:50:03,985 --> 01:50:08,937
@@ -5932,7 +5935,7 @@ Nossa estratégia de isolar os Uchiha
 
 1351
 01:50:12,473 --> 01:50:14,260
-implementado pelo Lorde Segundo.
+implementado pelo Senhor Segundo.
 
 1352
 01:50:14,549 --> 01:50:16,123
@@ -5941,8 +5944,8 @@ alarde depois de todo esse tempo?
 
 1353
 01:50:16,577 --> 01:50:19,288
-A intenção do Senhor
-Segundo não era isolamento.
+A intenção do Senhor Segundo
+não era o isolamento.
 
 1354
 01:50:19,617 --> 01:50:21,783
@@ -5982,8 +5985,8 @@ Saia!
 
 1362
 01:50:55,015 --> 01:50:57,935
-Meu time vai para a Vila Oculta da
-Folha Quartel-General da Polícia!
+Meu time vai para o Quartel-General
+da Força Policial da Folha!
 
 1363
 01:50:58,174 --> 01:51:00,051
@@ -6076,12 +6079,12 @@ Todos, exceto um.
 
 1385
 01:52:38,567 --> 01:52:42,938
-Nunca imaginei que Itachi
-Uchiha entraria no Livro Bingo.
+Nunca imaginei que Itachi Uchiha
+entraria no Livro Bingo.
 
 1386
 01:52:43,899 --> 01:52:45,944
-Na classe S desde o início.
+No Rank S desde o início.
 
 1387
 01:52:46,797 --> 01:52:49,800
@@ -6129,12 +6132,12 @@ Estou considerando uma transformação completa
 
 1397
 01:53:39,831 --> 01:53:42,717
-da Fundação de
-Danzo e do meu ANBU.
+da Fundação do Danzo e da minha ANBU.
 
 1398
 01:53:42,982 --> 01:53:46,736
-Além disso, precisamos de uma nova Força Policial.
+Além disso, precisamos de
+uma nova Força Policial.
 
 1399
 01:53:47,478 --> 01:53:50,030
@@ -6170,8 +6173,8 @@ você está na ANBU?
 
 1406
 01:54:13,225 --> 01:54:17,062
-Entrei durante o mandato do Quarto
-Hokage, então... cerca de dez anos.
+Entrei na época do Quarto Hokage,
+então... uns dez anos.
 
 1407
 01:54:18,241 --> 01:54:21,578
@@ -6198,8 +6201,8 @@ retomei a posição de Hokage,
 
 1412
 01:54:36,485 --> 01:54:39,196
-e coloquei o ANBU de
-Minato sob meu comando.
+e coloquei a ANBU do Minato
+sob o meu comando.
 
 1413
 01:54:39,827 --> 01:54:46,239

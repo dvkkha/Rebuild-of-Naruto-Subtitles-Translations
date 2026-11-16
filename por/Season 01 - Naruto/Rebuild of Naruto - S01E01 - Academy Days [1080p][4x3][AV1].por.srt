@@ -132,8 +132,8 @@ Não chore, Sasuke.
 
 32
 00:02:14,933 --> 00:02:18,395
-Não importa o que aconteça, seu irmão mais velho
-certamente vai te proteger...
+Não importa o que aconteça, o seu irmão
+mais velho sempre vai te proteger...
 
 33
 00:02:27,021 --> 00:02:28,690
@@ -141,8 +141,8 @@ Não pode ser...
 
 34
 00:02:44,202 --> 00:02:46,163
-– O que aconteceu?
-– Foi um acidente?
+- O que aconteceu?
+- Foi um acidente?
 
 35
 00:02:46,332 --> 00:02:47,500
@@ -158,13 +158,13 @@ A Nove-Caudas!
 
 38
 00:02:58,219 --> 00:02:59,678
-– Corra!
-– É a Nove-Caudas!
+- Corra!
+- É a Nove-Caudas!
 
 39
 00:02:59,679 --> 00:03:01,055
-– Socorro!
-– Estamos perdidos!
+- Socorro!
+- Estamos perdidos!
 
 40
 00:03:21,578 --> 00:03:23,204
@@ -244,8 +244,8 @@ Maldito você, Nove-Caudas!
 
 58
 00:04:31,562 --> 00:04:33,940
-Este é o momento
-Eu libero meu poder contido!
+Chegou a hora de
+liberar meu poder acumulado!
 
 59
 00:04:34,290 --> 00:04:35,394
@@ -257,8 +257,8 @@ Vamos lá! Eu serei seu oponente!
 
 61
 00:04:37,614 --> 00:04:38,907
-– Espera!
-– Hein?
+- Espera!
+- Hein?
 
 62
 00:04:39,904 --> 00:04:41,864
@@ -328,7 +328,7 @@ Não aja por conta própria!
 
 78
 00:05:32,165 --> 00:05:34,125
-Reúnam-se diante do Lorde Hiruzen!
+Reúnam-se diante do Senhor Hiruzen!
 
 79
 00:05:34,709 --> 00:05:36,627
@@ -349,8 +349,8 @@ minha família, agora mesmo.</i>
 
 83
 00:06:06,089 --> 00:06:07,674
-– Corra!
-– Socorro!
+- Corra!
+- Socorro!
 
 84
 00:06:16,751 --> 00:06:18,920
@@ -413,8 +413,8 @@ Sim senhor!
 
 97
 00:06:56,457 --> 00:06:59,167
-Compre tempo para mim para que
-Eu posso executar meu jutsu!
+Me dê tempo
+para preparar o meu jutsu!
 
 98
 00:06:59,168 --> 00:07:00,837
@@ -426,7 +426,7 @@ Certo! Vamos!
 
 100
 00:07:15,685 --> 00:07:17,728
-<i>Ninja Arte: Invocação!</i>
+<i>Kuchiyose no Jutsu! (Arte Ninja: Invocação)</i>
 
 101
 00:07:18,604 --> 00:07:21,858
@@ -442,12 +442,13 @@ Então o selo foi quebrado?
 
 104
 00:07:31,008 --> 00:07:34,053
-Nós vamos persegui-lo para fora da vila
-<i>com o Adamantine Nyoi!</i>
+Vamos expulsá-la da vila
+<i>com o Kongō Nyoi (Bastão Adamantino)</i>!
 
 105
 00:07:34,733 --> 00:07:36,735
-Entendido! Transforme!
+Entendido!
+<i>Transformação!</i>
 
 106
 00:07:42,462 --> 00:07:44,046
@@ -501,7 +502,8 @@ Senhora Kushina!
 
 118
 00:08:53,783 --> 00:08:55,618
-Levem-na imediatamente para o Hospital da Folha!
+Levem-na imediatamente
+para o Hospital da Folha!
 
 119
 00:08:55,924 --> 00:08:57,592
@@ -545,7 +547,7 @@ escolhemos a partir do...
 
 129
 00:09:21,885 --> 00:09:24,221
-romance do Jiraiya Sensei...
+romance do Jiraiya-sensei...
 
 130
 00:09:24,695 --> 00:09:28,741
@@ -647,8 +649,8 @@ Que incômodo.
 
 153
 00:11:13,881 --> 00:11:15,866
-– Ele é tão desagradável.
-– Eu diria.
+- Ele é tão desagradável.
+- Eu diria.
 
 154
 00:11:15,891 --> 00:11:17,267
@@ -677,8 +679,8 @@ Sim, eu coloquei bastante.
 
 160
 00:11:37,914 --> 00:11:39,299
-– Sim!
-– Sim!
+- Sim!
+- Sim!
 
 161
 00:11:39,752 --> 00:11:41,467
@@ -686,8 +688,8 @@ Tenha cuidado agora!
 
 162
 00:11:41,492 --> 00:11:42,493
-– Ok!
-– Ok!
+- Ok!
+- Ok!
 
 163
 00:11:57,239 --> 00:11:58,709
@@ -733,7 +735,7 @@ quando aquela besta chamou
 
 173
 00:12:39,133 --> 00:12:41,010
-o Espírito da Raposa de Nove Caudas
+o Espírito da Nove-Caudas
 saiu correndo descontroladamente, certo?
 
 174
@@ -926,8 +928,8 @@ Aqui está o seu arroz!
 
 219
 00:18:52,809 --> 00:18:55,812
-– Oh, posso incomodá-lo por um pouco de chá?
-– Claro!
+- Oh, posso incomodá-lo por um pouco de chá?
+- Claro!
 
 220
 00:19:30,752 --> 00:19:33,297
@@ -1766,7 +1768,7 @@ Eu vou te fortalecer!
 418
 00:35:46,245 --> 00:35:49,164
 Quando você estiver em perigo,
-Eu darei minha vida para te proteger!
+eu darei minha vida para te proteger!
 
 419
 00:35:51,582 --> 00:35:52,689
@@ -1778,8 +1780,8 @@ Senhorita Hinata, está nevando!
 
 421
 00:35:58,810 --> 00:36:04,190
-Eu tive uma batalha de bolas de neve com meu pai
-esta manhã, e eu o bati duas vezes!
+Hoje de manhã eu fiz guerra de bolas de neve
+com meu pai e acertei ele duas vezes!
 
 422
 00:36:24,399 --> 00:36:26,244
@@ -1807,7 +1809,7 @@ O da esquerda
 427
 00:36:39,058 --> 00:36:42,474
 Três clãs que usam
-Ninjutsu Secreto altamente incomum.
+jutsus secretos muito incomuns.
 
 428
 00:36:43,493 --> 00:36:46,847
@@ -1826,8 +1828,8 @@ e proteger nossos clãs,
 
 431
 00:36:52,851 --> 00:37:00,221
-o autoritário Clã Sarutobi concede
-perfurações de orelha em todos os três de nossos clãs.
+o respeitado Clã Sarutobi concede
+brincos aos nossos três clãs.
 
 432
 00:37:00,246 --> 00:37:04,777
@@ -2074,7 +2076,7 @@ Ninguém pode te culpar.
 487
 00:42:13,134 --> 00:42:16,721
 E mesmo que isso aconteça,
-Com certeza não é sua culpa.
+com certeza não é sua culpa.
 
 488
 00:42:16,846 --> 00:42:18,388
@@ -2103,7 +2105,7 @@ de grafites sumiram!
 
 494
 00:42:42,371 --> 00:42:45,166
-Olha só... É aquela coisa.
+Olha só... É aquela <i>coisa</i>.
 
 495
 00:42:45,458 --> 00:42:47,960
@@ -2112,8 +2114,8 @@ ficar nesta vila?
 
 496
 00:42:48,461 --> 00:42:51,214
-Gostaria que o Lorde Hokage tivesse feito
-Mais consideração para nós.
+Queria que o Senhor Hokage
+tivesse mais consideração por nós.
 
 497
 00:42:52,715 --> 00:42:53,716
@@ -2145,8 +2147,8 @@ Isso mesmo!
 
 504
 00:44:01,956 --> 00:44:05,000
-Eu deveria ir
-Um novo professor titular hoje.
+Hoje eu devo ganhar
+um novo professor titular.
 
 505
 00:44:05,788 --> 00:44:08,915
@@ -2274,7 +2276,8 @@ Então, isso é tudo por hoje.
 
 534
 00:46:21,257 --> 00:46:24,510
-Que tal essa para a terceira pegadinha do Naruto?
+Que tal essa para a terceira
+pegadinha do Naruto?
 
 535
 00:46:25,094 --> 00:46:26,178
@@ -2317,8 +2320,8 @@ prosseguir com nossas aulas.
 
 544
 00:47:01,987 --> 00:47:07,200
-Então... Faremos um jutsu básico.
-Jutsu de Clonagem.
+Então... Faremos um jutsu básico:
+o Bunshin no Jutsu (Jutsu de Clone).
 
 545
 00:47:07,928 --> 00:47:10,617
@@ -2331,7 +2334,7 @@ Humm... Primeiro é Sasuke Uchiha.
 
 547
 00:47:15,853 --> 00:47:18,522
-Jutsu de Clone é brincadeira de criança.
+Bunshin no Jutsu é brincadeira de criança.
 
 548
 00:47:20,793 --> 00:47:24,320
@@ -2359,7 +2362,7 @@ Ok, Sasuke. Tente.
 
 554
 00:47:40,961 --> 00:47:42,171
-<i>Jutsu Clone!</i>
+<i>Bunshin no Jutsu!</i>
 
 555
 00:47:45,007 --> 00:47:46,175
@@ -2368,7 +2371,7 @@ Hmm...
 556
 00:47:46,592 --> 00:47:50,054
 Incrível!
-Esse foi um Jutsu de Clonagem perfeito.
+Foi um Bunshin no Jutsu perfeito.
 
 557
 00:47:50,221 --> 00:47:52,223
@@ -2405,16 +2408,16 @@ Sasuke!
 
 565
 00:48:12,968 --> 00:48:18,807
-Incrível, dois clones em um instante
-enquanto o verdadeiro se mudou para outro lugar.
+Incrível, dois clones num instante
+enquanto o verdadeiro ia para outro lugar.
 
 566
 00:48:19,291 --> 00:48:22,169
-Humph! Eu também posso fazer Jutsu de Clonagem!
+Hmpf! Eu também sei fazer Bunshin no Jutsu!
 
 567
 00:48:22,808 --> 00:48:24,099
-<i>Jutsu Clone!</i>
+<i>Bunshin no Jutsu!</i>
 
 568
 00:48:31,303 --> 00:48:33,472
@@ -2572,8 +2575,8 @@ dentro da Folha Oculta,
 
 604
 00:50:54,722 --> 00:50:58,893
-que possuem Byakugan, o mais aclamado
-de todos os kekkai genkai.
+que possuem o Byakugan, o mais famoso
+de todos os Kekkei Genkai.
 
 605
 00:50:59,243 --> 00:51:01,633
@@ -2772,8 +2775,8 @@ o sinal de spar,
 
 650
 00:54:30,929 --> 00:54:37,227
-depois juntam as mãos para formar
-o "sinal de uníssono" como demonstração de amizade.
+depois juntam as mãos e formam o
+"Selo da Reconciliação" em sinal de amizade.
 
 651
 00:54:37,934 --> 00:54:40,647
@@ -2861,7 +2864,7 @@ Eu juro!
 
 671
 00:55:54,449 --> 00:55:56,034
-<i>Jutsu Clone !</i>
+<i>Bunshin no Jutsu!</i>
 
 672
 00:55:58,637 --> 00:55:59,429
@@ -2960,7 +2963,7 @@ Shino, vá em frente!
 
 694
 00:57:29,044 --> 00:57:32,214
-Iruka Sensei,
+Iruka-sensei,
 você escolheu a pessoa errada.
 
 695
@@ -3301,8 +3304,8 @@ Sério?
 
 774
 01:03:32,632 --> 01:03:35,468
-Senhorita Hinata, você não deve continuar
-Senhor Hiashi esperando.
+Senhorita Hinata, não deixe
+o Senhor Hiashi esperando.
 
 775
 01:03:35,626 --> 01:03:36,377
@@ -3361,7 +3364,8 @@ não precisa ser eu.
 
 788
 01:05:08,645 --> 01:05:10,479
-Por favor, deixe-me fazer meu próprio treinamento.
+Por favor, deixe-me fazer
+meu próprio treinamento.
 
 789
 01:05:10,960 --> 01:05:13,796
@@ -3435,11 +3439,11 @@ em um lugar como este...?</i>
 
 806
 01:07:37,454 --> 01:07:39,081
-<i>Jutsu de Clone!</i>
+<i>Bunshin no Jutsu!</i>
 
 807
 01:07:48,792 --> 01:07:50,034
-<i>Jutsu de Clone!</i>
+<i>Bunshin no Jutsu!</i>
 
 808
 01:07:50,937 --> 01:07:52,522
@@ -3480,7 +3484,8 @@ Isto é fácil.
 
 817
 01:09:32,590 --> 01:09:34,884
-Tudo que eu tenho que fazer é pegar aquele galho.
+Tudo que eu tenho que
+fazer é pegar aquele galho.
 
 818
 01:09:46,130 --> 01:09:47,840
@@ -3554,8 +3559,8 @@ Por quê? Por quê?!
 
 834
 01:11:13,243 --> 01:11:17,038
-Por que todo mundo,
-até meu professor titular...
+Por que todo mundo, até você,
+meu professor...?
 
 835
 01:11:17,063 --> 01:11:20,024
@@ -3563,8 +3568,8 @@ Por que vocês todos estão me olhando assim?!
 
 836
 01:11:21,811 --> 01:11:25,022
-Eu não sou um incômodo e
-Eu não sou algum tipo de germen!
+Eu não sou uma praga
+nem um micróbio!
 
 837
 01:11:25,871 --> 01:11:29,750
@@ -3605,8 +3610,8 @@ Oh... Eu não percebi.
 
 846
 01:12:04,430 --> 01:12:06,890
-Ah sim, eu não acho
-Eu o vi esta manhã.
+Ah, é, acho que
+não vi ele hoje de manhã.
 
 847
 01:12:07,028 --> 01:12:08,530
@@ -3635,7 +3640,7 @@ Vamos começar nossa aula.
 
 853
 01:12:24,076 --> 01:12:26,745
-<i>Lorde Hokage está se apresentando
+<i>Senhor Hokage está se apresentando
 deveres oficiais agora.</i>
 
 854
@@ -3688,7 +3693,8 @@ Você parece tão deprimido.
 
 865
 01:13:13,149 --> 01:13:15,193
-Se você sentir vontade de conversar, eu ouvirei.
+Se você sentir vontade
+de conversar, eu ouvirei.
 
 866
 01:13:22,221 --> 01:13:23,973
@@ -3723,7 +3729,7 @@ por ser seu professor titular.
 
 873
 01:13:42,667 --> 01:13:45,545
-O Lorde Hokage não me veria.
+O Senhor Hokage não me veria.
 
 874
 01:13:47,785 --> 01:13:49,149
@@ -3771,8 +3777,8 @@ Mas sempre que eu o vejo,
 
 884
 01:14:22,456 --> 01:14:27,919
-Não consigo parar de lembrar
-a Nove-Caudas escondida profundamente dentro dele.
+Não consigo deixar de ver
+a Nove-Caudas selada dentro dele.
 
 885
 01:14:29,223 --> 01:14:32,286
@@ -3798,7 +3804,7 @@ Provação?!
 
 890
 01:14:44,418 --> 01:14:46,920
-Sim, um que Lorde Hokage
+Sim, um que o Senhor Hokage
 lhe deu.
 
 891
@@ -3901,7 +3907,7 @@ Quem é... tão cedo de manhã?
 
 914
 01:19:01,403 --> 01:19:06,741
-O quê?! Iruka Sensei?!
+O quê?! Iruka-sensei?!
 O que ele está fazendo aqui?!
 
 915
@@ -3923,7 +3929,7 @@ Obrigado pela comida.
 919
 01:19:52,582 --> 01:19:54,182
 Você vai parar em
-A casa do Choji, não é?
+a casa do Choji, não é?
 
 920
 01:19:54,207 --> 01:19:55,208
@@ -4064,8 +4070,8 @@ Tão chato.
 
 952
 01:21:56,911 --> 01:21:58,663
-– Vamos.
-– Sim, vamos.
+- Vamos.
+- Sim, vamos.
 
 953
 01:21:59,933 --> 01:22:03,728
@@ -4216,8 +4222,8 @@ Hã...?
 
 988
 01:23:34,080 --> 01:23:36,046
-– Do que você está falando?
-– Do que você está falando?
+- Do que você está falando?
+- Do que você está falando?
 
 989
 01:23:36,487 --> 01:23:40,199
@@ -4226,8 +4232,8 @@ aquele dinheiro que você vai me pagar.
 
 990
 01:23:40,579 --> 01:23:41,580
-– O quê?
-– Hã?
+- O quê?
+- Hã?
 
 991
 01:23:42,795 --> 01:23:43,921
@@ -4268,18 +4274,18 @@ Que saco!
 
 1000
 01:24:45,246 --> 01:24:46,581
-– Não, não.
-– Não, não.
+- Não, não.
+- Não, não.
 
 1001
 01:24:46,606 --> 01:24:48,065
-– Sem garotas pra mim!
-– Sem garotas pra mim!
+- Sem garotas pra mim!
+- Sem garotas pra mim!
 
 1002
 01:24:49,459 --> 01:24:50,819
-– Ela está atrás da gente!
-– Ela está atrás da gente!
+- Ela está atrás da gente!
+- Ela está atrás da gente!
 
 1003
 01:24:52,629 --> 01:24:53,630
@@ -4317,7 +4323,8 @@ Até mais, Naruto.
 
 1011
 01:25:29,583 --> 01:25:31,584
-Seu Jutsu Sexy foi incrível!
+Seu Oiroke no Jutsu
+(Jutsu Sexy) foi incrível!
 
 1012
 01:25:31,799 --> 01:25:33,300
@@ -4430,7 +4437,7 @@ Ei, Naruto!
 1038
 01:27:03,801 --> 01:27:07,013
 Como você chegou aqui de repente,
-Iruka Sensei?
+Iruka-sensei?
 
 1039
 01:27:07,246 --> 01:27:10,086
@@ -4449,7 +4456,7 @@ prossiga para a próxima sala de aula.
 
 1042
 01:27:18,523 --> 01:27:20,859
-O teste é sobre o Jutsu de Clones.
+O teste é sobre o Bunshin no Jutsu.
 
 1043
 01:27:21,272 --> 01:27:22,624
@@ -4466,7 +4473,7 @@ Eu farei isso não importa o quê!</i>
 
 1046
 01:27:39,754 --> 01:27:41,005
-<i>Jutsu Clone!</i>
+<i>Bunshin no Jutsu!</i>
 
 1047
 01:27:50,181 --> 01:27:51,557
@@ -4474,7 +4481,7 @@ Desclassificado!
 
 1048
 01:27:53,748 --> 01:27:54,748
-Sensei Iruka.
+Iruka-sensei.
 
 1049
 01:27:56,200 --> 01:27:59,662
@@ -4493,7 +4500,7 @@ para ele passar?
 
 1052
 01:28:06,379 --> 01:28:11,468
-Mizuki Sensei...Todos os outros
+Mizuki-sensei...Todos os outros
 criou três ou mais clones.
 
 1053
@@ -4559,7 +4566,7 @@ Sim, senhor.
 
 1067
 01:29:06,212 --> 01:29:10,049
-O Iruka Sensei não está tentando
+O Iruka-sensei não está tentando
 ser maldoso com você.
 
 1068
@@ -4597,7 +4604,7 @@ Vou te contar um grande segredo.
 
 1076
 01:29:45,768 --> 01:29:47,770
-<i>Qual é, Lorde Hokage?</i>
+<i>Qual é, Senhor Hokage?</i>
 
 1077
 01:29:48,415 --> 01:29:52,349
@@ -4619,7 +4626,7 @@ lá fora lutando!</i>
 
 1081
 01:30:11,405 --> 01:30:13,157
-Acorde, Iruka Sensei!
+Acorde, Iruka-sensei!
 
 1082
 01:30:15,618 --> 01:30:16,869
@@ -4627,7 +4634,7 @@ O que houve?
 
 1083
 01:30:17,226 --> 01:30:19,478
-Venha imediatamente ao Lorde Hokage!
+Venha imediatamente ao Senhor Hokage!
 
 1084
 01:30:20,053 --> 01:30:24,194
@@ -4643,8 +4650,8 @@ Vamos ver...
 
 1087
 01:30:30,193 --> 01:30:34,947
-O primeiro Jutsu é...
-Jutsu dos Clones das Sombras Múltiplas?
+O primeiro jutsu é...
+Tajū Kage Bunshin no Jutsu?
 
 1088
 01:30:35,834 --> 01:30:39,233
@@ -4652,7 +4659,7 @@ O quê?! Já é um Jutsu que eu não sei fazer?
 
 1089
 01:30:39,641 --> 01:30:42,011
-Lorde Hokage!
+Senhor Hokage!
 Não podemos simplesmente perdoá-lo desta vez!
 
 1090
@@ -4736,7 +4743,7 @@ Quem te disse isso?
 
 1108
 01:32:03,052 --> 01:32:08,773
-Mizuki Sensei. Ele me contou
+Mizuki-sensei. Ele me contou
 sobre este pergaminho, e este lugar...
 
 1109
@@ -4745,7 +4752,8 @@ sobre este pergaminho, e este lugar...
 
 1110
 01:32:18,365 --> 01:32:20,103
-Estou impressionado que você encontrou este lugar.
+Estou impressionado que
+você encontrou este lugar.
 
 1111
 01:32:21,160 --> 01:32:23,662
@@ -4835,7 +4843,7 @@ Hã?
 1130
 01:33:33,065 --> 01:33:36,728
 Está certo...
-O mesmo Demônio de Nove Caudas
+O mesmo Demônio de Nove-Caudas
 
 1131
 01:33:36,753 --> 01:33:39,756
@@ -5039,8 +5047,8 @@ Não há como esse monstro...
 
 1176
 01:37:09,228 --> 01:37:12,773
-aquele Espírito da Raposa, não vai se aproveitar
-do poder daquele pergaminho!
+aquela Raposa Demoníaca, não vai se
+aproveitar do poder daquele pergaminho!
 
 1177
 01:37:13,702 --> 01:37:14,787
@@ -5052,7 +5060,7 @@ Você está certo...
 
 1179
 01:37:21,005 --> 01:37:27,110
-<i>Iruka Sensei nunca realmente
+<i>Iruka-sensei nunca realmente
 não cuidou de mim de jeito nenhum!</i>
 
 1180
@@ -5114,8 +5122,8 @@ Você me surpreendeu ali, estranho.
 
 1193
 01:38:25,441 --> 01:38:29,904
-Se você algum dia colocar a mão no Iruka Sensei,
-Eu vou te matar!
+Se você algum dia colocar a mão
+no Iruka-sensei, eu vou te matar!
 
 1194
 01:38:30,529 --> 01:38:34,867
@@ -5129,12 +5137,13 @@ Eu vou te revidar mil vezes!
 
 1196
 01:38:40,203 --> 01:38:44,217
-Vamos ver você tentar!
-Mostre-me o que você pode fazer, Raposa Demoníaca!
+Vamos ver você tentar! Mostre-me
+o que você pode fazer, Raposa Demoníaca!
 
 1197
 01:38:45,085 --> 01:38:46,712
-<i>Jutsu de Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
+<i>(Jutsu dos Clones das Sombras)</i>
 
 1198
 01:38:56,013 --> 01:38:57,681
@@ -5167,7 +5176,7 @@ Eu vou até você.
 1204
 01:39:33,045 --> 01:39:37,550
 Me empolguei um pouco.
-Iruka Sensei, você está bem?
+Iruka-sensei, você está bem?
 
 1205
 01:39:38,588 --> 01:39:39,588
@@ -5220,7 +5229,7 @@ Para comemorar, vamos comer ramen hoje à noite!
 
 1217
 01:40:41,628 --> 01:40:43,046
-Iruka Sensei!
+Iruka-sensei!
 
 1218
 01:40:43,370 --> 01:40:44,538
@@ -5382,4 +5391,3 @@ Sim!
 01:43:21,695 --> 01:43:27,492
 Eu desejo passar sua Vontade de Fogo
 para as crianças do futuro, para o Naruto.
-

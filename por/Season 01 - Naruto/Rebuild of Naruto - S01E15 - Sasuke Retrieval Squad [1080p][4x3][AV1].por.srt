@@ -1,6 +1,6 @@
 1
 00:00:01,925 --> 00:00:07,764
-Sasuke, Orochimaru-sama
+Sasuke, Senhor Orochimaru
 nos deu uma tarefa importante.
 
 2
@@ -42,16 +42,16 @@ em um estado de animação suspensa.
 10
 00:00:39,451 --> 00:00:42,871
 <i>ão importa o que aconteça,
-Ainda não posso me dar ao luxo de morrer.</i>
+ainda não posso me dar ao luxo de morrer.</i>
 
 11
 00:00:43,746 --> 00:00:44,627
-Estou em suas mãos…
+Estou em suas mãos...
 
 12
 00:01:00,166 --> 00:01:02,303
-<i>– Formação Quatro Névoas Negras!</i>
-<i>– Formação Quatro Névoas Negras!</i>
+<i>- Shikokumu! (Quatro Névoas Negras)</i>
+<i>- Shikokumu! (Quatro Névoas Negras)</i>
 
 13
 00:01:03,229 --> 00:01:04,634
@@ -80,13 +80,13 @@ Sim!
 
 19
 00:02:57,927 --> 00:03:00,972
-Estou realizando treino de condicionamento físico
-para se preparar para a cirurgia.
+Estou fazendo treino físico
+para me preparar para a cirurgia.
 
 20
 00:03:01,462 --> 00:03:04,173
-Eu quero voltar assim que possível
-Posso depois da cirurgia, então...
+Quero voltar o mais rápido
+possível depois da cirurgia, então...
 
 21
 00:03:07,270 --> 00:03:07,854
@@ -160,7 +160,7 @@ estão sendo criadas.</i>
 
 37
 00:04:22,468 --> 00:04:26,806
-<i>Sensei Sarutobi... Como esperado,
+<i>Sarutobi-sensei... Como esperado,
 você foi um Hokage maravilhoso.</i>
 
 38
@@ -239,7 +239,7 @@ Essa é difícil.
 55
 00:06:07,617 --> 00:06:09,786
 <i>Cada um deles
-tem uma Marca da Maldição...</i>
+tem um Juin (Marca da Maldição)...</i>
 
 56
 00:06:10,495 --> 00:06:12,372
@@ -269,7 +269,8 @@ com o shinobi da Folha.
 
 62
 00:06:36,354 --> 00:06:38,439
-Aqueles dois estão realmente atrasados, não estão?
+Aqueles dois estão realmente
+atrasados, não estão?
 
 63
 00:06:39,941 --> 00:06:41,859
@@ -474,8 +475,8 @@ e sentidos acústicos ao máximo!
 
 109
 00:09:58,224 --> 00:10:01,770
-Precisamos localizar aqueles caras antes
-Nós somos pegos em uma emboscada!
+Precisamos localizar aqueles caras
+antes de cairmos numa emboscada!
 
 110
 00:10:02,685 --> 00:10:05,605
@@ -549,8 +550,8 @@ Barreira de perímetro?
 
 126
 00:10:53,859 --> 00:10:57,237
-As armadilhas do tipo perímetro têm um atraso de tempo
-e são ativadas
+As armadilhas do tipo perímetro têm
+um atraso de tempo e são ativadas
 
 127
 00:10:57,262 --> 00:11:01,558
@@ -603,7 +604,8 @@ Espere, Naruto!
 
 138
 00:11:48,880 --> 00:11:50,423
-<i>Jutsu da Sombra Possessora...</i>
+<i>Kagemane no Jutsu
+(Jutsu da Possessão da Sombra)...</i>
 
 139
 00:11:51,345 --> 00:11:54,469
@@ -664,8 +666,8 @@ Achei vocês!
 
 152
 00:12:44,054 --> 00:12:47,183
-Tudo bem! Tudo bem!
-Vou trazer o Sasuke de volta, custe o que custar!
+Tudo bem! Tudo bem! Vou trazer
+o Sasuke de volta, custe o que custar!
 
 153
 00:12:47,475 --> 00:12:49,810
@@ -705,8 +707,8 @@ Não há o que fazer.
 
 161
 00:13:19,322 --> 00:13:22,492
-Lutar no segundo estágio
-esgota o corpo rapidamente.
+Lutar no Estado 2
+esgota muito o corpo.
 
 162
 00:13:23,260 --> 00:13:24,220
@@ -882,7 +884,7 @@ Legal! Kiba, Shikamaru!
 
 202
 00:16:43,460 --> 00:16:45,379
-Jutsu de Possessão da Sombra conseguiu!
+Kagemane no Jutsu, sucesso!
 
 203
 00:16:46,046 --> 00:16:49,717
@@ -908,11 +910,12 @@ Eu também tenho este tipo de habilidade.
 
 208
 00:17:04,314 --> 00:17:05,983
-<i>Barreira de Estilo Terra:</i>
+<i>Barreira Doton (Estilo Terra):</i>
 
 209
 00:17:07,818 --> 00:17:09,486
-<i>Domo de Terra Prisional!</i>
+<i>Doton Kekkai: Doro Dōmu!
+(Prisão da Cúpula de Terra)</i>
 
 210
 00:17:19,738 --> 00:17:23,951
@@ -942,7 +945,7 @@ Fique quieto, Naruto!
 
 216
 00:17:51,653 --> 00:17:52,738
-<i>Fangue de Túnel!</i>
+<i>Gatsūga! (Presa sobre Presa)</i>
 
 217
 00:18:10,805 --> 00:18:12,974
@@ -962,7 +965,7 @@ Nos solte!
 
 221
 00:18:23,018 --> 00:18:23,950
-<i>!</i>
+<i>Byakugan!</i>
 
 222
 00:18:31,944 --> 00:18:33,112
@@ -1031,16 +1034,16 @@ Akamaru!
 236
 00:20:43,700 --> 00:20:45,869
 Akamaru!
-<i>Ninjutsu: Imitação Humana</i>
+<i>Ninpō: Imitação Homem-Fera</i>
 
 237
 00:20:47,788 --> 00:20:49,790
 <i>E para mim,
-Ninjutsu: Imitação de Fera</i>
+Ninpō: Imitação Fera-Homem</i>
 
 238
 00:21:04,148 --> 00:21:05,316
-<i>Dentes sobre Dente</i>
+<i>Gatsūga!</i>
 
 239
 00:21:12,419 --> 00:21:14,421
@@ -1105,7 +1108,7 @@ que interessante...
 252
 00:23:17,098 --> 00:23:22,270
 Mas vocês são minha presa,
-Eu não posso deixar você sair.
+eu não posso deixar você sair.
 
 253
 00:23:23,271 --> 00:23:28,198
@@ -1147,8 +1150,8 @@ o único implorando pela sua vida!
 
 262
 00:24:00,062 --> 00:24:04,733
-Você realmente vê a verdadeira natureza de um humano
-quando alguém é levado à beira da morte.
+Você realmente vê a verdadeira natureza de um
+humano quando alguém é levado à beira da morte.
 
 263
 00:24:05,391 --> 00:24:07,170
@@ -1269,7 +1272,7 @@ S-Sim...
 
 289
 00:25:42,832 --> 00:25:43,875
-<i>Técnica do Canino Tunelante!</i>
+<i>Gatsūga!</i>
 
 290
 00:25:48,797 --> 00:25:51,967
@@ -1311,7 +1314,7 @@ O que está acontecendo?!
 299
 00:26:37,929 --> 00:26:42,726
 Como eu disse antes,
-A superfície da parede é plantada com chakra.
+a superfície da parede é plantada com chakra.
 
 300
 00:26:43,857 --> 00:26:49,958
@@ -1332,8 +1335,8 @@ Pense no que aconteceu antes.
 
 304
 00:27:01,010 --> 00:27:04,222
-Porque ele percebeu que
-Houve áreas que se restauraram rapidamente
+Ele percebeu que
+algumas áreas se reparavam rápido
 
 305
 00:27:04,347 --> 00:27:07,225
@@ -1346,8 +1349,8 @@ a superfície da parede.
 
 307
 00:27:14,232 --> 00:27:17,068
-Em outras palavras, ele supôs que
-aquelas áreas que não se restauraram rapidamente
+Em outras palavras, ele supôs que aquelas
+áreas que não se restauraram rapidamente
 
 308
 00:27:17,093 --> 00:27:18,637
@@ -1402,7 +1405,7 @@ Estou contando com você, Choji.
 
 319
 00:28:01,262 --> 00:28:02,972
-<i>Jutsu de Expansão!</i>
+<i>Baika no Jutsu! (Jutsu de Expansão)</i>
 
 320
 00:28:04,066 --> 00:28:06,402
@@ -1410,7 +1413,7 @@ Certo, vamos!
 
 321
 00:28:13,817 --> 00:28:15,819
-<i>Rocha Humana!</i>
+<i>Nikudan Sensha! (Rocha Humana)</i>
 
 322
 00:28:39,551 --> 00:28:40,218
@@ -1460,7 +1463,8 @@ Nós conseguimos!
 
 333
 00:29:50,872 --> 00:29:53,249
-<i>Espaço Estilo Terra: Esfera das Covas!</i>
+<i>Doton: Kaido Shōkutsu!
+(Estilo Terra: Esfera de Sepulturas)</i>
 
 334
 00:29:53,374 --> 00:29:54,501
@@ -1490,7 +1494,7 @@ Eu vou me livrar dele por vocês!
 
 340
 00:30:26,574 --> 00:30:29,661
-<i>Jutsu de Expansão ! Rocha Humana!</i>
+<i>Baika no Jutsu! Nikudan Sensha!</i>
 
 341
 00:30:32,497 --> 00:30:34,165
@@ -1765,11 +1769,11 @@ não importa o que, Choji.</i>
 
 403
 00:35:27,375 --> 00:35:28,626
-<i>Jutsu de Expansão !</i>
+<i>Baika no Jutsu!</i>
 
 404
 00:35:37,635 --> 00:35:40,221
-<i>Humano Rochoso Espinhoso!</i>
+<i>Hari Nikudan Sensha! (Rocha Humana Espinhosa)</i>
 
 405
 00:35:49,856 --> 00:35:52,066
@@ -1782,7 +1786,8 @@ e o poder destrutivo</i>
 
 407
 00:36:00,070 --> 00:36:02,364
-<i>Estilo Terra: Escudo de Terra!</i>
+<i>Doton: Doroku Gaeshi!
+(Estilo Terra: Escudo de Terra)</i>
 
 408
 00:36:10,126 --> 00:36:11,043
@@ -1794,7 +1799,7 @@ Não se empolgue, perdedor!
 
 410
 00:36:35,661 --> 00:36:37,301
-<i>Palma Quebradora!</i>
+<i>Hōshō! (Palma Esmagadora)</i>
 
 411
 00:36:48,340 --> 00:36:49,578
@@ -1945,7 +1950,7 @@ Não é VOCÊ quem vai dizer isso!
 
 445
 00:39:58,896 --> 00:40:00,981
-<i>Jutsu de Expansão Parcial:</i>
+<i>Bubun Baika</i>
 
 446
 00:40:02,733 --> 00:40:03,442
@@ -1953,7 +1958,7 @@ Não é VOCÊ quem vai dizer isso!
 
 447
 00:40:10,282 --> 00:40:11,818
-<i>Jutsu de Expansão Parcial:</i>
+<i>Bubun Baika</i>
 
 448
 00:40:14,418 --> 00:40:15,336
@@ -1961,7 +1966,7 @@ Não é VOCÊ quem vai dizer isso!
 
 449
 00:40:16,522 --> 00:40:18,107
-<i>Jutsu de Expansão Parcial:</i>
+<i>Bubun Baika</i>
 
 450
 00:40:18,210 --> 00:40:18,753
@@ -1981,7 +1986,7 @@ O quê!
 
 454
 00:40:41,678 --> 00:40:44,029
-<i>Jutsu de Super Expansão!</i>
+<i>Chō Baika no Jutsu! (Jutsu de Super Expansão)</i>
 
 455
 00:40:58,038 --> 00:41:00,309
@@ -1993,8 +1998,8 @@ O quê!
 
 457
 00:41:08,632 --> 00:41:11,010
-Não consigo acreditar que tive que chegar
-ao segundo estado
+Não acredito que tive que usar
+o Estado 2
 
 458
 00:41:11,061 --> 00:41:13,814
@@ -2002,7 +2007,7 @@ para enfrentar um oponente como este...
 
 459
 00:41:17,936 --> 00:41:19,604
-<i>Palmada Atordoante</i>
+<i>Hōshō</i>
 
 460
 00:41:39,580 --> 00:41:42,124
@@ -2014,8 +2019,8 @@ Agora que chegou a este ponto, acabou.
 
 462
 00:41:45,722 --> 00:41:49,726
-No segundo estado, posso liberar dez vezes
-mais poder do que tenho até agora.
+No Estado 2, eu libero dez vezes
+mais poder do que antes.
 
 463
 00:41:49,780 --> 00:41:51,156
@@ -2105,7 +2110,7 @@ comigo...
 483
 00:43:41,087 --> 00:43:44,716
 Eu preciso de muito chakra
-para este segundo estado.
+para o Estado 2.
 
 484
 00:43:45,122 --> 00:43:48,917
@@ -2152,11 +2157,13 @@ usado como um peão sacrificial.
 
 494
 00:44:45,808 --> 00:44:50,562
-Morra... seu gordo miserável, o estranho do grupo.
+Morra... seu gordo patético,
+você é só o que sobrou.
 
 495
 00:44:51,540 --> 00:44:54,149
-<i>Não vou deixar você brincar de ninja com a gente!</i>
+<i>Não vou deixar você brincar</i>
+<i>de ninja com a gente!</i>
 
 496
 00:44:54,900 --> 00:44:56,151
@@ -2201,7 +2208,8 @@ Anda logo, vamos fazer isso!
 
 505
 00:45:26,014 --> 00:45:28,392
-Se estiver tudo bem para você, então está tudo certo...
+Se estiver tudo bem para você,
+então está tudo certo...
 
 506
 00:45:29,101 --> 00:45:30,142
@@ -2309,7 +2317,7 @@ Você pode ver bem as nuvens.
 
 530
 00:47:34,871 --> 00:47:36,061
-Por que você não...
+Por que você não...?
 
 531
 00:47:36,103 --> 00:47:36,854
@@ -2393,7 +2401,7 @@ já é tarde demais!
 
 549
 00:49:00,969 --> 00:49:02,002
-<i>Palma Esmagadora!</i>
+<i>Hōshō!</i>
 
 550
 00:49:28,173 --> 00:49:30,384
@@ -2427,8 +2435,8 @@ contra outra pessoa.
 
 557
 00:49:55,492 --> 00:50:01,206
-O golpe agora há pouco...
-foi por ter comido a última mordida do meu lanche..
+O golpe de agora há pouco...
+foi por comer o meu último salgadinho...
 
 558
 00:50:01,850 --> 00:50:02,601
@@ -2636,7 +2644,8 @@ Hum, entendi.
 
 606
 00:56:34,430 --> 00:56:35,746
-<i>Arte Ninja: Rede de Teia de Aranha</i>
+<i>Ninpō: Kumo Shibari
+(Arte Ninja: Rede de Teia de Aranha)</i>
 
 607
 00:56:43,576 --> 00:56:45,570
@@ -2644,11 +2653,12 @@ Você!
 
 608
 00:56:51,840 --> 00:56:53,308
-<i>Arte Ninja: Teia de Aranha em Espiral</i>
+<i>Ninpō: Kumo Sōkai
+(Arte Ninja: Teia de Aranha em Espiral)</i>
 
 609
 00:56:58,341 --> 00:56:59,180
-<i>Quebra Dente Sobre Dente!</i>
+<i>Gatsūga!</i>
 
 610
 00:57:06,621 --> 00:57:07,775
@@ -2724,7 +2734,8 @@ não se quebraria.
 
 627
 00:58:35,980 --> 00:58:38,076
-Clone das Sombras... Interessante.
+Kage Bunshin (Clone das
+Sombras)... Interessante.
 
 628
 00:58:50,619 --> 00:58:52,173
@@ -2764,8 +2775,8 @@ O nível do jutsu é irreal.</i>
 
 636
 00:59:38,501 --> 00:59:40,147
-<i>Ninjutsu:
-Fio de Aranha Estilo Chiclete</i>
+<i>Ninpō: Kumo Nenkin
+(Arte Ninja: Ouro Pegajoso de Aranha)</i>
 
 637
 00:59:41,973 --> 00:59:44,361
@@ -2878,8 +2889,7 @@ Uma substância feita de chakra...
 
 662
 01:02:12,488 --> 01:02:14,334
-Não faz sentido na frente
-do Punho Suave
+não têm efeito contra o Jūken (Punho Gentil)
 
 663
 01:02:14,614 --> 01:02:16,579
@@ -3041,11 +3051,11 @@ com chakra passando por ele e ataca.
 
 699
 01:06:06,879 --> 01:06:10,695
-Entendi, ouvi do Lorde Orochimaru...
+Entendi, ouvi do Senhor Orochimaru...
 
 700
 01:06:11,039 --> 01:06:13,386
-Isto é o Punho Gentil, não é?
+Isto é o Jūken, não é?
 
 701
 01:06:16,148 --> 01:06:19,036
@@ -3076,8 +3086,7 @@ mas já estou cansado de você.
 
 707
 01:06:52,309 --> 01:06:53,736
-<i>Ninja Arte:
-Estilo Chicote de Teia de Aranha</i>
+<i>Ninpō: Kumo Nenkin</i>
 
 708
 01:07:09,451 --> 01:07:10,081
@@ -3106,7 +3115,8 @@ E é fim de jogo.
 
 714
 01:07:44,444 --> 01:07:49,043
-<i>Punho Gentil: 8 Trigramas, 64 Palmas!</i>
+<i>Jūken-hō: Hakke Rokujūyonshō!
+(Punho Gentil: 8 Trigramas, 64 Palmas)</i>
 
 715
 01:07:50,534 --> 01:07:51,170
@@ -3155,8 +3165,8 @@ Isso foi por pouco.
 
 726
 01:09:19,164 --> 01:09:21,051
-Ouvi dizer que se você for atingido diretamente
-pelo Punho Gentil,
+Dizem que quem é atingido em cheio
+pelo Jūken,
 
 727
 01:09:21,333 --> 01:09:22,553
@@ -3214,8 +3224,8 @@ Agora faz sentido...</i>
 
 739
 01:10:10,873 --> 01:10:13,763
-<i>E não haverá combate corpo a corpo
-contra o Punho Suave.</i>
+<i>E não vai haver combate corpo a corpo
+contra o Jūken.</i>
 
 740
 01:10:14,428 --> 01:10:15,397
@@ -3310,8 +3320,8 @@ Também vou lutar a sério...
 
 761
 01:12:45,328 --> 01:12:47,591
-<i>É como se ele fosse uma pessoa totalmente diferente
-de antes...</i>
+<i>É como se ele fosse uma pessoa
+totalmente diferente de antes...</i>
 
 762
 01:12:48,498 --> 01:12:50,386
@@ -3342,7 +3352,7 @@ escondido nas sombras.</i>
 768
 01:13:12,082 --> 01:13:14,539
 <i>ele combina um amplo campo de visão
-com a capacidade de enxergar através de objetos.</i>
+com a capacidade de ver através de objetos.</i>
 
 769
 01:13:15,692 --> 01:13:17,955
@@ -3354,7 +3364,7 @@ com a capacidade de enxergar através de objetos.</i>
 
 771
 01:13:24,572 --> 01:13:25,733
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu! (Jutsu de Invocação)</i>
 
 772
 01:13:41,053 --> 01:13:43,524
@@ -3398,7 +3408,7 @@ certa e repeliu a kunai!</i>
 
 781
 01:14:46,305 --> 01:14:47,601
-<i>Quem diria que ele pararia minha Rotação de chakra</i>
+<i>E pensar que ele pararia a minha Rotação</i>
 
 782
 01:14:47,904 --> 01:14:49,831
@@ -3433,12 +3443,12 @@ se eu lutar com ele de longe.</i>
 
 789
 01:15:11,023 --> 01:15:14,286
-<i>Dessa forma...
-Vou ter um bom e longo olhar sobre sua habilidade.</i>
+<i>Assim...
+vou observar bem a sua habilidade.</i>
 
 790
 01:15:44,137 --> 01:15:46,776
-<i>8 Trigramas, 64 Palmas!</i>
+<i>Hakke Rokujūyonshō! (8 Trigramas, 64 Palmas)</i>
 
 791
 01:15:55,057 --> 01:15:55,943
@@ -3525,8 +3535,8 @@ as facas kunai</i>
 
 809
 01:17:59,410 --> 01:18:04,718
-<i>que entrou aproximadamente
-150 pés de circunferência ao seu redor.</i>
+<i>que entrou num raio de 50 metros
+ao redor dele.</i>
 
 810
 01:18:07,358 --> 01:18:08,638
@@ -3591,7 +3601,7 @@ Você não pode me vencer!
 
 824
 01:20:07,854 --> 01:20:08,484
-<i>Punho gentil!</i>
+<i>Jūken!</i>
 
 825
 01:20:18,615 --> 01:20:22,754
@@ -3609,8 +3619,8 @@ me diverti...</i>
 
 828
 01:21:10,819 --> 01:21:15,668
-<i>E ele não morreria facilmente de
-facas kunai a 45 metros de distância, né?</i>
+<i>Acho que ele não morreria tão fácil
+com uma kunai a 50 metros.</i>
 
 829
 01:21:18,683 --> 01:21:22,281
@@ -3775,8 +3785,8 @@ com uma flecha.</i>
 
 865
 01:24:38,920 --> 01:24:41,475
-<i>O Punho Suave é inútil sem
-se aproximar do inimigo.</i>
+<i>O Jūken não serve de nada
+se você não se aproximar do inimigo.</i>
 
 866
 01:24:42,123 --> 01:24:46,554
@@ -3832,8 +3842,8 @@ a trajetória seja desviada.</i>
 
 878
 01:25:54,273 --> 01:25:57,554
-<i>Vou controlar a flecha até ela ficar
-a cerca de 45 metros dele</i>
+<i>Vou controlar a flecha até
+uns 45 metros dele</i>
 
 879
 01:25:57,579 --> 01:25:59,503
@@ -3903,7 +3913,7 @@ com 120% de precisão.</i>
 
 894
 01:27:31,102 --> 01:27:31,897
-<i>Punho Gentil!</i>
+<i>Jūken!</i>
 
 895
 01:27:53,230 --> 01:27:56,035
@@ -3920,11 +3930,11 @@ deveria ter matado.</i>
 
 898
 01:28:03,424 --> 01:28:05,353
-<i>É inútil contra o Punho Gentil.</i>
+<i>não têm efeito contra o Jūken.</i>
 
 899
 01:28:06,850 --> 01:28:07,819
-<i>Punho Gentil...</i>
+<i>Jūken...</i>
 
 900
 01:28:08,137 --> 01:28:09,282
@@ -4066,7 +4076,8 @@ você é o mais forte que eu já enfrentei...
 
 932
 01:30:56,633 --> 01:30:59,978
-Mas, há uma razão pela qual eu não posso perder.
+Mas, há uma razão pela
+qual eu não posso perder.
 
 933
 01:31:02,608 --> 01:31:09,396
@@ -4075,8 +4086,8 @@ o mais forte disse isso para mim...
 
 934
 01:31:12,862 --> 01:31:16,690
-<i>- Ao contrário de mim... você não é um fracasso!</i>
-- "Ao contrário de mim... você não é um fracasso!"
+- <i>Ao contrário de mim... não é um fracasso.</i>
+- "Ao contrário de mim... não é um fracasso."
 
 935
 01:31:18,452 --> 01:31:19,339
@@ -4157,4 +4168,3 @@ desde Kimimaro.</i>
 952
 01:32:43,345 --> 01:32:45,327
 <i>Droga...</i>
-

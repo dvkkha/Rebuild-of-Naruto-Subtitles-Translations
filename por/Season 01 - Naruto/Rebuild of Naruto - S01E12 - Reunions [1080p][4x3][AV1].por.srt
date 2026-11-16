@@ -39,7 +39,7 @@ Bem, sim, esta é minha pesquisa.
 
 10
 00:02:03,665 --> 00:02:06,251
-Velho Homura e Sensei Koharu, hein?
+Velho Homura e Koharu-sensei, hein?
 
 11
 00:02:07,752 --> 00:02:10,839
@@ -73,7 +73,7 @@ Aquele Orochimaru!
 
 18
 00:02:48,543 --> 00:02:50,295
-Após o assassinato do Lorde Kazekage,
+Após o assassinato do Senhor Kazekage,
 
 19
 00:02:50,937 --> 00:02:54,983
@@ -204,8 +204,8 @@ Sob estas condições,
 
 47
 00:04:49,247 --> 00:04:54,085
-nossa principal prioridade deve ser nos preparar
-para qualquer crise inesperada.
+nossa principal prioridade deve ser nos
+preparar para qualquer crise inesperada.
 
 48
 00:04:54,751 --> 00:04:57,146
@@ -321,8 +321,8 @@ Mas...
 
 73
 00:06:25,718 --> 00:06:30,360
-Uma pessoa experiente como a Tsunade
-é muito mais adequada para ser Hokage do que eu.
+Alguém sábio como a Tsunade é melhor para ser
+Hokage que um desmotivado como eu.
 
 74
 00:06:33,007 --> 00:06:34,175
@@ -529,12 +529,12 @@ Eu sou Kisame Hoshigaki.
 
 121
 00:09:53,259 --> 00:09:55,177
-Daqui em diante, espero estar familiarizado com você.
+Espero que a gente se conheça melhor.
 
 122
 00:09:57,448 --> 00:10:02,203
 Deixa para depois,
-Eu vou te bater agora!
+eu vou te bater agora!
 
 123
 00:10:02,643 --> 00:10:03,811
@@ -570,7 +570,7 @@ na lista de procurados em todas as nações.
 
 130
 00:10:22,014 --> 00:10:26,686
-Você é um criminoso de alto nível classe S
+Você é um criminoso de Rank S
 listado no Livro Bingo.
 
 131
@@ -659,7 +659,7 @@ Para você.
 
 151
 00:13:07,453 --> 00:13:08,453
-<i>Estilo Água!</i>
+<i>Suiton:</i>
 
 152
 00:13:13,834 --> 00:13:15,834
@@ -708,8 +708,8 @@ apenas por precaução.</i>
 
 162
 00:13:49,620 --> 00:13:53,290
-Isto é uma surpresa...
-Não é de se admirar que você tenha copiado meu jutsu...
+Que surpresa...
+Então foi assim que você copiou meu jutsu.
 
 163
 00:13:54,330 --> 00:13:58,542
@@ -751,7 +751,7 @@ Entendo. Você é um dos
 
 171
 00:14:26,907 --> 00:14:29,493
-Essa espada enorme é a "Pele de Tubarão", certo
+Essa espada enorme é a Samehada, certo?
 
 172
 00:14:31,992 --> 00:14:35,955
@@ -792,7 +792,7 @@ Você não veio aqui para se machucar!
 
 180
 00:15:08,490 --> 00:15:11,368
-Então diga qual é o seu objetivo.
+Então me diga qual é esse objetivo?
 
 181
 00:15:14,204 --> 00:15:16,415
@@ -810,7 +810,8 @@ não vou perder tempo.
 
 184
 00:15:36,900 --> 00:15:38,610
-<i>Estilo Água: Muralha de Água!</i>
+<i>Suiton: Suijinheki!
+(Estilo Água: Muralha de Água)</i>
 
 185
 00:15:47,530 --> 00:15:51,159
@@ -824,8 +825,8 @@ era uma distração...</i>
 
 187
 00:15:54,411 --> 00:15:56,891
-<i>para usar um Jutsu de Estilo Água e atacar
-por baixo dos meus pés...</i>
+<i>usar um jutsu Suiton (Estilo Água)
+para me atacar por baixo...</i>
 
 188
 00:15:57,665 --> 00:15:59,541
@@ -837,12 +838,12 @@ Sua capacidade de análise... é impressionante.
 
 190
 00:16:04,755 --> 00:16:07,508
-Um Clone das Sombras?!
-Ele executa os jutsus rápido demais!
+Um Kage Bunshin?! (Clone das Sombras)
+Ele faz os jutsus rápido demais!
 
 191
 00:16:10,761 --> 00:16:11,929
-<i>Um Clone de Água?!</i>
+<i>Um Mizu Bunshin?! (Clone de Água)</i>
 
 192
 00:16:14,067 --> 00:16:17,904
@@ -859,7 +860,7 @@ Abaixe-se, Kurenai!
 
 195
 00:16:25,067 --> 00:16:26,443
-Este é o Clone das Sombras...
+Este é o Kage Bunshin...
 
 196
 00:16:26,568 --> 00:16:27,568
@@ -871,8 +872,7 @@ Kakashi! Kurenai!
 
 198
 00:16:31,824 --> 00:16:34,034
-<i>Ele fez o corpo do Clone
-das Sombras explodir?!</i>
+<i>Ele fez o Kage Bunshin explodir?!</i>
 
 199
 00:16:40,874 --> 00:16:41,874
@@ -931,16 +931,17 @@ absolutamente não abra os olhos...
 
 211
 00:17:26,754 --> 00:17:28,505
-Está tudo acabado agora se seus olhos se encontrarem.
+Está tudo acabado agora se
+seus olhos se encontrarem.
 
 212
 00:17:28,881 --> 00:17:32,468
-Apenas pessoas com Sharingan
-pode tentar com essa técnica.
+Só quem tem o Sharingan
+consegue enfrentar essa técnica.
 
 213
 00:17:32,951 --> 00:17:35,078
-De fato, com Sharingan,
+De fato, com o Sharingan,
 
 214
 00:17:35,442 --> 00:17:38,653
@@ -953,11 +954,11 @@ No entanto...
 
 216
 00:17:42,786 --> 00:17:45,289
-este jutsu visual especial do Sharingan,
+este jutsu ocular especial do Sharingan,
 
 217
 00:17:45,770 --> 00:17:48,523
-<i>Genjutsu: Tsukuyomi, Reino do Pesadelo,</i>
+o genjutsu Tsukuyomi
 é inquebrável.
 
 218
@@ -967,8 +968,8 @@ A única pessoa que pode me derrubar
 
 219
 00:17:51,279 --> 00:17:54,032
-usando o mesmo kekkei genkai,
-um usuário de Sharingan...
+usando o mesmo Kekkei Genkai,
+outro usuário do Sharingan...
 
 220
 00:17:56,325 --> 00:17:57,451
@@ -977,7 +978,7 @@ um usuário de Sharingan...
 221
 00:18:15,094 --> 00:18:19,181
 <i>Até quando você vai aguentar
-sem o kekkei genkai?</i>
+sem o Kekkei Genkai?</i>
 
 222
 00:18:23,977 --> 00:18:25,604
@@ -998,7 +999,7 @@ Eu controlo tudo.</i>
 
 226
 00:18:40,246 --> 00:18:42,665
-<i>vou continuar atravessando você com estas espadas.</i>
+<i>Vou te atravessar com espadas sem parar.</i>
 
 227
 00:18:57,636 --> 00:18:58,846
@@ -1033,7 +1034,8 @@ um momento no mundo real, hein...</i>
 
 234
 00:19:23,954 --> 00:19:26,123
-<i>Ele poderia facilmente fazer isso, se quisesse...</i>
+<i>Ele poderia facilmente</i>
+<i>fazer isso, se quisesse...</i>
 
 235
 00:19:27,093 --> 00:19:31,640
@@ -1149,7 +1151,7 @@ qualquer movimento drástico
 
 260
 00:21:12,187 --> 00:21:14,504
-exceto algumas atividades secretas e misteriosas.
+fora algumas atividades secretas.
 
 261
 00:21:14,529 --> 00:21:16,729
@@ -1163,7 +1165,7 @@ no Livro Bingo,
 
 263
 00:21:20,766 --> 00:21:24,793
-todos os criminosos desviantes de classe S.
+todos os criminosos desviantes de Rank S.
 
 264
 00:21:26,118 --> 00:21:29,663
@@ -1195,7 +1197,7 @@ em pares reunindo jutsu e coisas.
 270
 00:21:49,367 --> 00:21:52,454
 Há alguma prova de que uma daquelas
-coisas seja a Raposa de Nove Caudas?
+coisas seja a Nove-Caudas?
 
 271
 00:21:53,353 --> 00:21:55,981
@@ -1222,7 +1224,7 @@ seus olhos em Sasuke.
 276
 00:22:12,205 --> 00:22:15,125
 É necessário que você o ensine
-como usar seu Sharingan.
+a usar o Sharingan dele.
 
 277
 00:22:16,293 --> 00:22:19,921
@@ -1230,7 +1232,7 @@ Eu cuidarei do Naruto por um tempo.
 
 278
 00:22:22,798 --> 00:22:27,344
-A Raposa de Nove Caudas dentro de Naruto
+A Nove-Caudas dentro de Naruto
 é seu alvo?
 
 279
@@ -1254,7 +1256,7 @@ Apague os outros dois.
 
 283
 00:22:53,750 --> 00:22:56,295
-<i>Furacão da Folha!</i>
+<i>Konoha Daisenpū! (Furacão Severo da Folha)</i>
 
 284
 00:23:07,052 --> 00:23:08,136
@@ -1309,7 +1311,7 @@ M-Mas...
 
 296
 00:23:55,100 --> 00:23:57,102
-Quando você batalha contra o Sharingan,
+Quando se luta com o Sharingan,
 
 297
 00:23:57,227 --> 00:23:59,271
@@ -1375,7 +1377,7 @@ Ok!
 311
 00:24:34,139 --> 00:24:38,143
 E até a chegada dos reforços da
-ANBU Black Ops que eu providenciei,
+aNBU Black Ops que eu providenciei,
 
 312
 00:24:38,852 --> 00:24:41,521
@@ -1405,7 +1407,7 @@ Estamos indo embora.
 
 318
 00:24:56,953 --> 00:24:59,748
-Que pena... Eu finalmente estava me sentindo motivado.
+Depois de virmos até aqui...
 
 319
 00:25:00,540 --> 00:25:02,375
@@ -1435,8 +1437,8 @@ Então temos que procurá-la primeiro.
 
 325
 00:25:23,647 --> 00:25:27,400
-Eu realmente não tenho tempo para acompanhar você
-na sua viagem de pesquisa pervertida!
+Eu realmente não tenho tempo para acompanhar
+você na sua viagem de pesquisa pervertida!
 
 326
 00:25:27,734 --> 00:25:29,540
@@ -1448,12 +1450,12 @@ Hm? Treinamento
 
 328
 00:25:31,488 --> 00:25:35,634
-Vou ter aulas com o Kakashi Sensei
-e aprender várias coisas, como Chidori
+Vou treinar com o Kakashi-sensei
+e aprender um monte de coisas, tipo o Chidori.
 
 329
 00:25:37,244 --> 00:25:40,247
-<i>Kakashi Sensei tem sido
+<i>Kakashi-sensei tem sido
 parcial ultimamente!</i>
 
 330
@@ -1489,8 +1491,8 @@ Bem, não tem jeito...
 
 337
 00:26:05,772 --> 00:26:09,943
-Ah, bem... Eu conheço jutsus mais incríveis
-do que Chidori, mas...
+Ah, bem... Eu sei um jutsu ainda
+mais incrível que o Chidori, mas...
 
 338
 00:26:11,579 --> 00:26:14,665
@@ -1524,8 +1526,8 @@ me ensinar desta vez?
 
 345
 00:26:49,147 --> 00:26:54,361
-Da última vez foi o Jutsu de Caminhar na Água,
-então será que vai ser o Jutsu de Caminhar no Fogo?
+Da última vez foi andar sobre a água,
+então desta vez é andar sobre o fogo?
 
 346
 00:26:55,113 --> 00:26:58,283
@@ -1570,8 +1572,8 @@ Eu sou o encantador de sapos de juba branca,
 
 356
 00:27:31,758 --> 00:27:35,545
-e um dos lendários Sannin que
-mesmo os seres celestiais não conseguem derrotar.
+um dos Sannin Lendários,
+invencível até para seres celestiais.
 
 357
 00:27:35,570 --> 00:27:36,738
@@ -1711,15 +1713,16 @@ morrer diante dos meus olhos outra vez...</i>
 387
 00:30:11,100 --> 00:30:17,732
 <i>Não importa o que,
-Eu vou te proteger!</i>
+eu vou te proteger!</i>
 
 388
 00:30:18,650 --> 00:30:21,110
-<i>Jutsu do Clone das Sombras Múltiplas!</i>
+<i>Tajū Kage Bunshin no Jutsu!
+(Jutsu de Múltiplos Clones das Sombras)</i>
 
 389
 00:30:27,951 --> 00:30:29,494
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu! (Jutsu de Invocação)</i>
 
 390
 00:30:39,254 --> 00:30:42,090
@@ -1748,8 +1751,8 @@ Ele está em um nível completamente diferente...
 
 396
 00:31:16,416 --> 00:31:19,919
-Se nós formos um contra o outro,
-ou seremos ambos mortos ou, no melhor dos casos,
+Se lutarmos, ou morremos os dois
+ou, na melhor das hipóteses,
 
 397
 00:31:20,176 --> 00:31:22,803
@@ -1819,7 +1822,8 @@ Por que Kakashi está dormindo?
 
 412
 00:32:30,118 --> 00:32:32,036
-Além disso, somente os jonin estão se reunindo aqui...
+Além disso, somente os jonin
+estão se reunindo aqui...
 
 413
 00:32:32,408 --> 00:32:34,953
@@ -1832,8 +1836,8 @@ Nada... em particular...
 
 415
 00:32:37,897 --> 00:32:40,024
-É verdade que isso
-Itachi voltou?!
+É verdade que
+o Itachi voltou?!
 
 416
 00:32:40,610 --> 00:32:42,529
@@ -1904,8 +1908,8 @@ Onde?!
 
 431
 00:33:33,513 --> 00:33:38,453
-Hmm... Acho que ele disse para uma estação de correios
-uma certa distância da vila...
+Hmm... Acho que ele falou de uma cidade
+de pousada a certa distância da vila...
 
 432
 00:33:40,776 --> 00:33:43,154
@@ -2132,12 +2136,12 @@ Sério...
 484
 00:37:11,312 --> 00:37:13,832
 Quem acreditaria em um garoto como você
-ter a Raposa de Nove Caudas dentro dele.
+ter a Nove-Caudas dentro dele.
 
 485
 00:37:16,490 --> 00:37:20,411
 <i>O que esse cara sabe
-sobre a Raposa de Nove Caudas?!</i>
+sobre a Nove-Caudas?!</i>
 
 486
 00:37:21,822 --> 00:37:24,700
@@ -2161,8 +2165,8 @@ Vamos lá fora...?
 
 491
 00:37:48,683 --> 00:37:52,144
-Itachi, vai ser um saco
-Se esse garoto se mexer e...
+Itachi, vai ser chato
+se esse garoto ficar correndo por aí...
 
 492
 00:37:52,728 --> 00:37:55,856
@@ -2324,7 +2328,8 @@ Tudo bem!
 
 530
 00:41:06,088 --> 00:41:09,884
-<i>Por quê? Eu não encurtei nem um pouco a distância entre nós.</i>
+<i>Por quê? Eu não diminuí
+a distância nem um pouco.</i>
 
 531
 00:41:10,596 --> 00:41:12,138
@@ -2346,7 +2351,7 @@ todo esse tempo?!</i>
 
 535
 00:41:35,075 --> 00:41:37,411
-<i>Afinal, o que foi que eu fiz…?</i>
+<i>Mas o quê...?</i>
 
 536
 00:41:43,855 --> 00:41:45,523
@@ -2354,7 +2359,7 @@ todo esse tempo?!</i>
 
 537
 00:41:46,825 --> 00:41:49,150
-<i>A partir de agora, por 24 horas…</i>
+<i>A partir de agora, por 24 horas...</i>
 
 538
 00:41:49,175 --> 00:41:51,052
@@ -2362,7 +2367,7 @@ todo esse tempo?!</i>
 
 539
 00:41:59,767 --> 00:42:01,393
-Isso é o suficiente…
+Isso é o suficiente...
 
 540
 00:42:01,543 --> 00:42:02,720
@@ -2370,11 +2375,12 @@ fora de você!
 
 541
 00:42:11,701 --> 00:42:14,245
-<i>Arte Ninja: Prisão da Boca do Sapo.</i>
+<i>Ninpō: Gamaguchi Shibari
+(Arte Ninja: Prisão da Boca do Sapo).</i>
 
 542
 00:42:15,036 --> 00:42:17,696
-Que pena, Itachi… Kisame.
+Que pena, Itachi... Kisame.
 
 543
 00:42:22,601 --> 00:42:25,312
@@ -2387,16 +2393,18 @@ do Sapo Gigante do Monte Myoboku.
 
 545
 00:42:30,089 --> 00:42:32,299
-Vocês são criminosos procurados de qualquer maneira.
+Vocês são criminosos
+procurados de qualquer maneira.
 
 546
 00:42:32,481 --> 00:42:35,609
-Eu vou simplesmente te alimentar para o sapo de pedra.
+Vou só dar vocês
+de comida para o Sapo de Pedra.
 
 547
 00:42:37,728 --> 00:42:41,356
 Você é fraco
-porque você não tem o suficiente…
+porque você não tem o suficiente...
 
 548
 00:42:42,410 --> 00:42:43,620
@@ -2466,7 +2474,7 @@ meu corpo em algum lugar por um tempo.
 563
 00:43:46,114 --> 00:43:48,867
 <i>mas ele também me fez
-usar Amaterasu também...</i>
+usar o Amaterasu...</i>
 
 564
 00:43:59,603 --> 00:44:01,438
@@ -2494,8 +2502,8 @@ Não chegue tão perto!
 
 570
 00:44:18,685 --> 00:44:22,606
-<i>O sapo de pedra que tem a capacidade
-de lançar fogo teve seus intestinos queimados...</i>
+<i>O Sapo de Pedra Cuspidor de Fogo
+teve a garganta queimada...</i>
 
 571
 00:44:26,789 --> 00:44:27,789
@@ -2507,7 +2515,8 @@ Certo!
 
 573
 00:44:38,300 --> 00:44:41,261
-<i>Jutsu de Selamento: Selo de Fogo!</i>
+<i>Fūinjutsu: Fūka Hōin!
+(Jutsu de Selamento: Selo de Fogo)</i>
 
 574
 00:45:09,204 --> 00:45:13,876
@@ -2543,7 +2552,8 @@ Bem... Eh...
 
 582
 00:46:08,861 --> 00:46:11,447
-Desculpe por ter te chutado de forma tão direta.
+Desculpe por ter te chutado
+de forma tão direta.
 
 583
 00:46:11,769 --> 00:46:14,688
@@ -2708,7 +2718,7 @@ ele vai recobrar a consciência.
 
 619
 00:48:22,600 --> 00:48:23,809
-Kakashi Sensei?!
+Kakashi-sensei?!
 
 620
 00:48:34,404 --> 00:48:36,657
@@ -2721,8 +2731,8 @@ do fundo do meu coração...
 
 622
 00:48:41,317 --> 00:48:46,447
-Se aquela pessoa,
-que é especialista em medicina, estivesse aqui...
+Se aquela especialista
+em medicina estivesse aqui...
 
 623
 00:48:47,607 --> 00:48:51,570
@@ -2771,7 +2781,7 @@ nossa sorte com isso!
 633
 00:49:38,892 --> 00:49:43,230
 A Princesa Tsunade, com
-o ideograma de “jogo” nas costas!
+o ideograma de "jogo" nas costas!
 
 634
 00:49:46,817 --> 00:49:50,153
@@ -2798,8 +2808,8 @@ e trazê-la imediatamente!
 
 639
 00:50:10,340 --> 00:50:15,595
-Naruto! Eu gosto de crianças com coragem como você!
-Vou te dar isso!
+Naruto! Eu gosto de crianças com
+coragem como você! Vou te dar isso!
 
 640
 00:50:17,066 --> 00:50:18,859
@@ -2824,8 +2834,8 @@ absorvem a umidade,
 
 645
 00:50:42,122 --> 00:50:46,460
-e perfeitamente projetadas para movimentos livres,
-tudo em um pacote bonito e estiloso.
+e perfeitamente projetadas para movimentos
+livres, tudo em um pacote bonito e estiloso.
 
 646
 00:50:46,788 --> 00:50:49,874
@@ -2883,7 +2893,8 @@ O que há de errado?
 
 658
 00:51:53,902 --> 00:51:59,074
-Sábio Tarado... Por que eles estão atrás de mim?
+Sábio Pervertido...
+Por que eles estão atrás de mim?
 
 659
 00:52:02,617 --> 00:52:05,871
@@ -2914,7 +2925,7 @@ Então por que eles querem isso tanto?
 
 665
 00:52:34,860 --> 00:52:36,795
-De fato, a Raposa de Nove Caudas
+De fato, a Nove-Caudas
 é um demônio
 
 666
@@ -2933,8 +2944,8 @@ um ato da natureza.
 
 669
 00:52:55,088 --> 00:52:58,091
-A razão pela qual eles querem aquela coisa...
-para qual propósito.
+Por que eles querem aquilo?
+Para quê?
 
 670
 00:52:58,656 --> 00:53:02,159
@@ -2942,7 +2953,7 @@ Honestamente, não consigo dizer bem.
 
 671
 00:53:04,238 --> 00:53:08,200
-A questão é que agora a Raposa de Nove Caudas
+A questão é que agora a Nove-Caudas
 está selada dentro de você...
 
 672
@@ -2970,12 +2981,13 @@ vou proteger
 
 677
 00:53:26,043 --> 00:53:29,547
-Então não há nada a fazer
-a não ser se apressar e ficar mais forte! Eu tenho que...
+É por isso que eu preciso
+ficar forte, e rápido!
 
 678
 00:53:31,750 --> 00:53:35,921
-Ok! Vamos encontrar essa pessoa chamada Tsunade,
+Ok! Vamos encontrar essa
+pessoa chamada Tsunade,
 
 679
 00:53:35,962 --> 00:53:39,299
@@ -3151,8 +3163,8 @@ Pato Sentado!
 
 719
 00:56:27,258 --> 00:56:31,513
-Sim! Mas não importa o quão famoso
-Pato Sentado Lendário é,
+Sim! Mas, por mais famosa
+que a Lendária Otária seja,
 
 720
 00:56:31,538 --> 00:56:33,999
@@ -3205,7 +3217,8 @@ apostar mais do que qualquer coisa
 
 731
 00:57:08,299 --> 00:57:11,219
-Mas ela tem uma sorte terrível e nenhuma habilidade.
+Mas ela tem uma sorte
+terrível e nenhuma habilidade.
 
 732
 00:57:13,012 --> 00:57:15,974
@@ -3214,8 +3227,8 @@ para o Sitting Duck e o nome pegou...
 
 733
 00:57:16,307 --> 00:57:19,310
-Então ela estava sempre pedindo dinheiro emprestado
-e também fugindo de suas dívidas...
+Então ela estava sempre pedindo dinheiro
+emprestado e também fugindo de suas dívidas...
 
 734
 00:57:21,521 --> 00:57:23,148
@@ -3273,7 +3286,8 @@ Ok!
 
 746
 00:58:03,823 --> 00:58:07,653
-Não, não... Eu te disse que isso definitivamente é ou
+Não, não... Eu te disse,
+esse olhar não é pra você.
 
 747
 00:58:07,901 --> 00:58:12,572
@@ -3282,7 +3296,7 @@ vestido assim.
 
 748
 00:58:18,203 --> 00:58:22,415
-Vamos lá, Sábio Tarado!
+Vamos lá, Sábio Pervertido!
 Vamos nos apressar e começar o treino!
 
 749
@@ -3420,8 +3434,8 @@ para mim, não tanto assim!
 
 779
 01:00:06,519 --> 01:00:11,941
-Sou menor de idade, então ainda não posso beber!
-E ainda não entendo muito bem essa história de mulheres!
+Eu sou menor de idade, não posso beber!
+E não entendo muito essa coisa de mulheres!
 
 780
 01:00:12,066 --> 01:00:13,943
@@ -3530,7 +3544,7 @@ com a máscara.
 
 803
 01:01:47,662 --> 01:01:49,706
-É o livro de poupança do Tesouro do Sábio Pervertido.
+É a caderneta de poupança do Sábio Pervertido.
 
 804
 01:01:50,748 --> 01:01:53,876
@@ -3639,7 +3653,7 @@ Eu sinto muito, p-por favor!
 827
 01:03:32,291 --> 01:03:35,794
 Você! Você!
-Você deixou minha carteira de sapinho toda achatada!
+Você achatou minha carteira de sapo!
 
 828
 01:03:36,854 --> 01:03:39,857
@@ -3786,7 +3800,8 @@ Eh?! Para que serve isso?!
 
 861
 01:05:44,816 --> 01:05:47,819
-Você viu aquele jutsu que eu acabei de usar, certo?
+Você viu aquele jutsu que
+eu acabei de usar, certo?
 
 862
 01:05:47,985 --> 01:05:49,320
@@ -3865,7 +3880,8 @@ do jutsu
 
 879
 01:06:37,528 --> 01:06:40,031
-uma vez que você dominar estes primeiros passos.
+uma vez que você dominar
+estes primeiros passos.
 
 880
 01:06:40,871 --> 01:06:43,040
@@ -3997,8 +4013,8 @@ Droga!
 
 910
 01:08:59,009 --> 01:09:02,930
-<i>Três dias se passaram desde
-Eu recebi a dica daquele Sábio Safado...</i>
+<i>Faz três dias que
+o Sábio Pervertido me deu aquela dica...</i>
 
 911
 01:09:03,764 --> 01:09:06,976
@@ -4044,8 +4060,8 @@ Ah, droga!
 
 921
 01:10:13,036 --> 01:10:17,958
-<i>Não há necessidade de aprender um sinal manual complicado!
-Tudo bem ser estúpido!</i>
+<i>Nada de sinais de mão complicados nesse!
+Não precisa ser gênio!</i>
 
 922
 01:10:19,192 --> 01:10:23,321
@@ -4063,7 +4079,7 @@ Ei! Esse não é o seu brinquedo...
 925
 01:10:58,045 --> 01:11:02,258
 Apressa-se e acorde!
-Ei, seu Sábio Tarado!
+Ei, seu Sábio Pervertido!
 
 926
 01:11:03,759 --> 01:11:05,886
@@ -4191,13 +4207,13 @@ me mostrou pela primeira vez como quebrá-lo...
 
 955
 01:13:04,608 --> 01:13:08,153
-Eu lembrei de como a superfície do balão de água
-não estava lisa.
+Eu lembrei de como a superfície
+do balão de água não estava lisa.
 
 956
 01:13:08,967 --> 01:13:11,737
 Até então,
-Eu sempre apenas girava a água
+eu sempre apenas girava a água
 
 957
 01:13:11,762 --> 01:13:13,639
@@ -4402,7 +4418,7 @@ Dinheiro!
 1001
 01:15:43,372 --> 01:15:46,291
 Q O que você quer dizer
-“Ser respeitável como um shinobi”?!
+"Ser respeitável como um shinobi"?!
 
 1002
 01:15:46,458 --> 01:15:49,002
@@ -4411,7 +4427,8 @@ você é um adulto sujo e ganancioso!
 
 1003
 01:15:49,127 --> 01:15:51,647
-Você não é um shinobi respeitável de jeito nenhum!
+Você não é um shinobi
+respeitável de jeito nenhum!
 
 1004
 01:16:05,615 --> 01:16:09,619
@@ -4746,7 +4763,7 @@ Então, o que é isto?
 1080
 01:22:04,961 --> 01:22:08,882
 Não é algo que
-Eu preciso explicar com detalhe,
+eu precise explicar em detalhes,
 
 1081
 01:22:09,234 --> 01:22:11,468
@@ -4867,7 +4884,7 @@ Ai, meu braço!
 
 1107
 01:23:46,329 --> 01:23:47,997
-Você está bem, Lorde Orochimaru?
+Você está bem, Senhor Orochimaru?
 
 1108
 01:23:48,545 --> 01:23:49,905
@@ -4880,7 +4897,7 @@ Oh, meu...
 1110
 01:24:11,171 --> 01:24:13,840
 Assim que eu voltar,
-Eu tenho que limpar o quarto.
+eu tenho que limpar o quarto.
 
 1111
 01:24:14,841 --> 01:24:16,926
@@ -5044,7 +5061,7 @@ Até mais.
 
 1148
 01:28:47,739 --> 01:28:52,744
-Humph... vou esquecer aquele Sábio Tarado
+Humph... vou esquecer aquele Sábio Pervertido
 e trabalhar duro sozinho.
 
 1149
@@ -5100,7 +5117,7 @@ Graças àquela senhora.
 1161
 01:29:34,243 --> 01:29:36,954
 <i>É... você é de fato
-A Azarada Lendária.</i>
+a Azarada Lendária.</i>
 
 1162
 01:29:37,955 --> 01:29:40,708
@@ -5151,7 +5168,7 @@ como uma enchente.
 
 1173
 01:30:18,496 --> 01:30:21,749
-Lady Tsunade, uma coisa rara acontece
+Senhora Tsunade, uma coisa rara acontece
 de vez em quando.
 
 1174
@@ -5165,7 +5182,7 @@ de vez em quando.
 1176
 01:30:32,176 --> 01:30:35,680
 Também tenho algum conhecimento
-sobre Lady Tsunade...
+sobre Senhora Tsunade...
 
 1177
 01:30:36,264 --> 01:30:38,474
@@ -5193,8 +5210,8 @@ nem mesmo habilidades médicas de emergência,
 
 1182
 01:30:55,941 --> 01:31:00,112
-o que aconteceria com eles em um campo de batalha
-é mais do que óbvio.
+o que aconteceria com eles em um campo
+de batalha é mais do que óbvio.
 
 1183
 01:31:03,251 --> 01:31:05,503
@@ -5264,8 +5281,8 @@ Estou com fome.
 
 1198
 01:32:40,139 --> 01:32:42,683
-Sensei, se for uma bronca,
-faça rápido.
+Sensei, se vai nos dar bronca,
+dá pra ser rápido?
 
 1199
 01:32:44,392 --> 01:32:47,013
@@ -5295,8 +5312,8 @@ Vocês vão fazer daqui pra frente
 
 1205
 01:33:02,643 --> 01:33:04,436
-o que os predecessores da
-Vila da Folha
+o que os shinobi do passado
+da Vila da Folha
 
 1206
 01:33:04,766 --> 01:33:07,018
@@ -5352,8 +5369,8 @@ Eu não estou inventando isso!
 
 1217
 01:33:37,671 --> 01:33:40,131
-De qualquer forma, você realmente pode se tornar
-um grande ninja
+De qualquer forma, você pode mesmo
+se tornar um grande ninja
 
 1218
 01:33:40,156 --> 01:33:41,789
@@ -5396,7 +5413,7 @@ Isso é a mesma coisa.
 1227
 01:34:10,018 --> 01:34:14,231
 Eu deveria ter prestado mais atenção
-ao que Iruka Sensei estava dizendo...
+ao que Iruka-sensei estava dizendo...
 
 1228
 01:34:15,552 --> 01:34:16,887
@@ -5436,7 +5453,8 @@ e sair desta cidade.
 
 1236
 01:34:59,652 --> 01:35:02,113
-Lady Tsunade, por favor olhe com mais atenção..
+Senhora Tsunade, por favor,
+olhe com mais atenção...
 
 1237
 01:35:02,138 --> 01:35:04,369
@@ -5444,7 +5462,7 @@ Não custa nada ver.
 
 1238
 01:35:08,705 --> 01:35:09,705
-Lady Tsunade?
+Senhora Tsunade?
 
 1239
 01:35:12,957 --> 01:35:15,126
@@ -5478,7 +5496,7 @@ estar completo.
 
 1246
 01:36:49,136 --> 01:36:52,306
-Rápido... o terceiro passo.
+Rápido... Qual é o terceiro passo?
 
 1247
 01:36:52,681 --> 01:36:54,266
@@ -5499,4 +5517,3 @@ Orochimaru.
 1251
 01:37:23,337 --> 01:37:25,089
 Eu te encontrei.
-

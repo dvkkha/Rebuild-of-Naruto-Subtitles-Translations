@@ -40,7 +40,7 @@ Puxa...
 
 10
 00:00:33,074 --> 00:00:34,409
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu! (Jutsu de Invocação)</i>
 
 11
 00:00:46,615 --> 00:00:48,915
@@ -49,8 +49,8 @@ espalhem em todas as direções
 
 12
 00:00:49,462 --> 00:00:50,978
-em perseguição a
-Naruto e o cheiro de Sasuke.
+e seguir o cheiro
+do Naruto e do Sasuke.
 
 13
 00:00:51,760 --> 00:00:54,054
@@ -140,7 +140,7 @@ vou pedir em toda a minha vida...</i>
 
 32
 00:04:28,793 --> 00:04:33,048
-<i>Por favor... Por favor, traga o Sasuke de volta!</i>
+<i>Por favor... traga o Sasuke de volta.</i>
 
 33
 00:04:36,776 --> 00:04:38,903
@@ -170,7 +170,8 @@ corpo se moveu sozinho.</i>
 
 39
 00:05:18,818 --> 00:05:22,572
-<i>Você resgata a Sakura, não importa o que aconteça!</i>
+<i>Você resgata a Sakura,</i>
+<i>não importa o que aconteça!</i>
 
 40
 00:05:23,286 --> 00:05:25,872
@@ -248,7 +249,7 @@ vidas vir depois de você, sabe!
 
 57
 00:06:43,694 --> 00:06:45,279
-Bom trabalho para eles.
+E daí?
 
 58
 00:06:59,335 --> 00:07:02,588
@@ -280,8 +281,8 @@ resgatá-lo arriscando nossas vidas.</i>
 
 64
 00:07:31,409 --> 00:07:35,788
-O que seus companheiros da
-Folha significam para você?!
+O que os seus companheiros da Folha
+significam para você?!
 
 65
 00:07:58,895 --> 00:08:00,966
@@ -386,8 +387,8 @@ suas circunstâncias.
 
 88
 00:10:34,383 --> 00:10:39,472
-<i>Se for assim agora... Se eu
-liberar esta marca de maldição...</i>
+<i>Se já está assim agora...
+Se eu liberar o Juin (Marca da Maldição)...</i>
 
 89
 00:10:43,184 --> 00:10:45,561
@@ -490,8 +491,8 @@ Estou feliz pensando em
 
 112
 00:13:25,663 --> 00:13:28,015
-como finalmente vou para a
-Academia a partir de amanhã.
+Amanhã eu finalmente
+começo na Academia!
 
 113
 00:13:34,522 --> 00:13:35,127
@@ -508,7 +509,7 @@ o pai trabalha, certo?
 
 116
 00:13:40,986 --> 00:13:44,406
-Sim... A sede da
+É... A sede da
 Força Policial da Folha.
 
 117
@@ -517,8 +518,8 @@ Eu já tinha curiosidade sobre isso,
 
 118
 00:13:47,377 --> 00:13:51,965
-mas por que o brasão do Clã
-Uchiha está na marca da Polícia?
+mas por que o brasão do clã Uchiha
+é o símbolo da Força Policial?
 
 119
 00:13:52,475 --> 00:13:54,602
@@ -549,8 +550,8 @@ brasão como símbolo desta organização.
 
 125
 00:14:14,410 --> 00:14:16,329
-Desde os tempos antigos, o
-Clã Uchiha sempre esteve
+Desde os tempos antigos,
+o clã Uchiha sempre foi
 
 126
 00:14:16,379 --> 00:14:19,215
@@ -861,7 +862,7 @@ Os tempos são diferentes, então e agora.
 
 196
 00:19:00,139 --> 00:19:04,560
-Além disso, aquele garoto é um pouco especial, então...
+Além disso, ele é um pouco especial...
 
 197
 00:19:07,229 --> 00:19:10,315
@@ -1128,8 +1129,8 @@ assassinato, então qual é a investigação?
 
 255
 00:23:29,382 --> 00:23:34,054
-Seria fácil para uma pessoa que pode
-usar o Sharingan copiar caligrafia, sabe...
+Seria fácil para um usuário do Sharingan
+falsificar a caligrafia.
 
 256
 00:23:37,916 --> 00:23:39,751
@@ -1138,7 +1139,7 @@ O Uchiha mais habilidoso.
 257
 00:23:40,014 --> 00:23:42,600
 O homem temido como Shisui
-do Deslocamento Instantâneo.
+do Shunshin (Cintilação Corporal).
 
 258
 00:23:43,213 --> 00:23:46,174
@@ -1311,12 +1312,13 @@ coisas insignificantes como clãs...
 
 295
 00:26:14,981 --> 00:26:17,567
-você perde de vista o que é realmente importante.
+você perde de vista o que
+é realmente importante.
 
 296
 00:26:18,076 --> 00:26:21,663
-A verdadeira mudança não pode acontecer se estiver
-preso dentro das restrições das regulamentações,
+A verdadeira mudança não acontece
+se ficarmos presos às regras,
 
 297
 00:26:21,705 --> 00:26:25,083
@@ -1441,7 +1443,8 @@ Eu sempre sou o número um, então...
 
 324
 00:28:59,571 --> 00:29:01,983
-<i>Estilo de Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!
+(Estilo Fogo: Jutsu Bola de Fogo)</i>
 
 325
 00:29:08,121 --> 00:29:09,122
@@ -1491,7 +1494,7 @@ Ok!
 
 336
 00:29:41,112 --> 00:29:43,281
-<i>Estilo Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 337
 00:29:50,211 --> 00:29:52,400
@@ -1510,7 +1513,8 @@ reconhecido como ninja de pleno direito</i>
 
 340
 00:30:02,217 --> 00:30:04,302
-<i>até que saiba usar o Estilo Fogo.</i>
+<i>até dominarem
+este Katon (Estilo Fogo).</i>
 
 341
 00:30:09,974 --> 00:30:11,257
@@ -1523,11 +1527,11 @@ que controlam o fogo.</i>
 
 343
 00:30:18,900 --> 00:30:20,860
-<i>Estilo Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 344
 00:30:28,993 --> 00:30:30,870
-<i>Estilo Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 345
 00:30:40,004 --> 00:30:41,089
@@ -1535,7 +1539,7 @@ que controlam o fogo.</i>
 
 346
 00:30:43,007 --> 00:30:45,051
-<i>Estilo de Fogo: Jutsu da Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 347
 00:30:50,436 --> 00:30:51,312
@@ -1579,7 +1583,7 @@ Ok...
 
 357
 00:31:26,050 --> 00:31:28,011
-<i>Estilo de Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 358
 00:31:39,212 --> 00:31:44,175
@@ -1588,7 +1592,7 @@ começando. Droga! Mais uma vez!</i>
 
 359
 00:31:46,121 --> 00:31:48,331
-<i>Estilo de Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 360
 00:31:59,125 --> 00:31:59,792
@@ -1634,7 +1638,7 @@ Então eu quero que você veja isso.
 
 370
 00:32:41,427 --> 00:32:43,804
-<i>Estilo de Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 371
 00:33:15,159 --> 00:33:17,582
@@ -1800,8 +1804,8 @@ Hoje...
 
 407
 00:35:45,576 --> 00:35:48,841
-quando a escola acabar, me ajude a
-treinar para um jutsu de shuriken...
+depois da aula, pode me ajudar
+no treino de shuriken?
 
 408
 00:35:49,879 --> 00:35:54,068
@@ -1818,8 +1822,8 @@ Até eu consigo ver isso.
 
 411
 00:36:03,244 --> 00:36:06,506
-Você sempre me trata
-como um incômodo assim...
+Por que você sempre me trata
+como um incômodo?
 
 412
 00:36:21,179 --> 00:36:24,724
@@ -1932,8 +1936,8 @@ aos dez anos, não foi?
 
 436
 00:38:10,413 --> 00:38:13,249
-Ele se tornou hábil em usar
-Sharingan aos oito anos de idade.
+Ele já dominava o Sharingan
+aos oito anos de idade.
 
 437
 00:38:15,376 --> 00:38:17,336
@@ -1976,8 +1980,8 @@ Oh meu, querido.
 
 446
 00:38:41,819 --> 00:38:45,197
-Sasuke, tanto você quanto
-Itachi vêm do Clã Uchiha,
+Sasuke, tanto você quanto o Itachi
+vêm do clã Uchiha,
 
 447
 00:38:45,474 --> 00:38:47,375
@@ -2570,7 +2574,7 @@ Sasuke...!
 
 582
 00:54:15,392 --> 00:54:16,977
-Eu já disse isso antes, mas...
+Como eu disse...
 
 583
 00:54:19,256 --> 00:54:22,259
@@ -2611,7 +2615,8 @@ casa se eu tiver que te arrastar!
 
 591
 00:54:56,026 --> 00:54:57,645
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
+<i>(Jutsu dos Clones das Sombras)</i>
 
 592
 00:55:10,099 --> 00:55:11,475
@@ -2703,8 +2708,7 @@ jutsus para criar uma abertura.</i>
 
 612
 00:57:30,681 --> 00:57:33,392
-<i>E então... vou
-acertá-lo com o Chidori.</i>
+<i>E então... vou acertar um Chidori.</i>
 
 613
 00:57:37,246 --> 00:57:38,706
@@ -2738,8 +2742,8 @@ este meu coração?
 
 620
 00:58:07,776 --> 00:58:10,613
-<i>Estilo de Fogo:
-Jutsu da Flor Fênix!</i>
+<i>Katon: Hōsenka no Jutsu!
+(Estilo Fogo: Jutsu Flor de Fênix)</i>
 
 621
 00:58:24,585 --> 00:58:28,714
@@ -2772,7 +2776,7 @@ queria aproximar-me de você imediatamente.</i>
 627
 00:58:58,952 --> 00:59:00,621
 <i>- Incrível... -</i>
-<i>Você é incrível...</i>
+<i>você é incrível...</i>
 
 628
 00:59:00,954 --> 00:59:02,831
@@ -2787,7 +2791,7 @@ recebia elogios de todos.</i>
 630
 00:59:15,622 --> 00:59:18,099
 <i>Porque você e eu
-éramos tão diferentes...
+éramos tão diferentes...</i>
 
 631
 00:59:19,431 --> 00:59:22,987
@@ -2808,8 +2812,7 @@ decidi chamar você de meu rival.</i>
 
 635
 00:59:36,323 --> 00:59:38,660
-<i>Mesmo quando
-estávamos no Esquadrão Sete,</i>
+<i>Mesmo quando estávamos no Time 7,</i>
 
 636
 00:59:39,446 --> 00:59:41,637
@@ -2832,7 +2835,7 @@ era me tornar como você.</i>
 
 640
 00:59:55,246 --> 01:00:01,562
-<i>Você era minha inspiração... por isso...</i>
+<i>Você era o meu objetivo...</i>
 
 641
 01:00:03,158 --> 01:00:05,827
@@ -3008,8 +3011,7 @@ os ossos dos seus braços e pernas!
 
 681
 01:05:13,762 --> 01:05:16,139
-<i>Estilo Fogo:
-Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 682
 01:05:59,414 --> 01:06:03,001
@@ -3084,8 +3086,8 @@ conta... Coma até se fartar!</i>
 
 698
 01:07:24,060 --> 01:07:28,687
-Quando estou com
-Iruka-sensei, imagino...
+Quando estou com o Iruka-sensei,
+eu imagino...
 
 699
 01:07:28,712 --> 01:07:30,422
@@ -3154,8 +3156,8 @@ para esta extensão para mim?
 
 713
 01:08:19,842 --> 01:08:23,303
-Para mim, é um vínculo que
-Finalmente consegui ter!
+Porque, para mim, este é o primeiro
+laço de verdade que eu tive!
 
 714
 01:08:44,226 --> 01:08:47,756
@@ -3185,7 +3187,7 @@ Corta, hein?
 
 720
 01:09:32,168 --> 01:09:35,505
-Então por que usar aquela faixa de cabeça agora?
+Então por que você está usando essa bandana?
 
 721
 01:09:36,841 --> 01:09:40,252
@@ -3292,13 +3294,13 @@ imagem do próximo movimento dele.</i>
 
 744
 01:11:32,413 --> 01:11:35,250
-<i>Não preciso usar chakra
-desnecessário e posso, em vez disso, preservá-lo.</i>
+<i>Não preciso gastar chakra à toa
+e, em vez disso, posso preservá-lo.</i>
 
 745
 01:11:36,584 --> 01:11:39,504
-<i>O Selo da Maldição
-consome muito chakra.</i>
+<i>O Juin
+consome chakra demais.</i>
 
 746
 01:11:41,297 --> 01:11:42,924
@@ -3327,8 +3329,8 @@ Sasuke!
 
 752
 01:13:12,430 --> 01:13:14,390
-<i>Estilo Fogo: Jutsu
-da Chama do Dragão!</i>
+<i>Katon: Ryūka no Jutsu!
+(Estilo Fogo: Jutsu Chama do Dragão)</i>
 
 753
 01:13:53,221 --> 01:13:56,552
@@ -3420,8 +3422,7 @@ Agora eu entendo!
 
 773
 01:18:01,556 --> 01:18:03,724
-<i>Estilo Fogo:
-Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 774
 01:18:22,281 --> 01:18:24,283
@@ -3578,7 +3579,7 @@ perto. Por aqui.
 
 809
 01:29:24,629 --> 01:29:26,047
-<i>Cheguei tarde demais...?
+<i>Cheguei tarde demais...?</i>
 
 810
 01:29:26,623 --> 01:29:27,683
@@ -3620,8 +3621,8 @@ O Vale do Fim...
 
 819
 01:30:58,352 --> 01:31:01,522
-Imaginar que Sasuke e
-Naruto lutariam aqui...
+E pensar que o Sasuke e o Naruto
+lutariam aqui...
 
 820
 01:31:05,426 --> 01:31:07,387
@@ -3648,8 +3649,7 @@ representadas por essas estátuas aqui
 
 825
 01:31:29,760 --> 01:31:32,846
-que fundaram a Vila
-Oculta da Folha...
+que fundou a Vila Oculta da Folha...
 
 826
 01:31:37,819 --> 01:31:44,206
@@ -3714,7 +3714,7 @@ Sim.
 
 840
 01:33:42,669 --> 01:33:44,003
-Kakashi Sensei...
+Kakashi-sensei...
 
 841
 01:33:46,413 --> 01:33:47,664
@@ -3775,8 +3775,8 @@ graves, mas não ameaça a vida.
 
 854
 01:34:35,531 --> 01:34:39,410
-Neji Hyuga e Choji
-Akimichi estão em estado grave...
+Neji Hyuga e Choji Akimichi
+estão em estado grave.
 
 855
 01:34:40,209 --> 01:34:42,294
@@ -4086,8 +4086,8 @@ E, há algumas informações...
 
 924
 01:40:11,118 --> 01:40:15,426
-Kakashi Hatake e Naruto
-Uzumaki acabaram de voltar agora.
+Kakashi Hatake e Naruto Uzumaki
+acabaram de voltar.
 
 925
 01:40:16,154 --> 01:40:20,158
@@ -4127,7 +4127,7 @@ Tanto faz... Só me dê poder.
 933
 01:41:23,701 --> 01:41:28,247
 Mesmo que ele pareça
-diferente, ainda é Lorde Orochimaru.
+diferente, ainda é Senhor Orochimaru.
 
 934
 01:41:28,775 --> 01:41:31,832
@@ -4261,7 +4261,8 @@ Sakura! Eu...
 
 964
 01:44:26,316 --> 01:44:28,777
-Eu cumprirei minha promessa, não importa o que aconteça!
+Eu cumprirei minha promessa,
+não importa o que aconteça!
 
 965
 01:44:29,137 --> 01:44:33,141
@@ -4374,8 +4375,8 @@ O que você quer dizer?
 
 990
 01:46:26,047 --> 01:46:28,466
-Se eu não for atrás do
-Sasuke imediatamente,
+Se eu não for atrás
+do Sasuke imediatamente,
 
 991
 01:46:28,684 --> 01:46:31,520
@@ -4392,7 +4393,7 @@ para Orochimaru procurando Sasuke...
 
 994
 01:46:38,487 --> 01:46:41,126
-Hã?! Então isso significa que você também sabia?
+Hã?! Então você também sabia, Sábio Pervertido?
 
 995
 01:46:42,146 --> 01:46:46,567
@@ -4410,8 +4411,8 @@ outro corpo por três anos.
 
 998
 01:46:54,617 --> 01:46:59,584
-E, incapaz de esperar por
-Sasuke, ele acabou de reencarnar...
+E, sem poder esperar pelo Sasuke,
+ele teve que trocar de receptáculo há pouco.
 
 999
 01:47:00,371 --> 01:47:04,502
@@ -4545,8 +4546,8 @@ passe pela mesma coisa...</i>
 
 1028
 01:49:06,763 --> 01:49:09,724
-Se você vai atrás do
-Sasuke, então não haverá treino.
+Se você vai atrás do Sasuke,
+então não vai ter treino.
 
 1029
 01:49:10,414 --> 01:49:12,136
@@ -4563,8 +4564,8 @@ Você não é apenas uma criança comum...
 
 1032
 01:49:20,262 --> 01:49:22,807
-Você carrega a Raposa de Nove
-Caudas, que é o alvo da Akatsuki!
+Você carrega a Nove-Caudas,
+que é o alvo da Akatsuki!
 
 1033
 01:49:23,371 --> 01:49:25,659
@@ -4660,8 +4661,8 @@ inventar; criar; sugerir
 
 1053
 01:50:46,891 --> 01:50:49,852
-seriam alguns estúpido jutsu
-erótico, de qualquer forma.
+seria uma nova versão do seu
+Oiroke no Jutsu (Jutsu Sexy), aliás.
 
 1054
 01:50:55,970 --> 01:50:57,418

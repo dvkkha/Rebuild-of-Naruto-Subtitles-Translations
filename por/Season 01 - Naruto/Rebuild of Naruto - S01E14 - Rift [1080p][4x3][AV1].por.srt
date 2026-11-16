@@ -217,8 +217,8 @@ Eu te disse, não disse?!
 
 50
 00:04:29,811 --> 00:04:32,730
-Sobre Kakashi Sensei e
-Sasuke e Sobrancelha Espessa!
+Sobre o Kakashi-sensei,
+o Sasuke e o Sobrancelhudo!
 
 51
 00:04:33,231 --> 00:04:35,149
@@ -263,7 +263,7 @@ Há quanto tempo, Senhora Tsunade.
 
 61
 00:04:57,005 --> 00:04:59,340
-Ah, o garoto da Família Nara, né.
+Ah, o garoto do clã Nara, é...?
 
 62
 00:04:59,629 --> 00:05:01,589
@@ -405,7 +405,8 @@ para o homem que ama.
 
 93
 00:06:31,766 --> 00:06:34,852
-<i>Não posso acreditar que o papai está dizendo isso...</i>
+<i>Não posso acreditar que o</i>
+<i>papai está dizendo isso...</i>
 
 94
 00:06:34,936 --> 00:06:36,938
@@ -478,7 +479,7 @@ todos os dias, hein...</i>
 
 110
 00:07:35,079 --> 00:07:37,415
-Eu ouvi do Sensei Guy...
+Eu ouvi do Guy-sensei...
 
 111
 00:07:38,060 --> 00:07:40,209
@@ -536,7 +537,7 @@ Desculpe...
 
 124
 00:09:30,958 --> 00:09:33,502
-Tudo bem! Kakashi Sensei terminou!
+Tudo bem! Kakashi-sensei terminou!
 
 125
 00:09:33,626 --> 00:09:35,127
@@ -587,7 +588,7 @@ Ah, quase esqueci!
 136
 00:10:13,650 --> 00:10:16,403
 Eu tinha um compromisso de
-encontrar o Iruka Sensei!
+encontrar o Iruka-sensei!
 
 137
 00:10:16,758 --> 00:10:17,842
@@ -607,7 +608,7 @@ Ei, Naruto!
 
 141
 00:10:27,835 --> 00:10:29,712
-Você está atrasado, Iruka Sensei!
+Você está atrasado, Iruka-sensei!
 
 142
 00:10:29,854 --> 00:10:31,147
@@ -715,7 +716,7 @@ Você vai morrer.
 
 166
 00:12:16,152 --> 00:12:17,111
-<i>Guy Sensei!</i>
+<i>Guy-sensei!</i>
 
 167
 00:12:17,445 --> 00:12:20,448
@@ -724,7 +725,7 @@ jogar a toalha!</i>
 
 168
 00:12:23,451 --> 00:12:27,413
-<i>Guy Sensei, o que é isso de tão terrível
+<i>Guy-sensei, o que é isso de tão terrível
 bolinho de arroz amargo?</i>
 
 169
@@ -769,8 +770,8 @@ Não diga isso...!
 
 178
 00:13:23,260 --> 00:13:28,015
-Estou dolorosamente ciente de como você se sente,
-mas é melhor ser claro.
+Sei como isso é doloroso para você,
+mas é melhor ser direto.
 
 179
 00:13:29,016 --> 00:13:31,352
@@ -1003,12 +1004,13 @@ Mas eu vou fazer você trabalhar!
 
 230
 00:17:06,734 --> 00:17:10,487
-Oito missões de rank D,
-três missões de rank C...
+Oito missões de Rank D,
+três missões de Rank C...
 
 231
 00:17:11,530 --> 00:17:13,741
-Entendo, muito parecido com a equipe da Kurenai.
+Entendo, muito parecido
+com a equipe da Kurenai.
 
 232
 00:17:16,326 --> 00:17:19,371
@@ -1026,8 +1028,8 @@ Entendi.
 
 235
 00:17:32,009 --> 00:17:38,140
-Ah, entendi. Esta equipe tem seu próprio especial
-e é bem equilibrada.
+Ah, entendi. Este time tem sua
+própria especialidade e é equilibrado.
 
 236
 00:17:57,701 --> 00:17:58,869
@@ -1193,7 +1195,7 @@ esse é o dever de um Hokage.</i>
 273
 00:22:36,772 --> 00:22:39,191
 Apenas por hoje,
-Estou fazendo uma exceção especial.
+estou fazendo uma exceção especial.
 
 274
 00:22:43,862 --> 00:22:45,572
@@ -1202,7 +1204,7 @@ Qual é o problema, Konohamaru?
 275
 00:22:45,781 --> 00:22:48,116
 Você não quer ver
-Velha Tsunade?
+a Velha Tsunade?
 
 276
 00:22:48,533 --> 00:22:49,201
@@ -1251,11 +1253,11 @@ Nada...
 
 286
 00:23:55,016 --> 00:23:56,476
-<i>Jutsu Clone!</i>
+<i>Bunshin no Jutsu! (Jutsu de Clone)</i>
 
 287
 00:24:02,521 --> 00:24:03,942
-<i>Jutsu de Transformação !</i>
+<i>Henge no Jutsu!</i>
 
 288
 00:24:10,282 --> 00:24:11,241
@@ -1294,7 +1296,7 @@ Aqui está.
 
 296
 00:24:46,568 --> 00:24:47,694
-Sensei Guy?
+Guy-sensei?
 
 297
 00:24:48,721 --> 00:24:49,889
@@ -1386,8 +1388,8 @@ Você me deixou à vontade...
 
 317
 00:26:18,660 --> 00:26:22,455
-Você abriu um caminho
-justo quando eu estava sem confiança em mim mesmo.
+Você abriu um caminho justo quando
+eu estava sem confiança em mim mesmo.
 
 318
 00:26:23,206 --> 00:26:26,334
@@ -1400,8 +1402,8 @@ E quando reclamei que
 
 320
 00:26:40,576 --> 00:26:43,746
-todos os meus esforços não eram suficientes para igualar
-o talento natural dos outros,
+todos os meus esforços não chegavam
+ao talento natural dos outros,
 
 321
 00:26:44,424 --> 00:26:47,635
@@ -1430,7 +1432,7 @@ não há nada que eu possa fazer no mundo!
 
 326
 00:27:21,848 --> 00:27:25,060
-Sensei Guy... Por favor, me diga...!
+Guy-sensei... Por favor, me diga...!
 
 327
 00:27:28,855 --> 00:27:32,859
@@ -1463,7 +1465,7 @@ O que eu devo fazer?!
 
 333
 00:27:47,916 --> 00:27:49,376
-<i>Os Oito Portões Internos...</i>
+<i>Os Hachimon Tonkō (Oito Portões Internos)...</i>
 
 334
 00:27:49,834 --> 00:27:52,504
@@ -1639,7 +1641,7 @@ Não importa!
 373
 00:30:31,824 --> 00:30:35,370
 Mesmo se eu comer muito,
-Eu sei como saborear corretamente.
+eu sei como saborear corretamente.
 
 374
 00:30:40,916 --> 00:30:44,252
@@ -1666,8 +1668,8 @@ esta última mordida para qualquer um!
 
 379
 00:30:57,814 --> 00:31:01,150
-Por que você está agindo como se fosse descolado,
-você idiota?!
+Por que você está se fazendo de legal,
+seu idiota?!
 
 380
 00:31:01,276 --> 00:31:04,821
@@ -1827,7 +1829,7 @@ Pare com isso já!
 
 416
 00:34:03,298 --> 00:34:04,800
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu! (Jutsu de Invocação)</i>
 
 417
 00:34:05,619 --> 00:34:09,664
@@ -2020,7 +2022,7 @@ um fracasso para sempre!
 461
 00:37:43,886 --> 00:37:47,098
 <i>Agora mesmo,
-Eu não tenho nenhum interesse em você...</i>
+eu não tenho nenhum interesse em você...</i>
 
 462
 00:37:51,477 --> 00:37:55,940
@@ -2038,8 +2040,8 @@ Tão fora do seu costume.
 
 465
 00:38:01,612 --> 00:38:05,950
-Não pode ser que você tenha provocado
-uma briga e depois tenha se assustado, não é, Sasuke?
+Não vai me dizer que você comprou a briga
+e depois ficou com medo, Sasuke?
 
 466
 00:38:06,450 --> 00:38:07,618
@@ -2113,7 +2115,8 @@ Chega disso, acredite!
 
 482
 00:39:40,836 --> 00:39:43,005
-<i>Jutsu do Clone das Sombras Múltiplas!</i>
+<i>Tajū Kage Bunshin no Jutsu!
+(Jutsu de Múltiplos Clones das Sombras)</i>
 
 483
 00:40:12,701 --> 00:40:15,287
@@ -2121,11 +2124,12 @@ Chega disso, acredite!
 
 484
 00:40:20,042 --> 00:40:21,794
-<i>Narada em Míssil de Naruto!</i>
+<i>Naruto Rendan! (Rajada Naruto)</i>
 
 485
 00:40:23,170 --> 00:40:25,589
-<i>Estilo Fogo: Jutsu da Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!
+(Estilo Fogo: Jutsu Bola de Fogo)</i>
 
 486
 00:40:35,850 --> 00:40:37,226
@@ -2183,8 +2187,8 @@ Vocês iam matar o Naruto, Sasuke?
 
 499
 00:42:18,869 --> 00:42:21,622
-O tamanho do Chidori ali
-não era algo para ser usado
+Um Chidori daquele tamanho
+não era para ser usado
 
 500
 00:42:21,647 --> 00:42:23,774
@@ -2218,8 +2222,8 @@ resistir à Akatsuki,
 
 507
 00:43:18,779 --> 00:43:21,699
-pensar que você faria
-ensinar Naruto o Rasengan.
+e pensar que você ensinaria
+o Rasengan ao Naruto.
 
 508
 00:43:21,877 --> 00:43:24,171
@@ -2228,17 +2232,17 @@ ele teria matado o Sasuke.
 
 509
 00:43:24,226 --> 00:43:26,312
-Igualmente para você…
+Igualmente para você...
 
 510
 00:43:26,353 --> 00:43:29,023
-Aquele Chidori também
-consideravelmente arriscado.
+Aquele Chidori também foi
+bastante arriscado.
 
 511
 00:43:29,414 --> 00:43:32,334
-Mas eu não pensei
-Naruto era o tipo de garoto
+Mas eu não achei que
+o Naruto fosse o tipo de garoto
 
 512
 00:43:32,359 --> 00:43:36,655
@@ -2256,8 +2260,8 @@ Bem, alguém que ele considera um igual.
 
 515
 00:43:46,665 --> 00:43:51,211
-Muito provavelmente, ele não conseguiu aguentar
-As provocações baratas de Sasuke.
+Ele deve ter caído nas
+provocações baratas do Sasuke.
 
 516
 00:43:52,296 --> 00:43:55,466
@@ -2281,7 +2285,7 @@ Do outro lado da moeda,
 520
 00:44:06,418 --> 00:44:09,087
 Sasuke sente a velocidade de
-O crescimento de Naruto a curta distância
+o crescimento de Naruto a curta distância
 
 521
 00:44:09,146 --> 00:44:10,648
@@ -2317,7 +2321,7 @@ Se ele o reconhecer,
 528
 00:44:29,215 --> 00:44:31,634
 ele pode se negar
-até este ponto…
+até este ponto...
 
 529
 00:44:33,087 --> 00:44:36,382
@@ -2337,8 +2341,8 @@ Então eu deixo o Naruto com você.
 
 533
 00:44:45,931 --> 00:44:49,518
-Bem, eu tenho uma missão.
-E também preciso treinar o Chidori...
+Tenho uma missão pela frente...
+e ainda tem a questão do Chidori.
 
 534
 00:44:53,065 --> 00:44:53,857
@@ -2346,8 +2350,8 @@ Sakura.
 
 535
 00:44:55,275 --> 00:44:59,071
-Tudo bem. As coisas podem voltar ao jeito que eram
-eles estavam nos velhos tempos novamente.
+Tudo bem. As coisas podem
+voltar a ser como antes.
 
 536
 00:45:00,280 --> 00:45:01,115
@@ -2414,8 +2418,8 @@ O quê?
 
 551
 00:46:51,348 --> 00:46:55,403
-Bem, neste ramo
-Eu já vi um punhado de caras como você.
+Bom, neste ramo,
+já vi muitos caras como você.
 
 552
 00:46:55,484 --> 00:46:58,987
@@ -2468,7 +2472,7 @@ quão errado você está
 
 563
 00:47:29,611 --> 00:47:30,987
-sobre o que você acabou de dizer.
+sobre tudo o que você acabou de dizer?
 
 564
 00:47:31,446 --> 00:47:34,449
@@ -2555,7 +2559,7 @@ o que estou dizendo está errado.
 582
 00:48:46,188 --> 00:48:49,024
 Pelo que me lembro,
-Esse é Kakashi, o Ninja Copiador.
+esse é Kakashi, o Ninja Copiador.
 
 583
 00:48:49,774 --> 00:48:51,109
@@ -2623,7 +2627,7 @@ Droga...
 
 597
 00:51:49,412 --> 00:51:50,997
-<i>Droga…</i>
+<i>Droga...</i>
 
 598
 00:51:51,694 --> 00:51:53,029
@@ -2636,7 +2640,7 @@ Nós somos os Quatro Ninjas do Som.
 600
 00:51:59,234 --> 00:52:01,380
 Estamos aqui por ordens
-de Orochimaru-sama.
+do Senhor Orochimaru.
 
 601
 00:52:01,816 --> 00:52:03,943
@@ -2666,8 +2670,8 @@ em suas costelas até que elas quebrem.
 
 607
 00:52:25,810 --> 00:52:29,622
-Você está dizendo que Orochimaru
-deixou uma Marca da Maldição no corpo de Sasuke?
+Você está dizendo que o Orochimaru
+deixou um Juin (Marca da Maldição) no Sasuke?
 
 608
 00:52:30,136 --> 00:52:30,842
@@ -2726,7 +2730,7 @@ Venha conosco.
 620
 00:53:13,246 --> 00:53:16,040
 Se você vier,
-o Lorde Orochimaru lhe dará poder.
+o Senhor Orochimaru lhe dará poder.
 
 621
 00:53:17,049 --> 00:53:19,135
@@ -2739,8 +2743,8 @@ simplesmente vão se confortar
 
 623
 00:53:22,922 --> 00:53:27,135
-em uma vila comum como esta e
-tentar se esquecer completamente de Itachi Uchiha?
+numa vila pacífica como esta,
+tentando esquecer o Itachi Uchiha?
 
 624
 00:53:28,601 --> 00:53:30,311
@@ -2838,7 +2842,7 @@ Sasuke e eu...
 
 645
 00:56:07,117 --> 00:56:10,371
-E também Naruto e Kakashi Sensei...
+E também Naruto e Kakashi-sensei...
 
 646
 00:56:32,779 --> 00:56:34,864
@@ -2896,8 +2900,7 @@ Eu sou diferente de vocês...
 
 659
 00:57:41,469 --> 00:57:44,013
-Estou caminhando por uma estrada que é incompatível
-com o resto de vocês.
+Estou seguindo meu próprio caminho.
 
 660
 00:57:45,285 --> 00:57:46,661
@@ -2905,8 +2908,8 @@ Nós quatro trabalhamos juntos...
 
 661
 00:57:47,311 --> 00:57:51,149
-e é verdade que houve um tempo
-quando eu pensei que aquela era a minha estrada.
+e é verdade que houve um tempo quando eu
+pensei que aquela era a minha estrada.
 
 662
 00:57:52,416 --> 00:57:54,210
@@ -2915,7 +2918,7 @@ Nós quatro trabalhamos juntos,
 663
 00:57:54,235 --> 00:57:56,654
 mas no final,
-Eu decidi pela vingança.
+eu decidi pela vingança.
 
 664
 00:57:59,115 --> 00:58:01,075
@@ -3404,8 +3407,8 @@ Batata frita?
 
 774
 01:05:41,493 --> 01:05:44,330
-Eles têm sabor de carne assada...
-você ajuda também!
+Eles são sabor churrasco...
+você também quer ajudar, né?
 
 775
 01:05:44,496 --> 01:05:45,039
@@ -3440,8 +3443,8 @@ Eu entendo isso,
 
 782
 01:06:14,068 --> 01:06:17,529
-mas nesse tipo de situação,
-Normalmente, alguém solicitária o Shino primeiro!
+mas, numa situação dessas,
+normalmente você chamaria o Shino primeiro!
 
 783
 01:06:18,447 --> 01:06:19,865
@@ -3788,8 +3791,8 @@ uma ampla visão para frente,
 
 857
 01:10:43,795 --> 01:10:48,342
-Naruto olha para a esquerda, Choji para a direita,
-e Neji...
+Naruto olha para a esquerda,
+Choji para a direita, e Neji...
 
 858
 01:10:48,842 --> 01:10:52,137
@@ -3859,8 +3862,8 @@ da Vila da Folha.
 
 872
 01:11:42,229 --> 01:11:46,567
-Neste caso, nem eu posso simplesmente ficar parado
-e seja preguiçoso.
+Nesse caso, nem eu posso ficar
+parado e fazer corpo mole.
 
 873
 01:11:48,569 --> 01:11:50,984
@@ -3915,7 +3918,7 @@ Sakura!
 884
 01:12:45,528 --> 01:12:48,073
 Eu ouvi toda a história
-de Senhora Hokage.
+da Senhora Hokage.
 
 885
 01:12:48,098 --> 01:12:50,475
@@ -3980,8 +3983,8 @@ para você agora mesmo, Sakura.
 
 898
 01:14:06,957 --> 01:14:10,752
-<i>Sakura, há uma coisa
-Eu quero te perguntar.</i>
+<i>Sakura, tem uma coisa
+que eu quero te perguntar.</i>
 
 899
 01:14:10,836 --> 01:14:11,753
@@ -4042,7 +4045,7 @@ dizer uma coisa dessas?!
 
 912
 01:15:18,761 --> 01:15:21,639
-Claro! Eu não vou voltar atrás na minha palavra.
+Claro! Eu nunca volto atrás na minha palavra.
 
 913
 01:15:22,115 --> 01:15:23,909
@@ -4060,4 +4063,3 @@ Vamos nos apressar!
 916
 01:15:32,334 --> 01:15:32,876
 Certo!
-

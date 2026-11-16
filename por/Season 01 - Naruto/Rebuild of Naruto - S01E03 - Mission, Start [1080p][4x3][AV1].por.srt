@@ -1,14 +1,14 @@
 1
 00:01:35,180 --> 00:01:36,759
-Sasuke aqui no Ponto B!
+Sasuke, no Ponto B!
 
 2
 00:01:37,222 --> 00:01:38,848
-<i>Sakura aqui no ponto C!</i>
+<i>Sakura, no Ponto C!</i>
 
 3
 00:01:41,810 --> 00:01:43,905
-<i>Naruto aqui.</i>
+<i>Naruto, no Ponto A!</i>
 
 4
 00:01:44,479 --> 00:01:45,479
@@ -16,11 +16,11 @@ Sasuke aqui no Ponto B!
 
 5
 00:01:46,540 --> 00:01:48,124
-<i>OK, Esquadrão Sete...</i>
+<i>Certo, Time 7...</i>
 
 6
 00:01:48,149 --> 00:01:49,149
-<i>Hm?!</i>
+<i>Hã?!</i>
 
 7
 00:01:49,192 --> 00:01:50,192
@@ -28,17 +28,15 @@ Sasuke aqui no Ponto B!
 
 8
 00:01:51,319 --> 00:01:52,319
-<i>Siga-o!</i>
+<i>Sigam-no!</i>
 
 9
 00:01:54,905 --> 00:01:56,345
-Qual é a sua distância?
-Do alvo?
+Qual a distância até o alvo?
 
 10
 00:01:57,826 --> 00:02:01,037
-Cinco metros!
-Posso ir a qualquer hora!
+Cinco metros! Estou pronto!
 
 11
 00:02:02,080 --> 00:02:03,081
@@ -50,11 +48,11 @@ Eu também...!
 
 13
 00:02:05,875 --> 00:02:06,875
-Tá bem...
+Certo...
 
 14
 00:02:09,504 --> 00:02:10,204
-Faça isso!
+Agora!
 
 15
 00:02:11,214 --> 00:02:12,590
@@ -62,7 +60,7 @@ Uryaaah!
 
 16
 00:02:13,591 --> 00:02:15,009
-Peguei!
+Peguei ele!
 
 17
 00:02:15,885 --> 00:02:17,571
@@ -71,25 +69,25 @@ na orelha direita...?</i>
 
 18
 00:02:17,595 --> 00:02:19,097
-<i>Tem certeza que é o nosso alvo, Tora?</i>
+<i>É o nosso alvo, o Tora?</i>
 
 19
 00:02:20,723 --> 00:02:22,392
-É o alvo, sem enganos.
+É o alvo, sem dúvida.
 
 20
 00:02:23,226 --> 00:02:27,480
-Muito bem, a missão para capturar
-"Tora" animal de estimação perdido está completo!
+Certo, a missão de capturar
+o bichinho perdido, Tora, está completa!
 
 21
 00:02:28,648 --> 00:02:34,821
-Minha Tora gira!
-Estava muito preocupada!
+Ahhh! Meu Tora fofinho!
+Fiquei morta de preocupação!
 
 22
 00:02:36,031 --> 00:02:38,575
-Bem feito, aquele gato estúpido!
+Bem feito pra esse gato idiota!
 
 23
 00:02:38,992 --> 00:02:41,870
@@ -97,30 +95,29 @@ Não admira que ele tenha fugido...
 
 24
 00:02:42,996 --> 00:02:43,996
-...Agora, então!
+Muito bem!
 
 25
 00:02:44,455 --> 00:02:47,792
-A próxima missão para
-O Esquadrão 7 do Kakashi é...
+A próxima missão
+do Time 7 do Kakashi é...
 
 26
 00:02:50,700 --> 00:02:56,331
-Uma missão para a cidade vizinha...
-para tomar conta do filho do Conselheiro-Chefe...
+Um recado na cidade vizinha...
+cuidar do filho do Conselheiro-Chefe...
 
 27
 00:02:56,759 --> 00:02:58,279
-Ajudando com a escavação
-Por batatas, eh...
+Ajudar a colher batatas...
 
 28
 00:02:58,303 --> 00:02:59,429
-Não!
+Nããããão!
 
 29
 00:02:59,858 --> 00:03:01,735
-Não, obrigado!
+Não! Não, obrigado!
 
 30
 00:03:02,098 --> 00:03:02,907
@@ -128,56 +125,54 @@ Quanto a mim,
 
 31
 00:03:02,932 --> 00:03:05,643
-Quero fazer alguma coisa.
-Mais emocionante!
+eu quero uma missão bem mais legal!
 
 32
 00:03:06,025 --> 00:03:07,109
-Dá-nos outra coisa!
+Dá outra coisa pra gente!
 
 33
 00:03:07,653 --> 00:03:08,653
-<i>Ele tem um ponto...</i>
+<i>Ele tem razão...</i>
 
 34
 00:03:09,004 --> 00:03:10,672
-<i>Man... ele é um pé no saco!</i>
+<i>Cara... Que chato!</i>
 
 35
 00:03:11,691 --> 00:03:14,235
-<i>I pensou que era sobre o tempo
-para ele ficar agitado ...</i>
+<i>Eu imaginei que já estava na hora
+de ele se irritar.</i>
 
 36
 00:03:15,045 --> 00:03:19,064
-Seu tolo!
-Ainda são só novatos!
+Seu idiota! Vocês ainda são novatos!
 
 37
 00:03:19,361 --> 00:03:20,612
-No início,
+Todo ninja começa...
 
 38
 00:03:20,700 --> 00:03:21,780
-Todos se movem para cima da escada
+com essas missões simples
 
 39
 00:03:21,805 --> 00:03:23,726
-por ganhar experiência
-de missões simples!
+para ganhar experiência
+e ir subindo aos poucos!
 
 40
 00:03:23,751 --> 00:03:25,336
-Mas!
+M-Mas!
 
 41
 00:03:25,538 --> 00:03:27,999
-Não foi nada.
-Mas missões chatas até agora!
+Mas até agora só tivemos
+um monte de missões chatas!
 
 42
 00:03:29,709 --> 00:03:31,211
-Pare com isso!
+Chega!
 
 43
 00:03:32,045 --> 00:03:33,045
@@ -185,139 +180,137 @@ Naruto!
 
 44
 00:03:34,130 --> 00:03:38,911
-É preciso explicar-te.
-Que missão é essa...
+Deixe-me explicar
+como funcionam as missões.
 
 45
 00:03:40,261 --> 00:03:41,261
-Ouve-me!
+Escute!
 
 46
 00:03:41,721 --> 00:03:45,225
-Pedidos para entrar na aldeia
-Todos os dias.
+Todo dia chegam pedidos
+à vila.
 
 47
 00:03:46,256 --> 00:03:48,758
-Eles variam de babysitting
-- ... aos assassinatos...
+Eles vão de cuidar de crianças
+até assassinatos...
 
 48
 00:03:50,427 --> 00:03:54,597
-Um amplo espectro de pedidos
-são compilados em uma lista...
+Os pedidos mais variados
+são reunidos numa lista...
 
 49
 00:03:54,901 --> 00:04:00,448
-E depois são separados em A, B, C,
-e D classifica em ordem de dificuldade.
+e classificados nas Ranks
+a, B, C e D, conforme a dificuldade.
 
 50
 00:04:01,142 --> 00:04:03,732
-Na aldeia,
-todos abaixo de mim
+Todos os ninjas da nossa vila...
 
 51
 00:04:03,757 --> 00:04:09,346
-é dividido pela sua capacidade em
-Rank de Jonin, Chunin e Genin.
+são classificados por habilidade:
+Jonin, chunin e genin.
 
 52
 00:04:10,725 --> 00:04:14,020
-Nós no mais alto nível distribuir
-os pedidos como missões
+Nós, os superiores,
+passamos esses pedidos como missões
 
 53
 00:04:14,045 --> 00:04:17,340
-para ninja que tem habilidades
-O fato dizia missão.
+para ninjas com o nível
+de habilidade adequado.
 
 54
 00:04:18,007 --> 00:04:24,764
-E, se a missão for bem sucedida,
-A taxa vem do cliente.
+E, quando a missão é concluída,
+recebemos o pagamento do cliente.
 
 55
 00:04:25,749 --> 00:04:30,170
-No entanto, vocês...
-Tornaram-se genin...
+Como vocês acabaram de virar genin...
 
 56
 00:04:30,908 --> 00:04:33,202
-a classificação D é sobre
-O melhor que puderes fazer...
+por enquanto, só dão conta
+de missões de Rank D.
 
 57
 00:04:34,315 --> 00:04:34,816
-Hm?
+Hã?!
 
 58
 00:04:35,316 --> 00:04:37,940
-O almoço de ontem foi osso de porco.
-macarrão de caldo,
+Ontem eu almocei ramen
+de caldo de porco,
 
 59
 00:04:37,965 --> 00:04:39,087
-Hoje será o caldo miso...
+então hoje vai ser ramen de missô...
 
 60
 00:04:39,112 --> 00:04:40,488
-Ouve!
+Escute!
 
 61
 00:04:40,982 --> 00:04:42,483
-Desculpa.
+D-Desculpe.
 
 62
 00:04:42,865 --> 00:04:47,117
-Maaaan!
-Você sempre fica me dando sermões, velhote!
+Ah! Você vive me dando sermão,
+Velhote!
 
 63
 00:04:47,589 --> 00:04:53,095
-Mas não sou aquele brincalhão.
-Que pensas que sou!
+Mas eu não sou mais aquele
+encrenqueiro de antes!
 
 64
 00:04:54,290 --> 00:04:55,290
-Humph!
+Hmpf!
 
 65
 00:04:59,424 --> 00:05:01,426
-<i>Maaan,
-Eu vou ser repreendido mais tarde ...</i>
+<i>Cara,
+depois eu vou levar bronca...</i>
 
 66
 00:05:08,433 --> 00:05:09,809
-Tá bem!
+Muito bem!
 
 67
 00:05:10,184 --> 00:05:10,518
-Huh?
+Hã?!
 
 68
 00:05:11,239 --> 00:05:13,325
-Se insistes...
+Se você insiste...
 
 69
 00:05:13,931 --> 00:05:16,225
-Vou pedir-te para fazeres uma missão de classificação C...
+Vou dar a vocês uma missão de Rank C.
 
 70
 00:05:17,335 --> 00:05:19,379
-Vocês serão guarda-costas de alguém.
+Vocês serão guarda-costas.
 
 71
 00:05:19,902 --> 00:05:20,902
-A sério?
+Sério?!
 
 72
 00:05:21,404 --> 00:05:22,139
-Ah ha!
+Ahá!
 
 73
 00:05:22,359 --> 00:05:23,286
-Quem?
+Quem é? Quem é?
 
 74
 00:05:23,841 --> 00:05:24,842
@@ -325,33 +318,33 @@ Um senhor feudal?!
 
 75
 00:05:24,991 --> 00:05:26,811
-Ou, uma princesa?!
+Ou uma princesa?!
 
 76
 00:05:27,005 --> 00:05:28,465
-Não te apresses.
+Não se apresse.
 
 77
 00:05:29,085 --> 00:05:30,461
-Vou apresentar-te agora!
+Vou apresentá-lo agora!
 
 78
 00:05:31,991 --> 00:05:34,369
-Pode entrar, por favor?
+Pode entrar, por favor...?
 
 79
 00:05:37,712 --> 00:05:41,924
-O que é isto?
-Malditos pirralhos!
+O que é isso?
+Um bando de pirralhos ranhentos!
 
 80
 00:05:44,913 --> 00:05:45,838
-Huh?
+Hã?
 
 81
 00:05:50,856 --> 00:05:53,567
-Especialmente você, o pequeno.
-Com essa cara estúpida.
+Principalmente você, o baixinho
+com cara de bobo.
 
 82
 00:05:53,936 --> 00:05:56,898
@@ -359,290 +352,290 @@ Você é mesmo um ninja?
 
 83
 00:05:58,602 --> 00:06:01,230
-Quem é o mais pequeno com
-A cara estúpida de que ele está falando?
+Quem é o baixinho
+com cara de bobo?
 
 84
 00:06:01,871 --> 00:06:02,871
-Huh?
+Hã?
 
 85
 00:06:03,488 --> 00:06:04,860
-Eu mato-o!
+Eu vou matar ele!!
 
 86
 00:06:04,885 --> 00:06:06,341
-Que bem fará a
-matar o velho
+Você não pode matar o cliente
 
 87
 00:06:06,366 --> 00:06:08,159
-É suposto seres
-Guardando, seu idiota?
+que tem que proteger,
+seu idiota!
 
 88
 00:06:11,954 --> 00:06:16,376
-Sou Tazuna.
-Um construtor de pontes veterano.
+Eu sou Tazuna,
+um mestre construtor de pontes.
 
 89
 00:06:17,180 --> 00:06:21,435
-Você vai arriscar a vida e a vida
-em me guardar
+Vocês vão me proteger
+com a própria vida
 
 90
 00:06:21,911 --> 00:06:24,622
-até que eu volte para a minha terra e
-Completar a minha ponte!
+até eu voltar para minha terra
+e terminar a ponte!
 
 91
 00:06:27,445 --> 00:06:28,996
-Vamos embora!
+Partiu!!
 
 92
 00:06:29,263 --> 00:06:31,599
-Por que você está tão entusiasmado?!
+Por que você está tão animado?!
 
 93
 00:06:32,308 --> 00:06:36,913
-Sabes, nunca saí daqui.
-A aldeia antes!
+É que eu nunca saí
+da vila antes!
 
 94
 00:06:37,010 --> 00:06:41,014
-Hey!
-Estou mesmo bem com este esguicho?!
+Ei! Vocês querem que eu acredite
+que esse nanico vai me proteger?!
 
 95
 00:06:42,623 --> 00:06:45,876
-Sou um Jon, vou vigiá-lo.
-Não há necessidade de se preocupar.
+Eu sou jonin, então eu estou no comando.
+Não precisa se preocupar.
 
 96
 00:06:45,988 --> 00:06:49,409
-<i>... ok com esta esguicho?!</i>
+<i>Esse nanico?!</i>
 
 97
 00:06:50,797 --> 00:06:52,007
-Velhote!
+Ei, velho!
 
 98
 00:06:52,078 --> 00:06:54,122
-Não zombe tanto dos ninjas!
+Não se atreva a zombar dos ninjas!
 
 99
 00:06:54,343 --> 00:06:56,053
-Sou incrível, sabes!
+Eu sou incrível, viu?
 
 100
 00:06:56,332 --> 00:06:59,502
-Sou um ninja super elite que
-Será chamado Hokage um dia!
+E sou um ninja de superelite
+que um dia vai ser Hokage!
 
 101
 00:07:00,003 --> 00:07:02,337
-O meu nome é Naruto Uzumaki.
+Meu nome é Naruto Uzumaki.
 
 102
 00:07:02,441 --> 00:07:03,568
-Lembre-se bem!!
+Não se esqueça!
 
 103
 00:07:04,966 --> 00:07:09,053
-O Hokage é o melhor cão.
-Um ninja na aldeia, certo?
+O Hokage é o maior ninja
+da vila, não é?
 
 104
 00:07:09,913 --> 00:07:13,000
-Não pareces nada
-Você pode se tornar o Hokage...
+Pra mim, você não tem
+nada de Hokage...
 
 105
 00:07:13,540 --> 00:07:15,326
-Cala-te!
+Aaah! Cala a boca!
 
 106
 00:07:15,590 --> 00:07:19,510
-Estou preparado para fazer o que quer que seja.
-É preciso para se tornar o Hokage!
+Eu faço o que for preciso
+para virar Hokage!
 
 107
 00:07:19,868 --> 00:07:24,542
-Não terás escolha.
-mas para me reconhecer, então!!
+Aí você vai ter que
+reconhecer a minha força!
 
 108
 00:07:25,904 --> 00:07:28,448
-Nunca te reconhecerei, meu...
+Eu nunca vou te reconhecer, nanico...
 
 109
 00:07:28,948 --> 00:07:31,075
-Mesmo que você se torne o Hokage!
+Nem se você virar Hokage!
 
 110
 00:07:31,229 --> 00:07:33,565
-- Eu mato-te!
+O quê?! Eu vou te matar!
 
 111
 00:07:33,828 --> 00:07:35,788
-Eu disse-te para parares com isso, idiota!
+Eu mandei você parar com isso, idiota!
 
 112
 00:07:35,813 --> 00:07:38,565
-Pelo menos, deixa-me ter.
-Um tiro, só um...
+Qual é! Me deixa pegar ele!
+Só um soco!
 
 113
 00:07:45,203 --> 00:07:47,163
-Diga... Sr. Tazuna...?
+Diga... Tazuna...?
 
 114
 00:07:47,753 --> 00:07:48,753
-O que é?
+O que foi?
 
 115
 00:07:49,318 --> 00:07:52,071
 O seu país é
-"A Terra das Ondas", certo?
+a Terra das Ondas, certo?
 
 116
 00:07:53,222 --> 00:07:54,640
-O que tem?
+E daí?
 
 117
 00:07:55,129 --> 00:07:56,672
-Kakashi Sensei...
+Diga, Kakashi-sensei...
 
 118
 00:07:57,006 --> 00:07:58,761
-Há ninjas naquela terra também?
+Tem ninjas nessa terra também?
 
 119
 00:07:59,282 --> 00:08:02,035
-Não, não há ninjas em
-a Terra das Ondas...
+Não, não há ninjas
+na Terra das Ondas...
 
 120
 00:08:02,744 --> 00:08:07,415
-Mas em outras nações, enquanto culturas
-e as alfândegas são diferentes,
+Mas em outros países, embora culturas
+e costumes sejam diferentes,
 
 121
 00:08:07,950 --> 00:08:10,536
-existem aldeias escondidas,
-E há ninjas lá.
+existem Vilas Ocultas,
+e nelas há ninjas.
 
 122
 00:08:14,505 --> 00:08:16,882
-Para a maioria das nações do continente,
+Para a maioria dos países do continente,
 
 123
 00:08:17,538 --> 00:08:21,292
-Shinobi Villages são uma medida
-da força militar da nação.
+as Vilas Ocultas são a medida
+do poder militar do país.
 
 124
 00:08:22,461 --> 00:08:23,519
-Por outras palavras,
+Em outras palavras,
 
 125
 00:08:23,544 --> 00:08:27,215
-assim se mantêm as nações
-relações com as nações vizinhas.
+é assim que os países mantêm
+as relações com os vizinhos.
 
 126
 00:08:28,674 --> 00:08:32,720
-E, no entanto, as aldeias não são
-sob o controle de sua nação.
+Mas uma Vila Oculta não é
+subordinada ao seu país.
 
 127
 00:08:33,137 --> 00:08:35,348
-Eles são iguais em posição.
+Eles estão no mesmo patamar.
 
 128
 00:08:37,141 --> 00:08:39,660
-Numa pequena ilha como
+Numa ilha pequena como
 a Terra das Ondas,
 
 129
 00:08:39,685 --> 00:08:41,996
-onde é difícil estar
-influenciados por outras nações,
+onde é difícil sofrer
+influência de outros países,
 
 130
 00:08:42,021 --> 00:08:44,734
 não há necessidade
-para uma aldeia Shinobi.
+de uma Vila Oculta.
 
 131
 00:08:47,777 --> 00:08:50,838
-Entre as respectivas nações
-que possuem uma aldeia Shinobi,
+Entre os países
+que possuem uma Vila Oculta,
 
 132
 00:08:50,863 --> 00:08:57,762
-as nações de "Fogo", "Água",
-"Luz", "Vento" e "Terra",
+os países do Fogo, da Água,
+do Raio, do Vento e da Terra
 
 133
 00:08:57,787 --> 00:09:00,723
-são chamadas de "Cinco Grandes Nações".
+são conhecidos como as
+Cinco Grandes Nações Shinobi.
 
 134
 00:09:00,748 --> 00:09:02,788
-devido ao seu grande território e
-potência imensurável,
+Elas são reconhecidas por seus
+grandes territórios e enorme poder.
 
 135
 00:09:04,961 --> 00:09:07,041
-A aldeia escondida nas folhas
-da terra do fogo,
+A Vila Oculta da Folha,
+na Terra do Fogo.
 
 136
 00:09:07,964 --> 00:09:10,049
-A aldeia escondida na neblina
-da Terra da Água.
+A Vila Oculta da Névoa,
+na Terra da Água.
 
 137
 00:09:10,758 --> 00:09:13,039
-A aldeia escondida nas nuvens
-da Terra dos Relâmpagos.
+A Vila Oculta da Nuvem,
+na Terra do Raio.
 
 138
 00:09:13,594 --> 00:09:15,721
-A aldeia escondida na areia
-da Terra do Vento.
+A Vila Oculta da Areia,
+na Terra do Vento.
 
 139
 00:09:16,721 --> 00:09:19,015
-A aldeia escondida nas rochas
-da Terra da Terra.
+A Vila Oculta da Pedra,
+na Terra da Terra.
 
 140
 00:09:19,892 --> 00:09:21,936
-Apenas os líderes de
-cada uma destas aldeias ocultas
+Só os líderes
+de cada uma dessas Vilas Ocultas
 
 141
 00:09:22,206 --> 00:09:24,417
-são permitidos ter
-O nome de Kage, a Sombra.
+têm direito ao título
+de "Kage", que significa Sombra.
 
 142
 00:09:26,357 --> 00:09:27,775
-O "Hokage" (sombra de fogo),
+"Hokage" (Sombra do Fogo),
 
 143
 00:09:27,900 --> 00:09:29,068
-"Mizukage" (Sombra de Água),
+"Mizukage" (Sombra da Água),
 
 144
 00:09:29,151 --> 00:09:30,212
-"Raikage" (Sombra Luminosa),
+"Raikage" (Sombra do Raio),
 
 145
 00:09:30,236 --> 00:09:31,362
-"Kazekage" (Esboço),
+"Kazekage" (Sombra do Vento),
 
 146
 00:09:31,407 --> 00:09:32,487
@@ -650,32 +643,30 @@ O "Hokage" (sombra de fogo),
 
 147
 00:09:32,697 --> 00:09:34,448
-O chamado
-Cinco Kage (sombras),
+Os cinco Kage (Cinco Sombras)
 
 148
 00:09:34,574 --> 00:09:38,361
-reinar supremo sobre
-as dezenas de milhares de ninjas
+reinam absolutos sobre
+dezenas de milhares de shinobi
 
 149
 00:09:38,386 --> 00:09:39,929
-em cada nação
-do mundo inteiro.
+em cada país do mundo.
 
 150
 00:09:40,568 --> 00:09:42,486
-Bem... não te preocupes.
+Bom... não se preocupem.
 
 151
 00:09:43,332 --> 00:09:46,836
-Não há batalhas ninjas
-em missões de classificação C.
+É pouco provável que haja lutas
+entre ninjas numa missão de Rank C.
 
 152
 00:09:47,545 --> 00:09:51,752
-Então, não há preocupação em obter
-em uma luta com ninja estrangeiro ...!
+Então não precisamos nos preocupar
+em lutar com ninjas inimigos, né?
 
 153
 00:09:52,127 --> 00:09:53,049
@@ -683,15 +674,15 @@ Claro que não.
 
 154
 00:10:33,633 --> 00:10:34,258
-O quê?
+O quê?!
 
 155
 00:10:34,550 --> 00:10:35,009
-Huh?
+Hã?!
 
 156
 00:10:35,092 --> 00:10:36,469
-O quê?
+O-O quê?
 
 157
 00:10:36,969 --> 00:10:37,970
@@ -699,11 +690,11 @@ O primeiro!
 
 158
 00:10:48,939 --> 00:10:51,067
-K-Kakashi Sensei!
+K-Kakashi-sensei!
 
 159
 00:10:59,959 --> 00:11:00,959
-Hm?
+Hã?!
 
 160
 00:11:04,900 --> 00:11:05,900
@@ -711,28 +702,28 @@ Hm?
 
 161
 00:11:11,737 --> 00:11:13,050
-<i>W-Wow!</i>
+<i>U-Uau!!</i>
 
 162
 00:11:20,537 --> 00:11:21,157
-Whoa!
+Opa!
 
 163
 00:11:21,629 --> 00:11:22,004
-Ugh!
+Ugh!!
 
 164
 00:11:22,181 --> 00:11:23,181
-<i>Eles estão a chegar!</i>
+<i>Eles estão vindo!</i>
 
 165
 00:11:23,516 --> 00:11:25,393
-<i>I tem que fazer algo...
-Eu tenho que!!</i>
+<i>Eu tenho que fazer alguma coisa...
+Eu tenho que fazer!!</i>
 
 166
 00:11:25,989 --> 00:11:27,240
-Para trás, senhor!
+Para trás!
 
 167
 00:11:36,835 --> 00:11:37,493
@@ -740,16 +731,15 @@ Yo...
 
 168
 00:11:38,098 --> 00:11:40,767
-<i>Kakashi Sensei!</i>
+<i>Kakashi-sensei! Ele está vivo!</i>
 
 169
 00:11:41,201 --> 00:11:42,952
-<i>Humph!
-Mostrar...</i>
+<i>Hmpf. Exibido.</i>
 
 170
 00:11:45,645 --> 00:11:46,514
-O que foi? !
+O quê?!
 
 171
 00:11:46,605 --> 00:11:47,814
@@ -757,20 +747,20 @@ Então, o que foi aquilo...?
 
 172
 00:11:51,283 --> 00:11:55,162
-Naruto...
-Desculpa não te ter ajudado imediatamente...
+Naruto, desculpe não ter te ajudado
+logo de cara.
 
 173
 00:11:56,163 --> 00:11:57,206
-Magoaste-te.
+Você se machucou.
 
 174
 00:11:59,071 --> 00:12:02,700
-Não pensei que fosses congelar.
+Não achei que você fosse travar daquele jeito.
 
 175
 00:12:03,957 --> 00:12:06,042
-Seja como for, bom trabalho, Sasuke.
+Enfim, bom trabalho, Sasuke.
 
 176
 00:12:06,541 --> 00:12:07,541
@@ -778,40 +768,40 @@ Você também, Sakura.
 
 177
 00:12:09,812 --> 00:12:12,899
-<i>I... não podia fazer nada...</i>
+<i>Eu... não consegui fazer nada...</i>
 
 178
 00:12:13,866 --> 00:12:15,284
-<i>mas Sasuke...</i>
+<i>mas o Sasuke...</i>
 
 179
 00:12:15,484 --> 00:12:17,153
-<i>Foi a sua primeira batalha real...</i>
+<i>Era a primeira luta de verdade dele...</i>
 
 180
 00:12:18,109 --> 00:12:20,362
-<i>Não se sentiu assustado?</i>
+<i>Ele não sentiu medo nenhum?</i>
 
 181
 00:12:20,670 --> 00:12:25,883
-<i>Ele salvou-me como se não fosse nada e
-sem obter qualquer sujeira em suas roupas ...</i>
+<i>Ele me salvou como se não fosse nada...
+e nem sujou a roupa.</i>
 
 182
 00:12:27,806 --> 00:12:28,806
-Hey...
+Ei...
 
 183
 00:12:28,831 --> 00:12:29,831
-Huh?
+Hã?!
 
 184
 00:12:30,328 --> 00:12:31,830
-Você está ferido...
+Você se machucou...
 
 185
 00:12:33,403 --> 00:12:34,404
-Gato assustado?
+Medroso?
 
 186
 00:12:38,746 --> 00:12:39,496
@@ -823,22 +813,22 @@ Naruto!
 
 188
 00:12:41,858 --> 00:12:43,944
-Estes tipos têm veneno.
-nas garras deles.
+Esses caras têm veneno
+nas garras.
 
 189
 00:12:45,065 --> 00:12:47,734
-Você precisa o fazer.
-Retirem o veneno rapidamente.
+Você precisa
+tirar o veneno rápido.
 
 190
 00:12:47,924 --> 00:12:48,608
-O quê?
+O quê?!
 
 191
 00:12:49,683 --> 00:12:52,811
-Você precisa abrir a ferida e...
-drenar o sangue envenenado.
+É preciso abrir a ferida
+e drenar o sangue envenenado.
 
 192
 00:12:53,174 --> 00:12:54,300
@@ -846,136 +836,136 @@ Tente não se mexer.
 
 193
 00:12:54,507 --> 00:12:55,717
-O veneno vai espalhar-se.
+O veneno vai se espalhar.
 
 194
 00:12:56,848 --> 00:12:58,224
-A propósito, Sr. Tazuna...
+Aliás, Tazuna...
 
 195
 00:12:58,416 --> 00:13:00,293
-O que é isso?
+O-O que foi...?!
 
 196
 00:13:02,068 --> 00:13:03,862
-Preciso de falar contigo.
+Preciso falar com você.
 
 197
 00:13:07,177 --> 00:13:09,638
 Chunin da
-Vila escondida na névoa...
+Vila Oculta da Névoa...
 
 198
 00:13:10,472 --> 00:13:15,045
-Estes ninjas são conhecidos por
-continuar a lutar, aconteça o que acontecer.
+Esses ninjas são conhecidos por continuar
+lutando, custe o que custar.
 
 199
 00:13:16,645 --> 00:13:18,939
-Como é que conseguiste?
-para detectar os nossos movimentos?
+Como você conseguiu
+perceber nossos movimentos?
 
 200
 00:13:20,232 --> 00:13:22,234
-Provavelmente não haveria
-poças de água
+Dificilmente haveria
+poças d'água
 
 201
 00:13:22,818 --> 00:13:26,739
-num dia claro como hoje,
-quando não chove há dias.
+num dia de sol como este,
+sem chover há dias.
 
 202
 00:13:27,907 --> 00:13:31,410
-Sabendo disso, porque o deixaste
-para os garotos lutarem?
+Se você sabia, por que deixou
+as crianças enfrentarem eles primeiro?
 
 203
 00:13:32,411 --> 00:13:36,248
-Se me apetecesse,
-Eu podia matar estes tipos instantaneamente...
+Se eu quisesse, poderia
+ter matado eles num instante...
 
 204
 00:13:37,082 --> 00:13:41,295
 Mas...
-Eu tinha de saber...
+eu precisava saber...
 
 205
 00:13:42,880 --> 00:13:46,091
-Quem era o alvo deles...
+quem era o alvo deles...
 
 206
 00:13:46,675 --> 00:13:49,053
-O que você quer dizer?
+Hã?! Como assim?
 
 207
 00:13:50,137 --> 00:13:51,231
-O que quero dizer é,
+Quero dizer,
 
 208
 00:13:51,256 --> 00:13:53,926
-Tinha de saber se...
-O alvo deles eras você,
+eu precisava saber se
+o alvo deles era você,
 
 209
 00:13:54,600 --> 00:14:00,064
-ou um de nós shinobi...
+ou se estavam atrás de nós, shinobi.
 
 210
 00:14:01,398 --> 00:14:05,903
-Não ouvimos nada sobre...
-Você seres alvo de ninjas.
+Ninguém nos disse que
+você era alvo de ninjas.
 
 211
 00:14:06,963 --> 00:14:09,924
-A extensão do seu pedido foi
-Supostamente
+O seu pedido era
+apenas
 
 212
 00:14:09,949 --> 00:14:12,952
-protecção contra os gangs,
-Ladrões, e coisas do género...
+de proteção contra
+bandidos e ladrões comuns...
 
 213
 00:14:14,317 --> 00:14:18,349
-A missão era para ser de apoio.
-Até que tenha terminado de construir a sua ponte...
+Nossa missão era te proteger
+até a ponte ficar pronta...
 
 214
 00:14:20,351 --> 00:14:22,353
-Mas se os nossos inimigos fossem ninjas,
+Mas se os inimigos fossem ninjas,
 
 215
 00:14:22,675 --> 00:14:26,253
-A missão teria sido carregada.
-como uma missão cara "B-Rank".
+essa missão seria de Rank B ou maior,
+que é mais cara.
 
 216
 00:14:27,992 --> 00:14:29,910
-Talvez tenhas tido as suas razões...
+Você pode ter tido os seus motivos...
 
 217
 00:14:30,471 --> 00:14:32,973
-mas ser enganado no pedido
-Não vai servir.
+mas mentir num pedido de missão
+é inaceitável.
 
 218
 00:14:33,389 --> 00:14:37,142
-Isto está fora do âmbito de aplicação
+Isso foge do escopo
 da nossa missão.
 
 219
 00:14:38,310 --> 00:14:41,146
-Esta missão é muito difícil para nós...
+Essa missão é difícil demais para nós...
 
 220
 00:14:42,016 --> 00:14:43,016
-Vamos desistir!
+Devíamos desistir!
 
 221
 00:14:44,203 --> 00:14:46,164
-Precisamos de um anestésico.
-para a ferida de Naruto
+Precisamos de anestésico
+para a ferida do Naruto
 
 222
 00:14:46,193 --> 00:14:48,445
@@ -983,20 +973,20 @@ e para drenar o sangue envenenado...
 
 223
 00:14:49,238 --> 00:14:50,238
-O quê?
+Hã? O quê?!
 
 224
 00:14:53,247 --> 00:14:54,915
-Isto é um fardo!
+Isso é um problema!
 
 225
 00:14:55,538 --> 00:14:58,833
-Como precisamos de tratar a ferida do Naruto,
-Vamos voltar para a aldeia...?
+Como precisamos tratar a ferida do Naruto,
+vamos voltar para a vila...?
 
 226
 00:15:06,463 --> 00:15:06,880
-Huh!
+Hã!
 
 227
 00:15:07,089 --> 00:15:07,690
@@ -1004,40 +994,40 @@ Oh!
 
 228
 00:15:13,595 --> 00:15:15,389
-Por que sou tão diferente?!
+Por que eu sou tão diferente?!
 
 229
 00:15:15,919 --> 00:15:19,868
-Porque é que sou sempre eu...
-Raios!
+Por que sempre eu...
+Droga!
 
 230
 00:15:19,893 --> 00:15:22,396
-Naruto!
+Naruto! O que você está fazendo?!
 
 231
 00:15:24,231 --> 00:15:26,942
-Eu devia estar a ficar mais forte...
+Era pra eu estar ficando mais forte...
 
 232
 00:15:27,835 --> 00:15:29,627
-Tenho carregado constantemente
-missões e
+Eu venho cumprindo missões
+sem parar e
 
 233
 00:15:29,652 --> 00:15:32,461
-fazendo formação especial
-Sozinho todos os dias...
+fazendo meu treino especial
+todo dia...
 
 234
 00:15:36,244 --> 00:15:40,706
-Nunca mais me meto em outra situação.
-onde tenho de ser resgatado...
+Nunca mais vou deixar
+alguém ter que me salvar!
 
 235
 00:15:42,202 --> 00:15:44,996
-Nunca terei medo.
-Ou ser um cobarde...
+Nunca mais vou travar
+nem fugir...
 
 236
 00:15:46,336 --> 00:15:48,297
@@ -1045,13 +1035,12 @@ Não vou perder para o Sasuke...
 
 237
 00:15:50,394 --> 00:15:53,731
-Juro.
-pela dor na minha mão esquerda...
+Eu juro pela dor nesta mão!
+Acredite!
 
 238
 00:15:56,037 --> 00:15:59,290
-Eu protejo-te, velhote...
-Com esta faca Kunai!
+Eu vou te proteger com esta kunai, velho!
 
 239
 00:16:06,440 --> 00:16:08,067
@@ -1063,34 +1052,33 @@ Naruto...
 
 241
 00:16:10,194 --> 00:16:12,946
-Está tudo bem e bom para
-livrar-se do sangue envenenado,
+Tirar o veneno é uma coisa,
 
 242
 00:16:13,024 --> 00:16:15,693
-mas não mais do que isso e
-Você vai sangrar até a morte.
+mas se continuar assim,
+você vai sangrar até morrer.
 
 243
 00:16:24,040 --> 00:16:27,432
-As coisas vão ficar complicadas se não o fizeres.
-parar a hemorragia rapidamente... a sério!
+Você vai sangrar até morrer
+se não parar com isso... Sério!
 
 244
 00:16:27,903 --> 00:16:30,606
-Não!
+Argh! Não! Não!
 
 245
 00:16:30,631 --> 00:16:32,883
-Não posso morrer assim, digo eu!
+Eu não quero morrer assim, viu?!
 
 246
 00:16:33,092 --> 00:16:34,718
-Mostre-me a sua mão.
+Me mostre a sua mão.
 
 247
 00:16:34,843 --> 00:16:37,362
-Ajudem-me!
+Nããão! Socorro!!
 
 248
 00:16:37,387 --> 00:16:38,387
@@ -1098,56 +1086,56 @@ Naruto!
 
 249
 00:16:38,680 --> 00:16:40,891
-Você é mesmo autodestrutivo.
-Você não é você?
+Você é mesmo imprudente,
+hein!
 
 250
 00:16:41,558 --> 00:16:42,893
-Isso é masoquista!
+Você não tem jeito!
 
 251
 00:16:49,996 --> 00:16:51,247
-<i>A ferida é...</i>
+<i>A ferida já...</i>
 
 252
 00:16:52,218 --> 00:16:53,298
-<i>already começando a curar...</i>
+<i>está começando a cicatrizar...</i>
 
 253
 00:17:04,377 --> 00:17:06,213
-Você disse que falhou?!
+Vocês disseram que falharam?!
 
 254
 00:17:07,018 --> 00:17:10,313
-Paguei muito dinheiro para contratar.
-Vocês, pessoal.
+Eu paguei muito dinheiro
+para contratar vocês
 
 255
 00:17:10,575 --> 00:17:13,030
-Por que você disse
-Já foste um ninja de tiro quente!
+porque disseram
+que eram ninjas de elite!
 
 256
 00:17:14,091 --> 00:17:16,552
-Pare de resmungar...
+Pare de reclamar...
 
 257
 00:17:20,347 --> 00:17:26,937
-Da próxima vez, eu mesmo o mato...
+Da próxima vez, eu mesmo mato ele...
 
 258
 00:17:29,189 --> 00:17:31,567
-Está tudo bem, não está?
+E-Está tudo bem mesmo, né?!
 
 259
 00:17:32,276 --> 00:17:35,445
 Parece que o inimigo
-contratou um bom ninja...
+contratou bons ninjas...
 
 260
 00:17:35,671 --> 00:17:40,259
-Além disso, desde os irmãos demónios
-Se falharem, estarão de guarda.
+Agora que os Irmãos Demônios falharam,
+o alvo vai estar em alerta.
 
 261
 00:17:40,284 --> 00:17:42,077
@@ -1155,83 +1143,83 @@ Não vai ser fácil...
 
 262
 00:17:42,161 --> 00:17:44,955
-Quem pensas que sou?!
+Quem você pensa que eu sou?!
 
 263
 00:17:49,209 --> 00:17:52,671
-Sou o demónio da Névoa.
-Zabuza Momochi.
+Eu sou Zabuza Momochi,
+o Demônio da Névoa Oculta.
 
 264
 00:18:12,715 --> 00:18:15,529
-Isto é um nevoeiro e tanto.
-Não consigo ver o futuro.
+Que neblina.
+Não dá pra ver nada à frente.
 
 265
 00:18:17,279 --> 00:18:19,031
-A ponte deve estar visível em breve.
+A ponte já deve aparecer.
 
 266
 00:18:20,208 --> 00:18:23,128
-Quando chegarmos ao outro lado do
-Ponte, estaremos na Terra das Ondas.
+Do outro lado da ponte
+fica a Terra das Ondas.
 
 267
 00:18:44,772 --> 00:18:47,650
-Wooow!
+Uaaau!
 É enorme!
 
 268
 00:18:48,143 --> 00:18:50,354
-H-Hey!
-Por favor, falem baixo.
+E-Ei!
+Fale baixo, por favor.
 
 269
 00:18:51,063 --> 00:18:53,183
-Só chegámos até aqui.
-sob a cobertura do nevoeiro...
+Só chegamos até aqui sem ser vistos
+por causa da neblina.
 
 270
 00:18:54,234 --> 00:18:56,612
-Até cortei o motor.
-e estou remando à mão.
+Desliguei o motor e estou remando
+para não fazer barulho.
 
 271
 00:18:57,058 --> 00:18:59,644
-Se nos encontrarem agora,
-Vamos ter problemas.
+Se nos acharem agora,
+vamos estar bem encrencados.
 
 272
 00:19:05,494 --> 00:19:06,495
-Sr. Tazuna.
+Tazuna.
 
 273
 00:19:09,970 --> 00:19:14,683
-Quero perguntar-te uma coisa.
-Antes de chegarmos ao cais.
+Quero te perguntar uma coisa
+antes de chegarmos ao cais.
 
 274
 00:19:18,840 --> 00:19:23,512
-A identidade dos seus assaltantes,
-e a razão pela qual eles estão atrás de ti.
+Quem está atrás de você?
+E por que você é o alvo?
 
 275
 00:19:23,948 --> 00:19:25,617
-Se não nos contares...
+Se não nos contar...
 
 276
 00:19:26,202 --> 00:19:30,957
-A nossa missão pode acabar.
-Quando você faz terraplanagem.
+esta missão pode acabar no momento
+em que chegarmos à margem.
 
 277
 00:19:34,773 --> 00:19:37,067
-Parece que não tenho escolha.
-mas para te dizer.
+Parece que não tenho escolha
+a não ser contar.
 
 278
 00:19:37,651 --> 00:19:40,112
-Não, gostava que soubesses.
+Não, eu quero que vocês saibam.
 
 279
 00:19:41,209 --> 00:19:42,919
@@ -1239,13 +1227,13 @@ Como você disse,
 
 280
 00:19:43,288 --> 00:19:46,333
-pode ser mais do que
-O âmbito da sua missão.
+isso provavelmente foge
+do escopo da sua missão.
 
 281
 00:19:46,910 --> 00:19:51,915
-Estou a ser alvo.
-por um homem aterrorizante.
+Eu sou alvo
+de um homem terrível.
 
 282
 00:19:52,713 --> 00:19:53,338
@@ -1253,17 +1241,17 @@ Quem?
 
 283
 00:19:53,742 --> 00:19:57,203
-Vocês provavelmente já ouviram falar
-dele antes.
+Vocês provavelmente já ouviram
+falar dele.
 
 284
 00:19:58,148 --> 00:20:03,153
-Um magnata de transporte
-Pelo nome de Gato.
+Um magnata do transporte marítimo
+chamado Gato.
 
 285
 00:20:03,471 --> 00:20:07,141
-Gato... da Companhia Gato?
+O quê? Gato... da Empresa Gato?
 
 286
 00:20:07,166 --> 00:20:09,794
@@ -1271,64 +1259,64 @@ Um dos homens mais ricos do mundo?
 
 287
 00:20:10,350 --> 00:20:14,563
-Na superfície, ele é o chefe executivo.
-de uma companhia de navegação...
+Por fora, ele é o presidente
+de uma empresa de navegação...
 
 288
 00:20:16,068 --> 00:20:17,962
-Mas por baixo, ele está no
-negócios de tráfico de drogas
+Mas por trás, está envolvido
+com tráfico de drogas
 
 289
 00:20:17,987 --> 00:20:21,115
-e contrabando
-usando gangues e ninjas.
+e contrabando, usando gangues
+e ninjas para o trabalho sujo.
 
 290
 00:20:21,320 --> 00:20:23,572
-Ele tem um negócio desprezível,
+Ele toca um negócio desprezível,
 
 291
 00:20:23,770 --> 00:20:27,399
-Desumanamente assumindo nações
-e empresas.
+e toma sem piedade empresas
+e até países inteiros.
 
 292
 00:20:32,581 --> 00:20:34,041
-Foi há cerca de um ano...
+Foi há mais ou menos um ano...
 
 293
 00:20:34,458 --> 00:20:37,711
-Quando aquele homem pôs os olhos pela primeira vez
-a Terra das Ondas...
+que aquele homem botou os olhos
+na Terra das Ondas...
 
 294
 00:20:38,253 --> 00:20:41,757
-Ele usou sua riqueza e violência
+Ele usou sua riqueza e a violência
 para entrar neste país,
 
 295
 00:20:42,090 --> 00:20:43,525
-E antes que alguém o soubesse,
+e, antes que alguém percebesse,
 
 296
 00:20:43,550 --> 00:20:48,555
-Ele tinha tomado o controle da ilha
-transporte marítimo e transporte marítimo.
+tinha tomado o controle total
+da navegação e do transporte da ilha.
 
 297
 00:20:49,824 --> 00:20:54,488
-Ter uma forte aderência ao oceano, em uma
-nação insular como a Terra das Ondas,
+Num país insular como a Terra das Ondas,
+controlar os mares...
 
 298
 00:20:54,513 --> 00:20:58,725
-significa que tem controlo financeiro,
-O governo, o povo... tudo.
+é controlar as finanças,
+o governo, o povo... tudo.
 
 299
 00:20:59,586 --> 00:21:02,756
-A única coisa que Gato teme...
+A única coisa que o Gato teme...
 
 300
 00:21:04,154 --> 00:21:06,406
@@ -1336,17 +1324,17 @@ A única coisa que Gato teme...
 
 301
 00:21:07,655 --> 00:21:09,740
-Mas não entendo.
+Mas eu não entendo.
 
 302
 00:21:10,202 --> 00:21:13,038
-O seu oponente é perigoso.
-que até usará ninja.
+Seu inimigo é um homem perigoso,
+que até usa ninjas.
 
 303
 00:21:13,391 --> 00:21:16,060
-Por que você escondeu de nós esse fato?
-Quando fez o seu pedido?
+Por que escondeu isso de nós
+quando fez o pedido?
 
 304
 00:21:17,042 --> 00:21:18,627
@@ -1354,39 +1342,39 @@ A Terra das Ondas...
 
 305
 00:21:19,645 --> 00:21:24,984
-é uma nação muito pobre,
-Nem os senhores feudais têm dinheiro.
+é um país muito pobre.
+Nem o nosso senhor feudal tem dinheiro.
 
 306
 00:21:25,857 --> 00:21:30,028
-Não podemos dar-nos ao luxo de fazer pedidos de
-Posição B ou superior...
+Não podemos pagar uma missão
+de Rank B ou maior.
 
 307
 00:21:31,139 --> 00:21:35,727
-Bem, se você sair
-da missão, quando desembarcar em terra,
+Bom, se vocês abandonarem
+a missão quando eu desembarcar,
 
 308
 00:21:36,057 --> 00:21:38,768
-Eu, sem dúvida, serei morto.
+eu, sem dúvida, vou ser morto.
 
 309
 00:21:39,064 --> 00:21:41,817
-Morreu um dia antes de eu chegar a casa.
+Morto antes mesmo de chegar em casa.
 
 310
 00:21:42,892 --> 00:21:45,311
-Mas não há necessidade de preocupação!
+Mas não precisam se preocupar!
 
 311
 00:21:46,053 --> 00:21:50,016
-Se eu morrer, meu neto querido,
-Quem fará oito anos...
+Se eu morrer, meu netinho fofo,
+que vai fazer oito anos...
 
 312
 00:21:50,154 --> 00:21:53,365
-Ele só vai chorar o seu coração!
+só vai chorar até não poder mais!
 
 313
 00:21:53,829 --> 00:21:54,830
@@ -1394,17 +1382,17 @@ Oh!
 
 314
 00:21:55,729 --> 00:21:59,399
-E... a minha filha só vai culpar
-o ninja das folhas escondidas
+E... minha filha só vai culpar
+os ninjas da Folha
 
 315
 00:21:59,511 --> 00:22:03,932
-para o resto da vida
-e lamentai-vos em solidão!
+pelo resto da vida
+e viver na tristeza!
 
 316
 00:22:09,355 --> 00:22:09,981
-Bem...
+Bom...
 
 317
 00:22:10,064 --> 00:22:11,483
@@ -1412,15 +1400,15 @@ Acho que não temos escolha.
 
 318
 00:22:11,721 --> 00:22:13,265
-Vamos continuar como guarda-costas.
+Vamos continuar como guarda-costas dele.
 
 319
 00:22:15,016 --> 00:22:16,016
-<i>I venceu!</i>
+<i>Ganhei!</i>
 
 320
 00:22:19,813 --> 00:22:21,314
-Chegaremos em breve.
+Vamos chegar logo.
 
 321
 00:22:21,648 --> 00:22:22,482
@@ -1428,7 +1416,7 @@ Tazuna.
 
 322
 00:22:22,524 --> 00:22:25,569
-Parece que não fomos notados...
+Parece que ainda não fomos notados...
 
 323
 00:22:26,319 --> 00:22:27,362
@@ -1436,27 +1424,27 @@ Obrigado.
 
 324
 00:22:54,502 --> 00:22:55,753
-Isto é o mais longe que posso ir.
+Daqui eu não passo.
 
 325
 00:22:56,281 --> 00:22:57,281
-Vemo-nos por aí.
+Até mais.
 
 326
 00:22:57,490 --> 00:22:59,993
-Sim, foste uma grande ajuda.
+Sim. Você ajudou muito.
 
 327
 00:23:01,011 --> 00:23:02,011
-Tem cuidado.
+Tome cuidado.
 
 328
 00:23:14,376 --> 00:23:15,127
-Tá bem!
+Certo!
 
 329
 00:23:15,383 --> 00:23:18,762
-Leva-me para casa em segurança.
+Me leve para casa em segurança.
 
 330
 00:23:18,816 --> 00:23:20,067
@@ -1464,17 +1452,17 @@ Certo.
 
 331
 00:23:20,824 --> 00:23:25,996
-<i>Da próxima vez que atacarem,
-Não será Chunin, mas nível de elite jonin.</i>
+<i>O próximo não vai ser um chunin.
+Vai ser um jonin.</i>
 
 332
 00:23:26,995 --> 00:23:28,413
-<i>Cripes!</i>
+<i>Droga!</i>
 
 333
 00:23:40,416 --> 00:23:43,252
-<i>I não deixa este tipo fazer
-toda a coisa divertida mais!</i>
+<i>Não vou deixar esse cara
+ficar com toda a ação!</i>
 
 334
 00:23:49,417 --> 00:23:50,417
@@ -1482,7 +1470,7 @@ Ali!
 
 335
 00:23:53,763 --> 00:23:56,099
-É só um rato.
+Heh... Só um rato.
 
 336
 00:23:56,204 --> 00:23:58,498
@@ -1490,8 +1478,8 @@ Pare de se exibir!
 
 337
 00:23:58,523 --> 00:24:00,816
-Não havia nada lá.
-em primeiro lugar!
+Não tinha nada ali
+desde o começo!
 
 338
 00:24:01,055 --> 00:24:02,348
@@ -1499,20 +1487,20 @@ Por favor, Naruto.
 
 339
 00:24:02,499 --> 00:24:04,251
-Não uses facas kunai de forma imprudente.
+Não use kunais sem pensar.
 
 340
 00:24:04,467 --> 00:24:05,635
-São muito perigosos.
+Elas são muito perigosas.
 
 341
 00:24:06,650 --> 00:24:09,444
-Ei, pirralha!
-Pare de brincar!
+Ei, pirralho!
+Pare de brincadeira!
 
 342
 00:24:09,730 --> 00:24:11,815
-Sinto uma presença ali!
+Hã? Sinto uma presença ali!
 
 343
 00:24:12,221 --> 00:24:13,221
@@ -1520,20 +1508,20 @@ Ali!
 
 344
 00:24:15,121 --> 00:24:16,706
-Pare com isso!
+Pare com isso de uma vez!
 
 345
 00:24:17,639 --> 00:24:22,310
-Alguém tem-nos procurado.
-O tempo todo!
+T-Tem mesmo alguém nos seguindo
+esse tempo todo!
 
 346
 00:24:22,561 --> 00:24:23,812
-Pois!
+Até parece!
 
 347
 00:24:23,837 --> 00:24:26,214
-Pare com isso!
+Chega, você!
 
 348
 00:24:28,088 --> 00:24:30,174
@@ -1542,95 +1530,95 @@ O que você fez?!
 
 349
 00:24:30,199 --> 00:24:31,608
-É um coelho!
+É um coelhinho!
 
 350
 00:24:32,445 --> 00:24:35,532
-Não queria...
-Desculpa, coelhinho.
+E-Eu não queria...
+Desculpe, coelhinho.
 
 351
 00:24:35,615 --> 00:24:37,117
-É só um coelho.
+É só um coelho, hein.
 
 352
 00:24:39,151 --> 00:24:40,527
-<i>É um coelho de neve.</i>
+<i>Isso é uma lebre-das-neves.</i>
 
 353
 00:24:41,334 --> 00:24:43,837
 <i>Mas isso não explica
-sua cor de pele...</i>
+a cor do pelo...</i>
 
 354
 00:24:44,951 --> 00:24:48,955
-<i>O casaco fica branco apenas durante o inverno
-quando há pouca luz solar.</i>
+<i>O pelo só fica branco no inverno,
+quando há pouca luz do sol.</i>
 
 355
 00:24:50,725 --> 00:24:52,201
-<i>O que significa...</i>
+<i>Ou seja...</i>
 
 356
 00:24:52,226 --> 00:24:57,272
-<i>aquele coelho de neve foi criado dentro de casa
-a utilizar como substituição.</i>
+<i>essa lebre-das-neves foi criada
+para ser usada numa substituição.</i>
 
 357
 00:24:58,290 --> 00:24:59,958
-<i>Adivinha que já estão aqui...</i>
+<i>Pelo jeito, eles já estão aqui...</i>
 
 358
 00:25:07,230 --> 00:25:12,694
-<i>I ver... os irmãos demoníacos não
-ser o suficiente para enfrentar estes caras.</i>
+<i>Entendi... Os Irmãos Demônios não
+dariam conta desses caras.</i>
 
 359
 00:25:13,724 --> 00:25:15,977
-<i>A cópia ninja do
-Vila de Folhas Escondidas...</i>
+<i>O Ninja Copiador
+da Vila Oculta da Folha...</i>
 
 360
 00:25:16,781 --> 00:25:19,826
-<i>"Sharingan" Kakashi está com eles...</i>
+<i>Kakashi do Sharingan está com eles...</i>
 
 361
 00:25:36,742 --> 00:25:38,202
-<i>Se não estou enganado, ele é...</i>
+<i>Se não me engano, ele é...</i>
 
 362
 00:25:38,519 --> 00:25:40,229
-<i>I vou fazê-lo desta vez...</i>
+<i>Desta vez eu vou conseguir...</i>
 
 363
 00:25:40,254 --> 00:25:42,215
-<i>I não vai perder para Sasuke!</i>
+<i>Não vou perder para o Sasuke!</i>
 
 364
 00:25:43,224 --> 00:25:44,985
-Ora, ora.
+Ora, ora...
 
 365
 00:25:45,010 --> 00:25:48,931
-Se não é o ninja desonesto
-da Mist Oculta, Zabuza Momochi!
+Se não é o Zabuza Momochi,
+o Ninja Renegado da Névoa Oculta!
 
 366
 00:25:49,397 --> 00:25:50,690
-<i>Pronto...</i>
+<i>Preparar...</i>
 
 367
 00:25:50,740 --> 00:25:51,408
-<i>Go!</i>
+<i>Já!</i>
 
 368
 00:25:53,507 --> 00:25:54,633
-Para trás, pessoal.
+Para trás, vocês.
 
 369
 00:25:54,809 --> 00:25:57,937
-Ele está num nível totalmente diferente.
-dos outros tipos.
+Ele está num nível completamente diferente
+dos que enfrentamos antes.
 
 370
 00:26:00,633 --> 00:26:02,051
@@ -1638,55 +1626,53 @@ Se ele é o nosso adversário, então...
 
 371
 00:26:02,251 --> 00:26:03,251
-Huh?
+Hã?
 
 372
 00:26:03,276 --> 00:26:04,276
-Oh, sim.
+Ah.
 
 373
 00:26:05,477 --> 00:26:07,855
-As coisas podem ficar complicadas.
-como eu sou agora.
+Isso vai ser difícil.
 
 374
 00:26:08,217 --> 00:26:10,928
-Sharingan Kakashi, presumo?
+Kakashi do Sharingan, presumo?
 
 375
 00:26:14,089 --> 00:26:15,632
-Desculpa, mas...
+Sinto muito, mas...
 
 376
 00:26:15,995 --> 00:26:18,414
-Pode entregar o velho?
+Pode me entregar o velho?
 
 377
 00:26:22,081 --> 00:26:25,468
-<i>H-Huh? Sharingan?
+<i>H-Hã? Sharingan?
 O que é isso?</i>
 
 378
 00:26:25,838 --> 00:26:28,674
-Entra no manji.
-Formação de batalha, pessoal.
+Formação Manji...
 
 379
 00:26:28,853 --> 00:26:30,188
-Proteger Tazuna...
+Protejam o Tazuna.
 
 380
 00:26:30,730 --> 00:26:32,731
-Não te metas na luta.
+Fiquem fora desta luta.
 
 381
 00:26:32,832 --> 00:26:34,959
-É o trabalho em equipe.
-nesta situação exige.
+É esse o trabalho em equipe
+que a situação exige.
 
 382
 00:26:37,709 --> 00:26:38,709
-Huh?
+Hã?!
 
 383
 00:26:41,527 --> 00:26:42,820
@@ -1694,47 +1680,47 @@ Lute comigo.
 
 384
 00:26:44,956 --> 00:26:47,208
-<i>W-O que se passa com o olho...?</i>
+<i>O-O que tem o olho dele...?</i>
 
 385
 00:26:48,104 --> 00:26:49,230
-Bem, agora...
+Ora, ora...
 
 386
 00:26:49,255 --> 00:26:52,842
-Nunca esperei ver
-O lendário Sharingan tão em breve...
+Nunca achei que veria
+o lendário Sharingan tão cedo...
 
 387
 00:26:53,002 --> 00:26:54,295
-Isto é uma honra.
+É uma honra.
 
 388
 00:26:54,575 --> 00:26:56,952
-Todos têm dito Sharingan...
+Todo mundo fica falando Sharingan...
 
 389
 00:26:57,288 --> 00:26:58,372
-O que é?
+O que é isso?!
 
 390
 00:26:59,328 --> 00:27:00,329
-...Sharingan.
+... Sharingan.
 
 391
 00:27:01,194 --> 00:27:04,238
-É um poder especial que pode ver
-Ver através e defletir genjutsu.
+É um poder especial que enxerga
+através dos movimentos e copia técnicas.
 
 392
 00:27:04,656 --> 00:27:10,027
-O Sharingan é um tipo de dojutsu;
-uma forma única de ninjutsu ocular.
+O Sharingan é um Dōjutsu (Técnica Ocular),
+um jutsu visual que se manifesta nos olhos.
 
 393
 00:27:11,503 --> 00:27:15,409
-No entanto, esse não é o único poder
-O Sharingan tem...
+Mas esse não é o único poder
+do Sharingan...
 
 394
 00:27:17,652 --> 00:27:19,237
@@ -1742,68 +1728,68 @@ Bem dito.
 
 395
 00:27:19,322 --> 00:27:21,199
-Há na verdade mais...
+Há mais, de fato...
 
 396
 00:27:26,494 --> 00:27:29,456
-Quando eu estava nas Operações Negras da ANBU
+Quando eu era da ANBU
 da Névoa Oculta,
 
 397
 00:27:29,663 --> 00:27:31,999
-Eu tinha um livro de bingo do shinobi...
+eu tinha um Livro Bingo de shinobi...
 
 398
 00:27:32,024 --> 00:27:34,610
-Estavas entre aqueles que eu tinha informações.
+Você estava entre os que eu tinha informações.
 
 399
 00:27:35,879 --> 00:27:38,089
-Tem um registo impressionante...
+Você tem um histórico bem impressionante...
 
 400
 00:27:38,636 --> 00:27:41,847
 O homem que copiou
-mais de mil jutsu...
+mais de mil jutsus...
 
 401
 00:27:42,023 --> 00:27:44,004
-Kakashi, o ninja da cópia.
+Kakashi, o Ninja Copiador.
 
 402
 00:27:45,029 --> 00:27:49,033
-<i>O quê? Kakashi Sensei
-é realmente incrível?</i>
+<i>O quê? O Kakashi-sensei
+é tão incrível assim?</i>
 
 403
 00:27:49,807 --> 00:27:51,517
-W-Wow!
+U-Uau!
 
 404
 00:27:53,037 --> 00:27:55,707
-<i>O Sharingan...é um traço especial</i>
+<i>O Sharingan... é um traço especial</i>
 
 405
 00:27:56,010 --> 00:27:58,930
-<i>que aparece em apenas alguns
-entre o clã Uchiha.</i>
+<i>que aparece só em alguns poucos
+membros do clã Uchiha.</i>
 
 406
 00:27:59,068 --> 00:28:00,653
-<i>Pode ser...</i>
+<i>Será que ele...</i>
 
 407
 00:28:02,155 --> 00:28:04,491
-Vamos acabar com a conversa.
+Chega de conversa.
 
 408
 00:28:05,366 --> 00:28:08,328
-Tenho de matar aquele velho imediatamente.
+Eu preciso matar aquele velho agora.
 
 409
 00:28:15,627 --> 00:28:20,298
 Mas, Kakashi, parece que
-Tenho de te derrotar primeiro.
+primeiro vou ter que derrotar você.
 
 410
 00:28:28,223 --> 00:28:29,098
@@ -1811,27 +1797,28 @@ Ali!
 
 411
 00:28:29,123 --> 00:28:30,166
-E ele está na água?
+E ele está em cima da água?
 
 412
 00:28:32,268 --> 00:28:34,270
-<i>Ele está a construir um bocado de chakra!</i>
+<i>Ele está acumulando muito chakra!</i>
 
 413
 00:28:34,845 --> 00:28:37,723
-<i>Ninja Arte: Névoa Escondida Jutsu.</i>
+<i>Ninpō: Kirigakure no Jutsu
+(Arte Ninja: Jutsu da Névoa Oculta).</i>
 
 414
 00:28:41,953 --> 00:28:42,953
-Ele desapareceu?!
+Ele sumiu?!
 
 415
 00:28:43,571 --> 00:28:46,157
-Provavelmente virá matar-me primeiro...
+Ele provavelmente vai vir me matar primeiro...
 
 416
 00:28:46,324 --> 00:28:47,826
-O que é ele?
+O que ele é?
 
 417
 00:28:48,418 --> 00:28:49,628
@@ -1839,30 +1826,30 @@ Zabuza Momochi.
 
 418
 00:28:50,286 --> 00:28:52,413
-Ele é membro da ANBU Black Ops.
-da Névoa Oculta e
+Ele é membro da ANBU
+da Névoa Oculta
 
 419
 00:28:52,438 --> 00:28:55,274
-é conhecido como um especialista
-na técnica de "a matança silenciosa".
+e especialista na técnica Sairento
+Kiringu (Assassinato Silencioso).
 
 420
 00:28:55,750 --> 00:28:57,460
-Por isso não baixem a guarda, pessoal.
+Então não baixem a guarda, pessoal.
 
 421
 00:29:08,207 --> 00:29:10,543
-A névoa está ficando cada vez mais espessa!
+A neblina está ficando cada vez mais densa!
 
 422
 00:29:10,849 --> 00:29:13,351
 A Terra das Ondas
-está rodeado por oceano.
+é cercada pelo oceano.
 
 423
 00:29:13,810 --> 00:29:15,895
-Então, a névoa sobe muito facilmente.
+A neblina se forma rápido aqui.
 
 424
 00:29:19,274 --> 00:29:20,274
@@ -1874,7 +1861,7 @@ Sensei!
 
 426
 00:29:24,006 --> 00:29:25,591
-O quê?
+Hã? O quê?
 
 427
 00:29:26,698 --> 00:29:29,659
@@ -1887,31 +1874,31 @@ os pulmões, o fígado...</i>
 
 429
 00:29:33,204 --> 00:29:35,582
-<i>os rins, e o coração...</i>
+<i>os rins e o coração...</i>
 
 430
 00:29:36,655 --> 00:29:39,449
-<i>Agora, então, que vulnerável vital
-Seria bom?</i>
+<i>Agora, qual ponto vital
+eu devo escolher?</i>
 
 431
 00:29:47,635 --> 00:29:49,304
-<i>Que sede intensa de sangue!</i>
+<i>Que intenção assassina intensa!</i>
 
 432
 00:29:50,555 --> 00:29:53,747
-<i>Se eu respirar um pouco,
-ou mover os meus olhos,</i>
+<i>Se eu respirar uma vez só,
+ou mexer os olhos,</i>
 
 433
 00:29:53,772 --> 00:29:57,185
-<i>I será marcado e morto...
-É o que estou a sentir.</i>
+<i>vou ser marcado e morto...
+É o que eu sinto.</i>
 
 434
 00:29:57,186 --> 00:30:01,232
-<i>De forma alguma!
-apenas para escapar desta sensação!</i>
+<i>Não aguento! Prefiro morrer
+a sentir isso!</i>
 
 435
 00:30:02,307 --> 00:30:03,307
@@ -1919,17 +1906,17 @@ Sasuke.
 
 436
 00:30:04,068 --> 00:30:07,739
-Acalma-te.
-Eu protejo-te com a minha vida.
+Fique calmo.
+Eu vou te proteger com a minha vida.
 
 437
 00:30:09,073 --> 00:30:13,077
-Não vou permitir.
-Os meus camaradas para serem mortos.
+Não vou deixar
+que matem meus companheiros.
 
 438
 00:30:13,708 --> 00:30:15,112
-Pergunto-me sobre isso...
+Será mesmo...
 
 439
 00:30:16,931 --> 00:30:17,931
@@ -1938,15 +1925,16 @@ Acabou.
 440
 00:30:36,239 --> 00:30:37,449
 Sensei!
-Atrás de ti!
+Atrás de você!
 
 441
 00:30:39,284 --> 00:30:40,577
-Morre!
+Morra!
 
 442
 00:30:46,277 --> 00:30:47,695
-<i>O Clone de Água Jutsu?</i>
+<i>Um Mizu Bunshin no Jutsu?
+(Jutsu Clone de Água)</i>
 
 443
 00:30:49,447 --> 00:30:50,447
@@ -1954,7 +1942,7 @@ Morre!
 
 444
 00:30:57,798 --> 00:30:58,798
-Não te mexas.
+Não se mexa.
 
 445
 00:31:00,050 --> 00:31:01,050
@@ -1970,40 +1958,40 @@ Você disse que acabou?
 
 448
 00:31:13,593 --> 00:31:15,429
-Não entendes, pois não?
+Você não entende, não é?
 
 449
 00:31:16,403 --> 00:31:20,157
-Você não vai conseguir me vencer.
-Só de me imitar como um macaco...
+Você nunca vai me derrotar
+com uma imitação barata dessas.
 
 450
 00:31:21,107 --> 00:31:22,275
-Nem pensar.
+Sem chance.
 
 451
 00:31:24,482 --> 00:31:26,317
-Mas, devo dizer que você é bom.
+Mas tenho que admitir que você é bom.
 
 452
 00:31:27,268 --> 00:31:33,024
-Já tinhas copiado o meu
-O Clone de Água Jutsu naquela altura, huh?
+Você já tinha copiado o meu
+Mizu Bunshin no Jutsu naquela hora, hein?
 
 453
 00:31:33,992 --> 00:31:37,745
-<i>I não permitirá
-meus camaradas para serem mortos.</i>
+<i>Não vou deixar
+que matem meus companheiros.</i>
 
 454
 00:31:38,079 --> 00:31:45,795
-E ao ter o clone agindo como você,
-Conseguiste distrair-me.
+Você usou o clone para ficar no seu lugar
+e criar uma distração.
 
 455
 00:31:46,587 --> 00:31:52,635
-Enquanto você usou a Mist escondida Jutsu
-para te esconderes e me veres...
+Enquanto se escondia com o Jutsu da
+Névoa Oculta e me observava...
 
 456
 00:31:53,302 --> 00:31:54,345
@@ -2011,15 +1999,15 @@ Mas...
 
 457
 00:31:55,471 --> 00:31:57,598
-Não sou parvo.
+Eu não sou bobo.
 
 458
 00:32:08,151 --> 00:32:09,151
-<i>Now!</i>
+<i>Agora!</i>
 
 459
 00:32:13,247 --> 00:32:14,247
-<i>Makibishi picos!</i>
+<i>Estrepes makibishi.</i>
 
 460
 00:32:18,036 --> 00:32:19,120
@@ -2027,24 +2015,24 @@ Que tolice!
 
 461
 00:32:23,875 --> 00:32:27,420
-<i>W-O que há com esta água...?
-É muito pesado.</i>
+<i>O-O que é essa água...?
+Está pesada demais.</i>
 
 462
 00:32:28,126 --> 00:32:29,877
-Humph... tolo!
+Hmpf... Tolo!
 
 463
 00:32:30,757 --> 00:32:32,008
-<i>Prisão de Água Jutsu!</i>
+<i>Suirō no Jutsu! (Jutsu Prisão de Água)</i>
 
 464
 00:32:32,467 --> 00:32:33,467
-<i>Damn!</i>
+<i>Droga!</i>
 
 465
 00:32:35,988 --> 00:32:38,074
-<i>Minha fuga para a água...</i>
+<i>Fugir para dentro d'água...</i>
 
 466
 00:32:38,345 --> 00:32:39,345
@@ -2052,69 +2040,69 @@ Humph... tolo!
 
 467
 00:32:42,518 --> 00:32:43,603
-Foste apanhado...
+Te peguei...
 
 468
 00:32:43,978 --> 00:32:46,481
-É uma prisão especial.
-É impossível para ti escapares!
+Esta prisão é especial.
+Não há como escapar!
 
 469
 00:32:47,231 --> 00:32:49,442
-Eu vou resolver as coisas.
-Contigo mais tarde.
+Eu acerto as contas
+com você depois.
 
 470
 00:32:50,294 --> 00:32:53,798
-Depois de acabar com aqueles tipos.
+Depois que eu acabar com aqueles ali.
 
 471
 00:32:54,822 --> 00:32:56,282
-<i>Clone de água Jutsu...</i>
+<i>Mizu Bunshin no Jutsu!</i>
 
 472
 00:32:57,784 --> 00:32:59,304
-<i>I não esperava este nível de habilidade...</i>
+<i>Não esperava esse nível de habilidade...</i>
 
 473
 00:33:11,631 --> 00:33:14,967
-Você está agindo como um grande,
-usando uma faixa de cabeça como um ninja...
+Bancando os durões com essa
+bandana...
 
 474
 00:33:15,821 --> 00:33:19,407
-Mas... um verdadeiro ninja é um
+Mas... um ninja de verdade é aquele
 
 475
 00:33:19,889 --> 00:33:23,142
-Que paira entre
-vida e morte inúmeras vezes.
+que dançou à beira da morte
+incontáveis vezes.
 
 476
 00:33:24,163 --> 00:33:25,163
-Por outras palavras,
+Em outras palavras,
 
 477
 00:33:25,603 --> 00:33:28,481
-apenas aqueles que valem a pena ser listados
-no meu livro de bingo
+só quem tem um nome digno
+de constar no meu Livro Bingo
 
 478
 00:33:28,733 --> 00:33:30,818
-Merece ser chamado de ninja.
+merece ser chamado de ninja.
 
 479
 00:33:32,455 --> 00:33:36,793
-Tipos como você não podem ser
-Chamado verdadeiro ninja.
+Vocês, pirralhos, nem merecem
+ser chamados de ninjas.
 
 480
 00:33:37,907 --> 00:33:38,907
-<i>Ele desapareceu novamente!</i>
+<i>Ele sumiu de novo!</i>
 
 481
 00:33:48,084 --> 00:33:49,585
-Você é apenas uma criança!
+Você não passa de um moleque!
 
 482
 00:33:50,824 --> 00:33:51,824
@@ -2122,36 +2110,34 @@ Naruto!
 
 483
 00:33:54,340 --> 00:33:57,426
-Vocês os três!
-Leva o Tazuna e corre!
+Vocês três!
+Peguem o Tazuna e fujam!
 
 484
 00:33:57,885 --> 00:33:59,303
-Você não tem chance
-contra este tipo!
+Vocês não têm chance
+contra esse cara!
 
 485
 00:34:00,093 --> 00:34:02,603
-Enquanto ele me prendeu
-nesta prisão de água,
+Enquanto ele me mantiver preso
+neste Suirō,
 
 486
 00:34:02,628 --> 00:34:04,046
-Ele não vai poder sair.
+ele não pode sair deste lugar.
 
 487
 00:34:04,474 --> 00:34:06,202
-E ele não deve ser capaz de usar
-o Clone de Água Jutsu
+E o Mizu Bunshin também não pode se afastar
 
 488
 00:34:06,227 --> 00:34:08,354
-Se estiver longe o suficiente
-do seu corpo verdadeiro.
+muito do corpo verdadeiro do usuário.
 
 489
 00:34:08,980 --> 00:34:10,481
-Por isso, corre por agora!
+Então, por agora, fujam!
 
 490
 00:34:17,655 --> 00:34:18,655
@@ -2163,103 +2149,103 @@ Sasuke...
 
 492
 00:34:24,495 --> 00:34:28,791
-<i>T-Este é um nível de jonina...
-Um verdadeiro ninja...</i>
+<i>I-Isso é um nível jonin...
+Um ninja de verdade...</i>
 
 493
 00:34:29,431 --> 00:34:31,892
-<i>A sério!</i>
+<i>Sério! Sério!</i>
 
 494
 00:34:32,128 --> 00:34:33,128
-<i>Nós vamos ser mortos!!</i>
+<i>Nós vamos morrer!!</i>
 
 495
 00:34:36,449 --> 00:34:37,084
-Ow!
+Ai!
 
 496
 00:34:58,196 --> 00:35:02,742
-<i>Naruto, vem cá.
-Gostaria de lhe dar uma coisa.</i>
+<i>Naruto, venha cá.
+Quero te dar uma coisa.</i>
 
 497
 00:35:04,704 --> 00:35:07,374
-<i>Parabéns pela sua graduação.</i>
+<i>Parabéns pela formatura.</i>
 
 498
 00:35:08,467 --> 00:35:09,969
-<i>Isso é porque você é
-todos os esguichos</i>
+<i>Além de terem um refém,</i>
 
 499
 00:35:09,994 --> 00:35:12,663
-<i>que não têm as qualificações
-para se tornar ninja.</i>
+<i>vocês ficam entre duas escolhas
+impossíveis e acabam mortos.</i>
 
 500
 00:35:14,626 --> 00:35:17,212
-<i>Missões são todas atribuições arriscadas.</i>
+<i>Em toda missão,
+vocês arriscam a vida.</i>
 
 501
 00:35:19,425 --> 00:35:20,551
-<i>Passas!</i>
+<i>Vocês passaram!</i>
 
 502
 00:35:20,968 --> 00:35:26,474
-<i>I não sou aquele brincalhão.
-que você pensa que eu sou!</i>
+<i>Eu não sou mais o pequeno encrenqueiro
+que você pensa!</i>
 
 503
 00:35:27,683 --> 00:35:28,963
-<i>I vai superar o Hokage!</i>
+<i>Eu vou superar o Hokage!</i>
 
 504
 00:35:29,750 --> 00:35:32,419
-<i>E depois toda a aldeia</i>
+<i>E aí a vila inteira</i>
 
 505
 00:35:32,444 --> 00:35:34,738
-<i>terá que reconhecer minha existência!</i>
+<i>vai ter que reconhecer a minha existência!</i>
 
 506
 00:35:36,299 --> 00:35:37,299
-<i>Isso mesmo...</i>
+<i>É isso mesmo...</i>
 
 507
 00:35:37,526 --> 00:35:41,030
-<i>I agora é um ninja.</i>
+<i>Agora eu sou um ninja. E...</i>
 
 508
 00:35:42,153 --> 00:35:44,780
-<i>I decidiu que eu não ia
-para congelar!</i>
+<i>eu decidi que não ia
+travar!</i>
 
 509
 00:35:46,005 --> 00:35:47,089
-<i>Que eu não iria fugir!</i>
+<i>Que eu não ia fugir!</i>
 
 510
 00:35:48,250 --> 00:35:50,544
-Tolo...
+Hmpf! Idiota...
 
 511
 00:36:02,235 --> 00:36:04,821
-No que você está pensando...
-A carregar sozinho?!
+O que você tem na cabeça...
+pra atacar sozinho?!
 
 512
 00:36:05,103 --> 00:36:06,688
-Nem mesmo o Sasuke é páreo para ele...
+Nem o Sasuke é páreo para ele...
 
 513
 00:36:07,233 --> 00:36:11,237
-Por mais que tentemos,
-Nós, os Genin, não somos páreo para ele...
+Por mais que a gente tente,
+nós, genin, não somos páreo para ele...
 
 514
 00:36:18,317 --> 00:36:19,317
-<i>Huh?!</i>
+<i>Hã?!</i>
 
 515
 00:36:26,320 --> 00:36:27,320
@@ -2267,20 +2253,20 @@ Nós, os Genin, não somos páreo para ele...
 
 516
 00:36:44,719 --> 00:36:47,426
-Um tipo sem sobrancelhas...
+Ei, Sem-Sobrancelha!
 
 517
 00:36:49,611 --> 00:36:53,073
-Faça um registro no seu Bingo Book...
+Anote no seu Livro Bingo...
 
 518
 00:36:53,923 --> 00:36:57,510
-Sobre o homem que vai
-tornar-se Hokage da Vila da Folha.
+o homem que um dia vai ser Hokage
+da Vila Oculta da Folha.
 
 519
 00:36:57,758 --> 00:36:59,593
-A aldeia de Folhas é muito própria...
+O orgulho da Vila Oculta da Folha...
 
 520
 00:37:01,027 --> 00:37:03,280
@@ -2288,33 +2274,32 @@ Naruto Uzumaki!
 
 521
 00:37:06,365 --> 00:37:11,746
-<i>Quando vi pela primeira vez aquele garoto,
-Ele parecia tão pouco confiável...</i>
+<i>Quando vi esse garotinho pela primeira vez,
+ele parecia tão pouco confiável...</i>
 
 522
 00:37:12,350 --> 00:37:15,061
-Sasuke, me empresta o seu ouvido!
+Sasuke! Eu tenho um plano!
 
 523
 00:37:15,249 --> 00:37:16,249
-O que é?
+Qual é?
 
 524
 00:37:16,459 --> 00:37:17,668
-Tenho um plano.
+Eu tenho um plano.
 
 525
 00:37:18,586 --> 00:37:21,589
-Humph!
-Você está falando de trabalho em equipe?
+Hmpf! Trabalho em equipe, é?
 
 526
 00:37:22,590 --> 00:37:25,384
-<i>W-O que é esta sensação?</i>
+<i>O-O que é esse sentimento?</i>
 
 527
 00:37:26,469 --> 00:37:28,012
-<i>Era Naruto sempre tão...?</i>
+<i>O Naruto sempre foi assim...?</i>
 
 528
 00:37:29,428 --> 00:37:30,428
@@ -2322,39 +2307,39 @@ Agora...
 
 529
 00:37:31,849 --> 00:37:33,184
-Vamos ficar selvagens...
+Vamos nessa!
 
 530
 00:37:36,421 --> 00:37:39,841
-Tão alto a cheirar,
-Mas achas mesmo que você pode ganhar?
+Palavras grandes para um pirralho.
+Vamos ver se você dá conta.
 
 531
 00:37:40,742 --> 00:37:42,577
-<i>T-Isto não é bom...</i>
+<i>I-Isso não é bom...</i>
 
 532
 00:37:42,844 --> 00:37:45,430
-O que estão fazendo?
-Eu disse-te para fugires!
+O que vocês estão fazendo?
+Eu mandei vocês fugirem!
 
 533
 00:37:45,959 --> 00:37:48,240
-Era óbvio o que ia acontecer.
-Uma vez fui apanhado!
+Estava na cara o que ia acontecer
+quando eu fosse pego!
 
 534
 00:37:48,400 --> 00:37:49,400
-Hurny, corre!
+Rápido! Fujam!
 
 535
 00:37:49,887 --> 00:37:53,224
-Ouve-me!
-A nossa missão é proteger Tazuna!
+Me escutem!
+A nossa missão é proteger o Tazuna!
 
 536
 00:37:53,871 --> 00:37:55,122
-Esqueceste-te disso?!
+Vocês esqueceram disso?!
 
 537
 00:37:58,282 --> 00:37:59,282
@@ -2362,16 +2347,16 @@ Velho...
 
 538
 00:37:59,623 --> 00:38:00,785
-Bem...
+Bom...
 
 539
 00:38:01,825 --> 00:38:04,286
-Eu meti-te nisto...
+Fui eu que meti vocês nisso...
 
 540
 00:38:04,608 --> 00:38:08,112
 E seria errado deixar
-Vocês os quatro são mortos a tentar salvar-me.
+vocês quatro morrerem tentando me salvar.
 
 541
 00:38:09,263 --> 00:38:11,307
@@ -2379,77 +2364,77 @@ Desculpem, pessoal...
 
 542
 00:38:12,004 --> 00:38:13,922
-Lute o quanto quiser!
+Lutem o quanto quiserem!
 
 543
 00:38:15,944 --> 00:38:16,987
-Ouviste?
+Ouviu isso?
 
 544
 00:38:18,404 --> 00:38:19,739
-Você está pronto?
+Está pronto?
 
 545
 00:38:29,922 --> 00:38:32,173
-Vocês não aprenderam mesmo.
-Alguma coisa, não é?
+Vocês não aprenderam mesmo
+nada, não é?
 
 546
 00:38:32,602 --> 00:38:33,979
-O quê?
+O-O quê?!
 
 547
 00:38:35,067 --> 00:38:37,319
-Ainda você está brincando a ser ninja.
+Vocês ainda estão brincando de ninja.
 
 548
 00:38:37,812 --> 00:38:41,191
-Quando eu tinha a sua idade,
+Quando eu tinha a idade de vocês,
 
 549
 00:38:41,928 --> 00:38:45,015
-Esta mão já estava
-vermelho manchado de sangue!
+estas mãos já estavam
+sujas de sangue!
 
 550
 00:38:47,526 --> 00:38:49,153
-Zabuza, o Demónio!
+Zabuza, o Demônio!
 
 551
 00:38:49,831 --> 00:38:53,960
-Então, já ouviste...
+Ohh? Então você já ouviu falar...?
 
 552
 00:38:56,630 --> 00:39:01,259
-Há muito tempo, na Vila da Mist,
-muitas vezes chamada de cidade de Miste de Sangue,
+Antigamente, a Vila da Névoa Oculta era
+conhecida como a "Vila da Névoa Sangrenta".
 
 553
 00:39:02,247 --> 00:39:05,125
-ninja candidatos enfrentados
-o maior obstáculo deles.
+Os candidatos a ninja enfrentavam
+o seu maior desafio.
 
 554
 00:39:08,154 --> 00:39:10,948
-Até sabes sobre...
-O exame de graduação...?
+Você conhece até
+o exame de formatura...?
 
 555
 00:39:11,586 --> 00:39:13,338
-O exame de graduação?
+O exame de formatura?
 
 556
 00:39:15,837 --> 00:39:17,547
-O que é?
+O que é isso?
 
 557
 00:39:17,831 --> 00:39:19,751
-Este exame de graduação
-Do que você está falando...
+Esse exame de formatura
+de que você está falando...
 
 558
 00:39:25,479 --> 00:39:27,773
-Os alunos mataram-se uns aos outros.
+Os alunos se matavam entre si.
 
 559
 00:39:28,319 --> 00:39:29,319
@@ -2457,23 +2442,23 @@ O quê?
 
 560
 00:39:34,430 --> 00:39:37,433
-Colegas de turma que partilharam arroz
-do mesmo pote
+Colegas que dividiam o arroz
+da mesma panela
 
 561
 00:39:37,458 --> 00:39:39,710
-formaram pares e tentaram
-para nos matarmos uns aos outros.
+formavam duplas e tentavam
+se matar.
 
 562
 00:39:40,352 --> 00:39:42,938
-Não acabou.
-até que um deles morreu.
+Só acabava
+quando um deles morria.
 
 563
 00:39:43,757 --> 00:39:49,679
-Amigos que costumavam falar sobre
-Os sonhos e aspirações um do outro...
+Amigos que conversavam sobre
+os sonhos e as ambições um do outro...
 
 564
 00:39:52,264 --> 00:39:53,264
@@ -2485,38 +2470,39 @@ Há dez anos,
 
 566
 00:39:56,368 --> 00:40:00,956
-o exame de graduação da Vila da Névoa
-Foi forçado a passar por reformas drásticas.
+o exame de formatura da Vila da Névoa
+teve que passar por uma reforma radical.
 
 567
 00:40:02,333 --> 00:40:07,505
-Porque um demônio maligno apareceu
-no ano anterior.
+Porque no ano anterior
+tinha aparecido um demônio.
 
 568
 00:40:08,418 --> 00:40:09,585
-E a reforma?
+Que reforma?
 
 569
 00:40:10,093 --> 00:40:12,554
-O que fez aquele demónio mau?
+O que esse demônio fez?
 
 570
 00:40:13,993 --> 00:40:17,288
-Sem escrúpulos ou hesitações...
+Sem escrúpulos nem hesitação...
 
 571
 00:40:18,474 --> 00:40:21,519
-um garoto que nem sequer tinha
-mas qualificado como ninja,
+um garoto que nem tinha
+se qualificado como ninja
 
 572
 00:40:21,978 --> 00:40:26,816
-Abateu mais de cem examinações.
+massacrou mais de cem
+dos seus colegas.
 
 573
 00:40:30,475 --> 00:40:34,187
-Isso foi mesmo divertido.
+Isso sim foi... divertido...
 
 574
 00:40:44,466 --> 00:40:45,466
@@ -2524,20 +2510,21 @@ Sasuke!
 
 575
 00:40:56,669 --> 00:40:57,669
-Morre!
+Morra!
 
 576
 00:40:58,780 --> 00:41:00,365
-<i>Clone de sombra Jutsu!</i>
+<i>Kage Bunshin no Jutsu!</i>
+<i>(Jutsu dos Clones das Sombras)</i>
 
 577
 00:41:04,314 --> 00:41:09,360
-Ah... Clone de Sombra Jutsu,
-e há muitos deles.
+Ah... Kage Bunshin no Jutsu,
+e são tantos.
 
 578
 00:41:10,985 --> 00:41:12,319
-Aqui vou eu!
+Lá vou eu!
 
 579
 00:41:25,583 --> 00:41:27,501
@@ -2545,8 +2532,8 @@ Aqui vou eu!
 
 580
 00:41:31,380 --> 00:41:34,550
-<i>Só há uma maneira
-para derrotar este cara!</i>
+<i>Só resta um jeito
+de derrotar esse cara!</i>
 
 581
 00:41:35,156 --> 00:41:36,156
@@ -2554,7 +2541,7 @@ Sasuke!
 
 582
 00:41:40,540 --> 00:41:41,159
-<i>I ver!</i>
+<i>Entendi!</i>
 
 583
 00:41:41,548 --> 00:41:43,467
@@ -2562,24 +2549,24 @@ Sasuke!
 
 584
 00:41:43,767 --> 00:41:45,394
-<i>Isso é muito bom para você!</i>
+<i>Nada mal para você!</i>
 
 585
 00:41:56,021 --> 00:41:57,272
-Vento demoníaco Shuriken.
+<i>Fūma Shuriken (Shuriken do Vento Demoníaco)</i>
 
 586
 00:41:58,184 --> 00:42:01,187
-Um shuriken não vai funcionar comigo.
+Shuriken não funciona comigo.
 
 587
 00:42:10,132 --> 00:42:11,132
-<i>I ver.</i>
+<i>Entendi.</i>
 
 588
 00:42:12,091 --> 00:42:14,718
-<i>Desta vez, você está a ser um grande fã.
-visando o meu corpo real ...</i>
+<i>Desta vez você está
+mirando no meu corpo verdadeiro...</i>
 
 589
 00:42:16,090 --> 00:42:17,090
@@ -2591,8 +2578,8 @@ visando o meu corpo real ...</i>
 
 591
 00:42:21,113 --> 00:42:23,313
-<i>A segundo shuriken oculto
-na primeira sombra do shuriken!</i>
+<i>Uma segunda shuriken escondida
+na sombra da primeira!</i>
 
 592
 00:42:27,144 --> 00:42:28,144
@@ -2600,19 +2587,19 @@ na primeira sombra do shuriken!</i>
 
 593
 00:42:29,646 --> 00:42:31,356
-<i>Ainda muito ingênuo.</i>
+<i>Ainda é ingênuo demais.</i>
 
 594
 00:42:37,394 --> 00:42:38,812
-Aqui está!
+Te peguei!
 
 595
 00:42:51,585 --> 00:42:53,170
-Seu fedelho!
+Seu pirralho!
 
 596
 00:43:02,350 --> 00:43:03,601
-Kakashi Sensei!
+Kakashi-sensei!
 
 597
 00:43:08,060 --> 00:43:09,060
@@ -2620,57 +2607,57 @@ Naruto...
 
 598
 00:43:09,612 --> 00:43:11,322
-A sua estratégia foi excelente.
+Sua estratégia foi excelente.
 
 599
 00:43:12,441 --> 00:43:14,902
-Você você cresceu...
-Vocês os dois.
+Vocês cresceram...
+Os dois.
 
 600
 00:43:16,634 --> 00:43:20,513
-O propósito dos Clones das Sombras
-não foi para derrubar Zabuza,
+O objetivo dos Clones das Sombras
+não era derrubar o Zabuza,
 
 601
 00:43:20,883 --> 00:43:25,637
-mas para esconder a minha transformação
-Para o Vento Demónio Shuriken!
+mas me esconder, transformado
+numa Fūma Shuriken!
 
 602
 00:43:26,109 --> 00:43:27,527
-Foi um acaso...
+Foi só sorte...
 
 603
 00:43:28,146 --> 00:43:29,939
-Foi um acaso, não foi?
+Foi só sorte, é!
 
 604
 00:43:30,802 --> 00:43:33,972
-<i>Ainda assim, eles executaram sem falhas
-como uma equipe...</i>
+<i>Mesmo assim, eles agiram em equipe
+sem nenhuma falha...</i>
 
 605
 00:43:33,997 --> 00:43:35,546
-<i>in esta situação desesperada.</i>
+<i>nesta situação desesperadora.</i>
 
 606
 00:43:36,948 --> 00:43:38,032
-<i>Apesar do fato...</i>
+<i>Apesar de...</i>
 
 607
 00:43:38,465 --> 00:43:40,305
-<i>que aqueles dois sempre
-lutar como gatos e cães.</i>
+<i>esses dois sempre brigarem
+como cão e gato.</i>
 
 608
 00:43:41,144 --> 00:43:41,811
-Hmph...
+Hmpf...
 
 609
 00:43:42,219 --> 00:43:45,305
-Eu me distraí e...
-Larguei a minha Prisão de Água Jutsu...
+Eu me distraí e
+desfiz meu Suirō no Jutsu...
 
 610
 00:43:45,715 --> 00:43:46,715
@@ -2678,75 +2665,76 @@ Não é isso!
 
 611
 00:43:47,400 --> 00:43:48,985
-Não deixaste cair o jutsu...
+Você não desfez o jutsu...
 
 612
 00:43:50,260 --> 00:43:51,428
-Obrigaram-te a quebrá-lo.
+Eles te obrigaram a quebrá-lo.
 
 613
 00:43:52,424 --> 00:43:56,678
-Vou dizer-te agora,
-O mesmo jutsu não vai funcionar comigo duas vezes.
+Vou dizer uma vez só: o mesmo
+jutsu não funciona comigo duas vezes.
 
 614
 00:43:57,777 --> 00:43:59,070
-Então, o que você vai fazer?
+E então, o que você vai fazer?
 
 615
 00:44:17,296 --> 00:44:18,588
-<i>Ushi, saru, u.
-Ne, inoshishishi, tori, ushi.</i>
+<i>Boi, Macaco, Lebre.
+Rato, Javali, Pássaro, Boi.</i>
 
 616
 00:44:18,589 --> 00:44:20,189
-<i>Ushi, saru, u.
-Ne, inoshishishi, tori, ushi.</i>
+<i>Boi, Macaco, Lebre.
+Rato, Javali, Pássaro, Boi.</i>
 
 617
 00:44:24,972 --> 00:44:25,972
-<i>tori!</i>
+<i>Sinal de mão: Pássaro</i>
 
 618
 00:44:28,762 --> 00:44:30,514
-<i>Água Estilo: Dragão de Água Jutsu!</i>
+<i>Suiton: Suiryūdan no Jutsu!
+(Estilo Água: Jutsu Dragão de Água)</i>
 
 619
 00:44:50,614 --> 00:44:52,658
-<i>Ele copiou tudo isso em segundos...</i>
+<i>Ele copiou tudo em segundos...</i>
 
 620
 00:44:53,435 --> 00:44:55,187
-<i>e tão perfeitamente...!</i>
+<i>e com tanta perfeição...!</i>
 
 621
 00:45:09,973 --> 00:45:11,099
-<i>Strange...ZXQPROTECCT1QXZ</i>
+<i>Estranho...</i>
 
 622
 00:45:11,329 --> 00:45:13,790
-<i>O jutsu foi colocado em movimento
-ao mesmo tempo!</i>
+<i>Fizemos o jutsu
+exatamente ao mesmo tempo!</i>
 
 623
 00:45:15,409 --> 00:45:17,161
-<i>Ele não poderia ser...</i>
+<i>Não pode ser...</i>
 
 624
 00:45:35,150 --> 00:45:36,318
-<i>Este tipo...</i>
+<i>Esse cara...</i>
 
 625
 00:45:37,363 --> 00:45:38,948
-<i>Meus movimentos...!</i>
+<i>Os meus movimentos...!</i>
 
 626
 00:45:40,181 --> 00:45:41,683
-<i>Ele é perfeito...</i>
+<i>Ele está perfeitamente...</i>
 
 627
 00:45:42,780 --> 00:45:44,405
-Lendo-os.
+Lendo eles.
 
 628
 00:45:44,466 --> 00:45:45,467
@@ -2754,44 +2742,44 @@ Lendo-os.
 
 629
 00:45:45,759 --> 00:45:48,220
-<i>Ele está lendo minha mente?!</i>
+<i>Ele está lendo a minha mente?!</i>
 
 630
 00:45:51,641 --> 00:45:53,851
-<i>Blast ele é...</i>
+<i>Maldito! Ele é...</i>
 
 631
 00:45:54,601 --> 00:45:57,896
-Dar-me
-Aquele olho estéril, mau... certo?
+Está tentando me intimidar
+com esse olhar frio... Não é?
 
 632
 00:46:01,490 --> 00:46:05,869
-Você só está copiando...
-Você é uma imitação pálida.
+Hah! Você só copia...
+Não passa de uma imitação barata.
 
 633
 00:46:06,446 --> 00:46:08,926
-- Você não vai conseguir me vencer!
-- Você não vai conseguir me vencer!
+- Você não vai conseguir me derrotar!
+- Você não vai conseguir me derrotar!
 
 634
 00:46:09,027 --> 00:46:10,027
-- Você!
-- Você!
+- Seu...!
+- Seu...!
 
 635
 00:46:11,118 --> 00:46:15,122
-Vou fechar o imitador.
-Boca de macaco permanentemente!
+Vou calar essa boca de
+macaco imitador para sempre!
 
 636
 00:46:19,768 --> 00:46:20,977
-<i>W-O que é isso!</i>
+<i>O-O que é aquilo!</i>
 
 637
 00:46:25,197 --> 00:46:26,197
-<i>Me?</i>
+<i>Eu?</i>
 
 638
 00:46:26,967 --> 00:46:28,635
@@ -2799,32 +2787,33 @@ Boca de macaco permanentemente!
 
 639
 00:46:29,883 --> 00:46:31,718
-<i>Este genjutsu?</i>
+<i>Isso é um genjutsu?</i>
 
 640
 00:46:34,660 --> 00:46:36,996
-<i>Água Estilo: Vortex gigante Jutsu!</i>
+<i>Suiton: Daibakufu no Jutsu!
+(Estilo Água: Jutsu Vórtice Gigante)</i>
 
 641
 00:46:38,803 --> 00:46:40,137
-W-Wha!
+O-O quê!
 
 642
 00:46:45,903 --> 00:46:46,903
-Nem pensar!
+Não pode ser!
 
 643
 00:46:55,057 --> 00:46:57,727
-<i>I estava prestes a
-usar que jutsu...</i>
+<i>Eu ia usar
+esse jutsu agora mesmo...</i>
 
 644
 00:47:03,114 --> 00:47:04,657
-<i>I não pode acompanhar com...</i>
+<i>Não consigo acompanhar...</i>
 
 645
 00:47:05,130 --> 00:47:06,423
-<i>his jutsu!</i>
+<i>os jutsus dele!</i>
 
 646
 00:47:46,838 --> 00:47:47,838
@@ -2832,16 +2821,16 @@ Acabou...
 
 647
 00:48:06,400 --> 00:48:07,400
-Porquê...?
+Por quê...?
 
 648
 00:48:08,428 --> 00:48:12,056
-Você é capaz de ver o futuro...?
+Você consegue ver o futuro...?
 
 649
 00:48:12,108 --> 00:48:13,108
 Sim...
-Entendo...
+Eu vejo...
 
 650
 00:48:14,324 --> 00:48:15,784
@@ -2849,51 +2838,51 @@ A sua morte!
 
 651
 00:48:40,475 --> 00:48:42,728
-Tinhas razão, ele morreu.
+Você tinha razão. Ele está morto.
 
 652
 00:49:17,179 --> 00:49:18,847
-Ele está definitivamente morto.
+Está morto com certeza.
 
 653
 00:49:24,061 --> 00:49:25,407
-Agradeço-lhe.
+Eu agradeço.
 
 654
 00:49:26,396 --> 00:49:31,485
-Tenho estado à espera da oportunidade
-matar Zabuza.
+Eu estava esperando a chance
+de matar o Zabuza.
 
 655
 00:49:34,905 --> 00:49:36,573
-Pelo aspecto daquela máscara...
+Pela aparência dessa máscara...
 
 656
 00:49:37,063 --> 00:49:39,691
-Você é um ninja Rastreador de
-a Vila Escondida na Névoa.
+Você é um Ninja Rastreador
+da Vila Oculta da Névoa.
 
 657
 00:49:41,232 --> 00:49:44,313
 Impressionante.
-Você é muito conhecedor.
+Você sabe muita coisa.
 
 658
 00:49:44,837 --> 00:49:49,508
-<i>Da sua altura e voz,
-Ele não é muito mais velho que Naruto...</i>
+<i>Pelo corpo e pela voz,
+não deve ser muito mais velho que o Naruto...</i>
 
 659
 00:49:50,930 --> 00:49:52,182
-<i>E ele é um ninja de rastreamento...?</i>
+<i>E é um Ninja Rastreador...?</i>
 
 660
 00:49:59,846 --> 00:50:02,724
-<i>Ele não é um garoto comum...</i>
+<i>Não é um garoto comum...</i>
 
 661
 00:50:14,026 --> 00:50:16,947
-O que você é você?
+O que você é?!
 
 662
 00:50:25,038 --> 00:50:26,469
@@ -2901,12 +2890,12 @@ Ei, você!
 
 663
 00:50:27,596 --> 00:50:30,599
-Relaxa, Naruto.
-Ele não é um inimigo.
+Calma, Naruto.
+Ele não é inimigo.
 
 664
 00:50:31,588 --> 00:50:33,673
-Não é isso que estou a pedir!
+Não é isso que eu estou perguntando!
 
 665
 00:50:33,965 --> 00:50:35,008
@@ -2919,132 +2908,132 @@ Quero dizer!
 667
 00:50:37,130 --> 00:50:39,340
 Aquele Zabuza...
-Que Zabuza foi morto!
+Aquele Zabuza foi morto!
 
 668
 00:50:40,178 --> 00:50:42,848
-Aquele tipo que era tão forte...
+Aquele cara tão forte...
 
 669
 00:50:43,014 --> 00:50:46,810
-E ele foi morto tão facilmente...
-Por um garoto que não é mais velho do que eu!
+E foi morto tão fácil
+por um garoto da minha idade!
 
 670
 00:50:46,977 --> 00:50:48,770
-Não posso aceitar isso!
+Eu não aceito isso!
 
 671
 00:50:50,914 --> 00:50:51,637
-Bem...
+Bom,
 
 672
 00:50:51,662 --> 00:50:53,747
-Compreendo a sua descrença.
+eu entendo que você não queira acreditar.
 
 673
 00:50:54,609 --> 00:50:57,279
-Mas... isto também é realidade.
+Mas... isso também é a realidade.
 
 674
 00:51:02,563 --> 00:51:05,858
-Neste mundo, há crianças.
-que são mais jovens que você...
+Neste mundo, há crianças
+mais novas que você...
 
 675
 00:51:06,859 --> 00:51:08,736
-e mais forte do que eu.
+e mais fortes que eu.
 
 676
 00:51:30,508 --> 00:51:34,679
-A sua batalha acabou por agora.
+A sua luta acabou, por enquanto.
 
 677
 00:51:35,596 --> 00:51:38,516
-Tenho de me livrar deste cadáver...
+Preciso dar fim a este corpo...
 
 678
 00:51:39,463 --> 00:51:42,090
-Contém muitos segredos.
+Ele guarda muitos segredos.
 
 679
 00:51:42,115 --> 00:51:44,284
-Agora, então, por favor, desculpem-me.
+Agora, com licença.
 
 680
 00:51:49,539 --> 00:51:50,539
-Ele desapareceu!
+Ele sumiu!
 
 681
 00:51:55,546 --> 00:51:57,965
-A nossa missão ainda não terminou.
+Nossa missão ainda não acabou.
 
 682
 00:51:59,337 --> 00:52:01,673
-Temos de levar o Sr. Tazuna para casa.
+Temos que levar o Tazuna
+em segurança até a casa dele.
 
 683
 00:52:03,863 --> 00:52:05,991
-Desculpem, pessoal!
+Desculpem o incômodo, pessoal!
 
 684
 00:52:06,190 --> 00:52:09,026
-Você pode descansar em minha casa!
+Vocês podem descansar na minha casa!
 
 685
 00:52:09,849 --> 00:52:10,849
-Tá bem!
+Certo!
 
 686
 00:52:10,934 --> 00:52:12,143
-Vamos lá para cima!
+Vamos lá, com ânimo!
 
 687
 00:52:23,372 --> 00:52:24,372
-O quê?
+O-O quê!
 
 688
 00:52:24,491 --> 00:52:25,492
-O que aconteceu?
+O que aconteceu!
 
 689
 00:52:27,410 --> 00:52:28,411
-Kakashi Sensei!
+Kakashi-sensei!
 
 690
 00:52:36,446 --> 00:52:38,323
-Kakashi Sensei!
+Kakashi-sensei!
 
 691
 00:52:51,312 --> 00:52:53,981
-<i>Parece que usei demasiado
-O meu Sharingan...</i>
+<i>Parece que usei demais
+o meu Sharingan...</i>
 
 692
 00:52:55,772 --> 00:52:57,649
-Você está bem, Sensei?
+Você está bem, sensei?
 
 693
 00:52:58,149 --> 00:53:02,279
-Não realmente... vai ser difícil apenas para
-Movam-se durante uma semana...
+Exagerei... Não vou conseguir
+me mexer direito por uma semana.
 
 694
 00:53:02,946 --> 00:53:03,697
-Bem...
+Bom...
 
 695
 00:53:03,906 --> 00:53:06,575
-Seria melhor se...
-Não te mexeste na altura.
+Então é melhor não se mexer.
 
 696
 00:53:06,908 --> 00:53:07,908
-Tá bem...
+C-Certo...
 
 697
 00:53:12,183 --> 00:53:14,636
-O Sensei acordou.
+Ei! O sensei acordou.
 
 698
 00:53:14,958 --> 00:53:16,209
@@ -3052,74 +3041,73 @@ Vamos!
 
 699
 00:53:16,699 --> 00:53:18,117
-O seu Sharingan é fantástico.
+O seu Sharingan é fantástico,
 
 700
 00:53:18,368 --> 00:53:21,830
-mas se coloca essa grande tensão
-No seu corpo, não vale a pena!
+mas, se força tanto o seu corpo,
+será que vale a pena?
 
 701
 00:53:22,078 --> 00:53:23,491
-Desculpe...
+D-Desculpe...
 
 702
 00:53:23,878 --> 00:53:25,088
-Mas sabes...
+Mas, sabe...
 
 703
 00:53:25,389 --> 00:53:27,906
-Ele derrubou-o.
-um ninja muito poderoso!
+Ele derrubou um ninja poderoso!
 
 704
 00:53:27,931 --> 00:53:30,033
-Provavelmente não precisamos de...
-Preocupa-te por um tempo.
+Por um tempo, acho que não
+precisamos nos preocupar.
 
 705
 00:53:30,348 --> 00:53:34,436
-De qualquer forma, aquele garoto com a máscara...
-O que era ele?
+Aliás, aquele garoto mascarado...
+O que ele era?
 
 706
 00:53:35,437 --> 00:53:37,647
-Ele era um ANBU Black Ops
-da aldeia da Névoa Oculta.
+Ele era da ANBU
+da Vila da Névoa Oculta.
 
 707
 00:53:38,523 --> 00:53:40,817
-É uma máscara que é usada pelo
-Unidade de rastreamento ninja de elite.
+Só Ninjas Rastreadores de elite
+usam máscaras como aquela.
 
 708
 00:53:41,901 --> 00:53:43,101
-A unidade de rastreamento ninja de elite?
+Ninja Rastreador?
 
 709
 00:53:43,486 --> 00:53:46,114
-São vulgarmente chamados de
-"Corpo extintor de fogo,"
+Bom, eles são conhecidos como
+"Unidade de Eliminação de Corpos",
 
 710
 00:53:46,906 --> 00:53:50,660
-E o seu dever é apagar todos os vestígios
-que um ninja já viveu.
+e o dever deles é apagar qualquer rastro
+da existência de um ninja.
 
 711
 00:53:51,494 --> 00:53:53,055
 O corpo de um ninja revela
-uma variedade de coisas...
+muitas coisas...
 
 712
 00:53:53,080 --> 00:53:57,793
-Ninjutsu e chakra
-características da sua aldeia...
+Segredos de ninjutsu e características
+do chakra da vila dele...
 
 713
 00:53:57,834 --> 00:54:02,756
-a composição de medicamentos secretos
-usado no corpo de um ninja...
+a composição de remédios secretos
+usados no corpo, por exemplo.
 
 714
 00:54:04,591 --> 00:54:06,343
@@ -3127,104 +3115,103 @@ Por exemplo, se eu morresse,
 
 715
 00:54:07,135 --> 00:54:10,013
-cada segredo sobre o meu Sharingan
-seria investigado cuidadosamente,
+todos os segredos do meu Sharingan
+seriam investigados a fundo,
 
 716
 00:54:11,214 --> 00:54:12,465
-e, no pior dos casos,
+e, na pior das hipóteses,
 
 717
 00:54:12,490 --> 00:54:15,577
-todo o meu jutsu pode ser roubado.
+todos os meus jutsus poderiam ser roubados.
 
 718
 00:54:16,603 --> 00:54:18,208
-Por outras palavras,
-O ninja do localizador é especialista.
+Em outras palavras,
+ninjas Rastreadores são especialistas
 
 719
 00:54:18,233 --> 00:54:21,236
-que impedem os segredos da aldeia
-de vazar para fora
+que impedem que os segredos
+da vila vazem
 
 720
 00:54:21,608 --> 00:54:24,444
-matando ninjas desonestos
-que fugiram da sua aldeia,
+caçando ninjas renegados
+que fugiram da vila
 
 721
 00:54:24,720 --> 00:54:29,058
 e eliminando completamente
-Os seus corpos.
+os corpos deles.
 
 722
 00:54:33,041 --> 00:54:34,041
-<i>O que é isto?</i>
+<i>O que é isso?</i>
 
 723
 00:54:35,830 --> 00:54:37,390
-<i>Deve significar algo
-muito importante...</i>
+<i>Isso deve significar alguma coisa...</i>
 
 724
 00:54:38,859 --> 00:54:41,278
-<i>I tem uma sensação
-Eu esqueci de algo.</i>
+<i>Tenho a sensação
+de que deixei passar alguma coisa.</i>
 
 725
 00:54:42,170 --> 00:54:44,714
-O que está acontecendo?
+O que foi?!
 Sensei?
 
 726
 00:54:45,933 --> 00:54:46,934
-Rastreadores ninjas...
+Ninjas Rastreadores...
 
 727
 00:54:47,166 --> 00:54:50,628
-cuidar dos cadáveres,
-imediatamente e no local.
+dão fim aos corpos
+na hora, no próprio local.
 
 728
 00:54:51,054 --> 00:54:52,514
-E depois?
+E daí?
 
 729
 00:54:53,681 --> 00:54:57,102
-Como é que o garoto de máscara
-Livrar-se do cadáver do Zabuza?
+Como aquele garoto mascarado
+deu fim ao corpo do Zabuza?
 
 730
 00:54:59,996 --> 00:55:01,414
-Como é que vamos saber?!
+Como é que a gente vai saber?!
 
 731
 00:55:01,773 --> 00:55:04,359
-Aquele mascarado.
-Levaram Zabuza!
+Aquele mascarado
+levou o Zabuza embora!
 
 732
 00:55:05,610 --> 00:55:06,610
-Isso mesmo...
+Exatamente...
 
 733
 00:55:07,612 --> 00:55:11,658
-Se ele precisasse de provas de que matou o Zabuza,
-Ele podia simplesmente ter tirado a cabeça...
+Se ele precisasse de prova de que matou
+o Zabuza, bastava levar a cabeça...
 
 734
 00:55:12,867 --> 00:55:13,993
-E depois há...
+E ainda tem...
 
 735
 00:55:14,077 --> 00:55:18,164
-a arma o ninja rastreador garoto
-Costumava matar o Zabuza...
+a arma que o Ninja Rastreador
+usou para matar o Zabuza...
 
 736
 00:55:19,866 --> 00:55:20,866
-Um Senbon normal...
+Só com uma senbon...
 
 737
 00:55:21,960 --> 00:55:22,960
@@ -3232,92 +3219,91 @@ Isso é impossível...
 
 738
 00:55:23,315 --> 00:55:25,901
-Certo... é impossível?!
+É... isso é impossível!
 
 739
 00:55:27,761 --> 00:55:31,091
-O que é que vocês têm?
-tem gritado e gritado sobre?!
+Do que vocês estão
+falando esse tempo todo?!
 
 740
 00:55:32,231 --> 00:55:34,942
 É provável que...
-Zabuza ainda está vivo!
+o Zabuza ainda esteja vivo!
 
 741
 00:55:36,891 --> 00:55:38,768
-Que diabos você quer dizer?!
+Como assim?!
 
 742
 00:55:38,793 --> 00:55:42,363
-Mas Kakashi Sensei,
-Certificaste-te que ele estava morto!
+Mas, Kakashi-sensei,
+você confirmou que ele estava morto!
 
 743
 00:55:43,022 --> 00:55:44,691
-É verdade, eu certifiquei-me...
+Eu confirmei, mas...
 
 744
 00:55:45,692 --> 00:55:49,487
-Mas, provavelmente, ele estava apenas em
-um estado de quase morte.
+ele provavelmente só estava
+num estado parecido com a morte.
 
 745
 00:55:50,748 --> 00:55:55,545
-O senbon que o ninja rastreador usou tem
-uma hipótese muito baixa de matar
+A senbon que o Ninja Rastreador usou
+tem chance muito baixa de matar...
 
 746
 00:55:55,618 --> 00:55:57,871
-A menos que atinja um ponto vital...
+a não ser que atinja um ponto vital.
 
 747
 00:55:58,728 --> 00:56:01,314
-É algo que foi originalmente
-utilizado em tratamentos médicos,
+Originalmente, é algo
+usado em tratamentos médicos,
 
 748
 00:56:01,339 --> 00:56:02,798
-tal como a acupuntura terapêutica.
+como a acupuntura.
 
 749
 00:56:03,961 --> 00:56:07,381
-Ninja rastreadores saber tudo sobre
+Ninjas Rastreadores conhecem bem
 a estrutura do corpo humano...
 
 750
 00:56:08,214 --> 00:56:12,177
-Colocando as pessoas numa quase morte
-O estado é provavelmente simples para eles.
+Deixar alguém num estado de quase morte
+deve ser fácil para eles.
 
 751
 00:56:13,428 --> 00:56:16,639
-Primeiro, ele se deu ao trabalho de
-Levando o cadáver de Zabuza
+Primeiro, ele se deu o trabalho
+de carregar o corpo do Zabuza,
 
 752
 00:56:16,681 --> 00:56:18,725
-que provavelmente era mais pesado
-do que ele é.
+que provavelmente era mais pesado que ele.
 
 753
 00:56:19,942 --> 00:56:24,431
-Segundo, ele usou um senbon,
-Uma arma com poucas hipóteses de matar.
+Segundo, ele usou senbon, uma arma
+com baixa probabilidade de ser fatal.
 
 754
 00:56:26,015 --> 00:56:27,266
-Destes dois factores,
+Por esses dois fatores,
 
 755
 00:56:27,317 --> 00:56:32,197
-É possível que aquele garoto não estivesse a apontar.
-para matar Zabuza, mas para salvá-lo.
+é mais provável que o objetivo do garoto
+não fosse matar o Zabuza, mas salvá-lo.
 
 756
 00:56:33,615 --> 00:56:35,658
-Você não está lendo?
-Muito para dentro?
+Você não está pensando
+demais nisso?
 
 757
 00:56:36,166 --> 00:56:37,096
@@ -3325,46 +3311,44 @@ Não...
 
 758
 00:56:37,191 --> 00:56:41,279
-Se algo parecer suspeito,
-Faz os preparativos antes que seja tarde demais.
+Quando algo parece errado,
+prepare-se para o pior.
 
 759
 00:56:41,831 --> 00:56:43,666
-Isso também é uma regra de ferro folheado
-do shinobi.
+Para um shinobi, essa é uma regra de ferro.
 
 760
 00:56:49,523 --> 00:56:54,528
-<i>Humph... para ouvir que Zabuza
-pode estar vivo e para ser satisfeito...</i>
+<i>Hmpf... Ouvir que o Zabuza
+pode estar vivo e ficar contente...</i>
 
 761
 00:56:55,077 --> 00:56:58,242
-Sensei, o que podemos fazer
-Antes que seja tarde demais?
+Sensei, o que podemos fazer para nos preparar?
 
 762
 00:56:59,057 --> 00:57:00,817
-Nem sequer serás capaz.
-Para me mexer por um tempo...
+Você nem vai conseguir
+se mexer por um tempo...
 
 763
 00:57:01,017 --> 00:57:03,061
-Vou pedir-te para treinares!
+Vou colocar vocês para treinar!
 
 764
 00:57:03,520 --> 00:57:08,358
-Mesmo com treino,
-Não vamos ser assim tão fortes!
+E-Espera aí! Mesmo treinando,
+não vamos ficar tão fortes assim!
 
 765
 00:57:08,806 --> 00:57:13,431
-O nosso adversário é um ninja, que até você,
-com o Sharingan, teve problemas com!
+O adversário é um ninja que deu trabalho
+até pra você, mesmo com o Sharingan!
 
 766
 00:57:13,675 --> 00:57:16,427
-<i>Você está tentando matar-nos?!</i>
+<i>Você quer que a gente morra?!</i>
 
 767
 00:57:16,952 --> 00:57:17,952
@@ -3372,98 +3356,98 @@ Sakura...
 
 768
 00:57:18,184 --> 00:57:20,979
-Quem foi que me salvou?
-durante a minha batalha difícil?
+Quem foi que me salvou
+na minha luta difícil?
 
 769
 00:57:21,955 --> 00:57:25,625
-Cresceram todos rapidamente...
-Especialmente Naruto!
+Vocês cresceram rápido...
+principalmente o Naruto!
 
 770
 00:57:27,100 --> 00:57:28,894
-Você cresceu mais!
+Você foi o que mais cresceu!
 
 771
 00:57:30,856 --> 00:57:35,569
-Então, você notou, Kakashi Sensei!
-Isto está a ficar interessante!
+Então você percebeu, Kakashi-sensei!
+Agora sim está ficando interessante!
 
 772
 00:57:36,029 --> 00:57:37,655
-Não é nada interessante...
+Não tem nada de interessante...
 
 773
 00:57:43,810 --> 00:57:44,962
-Quem você é você?
+Quem diabos é você?
 
 774
 00:57:45,353 --> 00:57:47,855
-Inari!
-Onde você esteve? !
+Ei, Inari!
+Onde você estava?!
 
 775
 00:57:48,327 --> 00:57:49,995
-Bem-vindo de volta... avô...
+Bem-vindo de volta... vovô...
 
 776
 00:57:50,356 --> 00:57:52,525
-Inari, que tipo de saudação é essa?!
+Inari, que jeito é esse de cumprimentar?!
 
 777
 00:57:52,814 --> 00:57:55,775
-Estes são os ninjas.
+Esses são os ninjas
 que escoltaram o seu avô!
 
 778
 00:57:56,281 --> 00:57:58,616
-Está tudo bem.
+Tudo bem, tudo bem.
 Não é, Inari?
 
 779
 00:58:01,244 --> 00:58:03,162
-Mas mãe, estes tipos vão morrer...
+Mas, mãe, esses caras vão morrer...
 
 780
 00:58:03,496 --> 00:58:06,374
-Não há maneira de eles conseguirem
-Opor-se Gato e ganhar.
+Eles não conseguem vencer o Gato
+e os capangas dele.
 
 781
 00:58:06,499 --> 00:58:08,418
-Diz o quê, pirralho!
+O que você disse, seu pirralho?!
 
 782
 00:58:08,835 --> 00:58:10,670
-Agora, ouçam!
+Agora escuta aqui!
 
 783
 00:58:10,853 --> 00:58:13,514
-Sou um super herói que vai tornar-se
-um ninja incrível
+Eu sou um super-herói que vai virar
+um ninja incrível,
 
 784
 00:58:13,539 --> 00:58:14,707
-chamado Hokage no futuro!
+aquele que vai virar Hokage!
 
 785
 00:58:14,858 --> 00:58:17,277
-Não sei se é Gato ou
-Chocolate ou o que seja...
+Não importa se o nome dele é Gato
+ou Rato ou sei lá o quê...
 
 786
 00:58:17,302 --> 00:58:19,846
-Não estou preocupado.
-Sobre aqueles tipos, de todo!
+Eu não estou nem um pouco preocupado
+com aqueles caras!
 
 787
 00:58:20,096 --> 00:58:25,018
-Um herói, isso é ridículo!
+Hã! Herói? Que bobagem.
 Isso não existe!
 
 788
 00:58:25,319 --> 00:58:26,412
-O que foi isso?!
+O que você disse?!
 
 789
 00:58:26,436 --> 00:58:27,756
@@ -3471,30 +3455,30 @@ Pare com isso!
 
 790
 00:58:28,146 --> 00:58:31,107
-Se você não quer morrer,
-É melhor despachares-te e ires para casa...
+Se não quer morrer,
+é melhor voltar logo pra casa...
 
 791
 00:58:32,859 --> 00:58:34,652
-Inari, onde você vai?
+Inari, aonde você vai?
 
 792
 00:58:36,571 --> 00:58:38,531
-O mar...
-Vou estar a olhar para o mar...
+Para o mar...
+Vou olhar o mar...
 
 793
 00:58:43,664 --> 00:58:44,706
-Peço desculpa.
+Peço desculpas.
 
 794
 00:58:47,540 --> 00:58:51,085
-Aquele fedelho... eu ensino-o.
-Uma coisa ou duas!
+Aquele pirralho... Vou ensinar
+umas coisinhas pra ele!
 
 795
 00:58:56,674 --> 00:58:57,674
-Huh?
+Hã?
 
 796
 00:58:59,078 --> 00:59:00,162
@@ -3502,11 +3486,11 @@ Huh?
 
 797
 00:59:10,049 --> 00:59:11,425
-Papá...
+Papai...
 
 798
 00:59:19,321 --> 00:59:21,579
-Então, agora começa o treinamento!
+Agora começa o treinamento!
 
 799
 00:59:22,170 --> 00:59:23,170
@@ -3514,17 +3498,17 @@ Sim, senhor!
 
 800
 00:59:23,366 --> 00:59:30,081
-Mas... antes disso, vamos rever o
-Noções básicas de chakra, o poder de um ninja.
+Mas... antes disso, vamos rever
+o básico do chakra, o poder de um ninja.
 
 801
 00:59:30,502 --> 00:59:31,502
-Neste ponto...
+Muito bem...
 
 802
 00:59:31,838 --> 00:59:35,640
-Claro que sabemos disso!
-Chatora, certo?
+A gente já sabe tudo isso!
+"Chatora", né?
 
 803
 00:59:36,227 --> 00:59:37,227
@@ -3532,177 +3516,177 @@ Chatora, certo?
 
 804
 00:59:38,270 --> 00:59:40,073
-Prossiga, Sakura.
+Pode falar, Sakura.
 
 805
 00:59:40,169 --> 00:59:41,545
-Presta atenção, Naruto...
+Preste atenção, Naruto...
 
 806
 00:59:43,096 --> 00:59:48,310
-Chakra é a energia que
-Um ninja precisa quando usa um jutsu!
+O chakra é a energia que
+um ninja precisa para usar jutsus!
 
 807
 00:59:48,932 --> 00:59:50,684
-É composto por duas energias:
+Ele é formado por duas energias:
 
 808
 00:59:50,709 --> 00:59:55,255
-(1) Energia física reunida
-de cada célula do corpo
+Primeiro, a energia física, reunida
+de cada uma das células do corpo.
 
 809
 00:59:55,798 --> 01:00:02,096
-(2) Energia espiritual acumulada com
-anos de formação e experiência!
+Segundo, a energia espiritual, acumulada
+com anos de treino e experiência!
 
 810
 01:00:02,652 --> 01:00:07,239
-Por outras palavras, jutsu esboça e
-combina estas duas energias
+Em outras palavras, o jutsu extrai
+e combina essas duas energias
 
 811
 01:00:07,264 --> 01:00:08,599
-a partir do interior do corpo,
+de dentro do corpo,
 
 812
 01:00:08,624 --> 01:00:11,752
-e isto é chamado
-"combinando chakra."
+e isso se chama
+"combinar o chakra".
 
 813
 01:00:12,039 --> 01:00:17,211
-Em seguida, chakra é ativado
-formando "sinais" de mão.
+Depois, o chakra é ativado
+com os sinais de mão.
 
 814
 01:00:18,236 --> 01:00:19,320
-Exactamente!
+Exatamente!
 
 815
 01:00:19,672 --> 01:00:22,967
-Iruka ZXQPROTECCT0QXZ realmente faz
-Tenha bons alunos.
+O Iruka-sensei realmente
+formou ótimos alunos.
 
 816
 01:00:24,679 --> 01:00:28,683
-Não sei o que fazer.
+Tanto faz! Posso não entender
 explicações difíceis,
 
 817
 01:00:28,708 --> 01:00:30,614
-Mas vou aprender com o meu corpo!
+mas eu aprendo com o corpo!
 
 818
 01:00:30,932 --> 01:00:32,309
-Naruto está absolutamente certo...
+O Naruto tem toda a razão...
 
 819
 01:00:32,960 --> 01:00:35,588
-Todos nós somos
-já capaz de usar jutsu...
+Todos nós
+já conseguimos usar jutsus...
 
 820
 01:00:35,730 --> 01:00:39,775
-Não, todos vocês ainda não estão.
-usando chakra de forma eficiente.
+Não! Nenhum de vocês usa
+o chakra com eficiência ainda.
 
 821
 01:00:40,177 --> 01:00:41,177
-O quê?
+O quê?!
 
 822
 01:00:41,979 --> 01:00:43,272
-Ouve...
+Escutem...
 
 823
 01:00:43,816 --> 01:00:45,526
-Como Sakura explicou anteriormente,
+Como a Sakura explicou,
 
 824
 01:00:45,721 --> 01:00:50,643
-associação chakra significa tomar
-tanto as energias físicas como espirituais
+combinar o chakra significa pegar
+as energias física e espiritual
 
 825
 01:00:50,733 --> 01:00:52,569
-e misturá-los juntos,
+e misturá-las
 dentro do corpo.
 
 826
 01:00:54,388 --> 01:00:59,476
-E a quantidade de cada energia necessária
+E a quantidade de cada energia
 
 827
 01:00:59,840 --> 01:01:02,342
-alterações baseadas em
-o jutsu que você deseja ativar...
+muda conforme
+o jutsu que você quer ativar...
 
 828
 01:01:02,783 --> 01:01:05,952
-Neste momento, nenhum de vocês é
-usando seu chakra de forma eficiente!
+Agora, nenhum de vocês
+usa o chakra com eficiência!
 
 829
 01:01:07,305 --> 01:01:10,391
-Mesmo que consigas invocar
-Muito chakra,
+Mesmo que consigam reunir
+muito chakra,
 
 830
 01:01:10,933 --> 01:01:13,352
-se não conseguir controlá-lo
-de forma equilibrada
+se não conseguirem controlá-lo
+de forma equilibrada,
 
 831
 01:01:13,936 --> 01:01:16,731
-a eficácia do jutsu
-não só será cortado ao meio
+além de a eficácia
+do jutsu cair pela metade,
 
 832
 01:01:17,081 --> 01:01:19,041
-mas pode nem mesmo
-ser activado de todo.
+ele pode nem
+chegar a ser ativado.
 
 833
 01:01:19,578 --> 01:01:23,290
-Desperdício de energia irá impedi-lo de
-lutando por longos períodos.
+Desperdiçar energia vai deixar vocês
+sem fôlego para lutar por muito tempo.
 
 834
 01:01:23,315 --> 01:01:25,817
-Estes são alguns dos
-as fraquezas que podem ocorrer.
+Essas são algumas
+das fraquezas que podem surgir.
 
 835
 01:01:26,493 --> 01:01:28,704
-O que devemos fazer...?
+E-E o que a gente faz...?
 
 836
 01:01:30,395 --> 01:01:32,689
-Você precisa aprender a controlar.
-chakra com o seu corpo!
+Vocês precisam aprender a controlar
+o chakra com o corpo!
 
 837
 01:01:32,966 --> 01:01:37,513
-É difícil treinar que requer você
-Para colocar a sua vida em risco para dominar!
+É um treino difícil, em que vocês
+precisam arriscar a vida para dominar!
 
 838
 01:01:39,724 --> 01:01:41,199
-O que vamos fazer?
+O-O que vamos fazer?
 
 839
 01:01:42,273 --> 01:01:43,273
-Hm?
+Hã?
 
 840
 01:01:44,194 --> 01:01:45,194
-Tremas de escalada...
+Subir em árvores...
 
 841
 01:01:45,272 --> 01:01:46,607
-Treecling? !
+Subir em árvores?!
 
 842
 01:01:47,020 --> 01:01:48,020
@@ -3710,196 +3694,197 @@ Isso mesmo.
 
 843
 01:01:48,045 --> 01:01:50,172
-Mas não é apenas uma simples escalada de árvores!
+Mas não é uma subida
+em árvore qualquer!
 
 844
 01:01:50,825 --> 01:01:52,535
-Você vai subir.
+Vocês vão subir
 sem usar as mãos.
 
 845
 01:01:52,795 --> 01:01:54,339
-Como?
+O quê? Como?
 
 846
 01:01:56,546 --> 01:01:58,507
-Bem, apenas observa.
+Bom, é só olhar.
 
 847
 01:02:14,648 --> 01:02:15,774
-Ele está a subir...
+Ele está subindo...
 
 848
 01:02:16,624 --> 01:02:19,210
-Perpendicular para a árvore
-e com os pés!
+Direto pela árvore,
+só com os pés!
 
 849
 01:02:22,363 --> 01:02:24,365
-Então, veja, assim...
+Então, é mais ou menos assim...
 
 850
 01:02:25,013 --> 01:02:28,600
-Foque o seu chakra para o fundo do seu
-pés e fazê-los ficar na árvore.
+Concentrem chakra na sola dos pés
+e usem isso para grudar na árvore.
 
 851
 01:02:29,323 --> 01:02:32,076
-Se utilizar bem o chakra,
-Você pode fazer coisas assim.
+Usando bem o chakra,
+dá para fazer coisas assim.
 
 852
 01:02:32,353 --> 01:02:33,354
-Espera um minuto!
+Espera aí!
 
 853
 01:02:33,781 --> 01:02:36,283
-Como é que uma coisa dessas
-Tornar-te forte?
+Como uma coisa dessas
+deixa alguém forte?
 
 854
 01:02:36,782 --> 01:02:38,784
-Estava prestes a chegar a essa...
+Eu já ia chegar nisso...
 
 855
 01:02:39,430 --> 01:02:41,666
-O objectivo desta formação é:
+O objetivo deste treino é
 acumular
 
 856
 01:02:41,691 --> 01:02:45,361
-a quantidade necessária de chakra combinada
-para um ponto específico...
+a quantidade certa de chakra
+num ponto exato...
 
 857
 01:02:46,033 --> 01:02:49,078
-Isto é surpreendentemente difícil.
-Até mesmo para um ninja experiente.
+Isso é surpreendentemente difícil,
+mesmo para um ninja experiente.
 
 858
 01:02:50,032 --> 01:02:53,119
-A quantidade de chakra necessária
-para a escalada de árvores é muito sutil.
+A quantidade de chakra para subir
+em árvores é muito sutil.
 
 859
 01:02:54,168 --> 01:02:59,006
-E os pés são os pés
-o lugar mais difícil para reunir chakra.
+E a sola dos pés é a parte do corpo
+onde é mais difícil reunir chakra.
 
 860
 01:02:59,988 --> 01:03:03,242
-Por outras palavras,
-Se dominares o controlo necessário para isto,
+Em outras palavras,
+se dominarem esse controle,
 
 861
 01:03:03,793 --> 01:03:08,672
-será possível dominar
-qualquer jutsu. Em teoria, isto é!
+vão conseguir dominar
+qualquer jutsu. Em teoria, claro!
 
 862
 01:03:09,917 --> 01:03:13,170
-O segundo objectivo é manter a
-que combina chakra.
+O segundo objetivo é manter
+esse chakra combinado.
 
 863
 01:03:13,992 --> 01:03:17,078
-Ninja combinar o mais chakra
-durante as batalhas.
+Os ninjas combinam mais chakra
+durante as lutas.
 
 864
 01:03:17,885 --> 01:03:19,261
-Nestas circunstâncias,
+Nessas circunstâncias,
 
 865
 01:03:19,286 --> 01:03:22,915
-"controlo" e "manutenção"
-chakra torna-se o mais difícil.
+controlar e manter o chakra
+se torna o maior desafio.
 
 866
 01:03:24,064 --> 01:03:28,404
-Mas de qualquer maneira, nada vai realmente
-Acontece comigo a dizer isto e aquilo...
+Mas, enfim, só falar
+não vai adiantar nada...
 
 867
 01:03:29,313 --> 01:03:32,191
-Vão ter de aprender com os vossos corpos.
+Vocês vão ter que aprender com o corpo.
 
 868
 01:03:36,153 --> 01:03:38,530
-Usar o kunai para
+Usem a kunai para
 marcar o ponto mais alto
 
 869
 01:03:38,706 --> 01:03:41,459
-que você pode subir até
-com a sua força atual.
+que conseguirem alcançar
+com a força que têm agora.
 
 870
 01:03:43,011 --> 01:03:47,182
-Então, faça um esforço para
-Ponha uma marca mais acima.
+Depois, tentem fazer
+uma marca nova ainda mais alta.
 
 871
 01:03:48,674 --> 01:03:51,427
-Você não é suficientemente bom para
-subir desde o início,
+Vocês ainda não sabem
+subir andando desde o começo,
 
 872
 01:03:52,145 --> 01:03:55,276
-então corra e use seu momento
-para se acostumar com isso...Você entendeu?!
+então corram e usem o embalo
+para se acostumar... Entenderam?
 
 873
 01:03:57,158 --> 01:04:01,403
-Este treino não é nada!
-É muito fácil para mim!
+Esse treino não é nada!
+Hah! Vai ser moleza!
 
 874
 01:04:02,197 --> 01:04:05,492
-Afinal, eu sou o tipo
-Quem é que mais cresceu?
+Afinal, eu sou o cara
+que mais cresceu!
 
 875
 01:04:05,746 --> 01:04:09,333
 Chega de conversa...
-Agora, tenta subir a qualquer árvore.
+Agora mãos à obra. Escolham uma árvore.
 
 876
 01:04:11,681 --> 01:04:15,268
-<i>Ok, então primeiro eu preciso reunir
-chakra no fundo dos meus pés...</i>
+<i>Certo, primeiro eu preciso juntar
+chakra na sola dos pés...</i>
 
 877
 01:04:23,450 --> 01:04:27,663
-Prontos!
+Pronto!! Lá vou eu!
 
 878
 01:04:43,831 --> 01:04:47,334
-<i>I não achou que seria tão difícil
+<i>Não achei que fosse tão difícil
 manter uma quantidade constante de chakra...</i>
 
 879
 01:04:47,614 --> 01:04:49,574
-<i>Se o chakra for demasiado forte
+<i>Se o chakra for forte demais,
 você é empurrado para trás...</i>
 
 880
 01:04:51,950 --> 01:04:56,329
-<i>Mas se o chakra for demasiado fraco,
-Não há energia de fixação e você cair.</i>
+<i>Mas, se for fraco demais,
+você perde o apoio e cai.</i>
 
 881
 01:04:59,031 --> 01:04:59,573
-<i>Bem...!</i>
+<i>Bom...!</i>
 
 882
 01:04:59,666 --> 01:05:02,210
-<i>A diferença entre Naruto e Sasuke
-Parece certo.</i>
+<i>A diferença entre o Naruto e o Sasuke
+é mais ou menos essa.</i>
 
 883
 01:05:02,622 --> 01:05:03,957
-Isto é muito fácil!
+Isso é bem fácil!
 
 884
 01:05:04,903 --> 01:05:05,903
@@ -3911,16 +3896,16 @@ S-Sakura!
 
 886
 01:05:13,770 --> 01:05:15,847
-Muito bem, Sakura!
+Uau! Mandou bem, Sakura!
 
 887
 01:05:15,970 --> 01:05:18,170
-É o que se espera.
-A garota em quem pus a mira!
+É o que eu esperava
+de alguém incrível como ela!
 
 888
 01:05:18,235 --> 01:05:20,057
-<i>Mas isso meio que me irrita!</i>
+<i>Mas isso me irrita um pouco!</i>
 
 889
 01:05:20,799 --> 01:05:21,421
@@ -3928,7 +3913,7 @@ Tanto faz!
 
 890
 01:05:21,667 --> 01:05:24,295
-<i>I queria que Sasuke me notasse...</i>
+<i>Eu queria que o Sasuke me notasse...</i>
 
 891
 01:05:24,670 --> 01:05:26,797
@@ -3936,13 +3921,13 @@ Tanto faz!
 
 892
 01:05:27,256 --> 01:05:29,884
-Bem, não só Sakura tem
-conhecimento sobre chakra,
+Bom, a Sakura não só entende
+bastante de chakra,
 
 893
 01:05:30,092 --> 01:05:33,095
-seu controle e resistência
-são muito bons.
+como tem um controle e uma resistência
+muito bons.
 
 894
 01:05:33,554 --> 01:05:34,680
@@ -3950,48 +3935,48 @@ Parece que...
 
 895
 01:05:34,890 --> 01:05:40,312
-Ela pode ser a mais próxima de
-Tornando-se Hokage... ao contrário de outra pessoa.
+é ela quem tem mais chance de
+virar Hokage... ao contrário de certas pessoas.
 
 896
 01:05:40,759 --> 01:05:44,763
-E o Clã Uchiha
-Também não parece assim tão impressionante.
+E o clã Uchiha também
+não parece tão impressionante.
 
 897
 01:05:45,203 --> 01:05:46,955
-Cala-te Sensei!
+Cala a boca, sensei!
 
 898
 01:05:47,856 --> 01:05:49,817
-<i>Sasuke não vai gostar de mim agora!</i>
+<i>Agora o Sasuke vai me odiar!</i>
 
 899
 01:05:52,698 --> 01:05:55,493
-<i>Having disse que...
-Naruto e Sasuke...</i>
+<i>Dito isso...
+o Naruto e o Sasuke...</i>
 
 900
 01:05:55,618 --> 01:05:58,996
 <i>Esses dois têm uma quantidade incrível
-do chakra oculto neles...</i>
+de chakra escondida dentro deles...</i>
 
 901
 01:05:59,021 --> 01:06:00,301
-<i>que Sakura não pode ser igual!</i>
+<i>que a Sakura nem sonha em igualar!</i>
 
 902
 01:06:00,955 --> 01:06:05,042
-<i>Se este treino correr bem,
-isso se tornará um ativo para eles...</i>
+<i>Se esse treino der certo,
+isso vai ser uma grande vantagem para eles...</i>
 
 903
 01:06:05,503 --> 01:06:08,631
-Primeiro, vou alcançar o Sasuke!
+Certo! Primeiro eu alcanço o Sasuke!
 
 904
 01:06:08,923 --> 01:06:10,488
-Eu faço-o... com certeza!
+Eu vou conseguir... com certeza!
 
 905
 01:06:15,815 --> 01:06:16,815
@@ -3999,8 +3984,8 @@ Eu faço-o... com certeza!
 
 906
 01:06:17,935 --> 01:06:20,104
-<i>Eles estão apenas desperdiçando seus
-tempo com que...</i>
+<i>Eles estão perdendo
+tempo com isso...</i>
 
 907
 01:06:32,947 --> 01:06:35,032
@@ -4008,43 +3993,43 @@ Ohhhhh...
 
 908
 01:06:36,833 --> 01:06:37,833
-Ow!
+Ai!
 
 909
 01:06:46,981 --> 01:06:48,504
-<i>I está totalmente desgastado!</i>
+<i>Estou exausta!</i>
 
 910
 01:06:48,912 --> 01:06:51,081
 <i>Quanta resistência
-- Esses dois têm?</i>
+esses dois têm?</i>
 
 911
 01:06:57,430 --> 01:07:01,017
-<i>Mas Naruto não está a obter
-melhor em tudo.</i>
+<i>Mas o Naruto não está
+melhorando nada.</i>
 
 912
 01:07:01,702 --> 01:07:04,134
-<i>Ele vai desistir em breve e
-começar a lançar uma birra.</i>
+<i>Ele já já vai desistir
+e começar a fazer birra.</i>
 
 913
 01:07:06,624 --> 01:07:07,208
-Atire!
+Droga!
 
 914
 01:07:07,440 --> 01:07:11,154
-<i>Veja!
-um fácil de descobrir!</i>
+<i>Viu? Ele é mesmo
+fácil de entender!</i>
 
 915
 01:07:12,369 --> 01:07:13,787
-Sakura!
+Ei, Sakura!
 
 916
 01:07:14,316 --> 01:07:16,026
-Você pode dar-me umas dicas?
+Pode me dar umas dicas?
 
 917
 01:07:16,574 --> 01:07:17,574
@@ -4052,59 +4037,59 @@ O quê?
 
 918
 01:07:17,781 --> 01:07:19,867
-Mas mantenha-o em segredo do Sasuke!
-Vamos, vamos.
+Mas não conta pro Sasuke!
+Vai, vai.
 
 919
 01:07:23,026 --> 01:07:27,531
-<i>Ele está ficando mais forte e mais forte...
-Quão forte ele vai ficar?</i>
+<i>Ele está ficando cada vez mais forte...
+Até onde ele vai chegar?</i>
 
 920
 01:07:28,461 --> 01:07:29,545
-<i>Em qualquer caso, Naruto...</i>
+<i>De qualquer forma, Naruto...</i>
 
 921
 01:07:30,171 --> 01:07:34,341
-<i>a quantidade de chakra adormecido que você tem
-é provavelmente muito mais do que Sasuke.</i>
+<i>o chakra adormecido que você tem
+deve ser muito maior que o do Sasuke.</i>
 
 922
 01:07:36,552 --> 01:07:39,764
-<i>É provavelmente ainda mais do que o meu!</i>
+<i>Deve ser até maior que o meu!</i>
 
 923
 01:07:40,473 --> 01:07:43,184
-<i>I ansioso para
-observando você crescer... eu realmente faço.</i>
+<i>Estou ansioso para ver
+você crescer... De verdade.</i>
 
 924
 01:08:07,002 --> 01:08:09,602
-Parece que você tem algum tempo.
-Matar lá, sozinho.
+Parece que você tem um tempinho
+livre aí, sozinha.
 
 925
 01:08:11,243 --> 01:08:14,204
-O que aconteceu ao loiro?
-E aquele rapaz preso?
+E o pirralho loiro
+e o metido?
 
 926
 01:08:14,715 --> 01:08:16,755
-Estão no meio de
-O treino de escalada de árvores.
+Eles estão no meio
+do treino de subir em árvores.
 
 927
 01:08:16,842 --> 01:08:18,010
-Você não precisa fazer isso?
+Você não precisa fazer?
 
 928
 01:08:18,650 --> 01:08:22,772
-Sou excepcional, então Kakashi Sensei
-Disse-me para te proteger.
+Eu aprendi rápido, então o Kakashi-sensei
+me colocou de guarda.
 
 929
 01:08:24,558 --> 01:08:25,558
-A sério?
+Sério?
 
 930
 01:08:26,393 --> 01:08:27,686
@@ -4112,52 +4097,52 @@ A sério?
 
 931
 01:08:29,772 --> 01:08:31,315
-Você tem um minuto, Tazuna?
+Posso falar com você, Tazuna?
 
 932
 01:08:32,543 --> 01:08:34,128
-O que se passa, Giichi?
+Hã? O que foi, Giichi?
 
 933
 01:08:34,870 --> 01:08:36,413
-Na verdade...
+Bom, na verdade...
 
 934
 01:08:36,999 --> 01:08:38,917
-Tenho pensado nas coisas...
+Eu andei pensando...
 
 935
 01:08:39,365 --> 01:08:42,952
 Construir esta ponte...
-Quero desistir!
+Eu quero desistir!
 
 936
 01:08:43,449 --> 01:08:47,203
-Então, de repente? Não você também?!!!
+O quê? Assim de repente? Você também?!
 
 937
 01:08:48,260 --> 01:08:51,346
-Tazuna, já nos conhecemos há algum tempo.
+Tazuna, nós nos conhecemos há muito tempo.
 
 938
 01:08:51,874 --> 01:08:54,126
-Eu gostaria de ajudar.
-Mas se formos longe demais,
+Eu queria ajudar,
+mas, se forçarmos demais,
 
 939
 01:08:54,204 --> 01:08:56,540
-Gato vai definir a sua visão.
-- Também para nós.
+o Gato vai mirar
+na gente também.
 
 940
 01:08:57,049 --> 01:09:00,928
-E... se fores morto,
-Está tudo perdido!
+E... se matarem você,
+vai ser tudo em vão!
 
 941
 01:09:03,222 --> 01:09:06,892
-Porque não...
-Parar de construir a ponte?
+Por que você não
+para de construir a ponte?
 
 942
 01:09:10,187 --> 01:09:12,189
@@ -4165,17 +4150,17 @@ Esta é a nossa ponte.
 
 943
 01:09:12,866 --> 01:09:15,786
-Esta é a ponte que
-todos na cidade construíram
+É a ponte que
+toda a cidade construiu
 
 944
 01:09:16,026 --> 01:09:19,113
-acreditar que isso trará
-distribuição e transporte
+acreditando que ela vai trazer
+de volta o comércio e o transporte
 
 945
 01:09:19,196 --> 01:09:21,448
-para a nossa pobre Terra...
+para a nossa terra.
 
 946
 01:09:22,158 --> 01:09:24,493
@@ -4183,11 +4168,11 @@ Mas estamos falando das nossas vidas...
 
 947
 01:09:25,464 --> 01:09:26,757
-Já é tarde...
+Já é de tarde...
 
 948
 01:09:27,163 --> 01:09:28,622
-Vamos acabar com isto.
+Vamos parar por hoje.
 
 949
 01:09:30,791 --> 01:09:31,791
@@ -4195,29 +4180,30 @@ Tazuna!
 
 950
 01:09:33,555 --> 01:09:36,433
-Giichi... você não precisa o fazer.
-Volta amanhã.
+Giichi... você não precisa
+voltar amanhã.
 
 951
 01:09:43,108 --> 01:09:45,131
-Raios!
+Droga!
 
 952
 01:09:47,798 --> 01:09:49,923
-Que raio se passa com isto?
+O que está acontecendo?!
+Por que eu não consigo?!
 
 953
 01:10:06,690 --> 01:10:08,608
-<i>I não vai perder para você!</i>
+<i>Eu não vou perder para você!</i>
 
 954
 01:10:22,164 --> 01:10:23,999
-Diga, onde vamos?
+Diga, aonde estamos indo?
 
 955
 01:10:24,238 --> 01:10:27,616
-Pediram-me para ir buscar umas coisas.
-para jantar no caminho de casa...
+Me pediram para comprar umas coisas
+para o jantar na volta...
 
 956
 01:10:30,517 --> 01:10:31,517
@@ -4225,27 +4211,27 @@ Ladrão!
 
 957
 01:10:38,843 --> 01:10:40,387
-<i>O que se passa com... esta cidade?</i>
+<i>O que tem... esta cidade?</i>
 
 958
 01:10:41,901 --> 01:10:42,902
-Estamos aqui...
+Chegamos...
 
 959
 01:10:44,036 --> 01:10:45,036
-Bem-vindo...
+Bem-vindos...
 
 960
 01:10:55,964 --> 01:10:57,590
-<i>Quase não há nada aqui...</i>
+<i>Quase não tem nada aqui...</i>
 
 961
 01:11:04,218 --> 01:11:06,553
-Seu pervertido!
+Seu tarado!
 
 962
 01:11:10,173 --> 01:11:12,995
-Meu, fiquei mesmo surpreendido há pouco.
+Nossa, levei um susto agora há pouco.
 
 963
 01:11:13,246 --> 01:11:14,956
@@ -4253,7 +4239,7 @@ O que está acontecendo com esta cidade?!
 
 964
 01:11:16,563 --> 01:11:17,563
-<i>Again?</i>
+<i>De novo?</i>
 
 965
 01:11:18,357 --> 01:11:19,357
@@ -4265,43 +4251,43 @@ O quê?
 
 967
 01:11:25,030 --> 01:11:26,030
-Dá-me um pouco!
+Me dá um pouco!
 
 968
 01:11:30,619 --> 01:11:32,788
-Aqui...
+Ah... toma...
 
 969
 01:11:33,956 --> 01:11:34,956
-Yaaay!
+Ebaaa!
 
 970
 01:11:36,667 --> 01:11:37,668
-Obrigado.
+Obrigada.
 
 971
 01:11:43,299 --> 01:11:45,217
-É assim que tem sido sempre
-Desde que o Gato apareceu.
+É assim desde
+que o Gato apareceu.
 
 972
 01:11:46,051 --> 01:11:49,305
 Aqui, todos os adultos
-Tornaram-se cobardes.
+viraram covardes.
 
 973
 01:11:55,436 --> 01:11:58,981
 É por isso que a ponte
-é necessário...
+é necessária...
 
 974
 01:12:00,009 --> 01:12:01,385
-É um símbolo de coragem...
+Ela é um símbolo de coragem...
 
 975
 01:12:02,178 --> 01:12:05,395
-para restaurar o seu espírito,
-Para que não continuem a fugir...
+para devolver o ânimo a eles
+e impedir que desistam.
 
 976
 01:12:05,420 --> 01:12:06,921
@@ -4309,61 +4295,62 @@ Para o povo desta terra...
 
 977
 01:12:06,946 --> 01:12:08,864
-que têm estabelecido suas mentes
-- ...em permanecer passiva...
+que se conformou
+em ficar parado...
 
 978
 01:12:11,702 --> 01:12:16,415
-Se pudermos...
-Completar essa ponte...
+Se a gente conseguir...
+terminar aquela ponte...
 
 979
 01:12:18,898 --> 01:12:21,358
-Esta cidade voltará para
-Como foi uma vez...
+esta cidade vai voltar
+a ser como era antes...
 
 980
 01:12:22,496 --> 01:12:24,331
-E todos voltarão.
+e todos vão voltar.
 
 981
 01:12:43,609 --> 01:12:44,860
-<i>Droga!</i>
+<i>Droga! Droga!</i>
 
 982
 01:12:45,155 --> 01:12:47,491
-<i>Você está me dizendo que
-Sasuke ainda está subindo?!</i>
+<i>Não acredito que
+o Sasuke ainda está subindo?!</i>
 
 983
 01:12:52,462 --> 01:12:53,088
-<i>Crap...</i>
+<i>Merda...</i>
 
 984
 01:12:53,369 --> 01:12:54,953
-<i>Ele está a recuperar...</i>
+<i>Ele está me alcançando...</i>
 
 985
 01:12:57,169 --> 01:13:00,381
-<i>Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,</i>
+<i>Droga! Não! Não!</i>
 
 986
 01:13:01,001 --> 01:13:04,922
-<i>Se me deixar distrair pelo Sasuke,
+<i>Se eu me distrair com o Sasuke,
 minha concentração vai quebrar!</i>
 
 987
 01:13:06,173 --> 01:13:07,841
-<i>Concentração!
-Concentra-te!</i>
+<i>Concentra!
+Concentra!</i>
 
 988
 01:13:08,175 --> 01:13:10,677
-<i>OK. Estou recebendo boas vibrações, eu digo!</i>
+<i>Certo... Acho que estou pegando
+o jeito, viu?!</i>
 
 989
 01:13:11,303 --> 01:13:12,763
-<i>OK!</i>
+<i>Certo! É agora!</i>
 
 990
 01:13:12,930 --> 01:13:13,930
@@ -4371,30 +4358,30 @@ Ei... Naruto!
 
 991
 01:13:16,308 --> 01:13:19,038
-Jesus, que diabos...
-errado com você?!
+Ei! Qual é o seu
+problema?!
 
 992
 01:13:19,287 --> 01:13:21,205
-Não interfira enquanto
-Estou a tentar concentrar-me!
+Eu estou tentando me concentrar,
+então não me atrapalha!
 
 993
 01:13:21,992 --> 01:13:24,786
-Bem...
+É... Ah... Bem...
 
 994
 01:13:25,734 --> 01:13:27,236
-O que é isso?
+O-O que foi?!
 
 995
 01:13:30,896 --> 01:13:34,858
-Y-Você pediu Sakura para dar
-Você tem umas dicas antes...
+V-Você pediu umas dicas
+pra Sakura antes...
 
 996
 01:13:35,532 --> 01:13:37,201
-O que é que ela te disse?
+O que ela te disse?
 
 997
 01:13:41,854 --> 01:13:43,188
@@ -4402,51 +4389,52 @@ Não vou contar!
 
 998
 01:13:54,179 --> 01:13:55,155
-Meu!
+Cara!
 
 999
 01:13:55,180 --> 01:13:56,682
-Isto é muito divertido!
+Isso é muito divertido!
 
 1000
 01:13:56,896 --> 01:14:00,150
-Já faz muito tempo que não temos
-Uma refeição com tantas pessoas!
+Faz tempo que a gente não come
+com tanta gente assim!
 
 1001
 01:14:06,733 --> 01:14:07,733
-Segundos, por favor!
+Mais um, por favor!
 
 1002
 01:14:13,574 --> 01:14:15,742
-Pare de comer se você vai vomitar!
+Pare de comer se vai vomitar!
 
 1003
 01:14:16,243 --> 01:14:17,703
-Não, eu como.
+Não, eu vou comer.
 
 1004
 01:14:18,652 --> 01:14:20,529
-Tenho de comer até
-se significa perseverar.
+Eu tenho que comer, nem que
+seja à força.
 
 1005
 01:14:20,873 --> 01:14:23,375
-Tenho de ficar forte
-O mais rápido possível, por isso...
+Eu preciso ficar forte
+o mais rápido possível, então...
 
 1006
 01:14:24,209 --> 01:14:25,209
-Sim, sim!
+Hum-hum.
 
 1007
 01:14:25,836 --> 01:14:28,130
-Mas vomitar é diferente.
+Mas vomitar tudo de volta
+é só desperdício.
 
 1008
 01:14:34,761 --> 01:14:38,640
-Desculpe, porque está lá?
-Uma fotografia rasgada pendurada aqui?
+Com licença, por que tem
+uma foto rasgada pendurada aqui?
 
 1009
 01:14:43,310 --> 01:14:44,310
@@ -4454,55 +4442,55 @@ Uma fotografia rasgada pendurada aqui?
 
 1010
 01:14:46,523 --> 01:14:49,485
-Ele era um homem que era
-Uma vez chamado de herói desta cidade...
+Um homem que esta cidade
+já chamou de herói...
 
 1011
 01:14:58,406 --> 01:14:59,406
-Papá!
+Pai!
 
 1012
 01:14:59,431 --> 01:15:02,309
-Eu continuo a dizer-te para não o fazeres.
-Fala dele em frente à Inari!
+Eu sempre te peço para não
+falar dele na frente do Inari!
 
 1013
 01:15:08,141 --> 01:15:10,727
-Porque é que falar sobre o seu
-O pai deixou a Inari chateada?
+Por que falar do pai
+deixa o Inari chateado?
 
 1014
 01:15:11,817 --> 01:15:14,570
-Parece que há
-algum tipo de boa razão.
+Tem uma história por trás disso,
+não tem?
 
 1015
 01:15:16,323 --> 01:15:19,660
-Inari não estava relacionado com isso.
-homem de sangue,
+O Inari não tinha laço de sangue
+com aquele homem,
 
 1016
 01:15:20,520 --> 01:15:24,190
-Mas eles eram como um pai de verdade
-E filho que se dava muito bem...
+mas eles eram como pai e filho de verdade
+e se davam muito bem...
 
 1017
 01:15:26,998 --> 01:15:30,626
-Naquela época, Inari era uma criança.
-que ria o tempo todo...
+Naquela época, o Inari era uma criança
+que vivia rindo...
 
 1018
 01:15:32,532 --> 01:15:33,532
-No entanto...
+Mas...
 
 1019
 01:15:34,609 --> 01:15:35,610
-No entanto...
+Mas...
 
 1020
 01:15:37,196 --> 01:15:42,910
-Inari mudou...
-Desde um incidente com o pai.
+O Inari mudou... depois
+do que aconteceu com o pai dele.
 
 1021
 01:15:44,581 --> 01:15:45,332
@@ -4518,16 +4506,16 @@ Errado!
 
 1024
 01:15:50,212 --> 01:15:52,339
-Chama-se "Estrela Disparadora"...
+O nome dele é Estrela Cadente...
 
 1025
 01:15:52,798 --> 01:15:54,341
-A partir de hoje, ele é meu cão!
+A partir de hoje, ele é o meu cachorro!
 
 1026
 01:15:54,565 --> 01:15:57,962
-Ele não está a atirar na Estrela!
-Ele é o meu Poochie, devolve-o!
+Ele não é Estrela Cadente!
+É o meu Poochie! Devolve!
 
 1027
 01:15:58,317 --> 01:16:00,125
@@ -4535,12 +4523,12 @@ O Poochie é meu amigo!
 
 1028
 01:16:00,180 --> 01:16:02,484
-Quem lhe vai dar
-para os como você?!
+Por que a gente daria ele
+para um chorão como você?!
 
 1029
 01:16:04,351 --> 01:16:05,351
-Cala-te!
+Cala a boca!
 
 1030
 01:16:12,192 --> 01:16:13,192
@@ -4548,84 +4536,84 @@ Poochie!
 
 1031
 01:16:16,738 --> 01:16:19,032
-É o que se ganha por não
-Entregando-o em silêncio...
+Isso é o que você ganha por não
+entregar ele quietinho...
 
 1032
 01:16:19,633 --> 01:16:21,718
-Não me interessa.
-Sobre aquele cão!
+Eu não ligo nem um pouco
+pra esse cachorro!
 
 1033
 01:16:22,536 --> 01:16:23,954
-Deixa-o ir!
+Ei, solta ele!
 
 1034
 01:16:25,622 --> 01:16:28,750
 O que você fez?!
-Você está tentando matar o Poochie?
+Quer matar o Poochie?
 
 1035
 01:16:29,436 --> 01:16:32,439
-Ele é o seu vira-lata especial, certo?
+Heh! Ele é o seu vira-lata especial, né?
 
 1036
 01:16:32,671 --> 01:16:34,423
-Então salva-o, depressa.
+Então salva ele, rápido.
 
 1037
 01:16:36,675 --> 01:16:38,051
-O que se passa?
+Qual é o problema?
 
 1038
 01:16:38,719 --> 01:16:40,432
-Tudo bem se ele morrer?!
+Tudo bem pra você se ele morrer?!
 
 1039
 01:16:47,019 --> 01:16:48,812
 - Mas...
-Ele nem sabe remar.
+- Olha! Ele nem sabe nadar cachorrinho,
 
 1040
 01:16:48,837 --> 01:16:51,089
-- mesmo que seja um cão!
+- mesmo sendo um cachorro!
 - Mas...
 
 1041
 01:16:51,541 --> 01:16:55,379
 <i>Desculpa, Poochie...
-Não sei nadar...</i>
+Eu não sei nadar...</i>
 
 1042
 01:16:56,386 --> 01:16:59,800
-Se você é o dono dele,
-Mergulhem atrás dele!
+Ei! Se você é o dono,
+pula atrás dele!
 
 1043
 01:17:06,622 --> 01:17:10,500
-Isto é mau, Akane.
-E se ele não sabe nadar?
+Isso é ruim, Akane.
+E se ele não souber nadar?
 
 1044
 01:17:12,711 --> 01:17:13,711
-Salvem-me!
+S-Socorro!
 
 1045
 01:17:14,254 --> 01:17:15,254
-Deixa-o em paz.
+Deixa ele.
 
 1046
 01:17:15,881 --> 01:17:16,881
-Mas...
+M-Mas...
 
 1047
 01:17:18,258 --> 01:17:21,303
-Então porque não o você vai salvar?
+Então por que você não vai salvar ele?
 
 1048
 01:17:23,680 --> 01:17:26,433
-<i>I-Eu não quero morrer...
-Alguém me salve!</i>
+<i>E-Eu não quero morrer...
+Alguém me salva!</i>
 
 1049
 01:17:27,726 --> 01:17:28,726
@@ -4641,178 +4629,175 @@ Poochie!
 
 1052
 01:17:40,206 --> 01:17:42,166
-A estrela dos tiros escapou.
+O Estrela Cadente fugiu. Pega ele!
 
 1053
 01:17:50,963 --> 01:17:54,967
-<i>Ohhh... não consigo respirar...
-Isto... é...</i>
+<i>Ohhh... Não consigo respirar...
+É o... fim...</i>
 
 1054
 01:18:02,344 --> 01:18:03,970
-Você está acordado, rapaz?
+Acordou, garoto?
 
 1055
 01:18:09,434 --> 01:18:12,521
-Eu dei aqueles garotos.
-Uma boa repreensão.
+Eu dei uma boa bronca
+naqueles moleques.
 
 1056
 01:18:13,271 --> 01:18:14,398
-Aqui, come!
+Toma, come!
 
 1057
 01:18:15,982 --> 01:18:18,110
-<i>É este Deus?</i>
+<i>Isso é real? Oh...</i>
 
 1058
 01:18:18,684 --> 01:18:20,769
-Salvaste-me?
+Você... me salvou?
 
 1059
 01:18:21,613 --> 01:18:24,616
-Come, começa com isso.
+Só come! Comece por isso.
 
 1060
 01:18:26,827 --> 01:18:29,371
-Estou a ver, foste traído.
-Pelo seu cão, também...
+Entendi. Você também foi traído
+pelo seu cachorro...
 
 1061
 01:18:30,163 --> 01:18:34,000
-No meu país, os cães são criaturas.
-que têm um sentido de lealdade...
+No meu país, os cães são animais
+com um forte senso de lealdade...
 
 1062
 01:18:34,668 --> 01:18:37,587
-Bem, você traiu
-Primeiro a confiança do seu cão,
+Bom, você traiu
+a confiança do seu cachorro primeiro,
 
 1063
 01:18:37,612 --> 01:18:39,212
-Então não há nada
-Você pode fazer isso.
+então não há nada
+que você possa fazer.
 
 1064
 01:18:40,882 --> 01:18:43,510
-Estava assustada e não conseguia mexer-me.
+Eu fiquei com medo e não consegui me mexer.
 
 1065
 01:18:46,223 --> 01:18:47,849
-Eu queria salvá-lo...
+Eu queria salvar ele...
 
 1066
 01:18:48,408 --> 01:18:51,077
-Mas... não tenho coragem, por isso...
+Mas... eu não tenho coragem, então...
 
 1067
 01:18:51,351 --> 01:18:52,477
-Isso mesmo.
+É verdade.
 
 1068
 01:18:53,729 --> 01:18:56,815
-Claro que um garoto da sua idade
-ficaria assustado.
+Claro, uma criança da sua idade
+ficaria com medo.
 
 1069
 01:18:58,578 --> 01:18:59,662
-Mas você sabes... rapaz.
+Mas, sabe... garoto.
 
 1070
 01:19:00,360 --> 01:19:02,028
-Lembra-te disto.
+Lembre-se disto.
 
 1071
 01:19:02,571 --> 01:19:03,571
-Huh?
+Hã?
 
 1072
 01:19:04,114 --> 01:19:06,867
-Se você é um homem, escolhe
-Um estilo de vida que você não vai se arrepender...
+Um homem deve viver sem arrependimentos.
 
 1073
 01:19:09,055 --> 01:19:11,767
-Coisas que eu realmente
-apegar-me a mim mesmo,
+As coisas que eu realmente
+considero preciosas,
 
 1074
 01:19:11,991 --> 01:19:15,161
-Vou protegê-los até ao fim.
-com os dois braços.
+eu vou proteger até o fim
+com estes dois braços.
 
 1075
 01:19:15,500 --> 01:19:18,503
-Mesmo que seja difícil, ou triste.
-Eu fico...
+Por mais difícil ou doloroso que seja...
 
 1076
 01:19:18,587 --> 01:19:21,214
-Mesmo que pareça que
-Posso perder a minha vida!
+mesmo que me custe a vida!
 
 1077
 01:19:24,634 --> 01:19:26,470
-Temos problemas, Kaiza!
+E-Estamos com problemas, Kaiza!
 
 1078
 01:19:26,617 --> 01:19:28,786
-A barragem do rio quebrou-se.
-De toda esta chuva!
+A represa do rio estourou
+com toda essa chuva!
 
 1079
 01:19:29,174 --> 01:19:31,629
-A este ritmo,
-O Distrito D será inundado!
+Desse jeito,
+o Distrito D vai ser inundado!
 
 1080
 01:19:31,892 --> 01:19:32,517
-O quê?
+O quê?!
 
 1081
 01:19:32,851 --> 01:19:33,393
-Papá!
+Papai!
 
 1082
 01:19:33,727 --> 01:19:35,604
-Inari, vai lá para trás e
-Tragam corda!
+Inari, vá lá atrás
+e pegue uma corda!
 
 1083
 01:19:35,729 --> 01:19:36,729
-Tá bem!
+Tá!
 
 1084
 01:19:37,189 --> 01:19:37,998
-Não é bom!
+Não adianta!
 
 1085
 01:19:38,023 --> 01:19:40,103
-A única coisa que podemos fazer é
-Prender uma corda e puxar...
+A única coisa que podemos fazer
+é prender uma corda e puxar...
 
 1086
 01:19:40,277 --> 01:19:42,780
-Não digas disparates!
+Não diga besteira!
 Como vamos prender uma corda?!
 
 1087
 01:19:43,195 --> 01:19:45,989
-Morríamos se fôssemos
-em uma corrente tão furiosa!
+A gente morreria se entrasse
+numa correnteza dessas!
 
 1088
 01:19:46,281 --> 01:19:49,034
-Mas se nos arrastarmos,
-O Distrito D será aniquilado!
+Mas, se esperarmos, todo mundo
+do Distrito D vai morrer!
 
 1089
 01:19:49,451 --> 01:19:50,452
-O que devemos fazer?
+O que a gente faz?
 
 1090
 01:19:51,036 --> 01:19:52,036
-Eu faço-o.
+Eu vou.
 
 1091
 01:19:53,942 --> 01:19:54,942
@@ -4820,32 +4805,33 @@ Kaiza!
 
 1092
 01:19:55,582 --> 01:19:56,750
-Não sejas tolo!
+Não seja tolo!
 
 1093
 01:19:57,083 --> 01:19:58,752
-Nem você serias capaz!
+Nem você conseguiria!
 
 1094
 01:19:59,544 --> 01:20:00,544
-Papá!
+Papai!
 
 1095
 01:20:00,879 --> 01:20:02,047
-Não te preocupes...
+Não se preocupe...
 
 1096
 01:20:02,923 --> 01:20:04,257
-O seu pai é incomparável.
+O seu pai é imbatível.
 
 1097
 01:20:04,883 --> 01:20:08,595
-O seu pai adora a cidade.
-Você é de, por isso...
+O seu pai ama a cidade
+de onde você vem, então...
 
 1098
 01:20:12,766 --> 01:20:15,435
-<i>Para coisas que realmente me são queridas...</i>
+<i>As coisas que eu realmente</i>
+<i>considero preciosas...</i>
 
 1099
 01:20:29,282 --> 01:20:32,244
@@ -4854,70 +4840,70 @@ A corda... a corda está presa!
 
 1100
 01:20:32,269 --> 01:20:34,146
-Muito bem, todos puxem!
+Certo, todo mundo puxando!
 
 1101
 01:20:34,329 --> 01:20:35,330
-Sim!
+É!
 
 1102
 01:20:36,289 --> 01:20:40,544
-A partir de então... o povo desta terra
-chamou Kaiza de herói.
+Daquele dia em diante... o povo
+desta cidade chamava o Kaiza de herói.
 
 1103
 01:20:40,671 --> 01:20:44,967
-E ele tornou-se um pai
-que Inari poderia estar orgulhoso.
+E ele virou um pai
+de quem o Inari se orgulhava.
 
 1104
 01:20:46,424 --> 01:20:49,970
-Foi nessa altura que o Gato
-Ponham-lhe a vista nesta terra.
+Foi nessa época que o Gato
+botou os olhos nesta terra.
 
 1105
 01:20:50,345 --> 01:20:52,889
-E então, uma noite...
+E então, numa noite...
 
 1106
 01:21:07,123 --> 01:21:08,333
-Ouvi dizer...
+Eu ouvi...
 
 1107
 01:21:08,565 --> 01:21:11,484
-Que você vai proteger
-Esta cidade com esses braços...
+que você vai proteger
+esta cidade com esses braços...
 
 1108
 01:21:19,082 --> 01:21:21,126
-Desafio-te a tentar!
+Quero ver você tentar!
 
 1109
 01:21:44,190 --> 01:21:45,190
-Ouçam!
+Escutem!
 
 1110
 01:21:45,584 --> 01:21:50,009
-Este homem cometeu actos de violência.
-contra a corporação Gato,
+Este homem cometeu atos de violência
+contra a Corporação Gato
 
 1111
 01:21:50,034 --> 01:21:52,119
-e perturbado a ordem
-desta nação.
+e perturbou a ordem
+desta ilha.
 
 1112
 01:21:53,272 --> 01:21:55,441
-Portanto, ele será executado agora!
+Por isso, ele será executado agora!
 
 1113
 01:21:58,955 --> 01:22:03,168
-Espero que sejam tão triviais.
-Nunca mais vai acontecer.
+Só espero que coisas tão insignificantes
+nunca mais aconteçam.
 
 1114
 01:22:03,627 --> 01:22:04,627
-Papá!
+Papai!
 
 1115
 01:22:05,003 --> 01:22:06,171
@@ -4925,25 +4911,25 @@ Pare, Inari...
 
 1116
 01:22:11,509 --> 01:22:12,509
-Fá-lo...
+Executem...
 
 1117
 01:22:16,514 --> 01:22:17,514
-Papá...
+Papai...
 
 1118
 01:22:23,605 --> 01:22:25,065
-Papá!
+Papai!
 
 1119
 01:22:34,342 --> 01:22:37,814
 Desde então,
-Inari mudou...
+o Inari mudou...
 
 1120
 01:22:38,392 --> 01:22:40,853
-assim como Tsunami...
-E as pessoas da cidade...
+assim como a Tsunami...
+e o povo da cidade...
 
 1121
 01:22:51,591 --> 01:22:53,343
@@ -4951,12 +4937,12 @@ O que você está fazendo, Naruto?
 
 1122
 01:22:53,779 --> 01:22:57,241
-Já você teve treino suficiente por hoje.
-Já usaste demasiado chakra.
+Você já treinou bastante por hoje.
+Usou chakra demais.
 
 1123
 01:22:57,803 --> 01:22:59,443
-Você vai morrer se usares
+Você vai morrer se usar
 mais do que isso.
 
 1124
@@ -4969,15 +4955,15 @@ Provar o quê?
 
 1126
 01:23:07,440 --> 01:23:08,440
-Vou provar que...
+Eu vou provar que...
 
 1127
 01:23:09,025 --> 01:23:11,778
-Há heróis...
+existem heróis...
 
 1128
 01:23:15,273 --> 01:23:16,449
-Neste mundo!
+neste mundo!
 
 1129
 01:24:25,720 --> 01:24:27,430
@@ -4985,7 +4971,7 @@ Bom dia!
 
 1130
 01:24:31,024 --> 01:24:32,024
-Toma.
+Aqui.
 
 1131
 01:24:32,049 --> 01:24:33,049
@@ -4993,67 +4979,67 @@ Obrigado.
 
 1132
 01:24:33,276 --> 01:24:36,446
-Naruto não voltou.
-Ontem à noite?
+O Naruto não voltou
+ontem à noite?
 
 1133
 01:24:36,696 --> 01:24:37,989
-Ele é tão tolo.
+Ele é tão bobo,
 
 1134
 01:24:38,239 --> 01:24:40,200
-Ele tem saído todas as noites,
-A subir árvores.
+que passa todas as noites fora,
+subindo em árvores.
 
 1135
 01:24:40,617 --> 01:24:44,621
-Ele já pode estar morto.
-de usar muito chakra.
+Ele já pode estar morto
+de tanto gastar chakra.
 
 1136
 01:24:45,414 --> 01:24:47,207
-Pergunto-me se o Naruto tá bem.
+Será que o Naruto está bem?
 
 1137
 01:24:47,791 --> 01:24:50,251
-Pensar que uma criança está lá fora
-a meio da noite.
+E pensar que uma criança está
+lá fora no meio da noite.
 
 1138
 01:24:50,865 --> 01:24:52,908
-Não precisas de te preocupar.
+Bom, não precisa se preocupar.
 
 1139
 01:24:53,254 --> 01:24:56,007
-Embora ele possa não parecer,
-Ele é um ninja completo.
+Mesmo que não pareça,
+ele é um ninja de verdade.
 
 1140
 01:24:56,483 --> 01:24:57,700
-Pergunto-me...
+Será...
 
 1141
 01:24:58,145 --> 01:25:02,399
-Aquele idiota provavelmente é...
-Está tudo desfeito agora.
+Aquele idiota deve estar
+morto de cansaço agora.
 
 1142
 01:25:12,360 --> 01:25:15,113
-Você vai pegar uma resfriado se
-Continua a dormir aqui.
+Você vai se resfriar
+se continuar dormindo aqui.
 
 1143
 01:25:23,593 --> 01:25:24,803
-Quem você é você?
+Quem é você?
 
 1144
 01:25:28,081 --> 01:25:33,795
-Acordaste-me, mana?
-O que fazes aqui?
+Hã... Você me acordou, moça?
+Quer dizer... o que você está fazendo aqui?
 
 1145
 01:25:34,420 --> 01:25:35,620
-Estou a colher ervas medicinais.
+Estou colhendo ervas medicinais.
 
 1146
 01:25:36,417 --> 01:25:37,585
@@ -5061,13 +5047,12 @@ Ervas?
 
 1147
 01:25:37,924 --> 01:25:41,803
-Sim, para curar lesões,
-doença e coisas assim.
+Sim. Para curar ferimentos,
+doenças e coisas assim.
 
 1148
 01:25:50,728 --> 01:25:52,897
-Você tem muito que fazer cedo.
-De manhã, mana...
+Você acorda cedo, moça.
 
 1149
 01:25:53,356 --> 01:25:54,399
@@ -5075,38 +5060,38 @@ Você também.
 
 1150
 01:25:54,566 --> 01:25:57,235
-O que você tem feito?
-Num lugar como este tão cedo?
+O que você está fazendo
+num lugar como este tão cedo?
 
 1151
 01:25:59,116 --> 01:26:00,295
-Treino!
+Treinando!
 
 1152
 01:26:03,020 --> 01:26:06,607
 Será que...
-Você é um ninja ou algo assim?
+você é algum tipo de ninja?
 
 1153
 01:26:08,005 --> 01:26:09,882
-Com essa faixa e...
+Com essa bandana e tudo...
 
 1154
 01:26:10,203 --> 01:26:12,038
-É assim que eu sou?
+É o que eu pareço? Parece?
 
 1155
 01:26:12,566 --> 01:26:14,393
-Sou um ninja!
+Isso! Eu sou um ninja!
 
 1156
 01:26:15,393 --> 01:26:18,896
-Não me digas.
-Você é fantástico, você não é?
+É mesmo?
+Que admirável.
 
 1157
 01:26:21,512 --> 01:26:25,015
-Mas... porque você está treinando?
+Mas... por que você está treinando?
 
 1158
 01:26:25,446 --> 01:26:27,949
@@ -5114,13 +5099,13 @@ Quero ficar mais forte!
 
 1159
 01:26:28,892 --> 01:26:32,228
-Mas, já você está a olhar
-forte o suficiente.
+Mas você já parece
+forte o bastante.
 
 1160
 01:26:32,253 --> 01:26:35,506
-Não, não, eu quero ir.
-Mais forte ainda!
+Não, não! Eu quero ficar
+ainda mais forte!
 
 1161
 01:26:37,647 --> 01:26:40,024
@@ -5128,70 +5113,70 @@ Para quê?
 
 1162
 01:26:40,615 --> 01:26:43,118
-Para se tornar o melhor ninja
-na minha aldeia!
+Para ser o maior ninja
+da minha vila!
 
 1163
 01:26:43,781 --> 01:26:46,618
-Vou chamar toda a gente.
-para reconhecer a minha força!
+Vou fazer todo mundo
+reconhecer a minha força!
 
 1164
 01:26:47,052 --> 01:26:50,472
-E tenho de provar algo.
-a uma certa pessoa!
+E eu tenho que provar uma coisa
+para uma certa pessoa!
 
 1165
 01:26:51,940 --> 01:26:57,529
-Isso é para o bem de alguém?
-Ou é para o seu próprio bem?
+Você faz isso por outra pessoa?
+Ou por você mesmo?
 
 1166
 01:26:58,630 --> 01:26:59,630
-Huh?
+Hã?
 
 1167
 01:27:01,376 --> 01:27:03,593
-O que é tão engraçado?
+Q-Qual é a graça?!
 
 1168
 01:27:05,449 --> 01:27:08,243
-Você tem alguém?
-precioso na sua vida?
+Você tem alguém
+que seja precioso para você?
 
 1169
 01:27:09,311 --> 01:27:10,354
-Preciosa?
+Precioso?
 
 1170
 01:27:11,142 --> 01:27:13,186
-O que você quer dizer, mana?
+O que você está querendo dizer, moça?
 
 1171
 01:27:16,731 --> 01:27:17,731
-<i>O que é?</i>
+<i>O que será?</i>
 
 1172
 01:27:18,211 --> 01:27:22,841
 Quando uma pessoa tem algo
-preciosos que eles querem proteger...
+precioso que quer proteger...
 
 1173
 01:27:23,655 --> 01:27:25,866
-É quando eles podem realmente
-Tornar-me forte.
+é aí que ela consegue
+ficar forte de verdade.
 
 1174
 01:27:32,288 --> 01:27:35,250
-<i>Tire as mãos de Iruka Sensei!</i>
+<i>Se você encostar um dedo no Iruka-sensei,</i>
 
 1175
 01:27:36,292 --> 01:27:37,292
-<i>I vai matá-lo!!</i>
+<i>eu te mato!</i>
 
 1176
 01:27:38,392 --> 01:27:41,490
-Eu sei tudo sobre isso!
+É! Eu sei bem o que é isso!
 
 1177
 01:27:46,790 --> 01:27:48,542
@@ -5199,42 +5184,41 @@ Você vai ficar forte.
 
 1178
 01:27:48,870 --> 01:27:49,870
-Sim!
+É!
 
 1179
 01:27:50,127 --> 01:27:53,005
-Espero que nos encontremos novamente em algum lugar.
+Espero que a gente se encontre de novo.
 
 1180
 01:27:54,852 --> 01:27:56,437
-Oh... e...
+Ah... e...
 
 1181
 01:27:57,814 --> 01:27:59,066
-Sou um garoto!
+Eu sou um garoto!
 
 1182
 01:28:00,625 --> 01:28:03,970
-<i>Isso não pode ser!
-Ele é mais bonito que o Sakura!</i>
+<i>Não pode ser!
+Ele é mais bonitinho que a Sakura!</i>
 
 1183
 01:28:25,842 --> 01:28:27,844
-Que estranho.
+Por quê? Que estranho.
 
 1184
 01:28:28,060 --> 01:28:30,104
-Este mundo está cheio de mistérios...
+Este mundo é cheio de mistérios...
 
 1185
 01:28:30,377 --> 01:28:32,806
-Ouch.
-O que você está fazendo?
+Ai.
+Ei! O que você está fazendo?!
 
 1186
 01:28:33,025 --> 01:28:36,111
-Esqueceste-te da hora da refeição,
-Seu idiota?
+Esqueceu de comer, cabeça-dura?
 
 1187
 01:28:42,275 --> 01:28:43,318
@@ -5242,17 +5226,17 @@ Naruto?
 
 1188
 01:28:47,601 --> 01:28:49,478
-O que está o Naruto fazendo?
+O que será que o Naruto está fazendo?
 
 1189
 01:28:49,966 --> 01:28:53,094
-E Sasuke não voltou.
-De sua caminhada também...
+E o Sasuke também não voltou
+do passeio...
 
 1190
 01:29:00,658 --> 01:29:04,261
-Nem pensar...
-Naruto pode subir tão alto agora?
+Não pode ser...
+O Naruto já consegue subir tão alto?
 
 1191
 01:29:05,323 --> 01:29:06,323
@@ -5260,43 +5244,43 @@ Uau!
 
 1192
 01:29:08,426 --> 01:29:09,677
-Que tal isso?
+E aí, e aí?!
 
 1193
 01:29:09,802 --> 01:29:12,659
-Já posso subir esta altura!
+Agora eu consigo subir até aqui!
 
 1194
 01:29:16,617 --> 01:29:17,617
-Whoa!
+Opa!
 
 1195
 01:29:19,073 --> 01:29:20,073
-Seu idiota!
+Ai, seu idiota!
 
 1196
 01:29:20,396 --> 01:29:21,192
-Isto é mau!
+Isso é ruim!
 
 1197
 01:29:26,611 --> 01:29:28,112
-Peguei você!
+Te peguei!
 
 1198
 01:29:30,138 --> 01:29:31,806
-Você caíste, você caíste!
+Caíram, caíram!
 
 1199
 01:29:34,043 --> 01:29:36,086
-Não nos assustes assim!
+Não assusta a gente assim!
 
 1200
 01:29:37,053 --> 01:29:39,555
-<i>I vai matá-lo mais tarde!</i>
+<i>Ele me paga! Cha!</i>
 
 1201
 01:29:40,532 --> 01:29:42,450
-<i>Ele cresceu um pouco, eh.</i>
+<i>Ele cresceu um pouco, hein.</i>
 
 1202
 01:29:57,536 --> 01:29:59,623
@@ -5313,11 +5297,11 @@ Você é incrível!
 
 1205
 01:30:06,609 --> 01:30:09,821
-<i>Estes garotos estão realmente a crescer.</i>
+<i>Essas crianças estão crescendo mesmo.</i>
 
 1206
 01:30:17,662 --> 01:30:18,662
-Naruto, huh?
+Naruto, é?
 
 1207
 01:30:33,768 --> 01:30:34,888
@@ -5325,42 +5309,40 @@ Vamos voltar.
 
 1208
 01:30:35,280 --> 01:30:36,280
-Tá bem!
+Tá!
 
 1209
 01:30:41,493 --> 01:30:42,952
-Estão atrasados.
+Eles estão atrasados.
 
 1210
 01:30:43,127 --> 01:30:45,337
-E não apenas Naruto,
-Mas até mesmo Sasuke também.
+Não só o Naruto, mas o Sasuke também.
 
 1211
 01:30:50,814 --> 01:30:52,232
-O que vos aconteceu?
+O que aconteceu com vocês?
 
 1212
 01:30:52,257 --> 01:30:54,343
-Você está mesmo enlameado.
-e realmente dizimada.
+Vocês dois estão sujos de lama e exaustos.
 
 1213
 01:30:56,307 --> 01:30:59,519
-Nós os dois... subimos ao topo.
+Nós dois... chegamos até o topo.
 
 1214
 01:31:00,743 --> 01:31:01,743
-Óptimo.
+Ótimo.
 
 1215
 01:31:02,810 --> 01:31:07,398
-Naruto, Sasuke, a partir de amanhã
-Podem começar a vigiar Tazuna também.
+Naruto, Sasuke, a partir de amanhã,
+vocês dois também vão proteger o Tazuna.
 
 1216
 01:31:08,551 --> 01:31:09,885
-Consegui!
+Entendido! Opa!
 
 1217
 01:31:10,792 --> 01:31:11,793
@@ -5368,8 +5350,8 @@ Seu idiota!
 
 1218
 01:31:15,572 --> 01:31:19,075
-Só mais um pouco.
-e a ponte estará completa.
+Só mais um pouco
+e a ponte vai ficar pronta.
 
 1219
 01:31:19,435 --> 01:31:20,936
@@ -5377,68 +5359,69 @@ e a ponte estará completa.
 
 1220
 01:31:21,270 --> 01:31:23,397
-Mesmo assim, não baixes a guarda...
+Mesmo assim, não baixem a guarda...
 
 1221
 01:31:24,809 --> 01:31:27,896
-Queria mesmo perguntar-te.
-Você já há muito tempo...
+Faz tempo que eu queria
+te perguntar uma coisa...
 
 1222
 01:31:29,061 --> 01:31:33,566
-Mas porque ainda você está aqui?
-Mesmo que tenha mentido sobre a missão?
+Por que vocês ainda estão aqui,
+mesmo eu tendo mentido sobre a missão?
 
 1223
 01:31:36,398 --> 01:31:39,360
-Para ver o que é certo sem fazê-lo
-Fala de uma ausência de coragem.
+Abandonar uma causa justa
+é coisa de covarde.
 
 1224
 01:31:39,411 --> 01:31:41,900
-Como mestre, como homem.
+É um velho ditado de que eu gosto.
 
 1225
 01:31:59,369 --> 01:32:02,206
-Porque trabalhas tão arduamente?
-até que você fique assim?!
+Por que você se esforça tanto
+a ponto de quase cair?!
 
 1226
 01:32:02,292 --> 01:32:05,921
-Não há maneira de ser páreo para
-Os homens do Gato, não importa o quanto treinas!
+Você nunca vai ser páreo para os homens
+do Gato, por mais que treine!
 
 1227
 01:32:06,303 --> 01:32:10,307
-Cala-te, não sou como você.
+Cala a boca. Eu não sou como você.
 
 1228
 01:32:10,332 --> 01:32:13,377
-Cala-te!
-Olhar para ti deixa-me doente!
+Cala a boca!
+Só de olhar pra você me dá nojo!
 
 1229
 01:32:13,803 --> 01:32:16,973
-Enfiar o nariz em lugares até
-embora não saibais nada desta terra!
+Para de se meter onde não é chamado!
+Você não sabe nada desta terra!
 
 1230
 01:32:17,451 --> 01:32:19,619
-Não sou como você, que você é sempre
-agindo frívolo
+Eu não sou como você, sempre
+tão despreocupado e alheio a tudo,
 
 1231
 01:32:19,644 --> 01:32:22,236
-sem saber uma coisa sobre dor!
+alguém que não sabe
+o que é sofrer de verdade!
 
 1232
 01:32:24,336 --> 01:32:28,882
-Um idiota como você pode chorar para sempre!
-Seu chorão!
+Um idiota como você pode chorar
+o quanto quiser! Seu chorão!
 
 1233
 01:32:30,778 --> 01:32:32,780
-Naruto! Isso é um pouco duro!
+Naruto! Isso foi duro demais!
 
 1234
 01:32:37,485 --> 01:32:38,485
@@ -5446,36 +5429,36 @@ Naruto...
 
 1235
 01:32:53,442 --> 01:32:55,110
-Você tem um minuto?
+Tem um minuto?
 
 1236
 01:33:03,463 --> 01:33:06,508
-Naruto não quis dizer nada de mal.
-Com o que ele disse...
+O Naruto não quis ofender
+com o que disse...
 
 1237
 01:33:08,058 --> 01:33:10,019
-Ele é grosseiro, por isso...
+Ele só é meio grosso, então...
 
 1238
 01:33:11,478 --> 01:33:14,940
-Ouvimos a história
-Sobre o seu pai de Tazuna.
+Ouvimos do Tazuna
+a história do seu pai.
 
 1239
 01:33:16,216 --> 01:33:20,596
-Como você, Naruto nunca teve
-Um pai quando era criança...
+Assim como você, o Naruto também cresceu
+sem pai...
 
 1240
 01:33:21,994 --> 01:33:24,455
-Na verdade, ele também não sabe.
-dos pais dele.
+Na verdade, ele nunca conheceu
+nem o pai nem a mãe.
 
 1241
 01:33:25,144 --> 01:33:27,981
-Não só isso.
-Ele não tinha um único amigo.
+E não só isso.
+Ele não tinha nenhum amigo.
 
 1242
 01:33:28,308 --> 01:33:29,308
@@ -5483,48 +5466,48 @@ O quê?
 
 1243
 01:33:29,732 --> 01:33:30,732
-No entanto...
+Mas...
 
 1244
 01:33:31,106 --> 01:33:34,443
-Nunca o vi amuado.
-Seja tímido, ou chore.
+Eu nunca vi ele
+reclamar ou chorar.
 
 1245
 01:33:36,103 --> 01:33:41,442
-Ele está sempre ansioso.
-querendo ser reconhecido por alguém.
+Ele sempre se esforça tanto,
+só querendo ser reconhecido.
 
 1246
 01:33:42,180 --> 01:33:45,851
-Se é pelo bem do seu "sonho",
-Ele arrisca sempre a vida.
+Ele sempre arrisca a vida
+por esse sonho.
 
 1247
 01:33:49,355 --> 01:33:52,609
-Deve estar cansado de chorar.
+Ele provavelmente cansou de chorar.
 
 1248
 01:33:54,819 --> 01:33:58,906
-Naruto pode compreender
-Os seus sentimentos são os mais.
+É por isso que o Naruto entende
+como você se sente, talvez mais que ninguém.
 
 1249
 01:34:00,885 --> 01:34:02,595
-O que o Naruto disse antes...
+O que o Naruto disse agora há pouco...
 
 1250
 01:34:03,388 --> 01:34:08,560
-Não há dúvida de que ele está
-Disse-se isso várias vezes.
+Tenho certeza de que é algo que ele
+repete para si mesmo sem parar.
 
 1251
 01:34:22,448 --> 01:34:24,533
-Recuperou-se consideravelmente.
+Você se recuperou bastante.
 
 1252
 01:34:25,391 --> 01:34:26,391
-Tá bem...
+Muito bem...
 
 1253
 01:34:26,975 --> 01:34:28,810

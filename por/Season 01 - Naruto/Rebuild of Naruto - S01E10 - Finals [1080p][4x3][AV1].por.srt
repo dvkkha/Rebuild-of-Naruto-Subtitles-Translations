@@ -211,8 +211,8 @@ Mesmo quando você se atrapalhou,
 
 51
 00:05:39,380 --> 00:05:43,384
-olhando do meu ponto de vista... você sempre foi
-uma falha orgulhosa.
+Para mim... você sempre foi
+um fracasso orgulhoso.
 
 52
 00:05:45,219 --> 00:05:49,849
@@ -382,7 +382,7 @@ as mãos de Orochimaru...
 90
 00:08:35,473 --> 00:08:38,643
 Se esse for o caso,
-Nós podemos nunca encontrá-lo.
+nós podemos nunca encontrá-lo.
 
 91
 00:08:38,893 --> 00:08:40,353
@@ -390,7 +390,7 @@ Eu entendo.
 
 92
 00:08:43,844 --> 00:08:47,806
-Bem, bem... Lorde Kazekage.
+Bem, bem... Senhor Kazekage.
 
 93
 00:08:55,566 --> 00:08:58,611
@@ -404,8 +404,8 @@ está na Vila da Folha.
 
 95
 00:09:03,258 --> 00:09:07,721
-Mesmo que você ainda seja jovem, seria
-provavelmente será uma jornada difícil para você
+Mesmo para alguém tão jovem quanto você,
+provavelmente seria uma jornada difícil,
 
 96
 00:09:07,799 --> 00:09:10,510
@@ -439,8 +439,8 @@ por vir
 
 102
 00:09:46,277 --> 00:09:50,990
-para a Vila Oculta entre Folhas
-Exame Chunin.
+para o Exame Chunin
+da Vila Oculta da Folha.
 
 103
 00:09:51,774 --> 00:09:55,008
@@ -564,7 +564,7 @@ Então você se chama Gaara...
 130
 00:11:49,750 --> 00:11:52,378
 O que você quer dizer
-a ele antes da rodada final,
+a ele antes da rodada final?
 
 131
 00:11:52,703 --> 00:11:54,413
@@ -595,8 +595,8 @@ o que você quer dizer é...
 
 137
 00:12:16,385 --> 00:12:19,722
-Teremos uma luta mortal,
-não uma simples disputa
+"Vamos ter uma luta de morte de verdade,
+não só uma luta de exame"?
 
 138
 00:12:20,364 --> 00:12:25,202
@@ -757,8 +757,7 @@ O que você disse?!
 
 173
 00:14:58,898 --> 00:15:01,066
-<i>O que é ANBU, as Operações Especiais
-fazendo aqui?</i>
+<i>O que a ANBU está fazendo aqui?</i>
 
 174
 00:15:02,067 --> 00:15:03,694
@@ -822,8 +821,8 @@ Assista com atenção, Hanabi.
 
 188
 00:16:27,236 --> 00:16:31,907
-Ninguém herdou um
-kekkei genkai Hyuga tão forte.
+Ninguém herdou o Kekkei Genkai
+dos Hyuga com tanta força quanto ele.
 
 189
 00:16:32,689 --> 00:16:35,108
@@ -839,7 +838,7 @@ Talvez mais do que você também.
 
 192
 00:17:10,892 --> 00:17:12,352
-<i>Jutsu de Clone das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
 
 193
 00:17:16,577 --> 00:17:18,370
@@ -848,7 +847,8 @@ não foi, Naruto?!</i>
 
 194
 00:17:18,662 --> 00:17:20,164
-<i>Com o Jutsu de Clone das Sombras...</i>
+<i>Com o Kage Bunshin no Jutsu
+(Jutsu dos Clones das Sombras)...</i>
 
 195
 00:17:20,831 --> 00:17:23,083
@@ -856,7 +856,7 @@ Heh. Ele é um garoto interessante.
 
 196
 00:17:24,001 --> 00:17:26,795
-O Jutsu de Clone das Sombras é
+O Kage Bunshin no Jutsu é
 uma técnica de nível jonin.
 
 197
@@ -870,7 +870,7 @@ Quem sabe como isso vai terminar?
 
 199
 00:17:38,682 --> 00:17:39,933
-<i>Jutsu de Clone das Sombras?!</i>
+<i>Kage Bunshin no Jutsu?!</i>
 
 200
 00:17:40,992 --> 00:17:45,831
@@ -923,7 +923,8 @@ Esse cara...
 
 211
 00:18:58,011 --> 00:19:02,349
-Ele tem olhos atrás dele?
+Ele tem olhos na nuca
+ou o quê?
 
 212
 00:19:13,360 --> 00:19:15,112
@@ -1026,8 +1027,8 @@ E daí?!
 
 234
 00:21:02,567 --> 00:21:07,989
-Eu não sei quando desistir!
-Jutsu de Clone das Sombras!
+Eu nunca sei quando desistir!
+<i>Kage Bunshin no Jutsu!</i>
 
 235
 00:21:23,323 --> 00:21:25,575
@@ -1158,18 +1159,18 @@ Não me faça passar vergonha.
 
 264
 00:24:19,499 --> 00:24:23,587
-<i>O campo de visão do Byakugan de
-Neji é de quase 360 graus.</i>
+<i>O Byakugan do Neji tem
+visão de quase 360 graus.</i>
 
 265
 00:24:24,671 --> 00:24:28,175
-<i>E ele detecta todos os ataques de seu oponente
-com o Byakugan.</i>
+<i>E ele detecta todos os ataques
+do oponente com o Byakugan.</i>
 
 266
 00:24:30,510 --> 00:24:33,513
-<i>Sua técnica de defesa,
-os 8 Trigramas Rotação das Palmas,</i>
+<i>A técnica de defesa dele,
+o Hakkeshō Kaiten,</i>
 
 267
 00:24:33,538 --> 00:24:34,765
@@ -1187,7 +1188,7 @@ bloqueia o ataque do inimigo com aquele chakra</i>
 
 270
 00:25:02,125 --> 00:25:06,254
-<i>moves move seu próprio corpo em um movimento circular,
+<i>move o próprio corpo em círculo,
 esquiva e repele.</i>
 
 271
@@ -1207,8 +1208,8 @@ em técnicas.</i>
 
 274
 00:25:18,850 --> 00:25:22,354
-<i>But Neji, que dominou
-Punho Suave, libera chakra</i>
+<i>Mas o Neji, que domina o Jūken
+(Punho Gentil), libera chakra</i>
 
 275
 00:25:22,395 --> 00:25:25,565
@@ -1273,11 +1274,11 @@ Você está dentro da área dos meus 8 Trigramas.
 
 289
 00:26:20,368 --> 00:26:21,899
-<i>Arte do Punho Gentil:</i>
+<i>Jūken-hō</i>
 
 290
 00:26:23,184 --> 00:26:24,872
-<i>8 Trigramas 64 Palmas.</i>
+<i>Hakke Rokujūyonshō! (8 Trigramas, 64 Palmas)</i>
 
 291
 00:26:25,720 --> 00:26:26,419
@@ -1433,8 +1434,8 @@ Do que você está falando?
 
 327
 00:29:06,763 --> 00:29:11,351
-Zombando de Hinata, etiquetando-a egoisticamente
-como fracasso ao seu bel-prazer.
+Zombando da Hinata, chamando ela
+de fracassada à vontade.
 
 328
 00:29:11,607 --> 00:29:13,442
@@ -1478,21 +1479,21 @@ de geração em geração.
 
 337
 00:29:49,111 --> 00:29:50,613
-Essa é a Marca da Maldição.
+É o Juin (Marca da Maldição).
 
 338
 00:29:52,248 --> 00:29:53,541
-Marca da Maldição?
+Juin?
 
 339
 00:29:59,088 --> 00:30:02,759
-A Marca da Maldição representa
-um pássaro em uma gaiola...
+O Juin representa
+um pássaro numa gaiola...
 
 340
 00:30:03,437 --> 00:30:07,764
-e é uma marca daqueles que são
-vinculados a um destino do qual não podem escapar.
+e é uma marca daqueles que são vinculados
+a um destino do qual não podem escapar.
 
 341
 00:30:21,277 --> 00:30:22,570
@@ -1508,8 +1509,8 @@ Um dia, quando eu tinha quatro anos,
 
 344
 00:30:39,148 --> 00:30:44,194
-essa marca maldita foi inscrita
-na minha testa com as Artes da Marca da Maldição.
+esta marca amaldiçoada, o Juin,
+foi gravada na minha testa.
 
 345
 00:30:46,553 --> 00:30:50,765
@@ -1537,8 +1538,7 @@ No entanto, havia um clã...
 
 350
 00:31:05,386 --> 00:31:07,802
-quem não compareceu à cerimônia
-que foi atendido
+participou daquela cerimônia.
 
 351
 00:31:07,827 --> 00:31:10,262
@@ -1589,7 +1589,8 @@ nasceu na família ramificada.
 
 361
 00:31:45,486 --> 00:31:47,715
-Então a Senhorita Hinata já está com três anos...
+Então a Senhorita Hinata
+já está com três anos...
 
 362
 00:31:47,925 --> 00:31:49,384
@@ -1601,7 +1602,7 @@ Obrigado.
 
 364
 00:31:55,333 --> 00:31:56,439
-Senhora Hinata…
+Senhora Hinata...
 
 365
 00:31:56,464 --> 00:31:57,549
@@ -1648,13 +1649,13 @@ e completou três anos,
 
 375
 00:32:28,838 --> 00:32:32,592
-Eu tinha a Marca da Maldição impressa em mim
+Gravaram o Juin em mim,
 e eu me tornei o pássaro na gaiola.
 
 376
 00:32:32,842 --> 00:32:36,012
-Esta Marca da Maldição é o medo absoluto
-chamou de morte, por assim dizer...
+Este Juin é o medo absoluto
+chamado morte, por assim dizer...
 
 377
 00:32:36,037 --> 00:32:38,373
@@ -1674,7 +1675,7 @@ do Byakugan.
 380
 00:32:51,511 --> 00:32:55,306
 O clã Hyuga possui
-o kekkei genkai mais distintivo.
+o Kekkei Genkai mais distintivo.
 
 381
 00:32:56,349 --> 00:32:59,602
@@ -1683,8 +1684,8 @@ o segredo desse poder distintivo.
 
 382
 00:33:01,562 --> 00:33:05,942
-Em outras palavras, esta Marca da Maldição
-mantém a família da ramificação viva
+Em outras palavras, este Juin
+mantém a Família Secundária viva
 
 383
 00:33:06,624 --> 00:33:09,587
@@ -1698,7 +1699,7 @@ defender por toda a eternidade
 
 385
 00:33:14,110 --> 00:33:16,445
-o kekkei genkai chamado Byakugan.
+o Kekkei Genkai chamado Byakugan.
 
 386
 00:33:16,861 --> 00:33:20,887
@@ -1721,7 +1722,7 @@ disparou e matou o sequestrador.
 
 390
 00:33:52,905 --> 00:33:55,908
-Quem você acha que aquela pessoa era...
+Quem você acha que era essa pessoa...?
 
 391
 00:33:55,933 --> 00:34:00,104
@@ -1740,8 +1741,8 @@ o tratado aliado.
 
 394
 00:34:08,646 --> 00:34:12,358
-Estava claro que ele veio com o alvo
-o segredo do Byakugan desde o início.
+Estava claro que desde o início
+ele veio atrás do segredo do Byakugan.
 
 395
 00:34:13,452 --> 00:34:17,372
@@ -1765,12 +1766,12 @@ do líder dos Hyuga
 399
 00:34:27,055 --> 00:34:29,849
 que possuía o Byakugan,
-o kekkei genkai...
+o Kekkei Genkai...
 
 400
 00:34:31,027 --> 00:34:34,739
 Em outras palavras,
-o corpo de Senhor Hiashi.
+o corpo do Senhor Hiashi.
 
 401
 00:34:37,439 --> 00:34:40,192
@@ -1795,8 +1796,8 @@ proteger a cabeça da família!
 
 406
 00:34:57,095 --> 00:35:01,599
-Além de morrer, não há outro jeito
-escapar desta Maldição amaldiçoada.
+A não ser morrendo, não há outro jeito
+de escapar deste maldito Juin.
 
 407
 00:35:02,725 --> 00:35:05,829
@@ -1857,7 +1858,8 @@ Eu não... vou fugir...
 
 420
 00:36:22,159 --> 00:36:25,195
-Eu vou... permanecer firme nas minhas próprias palavras...
+Eu vou... permanecer firme nas
+minhas próprias palavras...
 
 421
 00:36:26,934 --> 00:36:28,978
@@ -1992,7 +1994,8 @@ por um tempo, planeja lutar?
 
 451
 00:38:43,779 --> 00:38:47,491
-<i>Você deve extrair e utilizar, a qualquer momento,</i>
+<i>Você deve extrair e utilizar,</i>
+<i>a qualquer momento,</i>
 
 452
 00:38:47,516 --> 00:38:51,437
@@ -2001,7 +2004,7 @@ teve repousado dentro de você desde o início...</i>
 
 453
 00:38:53,011 --> 00:38:56,932
-<i>É isso. O chakra da Raposa de Nove Caudas...
+<i>É isso. O chakra da Nove-Caudas...
 Eu vou usar isso...</i>
 
 454
@@ -2076,12 +2079,13 @@ Você!
 
 470
 00:41:35,794 --> 00:41:38,380
-Você é confiante em combate corpo a corpo, certo?!
+Você é confiante em combate
+corpo a corpo, certo?!
 
 471
 00:41:43,709 --> 00:41:47,171
 Eu não sei o que o
-O destino de ódio de Hyuga é!
+o destino de ódio de Hyuga é!
 
 472
 00:41:48,672 --> 00:41:52,218
@@ -2098,7 +2102,8 @@ Depois que eu me tornar o Hokage...
 
 475
 00:41:59,440 --> 00:42:01,877
-Eu vou mudar o Hyuga!
+Eu vou mudar as coisas
+para o clã Hyuga!
 
 476
 00:42:35,177 --> 00:42:36,637
@@ -2131,8 +2136,8 @@ Nessas condições,
 
 483
 00:43:51,904 --> 00:43:53,824
-você usou o Jutsu de Clone das Sombras
-assim mesmo...
+você usou o Kage Bunshin no Jutsu
+daquele jeito...
 
 484
 00:43:54,120 --> 00:43:56,175
@@ -2162,8 +2167,8 @@ incrivelmente o ninjutsu em que eu era péssimo.
 
 490
 00:44:23,369 --> 00:44:28,666
-O jutsu clone era o ninjutsu...
-Eu era péssimo.
+O Bunshin no Jutsu (Jutsu de Clone)...
+era o jutsu em que eu era pior.
 
 491
 00:44:35,089 --> 00:44:37,883
@@ -2206,7 +2211,8 @@ para correr por aí...</i>
 
 500
 00:45:39,278 --> 00:45:42,531
-<i>Cara... Esse cara tem uma resistência absurda...</i>
+<i>Cara... Esse cara tem uma</i>
+<i>resistência absurda...</i>
 
 501
 00:45:44,491 --> 00:45:45,701
@@ -2279,7 +2285,7 @@ Isso é meio desanimador...
 517
 00:46:34,374 --> 00:46:38,170
 Para se conter e extrair
-o chakra da Raposa de Nove Caudas...
+o chakra da Nove-Caudas...
 
 518
 00:46:38,295 --> 00:46:42,633
@@ -2293,7 +2299,7 @@ aqui está surpresa.
 520
 00:46:45,177 --> 00:46:49,765
 <i>Quando ele aprendeu a controlar a força
-da Raposa de Nove Caudas a esse ponto?</i>
+da Nove-Caudas a esse ponto?</i>
 
 521
 00:46:55,827 --> 00:46:58,830
@@ -2500,7 +2506,7 @@ Senhor Hokage...
 567
 00:50:03,583 --> 00:50:06,795
 <i>Não há garantia de que
-Sasuke virá mas...</i>
+o Sasuke vai vir, mas...</i>
 
 568
 00:50:08,338 --> 00:50:09,715
@@ -2578,7 +2584,7 @@ O que ele está fazendo... aquele Sasuke?
 
 585
 00:51:14,029 --> 00:51:17,908
-Ótimo
+Ótimo!
 Então o Sasuke não foi desclassificado!
 
 586
@@ -2776,8 +2782,8 @@ também espancado.</i>
 
 630
 00:55:22,819 --> 00:55:25,979
-<i>Ele provavelmente está tentando me atrair para o
-árvores onde há muitas sombras...</i>
+<i>Ele deve estar tentando me atrair para
+as árvores, onde há muitas sombras...</i>
 
 631
 00:55:26,549 --> 00:55:27,675
@@ -2888,8 +2894,8 @@ completamente sem vontade...</i>
 
 655
 00:57:02,961 --> 00:57:06,798
-<i>was porque eu pensei
-Eu teria uma vida divertida, sabe...</i>
+<i>foi porque eu achei que
+seria uma vida sem complicações.</i>
 
 656
 00:57:15,885 --> 00:57:20,114
@@ -2902,7 +2908,8 @@ Ele está me subestimando?</i>
 
 658
 00:57:24,566 --> 00:57:26,025
-<i>Arte Ninja: Jutsu Foice do Vento!</i>
+<i>Ninpō: Kamaitachi no Jutsu!
+(Arte Ninja: Jutsu Foice de Vento)</i>
 
 659
 00:57:39,122 --> 00:57:44,127
@@ -2915,8 +2922,8 @@ Entendo...
 
 661
 00:58:06,816 --> 00:58:09,819
-Jutsu de Posse das Sombras!
-Eu vi aquela verdadeira identidade!
+Kagemane no Jutsu,
+eu já te entendi!
 
 662
 00:58:10,670 --> 00:58:13,172
@@ -3007,7 +3014,7 @@ Aquele cara é como um velho.
 681
 00:59:32,068 --> 00:59:34,237
 É por isso que ele gosta
-Damas e xadrez japoneses
+de go e shogi
 
 682
 00:59:34,300 --> 00:59:37,160
@@ -3102,7 +3109,7 @@ ele é um super gênio!
 
 702
 01:01:03,667 --> 01:01:05,336
-D-duzentos?!
+200?!
 
 703
 01:01:15,470 --> 01:01:17,783
@@ -3115,7 +3122,8 @@ espírito de luta...
 
 705
 01:01:35,327 --> 01:01:37,455
-Eu me pergunto se ele realmente tem uma estratégia...
+Eu me pergunto se ele
+realmente tem uma estratégia...
 
 706
 01:01:38,486 --> 01:01:39,821
@@ -3255,7 +3263,7 @@ e seu território aumentará.</i>
 
 737
 01:04:04,340 --> 01:04:05,341
-<i>Clone...</i>
+<i>Bunshin...</i>
 
 738
 01:04:06,385 --> 01:04:07,746
@@ -3267,8 +3275,8 @@ e seu território aumentará.</i>
 
 740
 01:04:17,103 --> 01:04:20,606
-Finalmente...
-Jutsu de Possessão das Sombras foi um sucesso!
+Finalmente... Kagemane no Jutsu (Jutsu
+da Possessão da Sombra) foi um sucesso!
 
 741
 01:04:21,440 --> 01:04:22,440
@@ -3338,8 +3346,7 @@ com a jaqueta,</i>
 
 756
 01:05:25,713 --> 01:05:28,841
-<i>foi um dispositivo para me levar
-até exatamente este lugar...?</i>
+<i>era uma armadilha para me atrair até aqui?</i>
 
 757
 01:05:30,593 --> 01:05:31,886
@@ -3399,8 +3406,8 @@ Q-O que você disse?!
 
 770
 01:07:05,062 --> 01:07:08,315
-Eu usei muito chakra da Sombra
-Jutsu de posse em rápida sucessão.
+Gastei chakra demais usando
+o Kagemane no Jutsu várias vezes.
 
 771
 01:07:08,340 --> 01:07:10,342
@@ -3656,7 +3663,7 @@ esperar mais dez minutos não faria mal.
 827
 01:10:44,823 --> 01:10:48,452
 Há alguma verdade no que
-Kazekage diz.
+o Senhor Kazekage diz.
 
 828
 01:10:48,911 --> 01:10:51,538
@@ -3680,7 +3687,7 @@ Ei, isso não é...
 
 833
 01:11:24,780 --> 01:11:28,993
-Mas, o que aquele idiota está fazendo
+O que aquele idiota está fazendo?!
 Ele ainda não chegou?!
 
 834
@@ -3709,13 +3716,13 @@ A maior parte da primeira rodada acabou,
 
 840
 01:11:46,440 --> 01:11:49,484
-e o único restante é
-Sasuke Uchiha e Gaara.
+e só falta
+Sasuke Uchiha contra Gaara.
 
 841
 01:11:50,639 --> 01:11:52,433
-C-Como é que está a luta entre Naruto e
-Neji?!
+E-E a luta do Naruto
+com o Neji?!
 
 842
 01:11:53,261 --> 01:11:55,221
@@ -3793,7 +3800,7 @@ Sasuke...Uchiha.
 
 860
 01:13:18,143 --> 01:13:19,186
-Sasuke…
+Sasuke...
 
 861
 01:13:21,009 --> 01:13:22,844
@@ -3834,7 +3841,7 @@ O Sasuke não foi desclassificado, foi?
 869
 01:13:48,048 --> 01:13:51,760
 De jeito nenhum. Nós empurramos
-A partida de Sasuke até mais tarde.
+a partida de Sasuke até mais tarde.
 
 870
 01:13:52,469 --> 01:13:54,054
@@ -3913,7 +3920,7 @@ O que é?
 888
 01:14:57,951 --> 01:15:02,164
 Bem, o Naruto venceu
-Neji Hyuga e...
+o Neji Hyuga e...
 
 889
 01:15:02,789 --> 01:15:04,833
@@ -3970,7 +3977,7 @@ Naruto! Vamos subir!
 901
 01:15:57,261 --> 01:16:00,097
 Quando subirmos,
-Nós subiremos as escadas tranquilamente.
+nós subiremos as escadas tranquilamente.
 
 902
 01:16:00,222 --> 01:16:01,557
@@ -3979,7 +3986,7 @@ O que há com você!
 903
 01:16:01,640 --> 01:16:03,892
 Você ainda está chateado que
-Eu te empurrei?!
+eu te empurrei?!
 
 904
 01:16:11,900 --> 01:16:12,900
@@ -4033,8 +4040,8 @@ Hã?
 
 916
 01:17:03,457 --> 01:17:07,544
-Torneios de nível baixo como este
-Exame Chunin são ideais
+Torneios de nível baixo
+como este Exame Chunin são ideais
 
 917
 01:17:07,855 --> 01:17:10,135
@@ -4048,7 +4055,7 @@ estão aqui com esse propósito.
 919
 01:17:14,671 --> 01:17:18,300
 Então...
-você perderia esta luta por nós.
+você perderia esta luta por nós?
 
 920
 01:18:48,671 --> 01:18:50,798
@@ -4118,8 +4125,8 @@ Oh! Desculpe, desculpe.
 
 935
 01:19:56,990 --> 01:20:01,268
-Você deve ter se preocupado.
-Desculpe por não ter entrado em contato de jeito nenhum...
+Você deve ter ficado preocupado.
+Desculpe por não ter dado notícias...
 
 936
 01:20:02,422 --> 01:20:05,383
@@ -4162,7 +4169,7 @@ Yup!
 945
 01:20:39,167 --> 01:20:41,807
 <i>Há oito membros do
-ANBU Black Ops nesta arena espaçosa...</i>
+aNBU Black Ops nesta arena espaçosa...</i>
 
 946
 01:20:42,045 --> 01:20:43,547
@@ -4170,7 +4177,7 @@ ANBU Black Ops nesta arena espaçosa...</i>
 
 947
 01:20:45,173 --> 01:20:46,758
-O que o Hokage-sama está pensando?
+O que o Senhor Hokage está pensando?
 
 948
 01:20:47,801 --> 01:20:51,263
@@ -4291,7 +4298,7 @@ Vamos lá!
 975
 01:24:02,078 --> 01:24:04,205
 Se você não vai vir atrás de mim,
-Vou te atacar!
+vou te atacar!
 
 976
 01:24:16,426 --> 01:24:19,304
@@ -4326,8 +4333,8 @@ em apenas um mês...
 
 983
 01:25:13,744 --> 01:25:17,247
-Sasuke havia copiado o taijutsu de Lee
-com Sharingan.
+Sasuke copiou o taijutsu do Lee
+com o Sharingan.
 
 984
 01:25:18,279 --> 01:25:21,032
@@ -4335,7 +4342,7 @@ Então, durante o treino de taijutsu...
 
 985
 01:25:21,399 --> 01:25:24,026
-Eu tinha Sasuke imaginando os movimentos de Lee.
+Eu fiz o Sasuke estudar os movimentos do Lee.
 
 986
 01:25:26,955 --> 01:25:29,549
@@ -4394,8 +4401,8 @@ seres humanos além de mim mesmo.</i>
 
 998
 01:26:28,725 --> 01:26:32,270
-<i>Depois de viver com o medo de nunca
-saber quando eu poderia ser assassinado,ZQXTAG0QXZ</i>
+<i>Depois de viver com medo, sem nunca
+saber quando eu poderia ser assassinado...</i>
 
 999
 01:26:32,478 --> 01:26:34,314
@@ -4412,7 +4419,7 @@ Shikamaru...
 1002
 01:26:39,132 --> 01:26:41,965
 Precisamos ir para onde
-Kakashi-sensei está agora!
+o Kakashi-sensei está agora!
 
 1003
 01:26:43,072 --> 01:26:44,407
@@ -4709,8 +4716,8 @@ Hã?!
 
 1071
 01:31:57,905 --> 01:32:00,908
-No entanto, é o usado pela
-Aldeia da Folha! Tecnico número um.
+É um jutsu usado pelo
+maior mestre de técnicas da Folha.
 
 1072
 01:32:01,307 --> 01:32:04,852
@@ -4753,7 +4760,7 @@ essa técnica é chamada...
 
 1080
 01:32:39,929 --> 01:32:41,049
-<i>Chidori: Mil Pássaros!</i>
+<i>Chidori!</i>
 
 1081
 01:32:56,904 --> 01:33:00,700
@@ -4778,8 +4785,8 @@ Kakashi de...
 
 1086
 01:33:11,420 --> 01:33:14,382
-Chidori...
-Também conhecido como Lâmina Relâmpago.
+Chidori... Também conhecido
+como Lâmina Relâmpago.
 
 1087
 01:33:16,090 --> 01:33:17,090
@@ -4846,8 +4853,8 @@ Certo, Lee?
 
 1101
 01:34:03,648 --> 01:34:06,614
-<i>O cara que estava se preocupando com
-Sasuke até pouco tempo atrás...</i>
+<i>O cara que estava preocupado com
+o Sasuke até agora há pouco...</i>
 
 1102
 01:34:09,143 --> 01:34:11,479
@@ -4872,8 +4879,8 @@ N-Não me diga isso...
 
 1107
 01:35:01,529 --> 01:35:04,281
-<i>D-Não me diga isso
-Gaara está ferido?!</i>
+<i>N-Não me diga que
+o Gaara está ferido?!</i>
 
 1108
 01:35:13,958 --> 01:35:14,958
@@ -4909,7 +4916,7 @@ só para lembrar...</i>
 1115
 01:35:47,992 --> 01:35:51,787
 <i>Quando eu vi aquela coisa pela primeira vez,
-Eu não consegui comer...</i>
+eu não consegui comer...</i>
 
 1116
 01:35:53,330 --> 01:35:56,333
@@ -4964,7 +4971,7 @@ Sim... genjutsu!
 
 1128
 01:38:44,376 --> 01:38:45,376
-<i>Liberar!</i>
+<i>Kai! (Liberar)</i>
 
 1129
 01:38:46,037 --> 01:38:49,916
@@ -4992,4 +4999,3 @@ Devemos começar?!
 01:39:46,772 --> 01:39:48,532
 <i>- Iniciar a operação!
 - Iniciar a operação!</i>
-

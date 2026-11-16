@@ -2,7 +2,7 @@
 
 Esta pasta contém **legendas em português brasileiro** para o fan edit *Rebuild of Naruto*.
 
-Tradução de **[ThiagoCalisto](https://github.com/ThiagoCalisto)**, baseada nas legendas em inglês revisadas por **Maediem**:
+Tradução de **[ThiagoCalisto](https://github.com/ThiagoCalisto)**, revisada e padronizada, baseada nas legendas em inglês revisadas por **Maediem**:
 👉 [Maediem/Rebuild-of-Naruto-Subtitles](https://github.com/Maediem/Rebuild-of-Naruto-Subtitles/)
 
 > ⚠️ **Aviso:** Este projeto **não tem nenhuma relação com o fan edit *Rebuild of Naruto*** e não se responsabiliza por ele. Ele apenas oferece legendas para quem assiste à versão Rebuild.
@@ -22,6 +22,22 @@ As legendas usam **o mesmo timing das legendas em inglês de Maediem** e, portan
 | `Season 01 - Naruto` | S01E01 – S01E04, S01E06 – S01E17 |
 | `Season 03 - Kakashi Gaiden` | S03E01 – S03E03 |
 | `Season 04 - Naruto Shippuden` | S04E04 – S04E08 |
+
+---
+
+## Convenções
+
+A tradução foi revisada e padronizada em todos os episódios:
+
+- **Nomes de jutsu em japonês**, com a tradução em português entre parênteses na primeira vez que aparecem em cada episódio, por exemplo *Kage Bunshin no Jutsu (Jutsu dos Clones das Sombras)*. Depois, só o nome japonês.
+- *Juin* e *Dōjutsu* seguem a mesma regra: *Juin (Marca da Maldição)*, *Dōjutsu (Técnica Ocular)*.
+- Estilos e elementos: *Estilo Fogo*, *Estilo Água*, *Estilo Terra*, *Estilo Vento*, *Estilo Madeira*, *Arte Ninja* …
+- Tratamentos: *Senhor/Senhora* (*Senhora Tsunade*, *Senhor Terceiro*), *-sensei* (*Kakashi-sensei*).
+- Vilas e países: *Vila (Oculta) da Folha*, *Terra do Fogo* …
+- Patentes ninja em minúscula (*genin*, *chunin*, *jonin*), exceto em nomes próprios como o *Exame Chunin*. Missões: *Rank A*, *Rank S* …
+- *a Nove-Caudas*, *Bestas com Cauda*, *Jinchuriki*, *Time Kakashi*.
+
+Uma lista de todos os jutsus (japonês / inglês / alemão / holandês / espanhol / português) está na pasta [`docs/`](../docs/).
 
 ---
 

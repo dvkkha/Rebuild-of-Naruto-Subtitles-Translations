@@ -83,7 +83,7 @@ Como eu imaginava...
 
 20
 00:01:38,506 --> 00:01:41,300
-A Equipe Kakashi se
+O Time Kakashi se
 infiltrou conforme o planejado.
 
 21
@@ -182,12 +182,13 @@ Eu cuido dele.
 
 44
 00:05:29,215 --> 00:05:34,678
-Parece que aquele jinchuriki
+Parece que aquele Jinchuriki
 quer recuperá-lo, então...
 
 45
 00:05:39,523 --> 00:05:43,319
-Você provavelmente vai ficar bravo se eu disser isso...
+Você provavelmente vai ficar
+bravo se eu disser isso...
 
 46
 00:05:43,832 --> 00:05:46,210
@@ -196,7 +197,8 @@ daquele Jinchuriki.
 
 47
 00:05:48,569 --> 00:05:51,197
-Nossa missão é capturar um jinchuriki para cada um.
+Nossa missão é pegar
+um Jinchuriki cada um.
 
 48
 00:05:51,566 --> 00:05:53,735
@@ -214,8 +216,8 @@ estimulação, meu amigo...
 
 51
 00:06:04,562 --> 00:06:08,453
-Dizem que o jinchuriki da
-Nove-Caudas é muito poderoso.
+Dizem que o Jinchuriki da Nove-Caudas
+é muito poderoso.
 
 52
 00:06:11,889 --> 00:06:14,767
@@ -301,8 +303,8 @@ shuriken sem sequer olhar...</i>
 
 70
 00:07:40,334 --> 00:07:43,838
-<i>Ele continua tão habilidoso no Jutsu
-do Mestre de Marionetes quanto antes.</i>
+<i>Ele continua tão bom no Kugutsu no Jutsu
+(Mestre das Marionetes) quanto sempre.</i>
 
 71
 00:07:44,380 --> 00:07:47,049
@@ -358,7 +360,7 @@ No entanto...
 83
 00:09:12,969 --> 00:09:16,180
 não façam nada precipitado
-até a Equipe Guy voltar.
+até o Time Guy voltar.
 
 84
 00:09:16,472 --> 00:09:17,640
@@ -427,7 +429,8 @@ Belo movimento, senhor impostor.
 
 99
 00:11:10,252 --> 00:11:14,173
-Ouvi dizer que você se aposentou há muito tempo.
+Ouvi dizer que você tinha
+se aposentado há muito tempo.
 
 100
 00:11:14,824 --> 00:11:18,035
@@ -517,7 +520,7 @@ escudo além de uma arma.
 
 119
 00:13:12,313 --> 00:13:14,940
-Chiyo-sama... sobre aquela marionete...
+Senhora Chiyo... sobre aquela marionete...
 
 120
 00:13:17,546 --> 00:13:19,757
@@ -654,7 +657,8 @@ imediatamente como escapar de cada ataque.
 
 149
 00:15:19,988 --> 00:15:23,283
-Não acho que eu consiga fazer nenhuma dessas coisas...
+Não acho que eu consiga
+fazer nenhuma das duas...
 
 150
 00:15:24,458 --> 00:15:25,877
@@ -869,8 +873,8 @@ prever meus ataques estava controlando
 
 199
 00:19:59,641 --> 00:20:02,435
-a garota usando fios de chakra
-do Jutsu do Mestre de Marionetes.
+a garotinha com fios de chakra
+usados no Kugutsu no Jutsu.
 
 200
 00:20:03,577 --> 00:20:04,536
@@ -967,8 +971,8 @@ igual... não envelheceu nada.
 
 221
 00:21:23,323 --> 00:21:26,451
-<i>Disseram que Sasori abandonou a
-Vila da Areia há vinte anos...</i>
+<i>Disseram que o Sasori abandonou
+a Vila da Areia há 20 anos...</i>
 
 222
 00:21:28,370 --> 00:21:30,038
@@ -995,7 +999,7 @@ elimine o grupo lá dentro.
 227
 00:21:51,049 --> 00:21:55,554
 <i>senão perderemos o objetivo de usar
-este homem para atrair o jinchuriki.</i>
+este homem para atrair o Jinchuriki.</i>
 
 228
 00:22:00,146 --> 00:22:03,275
@@ -1128,8 +1132,8 @@ mas pensar que você trairia a vila
 
 257
 00:23:52,556 --> 00:23:55,809
-e interferir com o
-Kazekage pela terceira vez!
+e interferir com o Kazekage
+pela terceira vez!
 
 258
 00:23:56,560 --> 00:23:57,561
@@ -1176,8 +1180,8 @@ isso você não esteve envolvido?
 
 267
 00:24:31,470 --> 00:24:35,932
-De fato, quando entrei para a
-Akatsuki, minha dupla original era Orochimaru,
+De fato, na Akatsuki,
+minha dupla original era o Orochimaru,
 
 268
 00:24:35,974 --> 00:24:37,601
@@ -1444,8 +1448,8 @@ um tempo, não é...?
 
 328
 00:32:10,577 --> 00:32:15,874
-Foi por causa desse jutsu que o Terceiro
-Kazekage foi considerado o mais poderoso.
+Foi por esse jutsu que o Terceiro Kazekage
+foi considerado o mais poderoso.
 
 329
 00:32:16,888 --> 00:32:18,973
@@ -1466,7 +1470,7 @@ A Areia de Ferro.
 
 333
 00:32:28,947 --> 00:32:29,948
-Areia de Ferro...?
+Satetsu (Areia de Ferro)...?
 
 334
 00:32:31,532 --> 00:32:34,285
@@ -1592,7 +1596,8 @@ Você é lento demais!
 
 361
 00:34:13,500 --> 00:34:14,919
-<i>Areia de Ferro: Chuva Isolada!</i>
+<i>Satetsu Shigure!
+(Areia de Ferro: Chuva Dispersa)</i>
 
 362
 00:34:32,209 --> 00:34:36,547
@@ -1621,13 +1626,13 @@ conseguiu Solta a garota ir.
 
 367
 00:35:16,197 --> 00:35:19,450
-Eu inseri a Areia de
-Ferro em todo o seu corpo.
+Eu inseri a Areia de Ferro
+no corpo inteiro dele.
 
 368
 00:35:19,867 --> 00:35:24,580
-Enquanto eu tiver o magnetismo do
-Terceiro, aquela garota está acabada.
+Enquanto eu tiver o magnetismo do Terceiro,
+aquela garota está acabada.
 
 369
 00:35:25,123 --> 00:35:29,377
@@ -1637,7 +1642,7 @@ vocês duas e atacar ao mesmo tempo.
 370
 00:35:30,461 --> 00:35:35,299
 Para garantir uma morte definitiva,
-Vou transformá-lo em uma arma letal.
+vou transformá-lo em uma arma letal.
 
 371
 00:35:49,605 --> 00:35:51,649
@@ -1687,8 +1692,7 @@ fazer, Vovó Chiyo?
 
 381
 00:37:17,044 --> 00:37:19,755
-Até o melhor mestre de
-marionetes do mundo é apenas humano
+Até o maior Kugutsu do mundo...
 
 382
 00:37:19,987 --> 00:37:22,406
@@ -1828,8 +1832,8 @@ derrotar esse tipo de inimigo.
 
 413
 00:40:53,694 --> 00:40:57,872
-Uma é atrair o inimigo para um
-Lute a curta distância e derrote-os...
+Uma é atrair o inimigo para uma
+luta a curta distância e derrotá-lo...
 
 414
 00:40:58,497 --> 00:41:03,043
@@ -1973,8 +1977,8 @@ controla a marionete</i>
 
 445
 00:43:19,017 --> 00:43:21,060
-<i>Mas essa é a fraqueza de
-um Mestre de Fantoches.</i>
+<i>Mas essa é a fraqueza
+de um Kugutsu.</i>
 
 446
 00:43:26,566 --> 00:43:29,319
@@ -2006,7 +2010,7 @@ ser usar um pouco de chakra.</i>
 
 452
 00:43:52,077 --> 00:43:53,495
-<i>Areia de Ferro: Liberte!</i>
+<i>Satetsu Kaihō! (Areia de Ferro: Liberação)</i>
 
 453
 00:44:02,014 --> 00:44:03,307
@@ -2026,13 +2030,13 @@ Ela foi envenenada!
 
 457
 00:45:07,162 --> 00:45:10,916
-Eu não disse...?
-'Isso não é tudo.'
+Eu não disse...
+"Isso não é tudo"?
 
 458
 00:45:11,542 --> 00:45:15,547
-Como suspeitava, ele encharcou sua
-Areia de Ferro com veneno, hein...?
+Como eu suspeitava, ele envenenou
+a Areia de Ferro...
 
 459
 00:45:24,378 --> 00:45:26,088
@@ -2078,8 +2082,8 @@ Quando você... conseguiu tal coisa...?
 
 469
 00:46:39,175 --> 00:46:42,053
-Quando eu fiz o antídoto para
-Kankuro na Vila Oculta da Areia...
+Quando eu fiz o antídoto para o Kankuro
+na Vila Oculta da Areia...
 
 470
 00:46:43,304 --> 00:46:45,598
@@ -2226,8 +2230,8 @@ Certo...
 
 501
 00:48:59,837 --> 00:49:04,617
-<i>Não, sou a única pessoa na Vila da
-Areia com esse nível de habilidade médica.</i>
+<i>Não, sou a única na Vila da Areia
+com esse nível de habilidade médica.</i>
 
 502
 00:49:05,223 --> 00:49:07,176
@@ -2249,8 +2253,8 @@ imediatamente um antídoto para ele.</i>
 
 506
 00:49:25,909 --> 00:49:32,022
-<i>A atual Hokage da Folha, Tsunade, é
-conhecida como uma ninja médica de primeira linha...</i>
+<i>A Hokage da Folha, Tsunade,
+é uma ninja médica lendária...</i>
 
 507
 00:49:37,761 --> 00:49:41,181
@@ -2498,7 +2502,8 @@ mestre de marionetes é medida
 
 564
 00:56:04,569 --> 00:56:07,280
-pelo número de marionetes que consegue controlar...
+pelo número de marionetes
+que consegue usar...
 
 565
 00:56:07,848 --> 00:56:09,391
@@ -2528,8 +2533,8 @@ derrubou um castelo sozinha...
 
 571
 00:56:25,532 --> 00:56:28,493
-Técnica Branca Secreta: As
-Dez Marionetes de Chikamatsu.
+A
+Shiro Hiden: Chikamatsu Jukki no Ningyō.
 
 572
 00:56:29,387 --> 00:56:31,806
@@ -2537,8 +2542,7 @@ As dez obras-primas de Monzaemon,
 
 573
 00:56:32,363 --> 00:56:34,866
-o primeiro mestre do
-Jutsu de Marionetes...
+o criador do Kugutsu no Jutsu...
 
 574
 00:56:34,891 --> 00:56:36,601
@@ -2576,8 +2580,7 @@ usar minha técnica suprema...
 
 582
 00:57:35,827 --> 00:57:38,121
-<i>Técnica Vermelha Secreta:
-Performance das Cem Marionetes...</i>
+<i>Aka Hiden: Hyakki no Sōen...</i>
 
 583
 00:57:38,709 --> 00:57:40,127
@@ -2653,8 +2656,8 @@ resta um antídoto.</i>
 
 600
 01:00:36,022 --> 01:00:40,318
-<i>A situação ficará crítica se
-Sakura ou eu formos feridas.</i>
+<i>Vai ficar crítico rapidinho se
+a Sakura ou eu nos ferirmos.</i>
 
 601
 01:00:42,845 --> 01:00:43,846
@@ -2724,7 +2727,8 @@ Use o antídoto depressa!
 
 617
 01:04:01,923 --> 01:04:05,177
-<i>Essa garota... recuperou completamente a calma...</i>
+<i>Essa garota...
+se acalmou completamente...</i>
 
 618
 01:04:05,985 --> 01:04:07,153
@@ -2998,11 +3002,11 @@ Não me diga...
 
 679
 01:10:07,745 --> 01:10:10,080
-É um ninjutsu de ressurreição!
+É um Kishō Tensei! (Jutsu de Reencarnação)
 
 680
 01:10:12,333 --> 01:10:14,251
-Um ninjutsu de ressurreição?
+Um Kishō Tensei?
 
 681
 01:10:15,169 --> 01:10:20,952
@@ -3050,8 +3054,8 @@ Isso... Isso não pode ser...!
 
 691
 01:11:41,694 --> 01:11:46,490
-Maldito... Canino
-Branco da Folha!
+Maldito...
+Presa Branca da Folha!
 
 692
 01:12:06,361 --> 01:12:07,487
@@ -3108,7 +3112,7 @@ ser um shinobi como você,
 
 704
 01:14:07,039 --> 01:14:08,666
-onde todos elogiam meus fantoches…
+onde todos elogiam meus fantoches...
 
 705
 01:14:12,072 --> 01:14:13,740
@@ -3156,7 +3160,7 @@ marionetes que encomendou...
 
 715
 01:14:53,822 --> 01:14:56,492
-O Corvo, a Formiga Preta e a Salamandra…
+O Corvo, a Formiga Preta e a Salamandra...
 
 716
 01:14:56,700 --> 01:14:57,701
@@ -3196,7 +3200,7 @@ Ah, quase me esqueci.
 
 725
 01:15:37,741 --> 01:15:39,210
-Sobre sua nova criação…
+Sobre sua nova criação...
 
 726
 01:15:39,235 --> 01:15:42,613
@@ -3307,7 +3311,7 @@ sempre preocupada com você.
 750
 01:17:20,677 --> 01:17:24,097
 Mal posso esperar para ser
-reconhecido como um shinobi completo…
+reconhecido como um shinobi completo...
 
 751
 01:17:24,139 --> 01:17:25,849
@@ -3384,7 +3388,7 @@ Eu estraguei tudo.
 
 767
 01:18:13,197 --> 01:18:14,198
-Mas…
+Mas...
 
 768
 01:18:15,972 --> 01:18:18,475
@@ -3447,7 +3451,8 @@ Curem-no! Por favor!
 
 782
 01:19:22,869 --> 01:19:25,121
-Você conseguiu colocar o braço direito dele, não foi?
+Você recolocou o braço
+direito dele também, não foi?
 
 783
 01:19:25,366 --> 01:19:27,410
@@ -3530,8 +3535,8 @@ Isso é estranho.
 
 802
 01:21:15,078 --> 01:21:17,622
-Achei que quem executasse
-esse ninjutsu de ressurreição
+Achei que quem usasse
+esse tal Kishō Tensei
 
 803
 01:21:18,085 --> 01:21:20,796
@@ -3844,7 +3849,7 @@ algo que eu devo...fazer.
 
 872
 01:26:55,921 --> 01:26:58,215
-Kakashi Sensei, você
+Kakashi-sensei, você
 ainda não está pronto?
 
 873
@@ -3912,7 +3917,8 @@ controlar a posição nem o tamanho</i>
 
 888
 01:29:31,074 --> 01:29:32,450
-<i>Jutsu da Clonagem das Sombras</i>
+<i>Kage Bunshin no Jutsu
+(Jutsu dos Clones das Sombras).</i>
 
 889
 01:29:43,628 --> 01:29:44,375
@@ -3924,7 +3930,7 @@ Gaara! Gaara!
 
 891
 01:29:54,764 --> 01:29:56,516
-Kakashi Sensei, você está bem?
+Kakashi-sensei, você está bem?
 
 892
 01:29:56,933 --> 01:29:58,935
@@ -3941,7 +3947,7 @@ Ei... Ei, Gaara!
 895
 01:30:18,830 --> 01:30:23,126
 <i>Usar o Kazekage como isca para
-atrair o jinchuriki funcionou.</i>
+atrair o Jinchuriki funcionou.</i>
 
 896
 01:30:24,990 --> 01:30:26,200
@@ -3957,8 +3963,8 @@ atrair o jinchuriki funcionou.</i>
 
 899
 01:30:36,412 --> 01:30:41,257
-<i>Meu braço esquerdo foi esmagado pelo
-jinchuriki da Areia, e agora o direito também...</i>
+<i>foi esmagado pelo Jinchuriki da Areia.
+Agora o direito também...</i>
 
 900
 01:30:42,347 --> 01:30:44,224
@@ -3970,8 +3976,8 @@ jinchuriki da Areia, e agora o direito também...</i>
 
 902
 01:30:55,632 --> 01:31:00,053
-<i>Mas... nunca imaginei que alguém tivesse
-um jutsu ocular tão bom quanto o de Itachi.</i>
+<i>Nunca imaginei que alguém tivesse
+um Dōjutsu tão bom quanto o do Itachi.</i>
 
 903
 01:31:01,659 --> 01:31:03,911
@@ -3991,7 +3997,8 @@ Tudo bem, tudo bem.
 
 907
 01:31:19,775 --> 01:31:22,236
-Eu vou enfrentar você de novo qualquer dia desses.
+Eu vou enfrentar você de novo
+qualquer dia desses.
 
 908
 01:31:23,936 --> 01:31:25,229
@@ -4011,8 +4018,8 @@ Naruto...
 
 912
 01:32:37,553 --> 01:32:40,348
-<i>Era disso... que
-Jiraiya-sama estava falando...</i>
+<i>Era disso... que o Mestre Jiraiya
+estava falando...</i>
 
 913
 01:32:48,290 --> 01:32:49,959
@@ -4020,7 +4027,7 @@ Jiraiya-sama estava falando...</i>
 
 914
 01:33:02,702 --> 01:33:04,579
-<i>Então esse é o poder de um jinchuriki...</i>
+<i>Então esse é o poder de um Jinchuriki...</i>
 
 915
 01:33:07,861 --> 01:33:12,658
@@ -4046,8 +4053,8 @@ vazar do corpo de Naruto...
 
 920
 01:33:45,536 --> 01:33:48,747
-e tomar a forma do
-Espírito da Raposa.
+e assumir a forma
+do Espírito da Raposa.
 
 921
 01:33:49,373 --> 01:33:51,709
@@ -4134,7 +4141,7 @@ tudo resolvido?
 939
 01:36:32,161 --> 01:36:35,465
 Muito bem! Agora vamos
-dar apoio à Equipe Kakashi!
+dar apoio ao Time Kakashi!
 
 940
 01:36:37,500 --> 01:36:38,501
@@ -4147,8 +4154,8 @@ Você se acalmou, Naruto?
 
 942
 01:37:00,940 --> 01:37:03,859
-<i>O que diabos o
-Mestre Jiraiya viu?</i>
+<i>O que diabos
+o Mestre Jiraiya viu?</i>
 
 943
 01:37:05,905 --> 01:37:08,116
@@ -4256,7 +4263,7 @@ importante é escapar daqui.
 
 967
 01:38:50,946 --> 01:38:55,534
-Ora! Agora que a Equipe Guy, a
+Ora! Agora que o Time Guy, o
 mais forte de toda a Folha, chegou...
 
 968
@@ -4273,7 +4280,7 @@ Prepare-se!
 
 971
 01:39:16,456 --> 01:39:17,457
-<i>Equipe Guy, hein?</i>
+<i>Time Guy, hein?</i>
 
 972
 01:39:31,725 --> 01:39:33,018
@@ -4281,7 +4288,7 @@ Prepare-se!
 
 973
 01:39:34,510 --> 01:39:37,096
-<i>Furacão Severo da Folha!</i>
+<i>Konoha Daisenpū! (Furacão Severo da Folha)</i>
 
 974
 01:39:39,348 --> 01:39:42,434
@@ -4298,7 +4305,7 @@ Lá vou eu!
 
 977
 01:39:56,161 --> 01:39:57,162
-<i>Palma de Ar!</i>
+<i>Hakke Kūshō! (Palma de Ar)</i>
 
 978
 01:40:16,885 --> 01:40:18,554
@@ -4369,7 +4376,7 @@ O que está acontecendo?!
 
 994
 01:42:18,423 --> 01:42:20,592
-Você está bem, Kakashi Sensei?
+Você está bem, Kakashi-sensei?
 
 995
 01:42:21,677 --> 01:42:23,929
@@ -4491,8 +4498,8 @@ Aquele jutsu vai...!
 
 1022
 01:46:32,378 --> 01:46:35,590
-<i>É disso que a Vovó
-Chiyo estava falando...</i>
+<i>É disso que a Vovó Chiyo
+estava falando...</i>
 
 1023
 01:46:36,431 --> 01:46:37,391
@@ -4508,8 +4515,8 @@ Ei, o que você está fazendo?!
 
 1026
 01:46:46,691 --> 01:46:49,653
-Ela vai trazer
-Gaara de volta à vida!
+Ela vai trazer o Gaara
+de volta à vida!
 
 1027
 01:46:58,161 --> 01:46:59,621
@@ -4618,8 +4625,7 @@ poderei fazer a coisa certa.
 
 1051
 01:49:34,370 --> 01:49:37,957
-A Vila Oculta da Areia
-e... a Vila Oculta da Folha.
+A Areia... e a Folha.
 
 1052
 01:49:43,535 --> 01:49:50,166
@@ -4638,8 +4644,8 @@ vai alterar muito o futuro...
 
 1055
 01:50:05,956 --> 01:50:09,918
-quando você se tornar um
-Hokage como nenhum outro antes...
+quando você se tornar um Hokage
+como nenhum outro antes...
 
 1056
 01:50:10,850 --> 01:50:12,602
@@ -4782,8 +4788,8 @@ Meu Deus.
 
 1089
 01:53:37,498 --> 01:53:40,001
-Você é um irmãozinho tão
-problemático, fazendo a gente se preocupar assim.
+Você dá trabalho, irmãozinho,
+deixando a gente preocupado.
 
 1090
 01:53:40,188 --> 01:53:42,690
@@ -4826,7 +4832,7 @@ realmente pudesse morrer...
 
 1099
 01:54:19,769 --> 01:54:22,897
-Não há como Gaara-sama
+Não há como Senhor Gaara
 morrer tão facilmente!
 
 1100
@@ -4846,7 +4852,7 @@ E ainda assim, ele é o Kazekage...
 1103
 01:54:33,783 --> 01:54:37,495
 Desta vez mostrarei a todos que
-consigo proteger Gaara-sama em uma crise!
+consigo proteger Senhor Gaara em uma crise!
 
 1104
 01:54:37,537 --> 01:54:38,538
@@ -4933,7 +4939,7 @@ Ela não estava apenas usando ninjutsu médico...
 
 1123
 01:55:57,039 --> 01:55:58,373
-Ela usou o ninjutsu de ressurreição.
+Ela usou um Kishō Tensei.
 
 1124
 01:56:01,850 --> 01:56:03,435
@@ -4941,7 +4947,7 @@ Vovó Chiyo está morta.
 
 1125
 01:56:08,294 --> 01:56:09,712
-Ninjutsu de ressurreição?
+Kishō Tensei?
 
 1126
 01:56:10,797 --> 01:56:13,841
@@ -5014,8 +5020,8 @@ alterar significativamente o futuro...</i>
 
 1141
 01:57:15,945 --> 01:57:20,742
-<i>quando você se tornar um
-Hokage como nenhum outro...</i>
+<i>quando você se tornar um Hokage
+como nenhum outro antes...</i>
 
 1142
 01:57:30,606 --> 01:57:33,737
@@ -5285,7 +5291,7 @@ fica ainda mais repugnante.</i>
 1203
 02:07:39,443 --> 02:07:41,028
 - Neji... -
-Eu me recuso!
+eu me recuso!
 
 1204
 02:07:51,424 --> 02:07:53,932
@@ -5362,8 +5368,8 @@ Eu não teria imaginado que
 
 1220
 02:10:36,370 --> 02:10:38,121
-meu Clone Autodestrutivo
-também seria devorado...
+meu Jibaku Bunshin (Clone Autodestrutivo)
+também seria levado...
 
 1221
 02:10:40,040 --> 02:10:43,056
@@ -5376,7 +5382,8 @@ Devo procurar meu braço direito e o anel...
 
 1223
 02:11:08,959 --> 02:11:11,503
-<i>Então esta é a verdadeira forma do Sasori, hein...</i>
+<i>Então esta é a verdadeira
+forma do Sasori, hein...</i>
 
 1224
 02:11:12,840 --> 02:11:13,841

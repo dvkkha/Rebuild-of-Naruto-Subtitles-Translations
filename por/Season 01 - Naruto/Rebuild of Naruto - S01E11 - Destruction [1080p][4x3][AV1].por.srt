@@ -28,7 +28,7 @@ de vê-lo.
 7
 00:01:48,149 --> 00:01:52,153
 Mas este ano, aquele garoto do
-Clã Uchiha está participando, certo?
+clã Uchiha está participando, certo?
 
 8
 00:01:52,320 --> 00:01:53,947
@@ -49,7 +49,7 @@ Uma jiboia enorme!
 
 12
 00:02:04,791 --> 00:02:06,459
-Notifique o Hokage-sama imediatamente!
+Notifique o Senhor Hokage imediatamente!
 
 13
 00:02:23,215 --> 00:02:24,615
@@ -74,7 +74,7 @@ Ninja da areia!
 
 18
 00:03:12,015 --> 00:03:12,910
-Hokage-sama!
+Senhor Hokage!
 
 19
 00:03:13,526 --> 00:03:14,526
@@ -146,13 +146,13 @@ Sim senhor!
 
 35
 00:04:23,888 --> 00:04:24,806
-<i>- Arte Ninja:
-- Arte Ninja:</i>
+<i>- Ninpō:
+- Ninpō:</i>
 
 36
 00:04:24,889 --> 00:04:26,809
-<i>- Formação das Quatro Chamas!
-- Formação das Quatro Chamas!</i>
+<i>- Shishienjin!
+- Shishienjin!</i>
 
 37
 00:04:36,734 --> 00:04:37,734
@@ -177,7 +177,7 @@ Eles não são apenas comuns...
 42
 00:05:02,302 --> 00:05:04,637
 O que você está fazendo aqui?!
-O Hokage-sama está em perigo!
+O Senhor Hokage está em perigo!
 
 43
 00:05:14,722 --> 00:05:16,974
@@ -185,8 +185,8 @@ Que incômodo...
 
 44
 00:05:17,150 --> 00:05:19,861
-Quem diria que o inimigo estava
-disfarçado como um dos nossos agentes da ANBU...
+E pensar que o inimigo estava
+disfarçado da nossa própria ANBU...
 
 45
 00:05:21,070 --> 00:05:22,947
@@ -245,7 +245,7 @@ Qual é o problema?!
 58
 00:06:11,741 --> 00:06:13,117
 A ferida dele é mais profunda do que
-Eu pensei!
+eu pensei!
 
 59
 00:06:13,873 --> 00:06:16,334
@@ -273,8 +273,8 @@ isso sem o Gaara?
 
 64
 00:06:28,679 --> 00:06:32,225
-Vocês saem por enquanto e
-Cuide dos ferimentos de Gaara!
+Vocês dois, saiam por enquanto
+e cuidem dos ferimentos do Gaara!
 
 65
 00:06:33,017 --> 00:06:35,061
@@ -557,7 +557,7 @@ Fomos descuidados!
 
 129
 00:10:47,578 --> 00:10:49,385
-E até mesmo o Hokage-sama foi...
+E até mesmo o Senhor Hokage foi...
 
 130
 00:10:51,014 --> 00:10:53,725
@@ -612,7 +612,7 @@ o número de inimigos.
 142
 00:11:52,545 --> 00:11:55,548
 Droga! Estou preocupado com
-o Hokage-sama, mas...
+o Senhor Hokage, mas...
 
 143
 00:11:56,173 --> 00:11:57,341
@@ -624,7 +624,7 @@ Além disso...
 
 145
 00:11:59,427 --> 00:12:02,972
-O Hokage-sama não é alguém
+O Senhor Hokage não é alguém
 que possa ser derrotado tão facilmente.
 
 146
@@ -651,7 +651,7 @@ no seu coração para me matar, seu mestre?
 
 151
 00:12:47,767 --> 00:12:50,060
-Desde mais cedo, eu estava me sentindo com tanto sono.
+Eu estava com tanto sono agora há pouco.
 
 152
 00:12:50,311 --> 00:12:52,396
@@ -803,13 +803,13 @@ se esconder do inimigo.
 
 185
 00:15:07,907 --> 00:15:11,118
-Você aprendeu isso no
-treinamento prático de patrulha da Academia, certo?
+Você aprendeu isso no treino prático
+de patrulha da Academia, não?
 
 186
 00:15:12,109 --> 00:15:17,099
-Ah, entendi! Então quatro significa
-que você virá conosco...
+Ah, entendi! Então, se o time é de quatro,
+você vem com a gente?
 
 187
 00:15:17,124 --> 00:15:19,793
@@ -817,7 +817,7 @@ Não, eu não devo sair daqui.
 
 188
 00:15:20,669 --> 00:15:21,669
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu! (Jutsu de Invocação)</i>
 
 189
 00:15:25,591 --> 00:15:29,511
@@ -849,7 +849,7 @@ Ok!
 
 195
 00:16:07,132 --> 00:16:08,132
-<i>Liberação!</i>
+<i>Kai! (Liberar)</i>
 
 196
 00:16:16,642 --> 00:16:18,310
@@ -914,7 +914,7 @@ Não apenas rápido...
 
 210
 00:17:11,321 --> 00:17:12,321
-Sensei Guy!
+Guy-sensei!
 
 211
 00:17:14,950 --> 00:17:16,535
@@ -1025,7 +1025,7 @@ a menos que seja de dentro.
 
 236
 00:18:40,744 --> 00:18:44,289
-Se o Hokage-sama apenas
+Se o Senhor Hokage apenas
 eliminasse um daqueles quatro,
 
 237
@@ -1092,7 +1092,7 @@ Está assim há um tempo!
 
 251
 00:19:50,522 --> 00:19:54,026
-Sim. Iruka Sensei
+Sim. Iruka-sensei
 e todos estão atrasados...
 
 252
@@ -1151,11 +1151,13 @@ Por favor, não me desaponte tanto!
 
 264
 00:21:29,329 --> 00:21:31,415
-<i>Jutsu Shuriken Clone das Sombras!</i>
+<i>Shuriken Kage Bunshin no Jutsu!
+(Jutsu dos Clones das Sombras de Shuriken)</i>
 
 265
 00:21:37,254 --> 00:21:39,506
-<i>Jutsu de Invocação: Edo Tensei!</i>
+<i>Kuchiyose: Edo Tensei!
+(Invocação: Reencarnação do Mundo Impuro)</i>
 
 266
 00:21:40,048 --> 00:21:41,048
@@ -1163,8 +1165,8 @@ Por favor, não me desaponte tanto!
 
 267
 00:21:42,301 --> 00:21:44,344
-Ele está usando um Jutsu de Invocação
-como um escudo.
+Ele está usando um Kuchiyose no Jutsu
+como escudo.
 
 268
 00:21:45,053 --> 00:21:46,596
@@ -1199,7 +1201,7 @@ Essas personagens são?
 275
 00:22:27,596 --> 00:22:32,017
 Agora, o que você vai fazer,
-Sensei Sarutobi...?
+Sarutobi-sensei...?
 
 276
 00:22:32,642 --> 00:22:33,642
@@ -1250,7 +1252,8 @@ Então, Sarutobi!
 
 287
 00:23:16,642 --> 00:23:21,230
-Isso significa que devemos... lutar contra você?
+Isso significa que devemos...
+lutar contra você?
 
 288
 00:23:21,817 --> 00:23:24,611
@@ -1294,7 +1297,7 @@ Não tem jeito!
 
 297
 00:24:00,135 --> 00:24:02,054
-É uma ordem do Sensei Kakashi.
+É uma ordem do Kakashi-sensei.
 
 298
 00:24:06,289 --> 00:24:06,998
@@ -1641,8 +1644,8 @@ sou eu.
 
 374
 00:28:44,453 --> 00:28:48,582
-O Jutsu de Posse da Sombra era originalmente
-criado como uma tática de atraso, então...
+Meu Kagemane no Jutsu foi criado
+para ganhar tempo, então...
 
 375
 00:28:49,853 --> 00:28:52,021
@@ -1707,8 +1710,8 @@ Quem diria que todos seríamos capturados assim.
 
 389
 00:30:03,009 --> 00:30:06,513
-Então este é o suposto Jutsu de Paralisia da Sombra
-da Vila da Folha, hein?
+Então este é o famoso
+Jutsu de Imitação da Sombra da Folha?
 
 390
 00:30:06,920 --> 00:30:07,673
@@ -1724,8 +1727,8 @@ Os tempos estão mudando!
 
 393
 00:30:13,561 --> 00:30:17,106
-Agora se chama
-Jutsu de Possessão da Sombra, velho.
+Hoje em dia se chama Kagemane no Jutsu
+(Jutsu da Possessão da Sombra), velho.
 
 394
 00:30:21,861 --> 00:30:25,198
@@ -1786,8 +1789,8 @@ Parece que você está no seu limite...
 
 407
 00:31:19,085 --> 00:31:21,629
-Este Jutsu de Possessão da Sombra
-vai se quebrar muito em breve.
+Este Kagemane no Jutsu
+não vai aguentar muito tempo.
 
 408
 00:31:22,213 --> 00:31:23,256
@@ -1913,8 +1916,8 @@ Qual foi esse barulho?
 
 436
 00:34:17,847 --> 00:34:22,643
-Uma explosão...
-Talvez tenha sido uma armadilha armada para o Sasuke.
+Uma explosão... Talvez tenha sido
+uma armadilha armada para o Sasuke.
 
 437
 00:34:23,810 --> 00:34:25,890
@@ -1931,13 +1934,13 @@ Agora, vamos começar?
 
 440
 00:34:39,250 --> 00:34:44,672
-Antes disso, preciso de vocês dois
-Volte aos seus formulários originais.
+Antes disso, preciso que vocês dois
+voltem às suas formas originais.
 
 441
 00:34:45,875 --> 00:34:49,545
 Por favor, prepare-se,
-Sarutobi Sensei.
+Sarutobi-sensei.
 
 442
 00:35:30,670 --> 00:35:32,797
@@ -1950,7 +1953,7 @@ O que é isso... jutsu?
 
 444
 00:35:36,592 --> 00:35:37,677
-Edo Tensei.
+Reencarnação do Mundo Impuro.
 
 445
 00:35:38,553 --> 00:35:42,807
@@ -1959,8 +1962,8 @@ traz os mortos de volta a este mundo.
 
 446
 00:35:45,351 --> 00:35:49,856
-O custo de um Jutsu de Invocação comum
-é o sangue do conjurador.
+O preço de um Kuchiyose no Jutsu comum
+é o sangue de quem o usa.
 
 447
 00:35:50,773 --> 00:35:51,834
@@ -1979,7 +1982,7 @@ sacrificado como recipiente para a alma.
 450
 00:36:02,577 --> 00:36:06,330
 Talvez poeira e sujeira
-O Corpo Sacrificial
+o Corpo Sacrificial
 
 451
 00:36:06,998 --> 00:36:10,501
@@ -2052,7 +2055,8 @@ Lá vou eu!
 
 466
 00:37:29,705 --> 00:37:31,749
-<i>Estilo de Fogo: Bombas de Chama de Dragão.</i>
+<i>Katon: Karyū Endan!
+(Estilo Fogo: Projétil de Chama do Dragão)</i>
 
 467
 00:38:00,152 --> 00:38:03,322
@@ -2061,11 +2065,13 @@ do Hokage anterior.
 
 468
 00:38:07,159 --> 00:38:09,203
-<i>Estilo de Água: Onda de Choque de Água!</i>
+<i>Suiton: Suishōha!
+(Estilo Água: Onda de Choque de Água)</i>
 
 469
 00:38:19,839 --> 00:38:21,716
-<i>Estilo Terra: Parede de Lama.</i>
+<i>Doton: Doryūheki!</i>
+<i>(Estilo Terra: Parede de Lama)</i>
 
 470
 00:39:16,687 --> 00:39:19,398
@@ -2082,16 +2088,16 @@ Isso é ruim.
 
 473
 00:40:16,539 --> 00:40:19,041
-Isto é o
-Jutsu oculto do Primeiro Hokage.
+Este é o jutsu secreto
+do Primeiro Hokage.
 
 474
 00:40:21,836 --> 00:40:23,254
-<i>Estilo de Jutsu da Madeira Oculta</i>
+<i>Mokuton Hijutsu</i>
 
 475
 00:40:28,384 --> 00:40:30,052
-<i>Emergência da Floresta Profunda.</i>
+<i>Jukai Kōtan! (Nascimento da Floresta Profunda)</i>
 
 476
 00:41:04,962 --> 00:41:08,883
@@ -2125,7 +2131,8 @@ Não... não é isso.
 
 483
 00:41:55,387 --> 00:41:57,223
-<i>Arte Ninja: Jutsu de Invocação!</i>
+<i>Ninpō: Kuchiyose no Jutsu!
+(Arte Ninja: Jutsu de Invocação)</i>
 
 484
 00:41:57,681 --> 00:41:58,557
@@ -2164,8 +2171,8 @@ Eu vou fazer isso agora!
 
 492
 00:42:50,276 --> 00:42:53,654
-Por favor... Enma!
-O Nyoi Adamantino.
+Por favor, Enma!
+O Kongō Nyoi (Bastão Adamantino).
 
 493
 00:42:55,531 --> 00:42:58,200
@@ -2178,7 +2185,7 @@ Ok... Entendido!
 
 495
 00:43:13,465 --> 00:43:14,465
-<i>Transformar!</i>
+<i>Henge! (Transformação)</i>
 
 496
 00:43:21,932 --> 00:43:22,932
@@ -2220,8 +2227,8 @@ Tão tolo...
 
 505
 00:45:17,131 --> 00:45:21,093
-Quem diria que você atacaria sem sequer
-usar o Jutsu da Clonagem das Sombras.
+E pensar que você atacaria sem
+usar o Kage Bunshin no Jutsu.
 
 506
 00:45:22,386 --> 00:45:24,513
@@ -2552,8 +2559,8 @@ Em outras palavras,
 
 580
 00:52:13,130 --> 00:52:18,760
-você encontra um novo corpo, coloca seu próprio espírito
-nesse corpo e o domina.
+você encontra um novo corpo, coloca seu
+próprio espírito nesse corpo e o domina.
 
 581
 00:52:23,099 --> 00:52:26,440
@@ -2659,12 +2666,12 @@ Você vai...me matar?
 
 604
 00:54:41,432 --> 00:54:43,351
-<i>Jutsu da Invocação!</i>
+<i>Kuchiyose no Jutsu!</i>
 
 605
 00:54:47,784 --> 00:54:53,623
 Eu me pergunto se o senhor consegue...
-Sensei Sarutobi!
+Sarutobi-sensei!
 
 606
 00:55:11,641 --> 00:55:14,394
@@ -2694,12 +2701,13 @@ Lá vou eu!
 
 612
 00:55:58,313 --> 00:56:00,440
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
+<i>(Jutsu dos Clones das Sombras)</i>
 
 613
 00:56:02,108 --> 00:56:04,277
-De jeito nenhum!
-Por que o Jutsu da Clonagem das Sombras?!
+Não pode ser!
+Por que o Kage Bunshin no Jutsu?!
 
 614
 00:56:04,694 --> 00:56:07,113
@@ -2721,7 +2729,8 @@ própria expectativa de vida por impaciência...
 
 618
 00:56:19,793 --> 00:56:23,880
-Mi, Eu, Ovelha, U, Cão, Né, Pássaro, Cavalo, Mi.
+Serpente, Javali, Carneiro, Coelho,
+Cão, Rato, Pássaro, Cavalo, Serpente.
 
 619
 00:56:26,508 --> 00:56:27,801
@@ -2739,13 +2748,12 @@ o Quarto Hokage estava falando sobre,</i>
 
 622
 00:56:50,432 --> 00:56:54,902
-<i>que apenas aquele que assinou
-um contrato com este jutsu pode ver, hein?!</i>
+<i>um ser visível apenas para quem usa o jutsu?</i>
 
 623
 00:56:55,584 --> 00:56:59,921
-O que quer que você faça agora, já é tarde demais...
-Eu ganhei.
+O que quer que você faça agora,
+já é tarde demais... Eu ganhei.
 
 624
 00:57:00,500 --> 00:57:02,252
@@ -2772,7 +2780,8 @@ Eu não vou desistir facilmente!
 
 629
 00:57:20,186 --> 00:57:22,522
-<i>Genjutsu! Jutsu da Escuridão Infinita!</i>
+<i>Genjutsu: Kokuangyō no Jutsu!
+(Genjutsu: Jutsu da Escuridão Infinita)</i>
 
 630
 00:57:30,530 --> 00:57:32,157
@@ -2857,8 +2866,8 @@ esta Vila Oculta da Folha...
 
 648
 00:59:30,316 --> 00:59:35,863
-Um novo Hokage dará continuidade à minha vontade,
-se tornará um pilar e defenderá a Folha!
+Um novo Hokage herdará a minha vontade,
+será um pilar e defenderá a Folha!
 
 649
 00:59:37,657 --> 00:59:39,284
@@ -2872,7 +2881,7 @@ um jutsu que nem você conhece!
 651
 00:59:47,542 --> 00:59:51,754
 Veja!
-<i>Jutsu de Selamento: Selo da Morte do Ceifador!</i>
+<i>Fūinjutsu: Shiki Fūjin!</i>
 
 652
 00:59:58,261 --> 01:00:01,389
@@ -2971,7 +2980,7 @@ Você é meu!
 
 674
 01:03:35,770 --> 01:03:36,896
-<i>Golpe de Serpente Sombra!</i>
+<i>Sen'eijashu! (Serpentes Sombrias Atacantes)</i>
 
 675
 01:03:39,148 --> 01:03:40,148
@@ -3021,7 +3030,7 @@ por este jutsu!
 685
 01:05:06,694 --> 01:05:12,033
 Então este jutsu também selou
-a Raposa de Nove Caudas, hein?!
+a Nove-Caudas, hein?!
 
 686
 01:05:14,368 --> 01:05:20,833
@@ -3063,8 +3072,8 @@ ter suas almas entrelaçadas,
 
 694
 01:05:57,019 --> 01:06:02,107
-e se odiarão,
-e continue a lutar pela eternidade!
+e vão se odiar
+e continuar lutando pela eternidade!
 
 695
 01:06:09,715 --> 01:06:10,715
@@ -3110,8 +3119,7 @@ Nosso reforço ainda não chegou?!
 
 705
 01:07:32,548 --> 01:07:36,844
-<i>Arte Ninja: Invocação
-Jutsu Derrube a Casa!</i>
+<i>Ninpō: Kuchiyose: Yatai Kuzushi no Jutsu!</i>
 
 706
 01:07:49,356 --> 01:07:51,358
@@ -3353,8 +3361,8 @@ Não precisa se preocupar.
 
 761
 01:11:46,010 --> 01:11:48,694
-Eu vou te dar suporte se
-Eu tenho apenas dez minutos.
+Me dê dez minutos
+e eu volto para te dar cobertura.
 
 762
 01:11:49,930 --> 01:11:52,850
@@ -3399,8 +3407,8 @@ nunca subestimamos nosso oponente,
 
 771
 01:13:19,787 --> 01:13:21,246
-não importa quão insignificantes sejam os insetos
-deles.
+por mais insignificante
+que um inseto pareça.
 
 772
 01:13:21,271 --> 01:13:22,431
@@ -3620,7 +3628,7 @@ Entre na sala secreta rapidamente.
 
 822
 01:18:29,079 --> 01:18:34,167
-Seu Sensei jonin e chunin
+Seu sensei jonin e chunin
 protegerão todos vocês com suas vidas!
 
 823
@@ -3746,7 +3754,8 @@ minha localização será descoberta!</i>
 
 851
 01:21:53,954 --> 01:21:57,290
-<i>é simples para um mestre de marionetes de primeira classe.</i>
+<i>é brincadeira de criança para
+um mestre de marionetes de primeira.</i>
 
 852
 01:21:59,331 --> 01:22:02,042
@@ -3986,7 +3995,7 @@ eu antecipe seus movimentos.</i>
 906
 01:27:37,710 --> 01:27:40,004
 <i>Se eu não tivesse esses olhos
-Eu teria morrido há muito tempo.</i>
+eu teria morrido há muito tempo.</i>
 
 907
 01:27:44,550 --> 01:27:45,750
@@ -3994,11 +4003,12 @@ Eu teria morrido há muito tempo.</i>
 
 908
 01:27:46,803 --> 01:27:49,806
-<i>Estilo de Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!
+(Estilo Fogo: Jutsu Bola de Fogo)</i>
 
 909
 01:27:58,147 --> 01:27:59,947
-<i>Então o Estilo Fogo não
+<i>Então o Katon (Estilo Fogo) não
 funciona contra a areia...</i>
 
 910
@@ -4012,7 +4022,7 @@ Morra!
 
 912
 01:28:05,196 --> 01:28:06,864
-<i>Aparentemente... apenas o Chidori irá...</i>
+<i>Pelo jeito... só o Chidori vai...</i>
 
 913
 01:28:27,844 --> 01:28:32,348
@@ -4021,8 +4031,8 @@ Isso é tudo...
 
 914
 01:28:36,010 --> 01:28:38,512
-Isto é tantos Chidori
-você pode filmar em um dia
+Esse é o número de Chidori
+que você pode usar por dia
 
 915
 01:28:38,747 --> 01:28:39,832
@@ -4040,8 +4050,8 @@ durante batalhas reais.
 
 918
 01:28:47,488 --> 01:28:51,701
-Mas usar simultaneamente o Sharingan
-e outro jutsu significa
+Mas usar o Sharingan e
+outro jutsu ao mesmo tempo significa
 
 919
 01:28:52,160 --> 01:28:56,414
@@ -4170,7 +4180,7 @@ para me fazer matá-lo!</i>
 
 947
 01:31:42,038 --> 01:31:43,539
-<i>A Marca da Maldição de novo...</i>
+<i>O Juin (Marca da Maldição) de novo...</i>
 
 948
 01:31:51,172 --> 01:31:53,299
@@ -4528,7 +4538,7 @@ Eu posso não parecer
 
 1035
 01:40:48,980 --> 01:40:51,707
-mas o Kazekage-sama me encarregou
+mas o Senhor Kazekage me encarregou
 de cuidar da sua condição física
 
 1036
@@ -4920,12 +4930,12 @@ Não... Isso não está correto.
 1124
 01:48:25,486 --> 01:48:28,197
 É verdade que eu aceitei
-Ordem do Lorde Kazekage.
+a ordem do Senhor Kazekage.
 
 1125
 01:48:29,255 --> 01:48:33,092
 Mas se eu tivesse querido,
-Eu poderia ter recusado.
+eu poderia ter recusado.
 
 1126
 01:48:36,218 --> 01:48:37,218
@@ -4934,7 +4944,7 @@ Gaara...
 1127
 01:48:38,699 --> 01:48:42,911
 Lá no fundo do meu coração,
-Eu provavelmente...
+eu provavelmente...
 
 1128
 01:48:44,601 --> 01:48:45,685
@@ -4952,7 +4962,7 @@ A criança que ela deixou para trás na morte...
 1131
 01:48:53,726 --> 01:49:00,191
 Já que você era o que ela deixou para trás,
-Eu tentei desesperadamente te amar.
+eu tentei desesperadamente te amar.
 
 1132
 01:49:00,995 --> 01:49:03,456
@@ -4988,25 +4998,25 @@ Seu nome...
 
 1139
 01:49:28,728 --> 01:49:30,814
-“Este nome da criança é Gaara...”
+"Este nome da criança é Gaara..."
 
 1140
 01:49:31,606 --> 01:49:33,316
-“Um demônio que ama apenas a si mesmo...”
+"Um demônio que ama apenas a si mesmo..."
 
 1141
 01:49:33,733 --> 01:49:35,485
-“Ame apenas a si mesmo...”
+"Ame apenas a si mesmo..."
 
 1142
 01:49:36,486 --> 01:49:39,447
-“E lute apenas por
-seu próprio bem.”
+"E lute apenas por
+seu próprio bem."
 
 1143
 01:49:40,657 --> 01:49:43,326
-“Se você fizer isso,
-você continuará existindo.”
+"Se você fizer isso,
+você continuará existindo."
 
 1144
 01:49:43,950 --> 01:49:45,993
@@ -5169,7 +5179,7 @@ senão invocar o Chefe Gamabunta!</i>
 
 1181
 01:54:07,215 --> 01:54:08,675
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu!</i>
 
 1182
 01:54:13,638 --> 01:54:15,265
@@ -5230,8 +5240,8 @@ Eu luto... apenas por mim!
 
 1195
 01:55:03,479 --> 01:55:07,275
-Se você não me derrubar,
-a areia que prende essa garota não desaparecerá!
+Se você não me derrubar, a areia
+que prende essa garota não desaparecerá!
 
 1196
 01:55:07,901 --> 01:55:11,143
@@ -5261,7 +5271,7 @@ de uma Possessão Completa.</i>
 
 1202
 01:55:26,669 --> 01:55:28,087
-<i>Shuriken de Areia!</i>
+<i>Suna Shuriken! (Shuriken de Areia)</i>
 
 1203
 01:55:37,347 --> 01:55:39,057
@@ -5338,8 +5348,8 @@ Vou esmagar toda essa força!
 
 1219
 01:56:42,034 --> 01:56:46,538
-Agora, qual é o problema?!
-Se você não lutar comigo, eu mato aquela garota!
+Agora, qual é o problema?! Se você não
+lutar comigo, eu mato aquela garota!
 
 1220
 01:56:49,564 --> 01:56:51,024
@@ -5347,15 +5357,17 @@ Droga!
 
 1221
 01:56:52,021 --> 01:56:54,065
-<i>Jutsu do Clone das Sombras Múltiplas!</i>
+<i>Tajū Kage Bunshin no Jutsu!
+(Jutsu de Múltiplos Clones das Sombras)</i>
 
 1222
 01:56:57,301 --> 01:56:58,386
-<i>Estilo de Vento:</i>
+<i>Fūton:</i>
 
 1223
 01:57:00,513 --> 01:57:03,433
-<i>Devastação da Tempestade de Areia Infinita!</i>
+<i>Mugen Sajin Daitoppa!
+(Devastação da Tempestade de Areia Infinita)</i>
 
 1224
 01:57:08,229 --> 01:57:11,065
@@ -5390,7 +5402,7 @@ Está longe de acabar!
 
 1231
 01:57:42,263 --> 01:57:43,598
-<i>Shuriken de Areia!</i>
+<i>Suna Shuriken!</i>
 
 1232
 01:57:50,271 --> 01:57:52,982
@@ -5453,7 +5465,7 @@ Tenho que lutar... com tudo o que tenho!
 
 1246
 01:58:39,904 --> 01:58:41,280
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
 
 1247
 01:58:47,078 --> 01:58:48,246
@@ -5480,12 +5492,12 @@ Ok!
 
 1252
 01:59:04,846 --> 01:59:06,472
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
 
 1253
 01:59:07,765 --> 01:59:10,768
 Mais uma vez...
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
 
 1254
 01:59:12,603 --> 01:59:13,396
@@ -5502,7 +5514,7 @@ aprendida com Kakashi-sensei!
 
 1257
 01:59:18,526 --> 01:59:20,611
-<i>Mil Anos de Morte!</i>
+<i>Sennen Goroshi! (Mil Anos de Morte)</i>
 
 1258
 01:59:26,242 --> 01:59:27,121
@@ -5525,7 +5537,7 @@ que é o ponto mais vulnerável...</i>
 1262
 01:59:50,130 --> 01:59:53,967
 <i>Mesmo que eu não esteja ferido,
-Não consigo absorver o impacto.</i>
+não consigo absorver o impacto.</i>
 
 1263
 01:59:55,813 --> 01:59:57,315
@@ -5597,7 +5609,7 @@ Porque ele passou pela vida
 1279
 02:01:03,547 --> 02:01:06,092
 com a mesma solidão
-e tristeza que eu senti senti senti senti senti senti...
+e tristeza que eu...
 
 1280
 02:01:06,634 --> 02:01:11,389
@@ -5659,7 +5671,7 @@ proteger você!
 
 1293
 02:02:21,375 --> 02:02:23,377
-<i>Jutsu do Clone das Sombras Múltiplas!</i>
+<i>Tajū Kage Bunshin no Jutsu!</i>
 
 1294
 02:02:29,550 --> 02:02:32,428
@@ -5668,8 +5680,8 @@ muito tempo!
 
 1295
 02:02:33,304 --> 02:02:37,016
-A saga de Naruto Uzumaki no
-Manual Ninja começa agora!
+O Primeiro Pergaminho das Crônicas Ninja
+de Naruto Uzumaki começa agora!
 
 1296
 02:02:37,266 --> 02:02:40,978
@@ -5773,7 +5785,8 @@ Não tem jeito...</i>
 
 1319
 02:04:24,419 --> 02:04:29,507
-<i>De jeito nenhum eu vou...perder para...um cara como este!</i>
+<i>De jeito nenhum eu vou...perder</i>
+<i>para...um cara como este!</i>
 
 1320
 02:04:41,765 --> 02:04:43,642
@@ -5815,11 +5828,11 @@ Isto marcará o seu fim...
 
 1329
 02:05:49,989 --> 02:05:51,135
-<i>Funeral do Deserto!</i>
+<i>Sabaku Sōsō! (Enterro de Areia)</i>
 
 1330
 02:05:51,159 --> 02:05:52,408
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu!</i>
 
 1331
 02:06:00,386 --> 02:06:01,637
@@ -5972,8 +5985,8 @@ Eu te reconheço como meu ajudante...
 
 1364
 02:08:00,172 --> 02:08:04,885
-e vou te mostrar o verdadeiro significado de lealdade
-e respeito!
+e vou te mostrar o verdadeiro
+significado de lealdade e respeito!
 
 1365
 02:08:07,888 --> 02:08:10,099
@@ -6045,7 +6058,7 @@ Interessante!
 
 1381
 02:09:12,286 --> 02:09:16,248
-Isto é interessante
+Isso é interessante,
 Naruto Uzumaki!
 
 1382
@@ -6071,8 +6084,8 @@ Q-Que vai acontecer, chefe?
 
 1387
 02:09:49,531 --> 02:09:52,951
-Se o hospedeiro ativar o
-Jutsu de Fingir Morte...
+Quando o hospedeiro usa o Tanuki Neiri
+no Jutsu (Jutsu do Sono Fingido)...
 
 1388
 02:09:52,976 --> 02:09:55,311
@@ -6097,11 +6110,12 @@ Hã?
 
 1393
 02:10:16,850 --> 02:10:19,937
-<i>Estilo de Vento: Balas de Ar!</i>
+<i>Fūton: Renkūdan! (Estilo Vento: Balas de Ar)</i>
 
 1394
 02:10:22,773 --> 02:10:25,192
-<i>Estilo de Água: Balas de Água!</i>
+<i>Suiton: Teppōdama!
+(Estilo Água: Balas de Água)</i>
 
 1395
 02:10:34,326 --> 02:10:36,995
@@ -6207,8 +6221,8 @@ O que devemos fazer então?!
 
 1419
 02:12:07,451 --> 02:12:11,580
-Nós usaremos o Jutsu da Transformação
-e mude para algo que funcione!
+Vamos usar o Henge no Jutsu
+e virar algo que funcione!
 
 1420
 02:12:13,467 --> 02:12:14,509
@@ -6264,7 +6278,7 @@ Caninos e garras!
 
 1432
 02:12:44,081 --> 02:12:46,416
-<i>Transformar!</i>
+<i>Henge!</i>
 
 1433
 02:12:54,904 --> 02:12:55,749
@@ -6314,7 +6328,7 @@ Acabei de chegar!
 
 1444
 02:13:54,484 --> 02:13:56,319
-<i>Caixão de Areia!</i>
+<i>Sabaku Kyū! (Caixão de Areia)</i>
 
 1445
 02:13:56,445 --> 02:13:58,488
@@ -6499,8 +6513,7 @@ você está experienciando
 
 1486
 02:18:35,040 --> 02:18:37,584
-a técnica secreta da Folha,
-Jutsu de Paralisia das Sombras?
+o famoso Kagemane no Jutsu da Folha?
 
 1487
 02:18:37,934 --> 02:18:40,520
@@ -6509,15 +6522,16 @@ Bem, leve isso também enquanto estou nisso...
 1488
 02:18:41,563 --> 02:18:45,066
 A técnica secreta da Folha...
-Jutsu de Estrangulamento das Sombras!
+Kage Kubishibari no Jutsu!
 
 1489
 02:18:49,946 --> 02:18:51,531
-<i>Jutsu de Expansão !</i>
+<i>Baika no Jutsu! (Jutsu de Expansão)</i>
 
 1490
 02:18:58,872 --> 02:19:00,790
-<i>Jutsu de Destruição da Mente!</i>
+<i>Shinranshin no Jutsu!
+(Jutsu de Destruição da Mente)</i>
 
 1491
 02:19:05,503 --> 02:19:06,503
@@ -6525,7 +6539,8 @@ O-O que é isso?!
 
 1492
 02:19:07,380 --> 02:19:09,007
-Meu corpo está... totalmente por conta própria...!
+Meu corpo está...
+totalmente por conta própria...!
 
 1493
 02:19:09,060 --> 02:19:10,395
@@ -6545,8 +6560,8 @@ Me lembra os velhos tempos!
 
 1497
 02:19:23,375 --> 02:19:26,002
-O original
-Trio Ino-Shika-Cho se reúne!
+O trio original
+Ino-Shika-Cho se reúne!
 
 1498
 02:19:31,624 --> 02:19:33,042
@@ -6723,7 +6738,7 @@ O que você disse?!
 
 1537
 02:22:53,898 --> 02:22:55,066
-Não me diga isso!
+Não me diga...?
 
 1538
 02:22:55,233 --> 02:22:57,151
@@ -6817,7 +6832,8 @@ o Caminho do Shinobi.</i>
 
 1558
 02:25:22,345 --> 02:25:25,414
-Sinto como se meus braços estivessem queimando...
+Sinto como se meus braços
+estivessem queimando...
 
 1559
 02:25:25,904 --> 02:25:27,000
@@ -6848,7 +6864,8 @@ Não vamos deixar você escapar!
 
 1565
 02:25:46,279 --> 02:25:48,573
-<i>Arte Ninja: Rede de Aranha!</i>
+<i>Ninpō: Kumo Shibari!
+(Arte Ninja: Rede de Teia de Aranha)</i>
 
 1566
 02:25:50,324 --> 02:25:53,006
@@ -6919,8 +6936,8 @@ Então novamente,
 
 1581
 02:26:33,443 --> 02:26:38,240
-parece que você ainda não
-dominou completamente aquele olho como o clã Uchiha.
+parece que você não dominou
+esse olho como o clã Uchiha.
 
 1582
 02:26:39,463 --> 02:26:40,160
@@ -6980,7 +6997,7 @@ Eu estou deixando Sakura com você.
 
 1596
 02:29:04,775 --> 02:29:08,237
-<i>Para eles, eu sou apenas uma relíquia do passado
+<i>Para eles, eu sou só um monstro indesejado
 que eles querem ver desaparecer.</i>
 
 1597
@@ -7027,8 +7044,8 @@ muito importantes para mim agora.
 
 1606
 02:30:09,458 --> 02:30:14,255
-Eu não vou permitir que essas pessoas importantes...
-se machuquem!
+Eu não vou permitir que essas
+pessoas importantes... se machuquem!
 
 1607
 02:30:16,021 --> 02:30:22,444
@@ -7291,7 +7308,7 @@ do Orochimaru?!
 
 1666
 02:36:41,537 --> 02:36:45,249
-Sarutobi Sensei, você está sempre
+Sarutobi-sensei, você está sempre
 dizendo Orochimaru, Orochimaru!
 
 1667
@@ -7300,8 +7317,8 @@ Hm?
 
 1668
 02:36:46,953 --> 02:36:50,563
-Quando se trata de bisbilhotar,
-Eu sou muito bom em Jutsu da Transparência.
+Pra bisbilhotar, eu sou ótimo no Tōmeigakure
+no Jutsu (Jutsu da Transparência).
 
 1669
 02:36:51,947 --> 02:36:52,920
@@ -7313,8 +7330,8 @@ Eu nem quero saber
 
 1671
 02:36:54,943 --> 02:36:56,254
-qual nível de Jutsu da Transparência
-você possui...
+qual o seu nível
+de Tōmeigakure no Jutsu...
 
 1672
 02:36:56,365 --> 02:36:59,564
@@ -7324,15 +7341,15 @@ E essa é a verdade!
 1673
 02:37:01,398 --> 02:37:06,484
 Se você tem tanta certeza de si mesmo,
-Eu irei com você da próxima vez...
+eu irei com você da próxima vez...
 
 1674
 02:37:10,546 --> 02:37:12,351
-Você é um verdadeiro libidinoso, Sarutobi Sensei...
+Você é um tarado, Sarutobi-sensei...
 
 1675
 02:37:27,146 --> 02:37:28,605
-Iruka Sensei...
+Iruka-sensei...
 
 1676
 02:37:28,689 --> 02:37:29,689
@@ -7406,8 +7423,8 @@ Não pode ser explicado pela lógica...
 
 1691
 02:38:38,287 --> 02:38:43,688
-Aqueles que seguram essas cordas simplesmente o fazem,
-porque é importante para eles.
+Aqueles que seguram essas cordas simplesmente
+o fazem, porque é importante para eles.
 
 1692
 02:38:45,254 --> 02:38:49,197
@@ -7440,7 +7457,7 @@ um dia desses.
 
 1699
 02:39:21,728 --> 02:39:23,614
-Tchau! Iruka Sensei!
+Tchau! Iruka-sensei!
 
 1700
 02:39:23,899 --> 02:39:24,607
@@ -7474,4 +7491,3 @@ e nos observará e protegerá.</i>
 02:39:54,935 --> 02:39:59,606
 <i>Ela se tornará um novo Hokage...
 um dia desses...</i>
-

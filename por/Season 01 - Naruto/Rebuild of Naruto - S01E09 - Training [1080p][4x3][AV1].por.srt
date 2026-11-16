@@ -102,8 +102,8 @@ este país adormecido...
 
 24
 00:02:52,714 --> 00:02:57,218
-enquanto todas as outras terras estão ocupadas correndo
-para expandir seu poder militar.
+enquanto todos os outros correm
+para aumentar o poder militar.
 
 25
 00:02:59,262 --> 00:03:00,942
@@ -161,7 +161,7 @@ Tão bem que chega a ser um pouco assustador.
 
 37
 00:03:41,596 --> 00:03:43,431
-A Marca da Maldição que lhe foi dada...
+O Juin (Marca da Maldição) que deram a ele...
 
 38
 00:03:43,848 --> 00:03:46,601
@@ -413,7 +413,8 @@ Tenho que te dar os créditos, Kakashi...
 
 92
 00:07:24,068 --> 00:07:26,612
-Você bloqueou meu ataque vindo do seu ponto cego...
+Você bloqueou meu ataque
+vindo do seu ponto cego...
 
 93
 00:07:27,488 --> 00:07:32,660
@@ -528,7 +529,7 @@ As circunstâncias estão a meu favor...
 
 118
 00:09:18,683 --> 00:09:19,683
-<i>A Clone das Sombras!</i>
+<i>Um Kage Bunshin! (Clone das Sombras)</i>
 
 119
 00:09:39,662 --> 00:09:41,038
@@ -544,7 +545,8 @@ As circunstâncias estão a meu favor...
 
 122
 00:09:52,842 --> 00:09:54,093
-<i>Este é o Jutsu da Alma Morta,</i>
+<i>Este é o Shikon no Jutsu
+(Jutsu da Alma Morta),</i>
 
 123
 00:09:54,176 --> 00:09:57,096
@@ -567,8 +569,8 @@ se passando por um ANBU assassinado...</i>
 
 127
 00:10:12,695 --> 00:10:16,032
-<i>Não é à toa que ele foi criado como filho adotivo
-do chefe do corpo médico.</i>
+<i>Não é à toa que ele é filho adotivo
+do capitão do Corpo Médico.</i>
 
 128
 00:10:17,158 --> 00:10:19,910
@@ -777,8 +779,8 @@ Por meio deste torneio,
 
 175
 00:12:40,319 --> 00:12:44,405
-Esses juízes poderão fazer
-Uma avaliação minuciosa,
+esses juízes poderão fazer
+uma avaliação minuciosa,
 
 176
 00:12:44,430 --> 00:12:46,466
@@ -793,17 +795,17 @@ de um chunin.
 178
 00:12:49,606 --> 00:12:54,402
 Mesmo que alguém perca a primeira rodada,
-Eles ainda podem se tornar chunin.
+eles ainda podem se tornar chunin.
 
 179
 00:12:54,709 --> 00:12:59,547
-Então há uma chance de que todos
-De nós vamos virar chunin?
+Então é possível que todos
+nós viremos chunin?
 
 180
 00:13:00,184 --> 00:13:04,647
-Correto, mas, inversamente, também há
-Uma chance que nenhum de vocês terá.
+Correto, mas, por outro lado, também é
+possível que nenhum de vocês vire.
 
 181
 00:13:05,075 --> 00:13:07,828
@@ -832,13 +834,13 @@ Vamos adiar a sessão até o próximo mês.
 
 187
 00:13:25,121 --> 00:13:29,177
-<i>A segunda rodada será ou
-o cara sem sobrancelhas da Areia ou o Sasuke, né?</i>
+<i>Então a minha segunda luta é contra
+o "Sem Sobrancelha" da Areia ou o Sasuke?</i>
 
 188
 00:13:29,517 --> 00:13:31,852
-<i>aquele cara é tão forte que chutou
-Bunda de Sobrancelhudo.</i>
+<i>Aquele cara é tão forte que acabou
+com o Sobrancelhudo.</i>
 
 189
 00:13:33,086 --> 00:13:35,589
@@ -847,7 +849,7 @@ Bunda de Sobrancelhudo.</i>
 190
 00:13:37,441 --> 00:13:39,761
 <i>Agora que chegou a este ponto,
-Eu preciso ver o Sensei Kakashi.</i>
+eu preciso ver o Kakashi-sensei.</i>
 
 191
 00:13:43,864 --> 00:13:45,491
@@ -886,12 +888,12 @@ Eu sei muito bem o que sou.
 
 199
 00:14:26,284 --> 00:14:28,870
-Eu sou um fracasso indeciso…
+Eu sou um fracasso indeciso...
 
 200
 00:14:29,493 --> 00:14:32,788
 Mas eu não quero desistir,
-Eu quero me tornar forte…
+eu quero me tornar forte...
 
 201
 00:14:34,049 --> 00:14:36,033
@@ -904,7 +906,7 @@ sentir-se assim.
 
 203
 00:14:39,297 --> 00:14:40,168
-<i>Naruto…</i>
+<i>Naruto...</i>
 
 204
 00:14:40,928 --> 00:14:44,133
@@ -913,7 +915,7 @@ Você é uma maldição para todos nós!</i>
 
 205
 00:14:44,493 --> 00:14:46,328
-<i>O quê? Eu só estava…</i>
+<i>O quê? Eu só estava...</i>
 
 206
 00:14:46,802 --> 00:14:49,805
@@ -983,7 +985,8 @@ para assistir ao seu treino.
 
 221
 00:15:30,847 --> 00:15:34,183
-Por quê?! Eu quero que você faça, Kakashi-sensei!
+Por quê?! Eu quero que
+seja você, Kakashi-sensei!
 
 222
 00:15:34,516 --> 00:15:36,602
@@ -1001,7 +1004,7 @@ Oh! Aha...!
 225
 00:15:42,274 --> 00:15:44,818
 Você vai treinar
-Sasuke, não é você!
+o Sasuke, não vai!
 
 226
 00:15:45,069 --> 00:15:46,445
@@ -1050,12 +1053,12 @@ Mas você vê! Mas você vê!
 
 237
 00:16:06,156 --> 00:16:08,908
-Há muito tempo,
-com meu Jutsu Harem, esse cara...
+Um tempo atrás, esse cara caiu direitinho
+no meu Hāremu no Jutsu (Jutsu do Harém)...
 
 238
 00:16:10,928 --> 00:16:12,221
-Jutsu do Harém?
+Hāremu no Jutsu?
 
 239
 00:16:12,246 --> 00:16:14,832
@@ -1114,7 +1117,7 @@ Não diga isso.
 
 252
 00:16:48,716 --> 00:16:51,260
-Naruto, o Sensei Ebisu é um tutor particular
+Naruto, o Ebisu-sensei é um tutor particular
 
 253
 00:16:51,385 --> 00:16:55,097
@@ -1129,7 +1132,7 @@ em ensinar do que eu.
 255
 00:17:02,563 --> 00:17:06,650
 Bem, Naruto, das três crianças
-no Esquadrão Sete que eu ensinei,
+do Time 7 que eu ensinei,
 
 256
 00:17:06,925 --> 00:17:09,260
@@ -1162,8 +1165,8 @@ apenas fique quieto e ouça o que eu digo.
 
 262
 00:17:36,305 --> 00:17:38,724
-Então, Sensei Ebisu,
-Eu estou deixando ele com você.
+Então, Ebisu-sensei,
+eu estou deixando ele com você.
 
 263
 00:17:39,266 --> 00:17:40,267
@@ -1200,8 +1203,8 @@ Ei Choji!
 
 271
 00:18:13,854 --> 00:18:16,148
-Isso faz parecer que
-Shikamaru é meu único oponente!
+Assim parece que o Shikamaru
+é o seu único adversário!
 
 272
 00:18:16,791 --> 00:18:19,586
@@ -1240,7 +1243,7 @@ porque eles são seus amigos?
 
 280
 00:18:43,156 --> 00:18:44,366
-Sensei Asuma...
+Asuma-sensei...
 
 281
 00:18:44,830 --> 00:18:47,290
@@ -1300,8 +1303,8 @@ Transforme sua bondade em poder.
 
 294
 00:19:32,220 --> 00:19:35,366
-Macarrão com carne de porco assada ao molho de missô e
-macarrão ramen com sabor de sal!
+Um ramen de missô com chashu
+e um de sal!
 
 295
 00:19:36,592 --> 00:19:37,592
@@ -1384,12 +1387,12 @@ então fique quieto e ouça!
 
 312
 00:20:30,604 --> 00:20:34,191
-Primeiro, vamos dizer que Sakura
-usa Jutsu de Clonagem.
+Primeiro, digamos que a Sakura
+use o Bunshin no Jutsu (Jutsu de Clone).
 
 313
 00:20:34,524 --> 00:20:35,817
-<i>Jutsu Clone !</i>
+<i>Bunshin no Jutsu!</i>
 
 314
 00:20:39,655 --> 00:20:44,576
@@ -1416,7 +1419,7 @@ concentrar chakra.
 
 319
 00:20:57,464 --> 00:20:58,590
-<i>Clone Jutsu.</i>
+<i>Bunshin no Jutsu.</i>
 
 320
 00:21:03,011 --> 00:21:06,223
@@ -1471,7 +1474,7 @@ de chakra do que Sakura e Sasuke...
 
 331
 00:21:43,093 --> 00:21:44,386
-<i>Jutsu Clone!</i>
+<i>Bunshin no Jutsu!</i>
 
 332
 00:21:46,622 --> 00:21:49,791
@@ -1546,12 +1549,13 @@ Nós percorremos um longo caminho...
 
 348
 00:22:49,242 --> 00:22:51,328
-Mas, esta é uma cidade de fontes termais, certo?
+Mas, esta é uma cidade
+de fontes termais, certo?
 
 349
 00:22:51,912 --> 00:22:55,123
-Não parece que tenhamos chegado
-aqui para relaxar em uma fonte termal...
+Não estamos aqui só para relaxar
+nas fontes termais, né?
 
 350
 00:22:55,415 --> 00:22:57,959
@@ -1683,7 +1687,7 @@ chakra o tempo todo.
 379
 00:24:19,938 --> 00:24:23,650
 Árvores são objetos fixos,
-Então você só precisa estar apegado a ela.
+então você só precisa estar apegado a ela.
 
 380
 00:24:25,318 --> 00:24:26,287
@@ -1737,18 +1741,18 @@ Hmm, eu realmente não entendo!
 
 391
 00:24:56,411 --> 00:24:59,498
-Bem, seria melhor
-Mostrar no seu caso.
+Bom, no seu caso, é melhor
+eu mostrar.
 
 392
 00:25:00,248 --> 00:25:02,542
 Primeiro, você acumula chakra
-Nos pés.
+nos pés.
 
 393
 00:25:04,556 --> 00:25:07,893
-Depois, enquanto está constantemente descarregando
-uma quantidade fixa...
+Depois, enquanto está constantemente
+descarregando uma quantidade fixa...
 
 394
 00:25:08,024 --> 00:25:10,318
@@ -1770,7 +1774,7 @@ Vou tentar!
 398
 00:25:22,145 --> 00:25:23,980
 Primeiro, você acumula chakra
-Nos pés.
+nos pés.
 
 399
 00:25:26,274 --> 00:25:27,274
@@ -1830,7 +1834,7 @@ momento de realizar</i>
 
 412
 00:26:15,392 --> 00:26:17,269
-<i>um ataque surpresa ao Hokage-sama.</i>
+<i>um ataque surpresa ao Senhor Hokage.</i>
 
 413
 00:26:17,671 --> 00:26:19,891
@@ -1905,8 +1909,8 @@ do que eu.</i>
 
 429
 00:27:17,010 --> 00:27:20,180
-<i>Você foi esplêndido
-Ninja da Vila da Folha Oculta!</i>
+<i>Você é um ninja esplêndido
+da Vila Oculta da Folha.</i>
 
 430
 00:27:20,264 --> 00:27:23,350
@@ -1951,8 +1955,8 @@ Caramba, não pode ser descoberto!
 
 440
 00:28:12,607 --> 00:28:16,528
-<i>W-O que há com isso
-Pervertido Sem Vergonha?!</i>
+<i>O-O que deu nesse
+Tarado Sem Vergonha?!</i>
 
 441
 00:28:25,214 --> 00:28:27,133
@@ -1964,7 +1968,7 @@ Ei... pervertido enrustido.
 
 443
 00:28:33,628 --> 00:28:34,748
-<i>Mil Anos de Morte!</i>
+<i>Sennen Goroshi! (Mil Anos de Morte)</i>
 
 444
 00:28:38,466 --> 00:28:42,637
@@ -1987,8 +1991,8 @@ Sábio espiritual que adquire a imortalidade,
 
 448
 00:28:58,528 --> 00:29:01,740
-também comumente chamado de
-Sábio da Montanha do Sapo.
+também conhecido como
+o Sábio da Montanha dos Sapos.
 
 449
 00:29:04,159 --> 00:29:05,910
@@ -2181,8 +2185,8 @@ Não é porque o Choji está com medo.
 
 492
 00:31:51,326 --> 00:31:56,331
-Ele não quer machucar o Asuma Sensei
-do jeito que ele mesmo está se machucando agora.
+Ele não quer machucar o Asuma-sensei
+do jeito que ele está sofrendo agora.
 
 493
 00:31:57,484 --> 00:32:00,528
@@ -2216,7 +2220,7 @@ Você acabou de dizer 'gorducho'?
 
 500
 00:32:21,356 --> 00:32:23,024
-Foi o que o Asuma Sensei disse...
+Foi o que o Asuma-sensei disse...
 
 501
 00:32:25,273 --> 00:32:27,817
@@ -2271,7 +2275,7 @@ A perda é minha.
 
 513
 00:33:26,685 --> 00:33:28,687
-Não importa o quão bravo você esteja,
+Ele só tem ossos largos.
 
 514
 00:33:28,712 --> 00:33:32,568
@@ -2317,7 +2321,7 @@ que os machuca, eu lutarei contra essa pessoa.
 523
 00:33:58,453 --> 00:34:05,585
 Mesmo que Shikamaru e Ino
-continuem me chamando de “gordo.”
+continuem me chamando de "gordo."
 
 524
 00:34:10,573 --> 00:34:15,203
@@ -2326,7 +2330,7 @@ Choji não é gordo.
 
 525
 00:34:16,451 --> 00:34:18,139
-Ele apenas tem um corpo agradavelmente cheio.
+Ele só tem ossos largos.
 
 526
 00:34:27,056 --> 00:34:31,894
@@ -2339,7 +2343,7 @@ Como ousa fazer isso comigo antes!
 
 528
 00:34:39,827 --> 00:34:41,120
-Jutsu de Substituição.
+Kawarimi no Jutsu (Jutsu de Substituição).
 
 529
 00:34:41,537 --> 00:34:44,665
@@ -2433,15 +2437,15 @@ Não, não. É a mais pura verdade.
 
 550
 00:36:11,711 --> 00:36:14,046
-Ei, Sábio Tarado!
+Ei, Sábio Pervertido!
 
 551
 00:36:14,426 --> 00:36:16,583
-Oh não! Sábio Tarado, ele disse.
+Oh não! Sábio Pervertido, ele disse.
 
 552
 00:36:17,098 --> 00:36:20,845
-Seu idiota! Quem é o Sábio Tarado?
+Seu idiota! Quem é o Sábio Pervertido?
 
 553
 00:36:21,400 --> 00:36:23,194
@@ -2506,7 +2510,8 @@ Hmph! Eu não me importo com essas coisas.
 
 567
 00:37:23,366 --> 00:37:25,284
-Aqui tudo o que você faz é atrapalhar meu caminho...
+Aqui tudo o que você faz é
+atrapalhar meu caminho...
 
 568
 00:37:25,368 --> 00:37:27,245
@@ -2551,7 +2556,7 @@ Como se chama essa técnica?
 
 577
 00:38:29,515 --> 00:38:32,601
-Isso se chama Jutsu Sexy.
+Se chama Oiroke no Jutsu (Jutsu Sexy).
 
 578
 00:38:33,106 --> 00:38:37,527
@@ -2573,8 +2578,8 @@ quando você está na minha frente!
 
 582
 00:39:02,882 --> 00:39:06,552
-Ei! Com certeza,
-você é apenas um pervertido! Seu Sábio Tarado!
+Ei! Você é mesmo um pervertido!
+Seu Sábio Pervertido!
 
 583
 00:39:06,761 --> 00:39:09,388
@@ -2657,12 +2662,13 @@ Apenas faça isso, rápido.
 
 602
 00:40:38,352 --> 00:40:42,231
-<i>Dois Selos Tetragramáticos
-fazendo um Selo de Duplo Tetragrama...</i>
+<i>Dois Shishō Fūin (Selos dos Quatro Símbolos)
+formando um Selo dos Oito Trigramas...</i>
 
 603
 00:40:42,606 --> 00:40:44,275
-<i>Esta é a Fórmula do Selo dos Oito Trigramas?</i>
+<i>Então é um Hakke no Fūin Shiki
+(Selo dos Oito Trigramas).</i>
 
 604
 00:40:44,692 --> 00:40:48,112
@@ -2676,8 +2682,8 @@ pode voltar para o chakra desta criança.</i>
 
 606
 00:40:52,783 --> 00:40:56,996
-<i>Mas depois disso, parou
-com um Selo de Cinco Pontas...</i>
+<i>Mas depois disso, foi bloqueado
+com um Gogyō Fūin (Selo de Cinco Pontas)...</i>
 
 607
 00:40:57,455 --> 00:41:00,458
@@ -2686,8 +2692,8 @@ sobre Selos de Número Par...</i>
 
 608
 00:41:01,047 --> 00:41:04,842
-<i>O chakra desse garoto e o da
-Nove-Caudas estão discretamente entrelaçados</i>
+<i>O chakra do garoto e o da Nove-Caudas
+estão misturados de forma irregular,</i>
 
 609
 00:41:04,867 --> 00:41:06,285
@@ -2732,7 +2738,8 @@ Só um viva? Vamos, comemore.
 
 619
 00:41:44,793 --> 00:41:46,420
-<i>Selo de Cinco Pontas...Libere!</i>
+<i>Gogyō Kaiin! (Liberação</i>
+<i>do Selo de Cinco Pontas)</i>
 
 620
 00:41:58,807 --> 00:42:00,351
@@ -2815,8 +2822,8 @@ Pensando bem...
 
 638
 00:43:21,025 --> 00:43:24,529
-Pensando bem,
-Tenho a sensação de que houve momentos em que...
+Pensando bem, tenho a sensação
+de que houve momentos em que...
 
 639
 00:43:24,874 --> 00:43:30,088
@@ -3064,8 +3071,8 @@ completamente e ativa seu
 
 695
 00:47:47,737 --> 00:47:50,790
-Jutsu de Fingir Estar Morto,
-não há como detê-lo.
+Tanuki Neiri no Jutsu,
+ninguém mais consegue detê-lo.
 
 696
 00:47:51,220 --> 00:47:54,916
@@ -3124,7 +3131,7 @@ O que você disse?
 708
 00:48:27,431 --> 00:48:31,227
 Também foi descoberto que
-Sou um servo do Som.
+sou um servo do Som.
 
 709
 00:48:32,186 --> 00:48:35,606
@@ -3133,8 +3140,8 @@ que você é o braço direito do Orochimaru.
 
 710
 00:48:36,270 --> 00:48:40,232
-Sendo revelado a eles e vindo
-despreocupadamente para se encontrar comigo...
+Então você foi descoberto e mesmo assim
+vem se encontrar comigo tão tranquilo?
 
 711
 00:48:40,778 --> 00:48:42,363
@@ -3277,7 +3284,7 @@ escorregadio, passando por mim.
 
 743
 00:51:28,102 --> 00:51:29,312
-<i>Dança da Lua Crescente!</i>
+<i>Mikazuki no Mai! (Dança da Lua Crescente)</i>
 
 744
 00:51:39,047 --> 00:51:40,231
@@ -3347,7 +3354,8 @@ Sim, foi assim.
 
 759
 00:53:02,545 --> 00:53:06,048
-Tente acumular esse chakra vermelho agora mesmo.
+Tente acumular esse chakra
+vermelho agora mesmo.
 
 760
 00:53:06,320 --> 00:53:09,991
@@ -3403,7 +3411,7 @@ percebeu que</i>
 772
 00:53:50,324 --> 00:53:55,037
 <i>o chakra vermelho é
-o chakra da Raposa de Nove Caudas.</i>
+o chakra da Nove-Caudas.</i>
 
 773
 00:53:55,505 --> 00:53:58,383
@@ -3417,7 +3425,7 @@ e emoção intensificada</i>
 775
 00:54:02,011 --> 00:54:04,848
 <i>are a chave para invocar
-o chakra da Raposa de Nove Caudas.</i>
+o chakra da Nove-Caudas.</i>
 
 776
 00:54:06,030 --> 00:54:07,737
@@ -3429,7 +3437,7 @@ Apenas o chakra habitual está saindo.
 
 778
 00:54:10,806 --> 00:54:12,408
-Diga, Sábio Tarado...
+Diga, Sábio Pervertido...
 
 779
 00:54:12,591 --> 00:54:16,672
@@ -3447,7 +3455,7 @@ Escute, garoto.
 782
 00:54:22,548 --> 00:54:24,175
 Para a técnica
-Eu estou prestes a te ensinar,
+que eu vou te ensinar,
 
 783
 00:54:24,200 --> 00:54:27,787
@@ -3533,12 +3541,12 @@ O que, por exemplo?
 
 801
 00:55:36,839 --> 00:55:42,886
-Por exemplo... o Jutsu de Invocação
+Por exemplo... o Kuchiyose no Jutsu
 que eu vou te ensinar agora.
 
 802
 00:55:43,653 --> 00:55:44,821
-Invocando?
+Kuchiyose? (Invocação)
 
 803
 00:55:45,345 --> 00:55:46,235
@@ -3583,8 +3591,8 @@ Deixe comigo.
 
 812
 00:56:22,694 --> 00:56:26,364
-Bem... Então você pode usar o
-Jutsu de Clone das Sombras.
+Bom... Então você sabe usar o
+Kage Bunshin no Jutsu.
 
 813
 00:56:27,448 --> 00:56:31,452
@@ -3639,7 +3647,7 @@ Assista com atenção.
 
 824
 00:57:28,760 --> 00:57:30,928
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu</i>
 
 825
 00:57:37,185 --> 00:57:41,064
@@ -3678,8 +3686,8 @@ e abaixe a mão que você contratou.
 
 833
 00:58:16,641 --> 00:58:20,228
-A placa é
-Javali-Cachorro-Pássaro-Macaco-Ovelha.
+Os sinais são
+Javali-Cão-Pássaro-Macaco-Carneiro.
 
 834
 00:58:24,774 --> 00:58:28,787
@@ -3712,7 +3720,8 @@ Javali-Cachorro-Pássaro-Macaco-Ovelha.
 
 841
 00:59:00,143 --> 00:59:02,645
-<i>Ninja Arte: Jutsu de Invocação!</i>
+<i>Ninpō: Kuchiyose no Jutsu!
+(Arte Ninja: Jutsu de Invocação)</i>
 
 842
 00:59:08,969 --> 00:59:11,305
@@ -3732,7 +3741,7 @@ Ei! Caramba.
 
 846
 00:59:57,450 --> 00:59:59,035
-Ei, Sábio Tarado!
+Ei, Sábio Pervertido!
 
 847
 00:59:59,243 --> 01:00:01,954
@@ -3754,7 +3763,7 @@ um sapo tão grande que você ficará chocado!
 
 851
 01:00:15,235 --> 01:00:16,645
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu!</i>
 
 852
 01:00:20,511 --> 01:00:22,787
@@ -3767,7 +3776,7 @@ Que parte disso é um sapo?!
 854
 01:00:25,911 --> 01:00:28,529
 Se você não levar a sério,
-Eu não vou te ajudar!
+eu não vou te ajudar!
 
 855
 01:00:28,554 --> 01:00:31,755
@@ -3815,8 +3824,8 @@ uma conclusão tão facilmente.
 
 865
 01:01:02,515 --> 01:01:06,143
-Aquele que Hayate estava seguindo
-provavelmente era um espião de Som chamado Kabuto...
+O que o Hayate estava seguindo
+devia ser um espião do Som, o Kabuto...
 
 866
 01:01:07,172 --> 01:01:10,592
@@ -4012,8 +4021,8 @@ Ino?!
 
 909
 01:03:29,538 --> 01:03:33,375
-Eu não vou deixar você ser o primeiro a visitar!
-Vou com você!
+Eu não vou deixar você ser
+o primeiro a visitar! Vou com você!
 
 910
 01:03:33,862 --> 01:03:35,989
@@ -4235,7 +4244,7 @@ Neji, você está bem?!
 
 960
 01:06:39,892 --> 01:06:41,393
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu!</i>
 
 961
 01:06:43,981 --> 01:06:45,941
@@ -4323,7 +4332,7 @@ você foi...?</i>
 
 980
 01:07:58,136 --> 01:07:58,917
-Oi…
+Oi...
 
 981
 01:08:00,735 --> 01:08:01,945
@@ -4335,7 +4344,7 @@ Kakashi! Me faça mais forte!
 
 983
 01:08:18,201 --> 01:08:19,911
-<i>Esta determinação de Sasuke…</i>
+<i>Esta determinação de Sasuke...</i>
 
 984
 01:08:21,392 --> 01:08:22,685
@@ -4383,7 +4392,7 @@ não é?
 
 994
 01:08:49,356 --> 01:08:50,172
-É…
+É...
 
 995
 01:08:50,899 --> 01:08:54,319
@@ -4392,7 +4401,7 @@ a Natureza do Fogo
 
 996
 01:08:54,361 --> 01:08:56,071
-e se especializa no Estilo Fogo.
+e é especialista em Katon (Estilo Fogo).
 
 997
 01:08:56,882 --> 01:08:58,884
@@ -4434,8 +4443,8 @@ meu jutsu para você.
 
 1005
 01:09:27,352 --> 01:09:31,023
-O jutsu único de
-Kakashi, o ninja copiador.
+O único jutsu original
+de Kakashi, o Ninja Copiador.
 
 1006
 01:09:34,133 --> 01:09:35,634
@@ -4625,8 +4634,8 @@ uma aula de história do lado de fora.
 
 1050
 01:13:17,332 --> 01:13:22,379
-Como vocês sabem, este monumento de pedra mostra
-os rostos de todos os Hokage.
+Como vocês sabem, este paredão tem
+os rostos dos Hokage.
 
 1051
 01:13:22,952 --> 01:13:25,112
@@ -4644,11 +4653,11 @@ do Terceiro... e do Quarto.
 
 1054
 01:13:37,759 --> 01:13:39,430
-<i>Especialmente a linha do cabelo que está recuando...</i>
+<i>Principalmente as entradas no cabelo...</i>
 
 1055
 01:13:39,455 --> 01:13:42,792
-Iruka Sensei! Quem é o quinto?
+Iruka-sensei! Quem é o quinto?
 
 1056
 01:13:42,979 --> 01:13:43,979
@@ -4828,7 +4837,7 @@ Estou fazendo isso com toda a minha força!
 1096
 01:16:20,474 --> 01:16:25,061
 Entenda: se você realmente quer
-dominar o Jutsu de Invocação,
+dominar o Kuchiyose no Jutsu,
 
 1097
 01:16:25,306 --> 01:16:28,211
@@ -4932,7 +4941,7 @@ ter o controle para fazer isso...</i>
 
 1120
 01:17:42,430 --> 01:17:44,766
-<i>para absorver o chakra da Raposa de Nove Caudas...</i>
+<i>para absorver o chakra da Nove-Caudas...</i>
 
 1121
 01:17:45,600 --> 01:17:47,495
@@ -4941,7 +4950,7 @@ tende a rejeitar</i>
 
 1122
 01:17:47,519 --> 01:17:50,855
-<i>a força da Raposa de Nove Caudas
+<i>a força da Nove-Caudas
 para evitar esforço excessivo.</i>
 
 1123
@@ -4952,7 +4961,7 @@ emoção são a chave</i>
 1124
 01:17:55,777 --> 01:17:58,347
 <i>para extrair o chakra da
-Raposa de Nove Caudas...</i>
+Nove-Caudas...</i>
 
 1125
 01:17:58,551 --> 01:18:02,221
@@ -5049,7 +5058,7 @@ com o controle de chakra que você tem,</i>
 1146
 01:19:39,489 --> 01:19:41,783
 <i>você só poderá depender
-do chakra da Raposa de Nove Caudas.</i>
+do chakra da Nove-Caudas.</i>
 
 1147
 01:19:42,801 --> 01:19:47,305
@@ -5100,7 +5109,7 @@ Você é...
 
 1158
 01:21:45,423 --> 01:21:47,133
-a Raposa de Nove Caudas!
+a Nove-Caudas!
 
 1159
 01:21:48,510 --> 01:21:53,056
@@ -5121,8 +5130,8 @@ Ei! Sua raposa estúpida!
 
 1163
 01:22:09,906 --> 01:22:15,912
-Já que você está hospedado no meu corpo,
-então pague o aluguel me emprestando seu chakra!
+Você mora no meu corpo,
+então paga o aluguel com chakra!
 
 1164
 01:22:22,255 --> 01:22:26,676
@@ -5148,7 +5157,7 @@ Eu vou te dar isso!
 
 1169
 01:22:50,864 --> 01:22:52,615
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu!</i>
 
 1170
 01:23:04,127 --> 01:23:05,795
@@ -5180,7 +5189,7 @@ Isto é um... sapo... não é...?
 
 1177
 01:23:50,882 --> 01:23:53,468
-Opa...
+Uoa ah ah ah ah...
 
 1178
 01:23:55,511 --> 01:23:56,763
@@ -5217,7 +5226,7 @@ Sapo!
 1186
 01:24:15,506 --> 01:24:18,509
 <i>Parece que ele extraiu o
-chakra da Raposa de Nove Caudas</i>
+chakra da Nove-Caudas</i>
 
 1187
 01:24:18,534 --> 01:24:20,453
@@ -5363,7 +5372,7 @@ Apresse-se e me responda!
 1219
 01:26:06,617 --> 01:26:08,661
 Certo! Se você está falando do
-Sábio Tarado
+Sábio Pervertido
 
 1220
 01:26:08,686 --> 01:26:11,064
@@ -5385,7 +5394,7 @@ Qual é?
 1224
 01:26:19,346 --> 01:26:21,473
 Que negócios você tem
-com aquele Sábio Tarado?
+com aquele Sábio Pervertido?
 
 1225
 01:26:21,574 --> 01:26:25,119
@@ -5461,7 +5470,7 @@ bem entende desde cedo!
 1241
 01:27:17,964 --> 01:27:23,970
 Desde que eu te convoquei,
-Eu sou seu mestre!
+eu sou seu mestre!
 
 1242
 01:27:24,326 --> 01:27:27,621
@@ -5469,8 +5478,8 @@ Hã? O que foi isso?
 
 1243
 01:27:27,646 --> 01:27:30,649
-Ei, quem você acha
-Com quem você está falando?!
+Ei, com quem você acha
+que está falando?!
 
 1244
 01:27:30,848 --> 01:27:31,953
@@ -5578,8 +5587,8 @@ o que você está fazendo, seu pestinha?
 
 1267
 01:29:30,238 --> 01:29:32,198
-Se eu fizer você reconhecer que
-Eu te invoquei
+Se o único jeito de você
+admitir que eu te invoquei
 
 1268
 01:29:32,223 --> 01:29:34,225
@@ -5785,8 +5794,8 @@ deveriam ser resolvidos pelo nosso país,
 
 1313
 01:32:11,645 --> 01:32:17,818
-reduziu significativamente o orçamento do nosso país
-e cortou drasticamente o número de shinobi.
+cortou bastante o orçamento do país
+e reduziu o número de shinobi.
 
 1314
 01:32:18,347 --> 01:32:20,057
@@ -5832,7 +5841,7 @@ não faço ideia!
 
 1323
 01:32:50,687 --> 01:32:56,075
-O Lord Kazekage detectou o
+O Senhor Kazekage detectou o
 enfraquecimento da nossa força militar,
 
 1324
@@ -5847,8 +5856,8 @@ a Vila Oculta da Folha...
 
 1326
 01:33:01,641 --> 01:33:04,602
-Além de restaurar a autoridade da
-Vila da Areia...
+Além de restaurar a autoridade
+da Vila da Areia...
 
 1327
 01:33:04,977 --> 01:33:07,377
@@ -5953,8 +5962,8 @@ O que é? Diga logo.
 
 1350
 01:34:40,864 --> 01:34:44,285
-Sim, senhor... Eu estava pensando se você poderia
-posicionar alguns soldados
+Sim, senhor... Eu estava pensando se
+você poderia posicionar alguns soldados
 
 1351
 01:34:44,310 --> 01:34:46,910
@@ -5991,8 +6000,8 @@ os outros para lá.
 
 1358
 01:35:03,953 --> 01:35:09,458
-A restauração da autoridade da
-Vila Oculta da Areia está em suas mãos.
+A restauração do poder da Vila da Areia
+está nas suas mãos.
 
 1359
 01:35:10,961 --> 01:35:13,130
@@ -6105,7 +6114,8 @@ um presente de melhoras para o Choji.
 
 1384
 01:37:25,946 --> 01:37:27,781
-Mas o médico disse que ele não poderia ter isso.
+Mas o médico disse que
+ele não poderia ter isso.
 
 1385
 01:37:27,882 --> 01:37:29,096
@@ -6190,8 +6200,8 @@ Ei, Naruto...
 
 1404
 01:39:43,041 --> 01:39:48,130
-Durante o Jutsu de Possessão das Sombras,
-meu corpo também é obrigado a se mover! Ok?!
+Quando eu uso o Kagemane no Jutsu,
+eu também tenho que me mexer! Ok?!
 
 1405
 01:39:49,131 --> 01:39:50,465
@@ -6229,8 +6239,8 @@ O quê?!
 
 1413
 01:40:23,790 --> 01:40:27,753
-<i>Especialmente quando ele não consegue
-movimente-se com meu Jutsu de Posse das Sombras...</i>
+<i>Principalmente quando ele não consegue
+se mexer por causa do meu Kagemane no Jutsu...</i>
 
 1414
 01:40:29,022 --> 01:40:31,358
@@ -6281,7 +6291,7 @@ de um fardo para mim e para o Naruto...</i>
 1424
 01:41:04,685 --> 01:41:07,854
 Se você atrapalhar,
-Eu vou matar vocês dois também.
+eu vou matar vocês dois também.
 
 1425
 01:41:08,085 --> 01:41:10,796
@@ -6319,8 +6329,8 @@ Você é quem está em desvantagem.
 
 1433
 01:41:35,424 --> 01:41:39,466
-Se você for esperto, vai fazer o que quiser
-Eu te digo e simplesmente suma.
+Se for esperto, vai fazer o que
+eu mandar e sumir.
 
 1434
 01:41:39,491 --> 01:41:43,370
@@ -6337,8 +6347,8 @@ Eu vou te matar.
 
 1437
 01:41:47,499 --> 01:41:49,876
-Não tem chance nenhuma
-Vou deixar você fazer isso!
+De jeito nenhum
+que eu vou deixar você fazer isso!
 
 1438
 01:41:49,960 --> 01:41:52,254
@@ -6357,8 +6367,8 @@ Eu não vou perder para esse cara!
 
 1441
 01:42:05,438 --> 01:42:08,357
-O que vale a pena deixá-lo bravo,
-seu idiota!
+Valeu a pena deixar ele bravo,
+seu idiota!?
 
 1442
 01:42:10,022 --> 01:42:11,314
@@ -6480,8 +6490,8 @@ Eu acho que os idiotas da minha vila
 
 1468
 01:43:44,324 --> 01:43:47,285
-finalmente percebi que
-Eu tive problemas emocionais...
+finalmente perceberam que
+eu tinha problemas emocionais...
 
 1469
 01:43:48,495 --> 01:43:50,497
@@ -6499,8 +6509,8 @@ presença temível.
 
 1472
 01:43:56,753 --> 01:44:02,008
-Parece que fui rotulado como uma figura perigosa
-assim que completei seis anos.
+Parece que fui rotulado como uma figura
+perigosa assim que completei seis anos.
 
 1473
 01:44:02,554 --> 01:44:07,184
@@ -6509,8 +6519,8 @@ eu era temido.
 
 1474
 01:44:07,782 --> 01:44:11,703
-Para eles, agora eu sou apenas uma relíquia do passado
-que eles querem ver desaparecer.
+Para eles, agora eu sou apenas uma relíquia
+do passado que eles querem ver desaparecer.
 
 1475
 01:44:13,311 --> 01:44:17,149
@@ -6520,7 +6530,7 @@ Por que continuava vivendo?
 1476
 01:44:18,024 --> 01:44:20,694
 Quando eu me perguntei isso,
-Eu não consegui encontrar a resposta.
+eu não consegui encontrar a resposta.
 
 1477
 01:44:21,862 --> 01:44:26,032
@@ -6614,12 +6624,12 @@ nunca desaparecerei.
 
 1497
 01:45:33,975 --> 01:45:37,103
-<i>E eu sofria porque
-Eu não sabia por que eu estava vivo...</i>
+<i>E sofria porque
+eu não sabia por que estava vivo...</i>
 
 1498
 01:45:37,479 --> 01:45:41,483
-<i>MAs Iruka Sensei me reconheceu
+<i>MAs Iruka-sensei me reconheceu
 pelo que eu era...</i>
 
 1499
@@ -6653,8 +6663,8 @@ que eu consiga vencer um cara assim!</i>
 
 1505
 01:46:19,980 --> 01:46:24,484
-<i>O quê? O Jutsu de Possessão das Sombras
-deveria tê-lo impedido de se mover, mas...</i>
+<i>O quê? O meu Kagemane no Jutsu
+deveria estar segurando ele, mas...</i>
 
 1506
 01:46:30,521 --> 01:46:31,521
@@ -6708,4 +6718,3 @@ dói muito aqui.</i>
 1518
 01:47:26,004 --> 01:47:29,382
 Eu vou... matar todos vocês sem falhar.
-

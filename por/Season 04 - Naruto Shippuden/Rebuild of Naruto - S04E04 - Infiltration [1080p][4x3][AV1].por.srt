@@ -49,7 +49,7 @@ O portão principal da vila.
 13
 00:01:08,026 --> 00:01:12,072
 Preciso buscar o registro do movimento
-de pedestres da manhã para Tsunade-sama.
+de pedestres da manhã para Senhora Tsunade.
 
 14
 00:01:12,614 --> 00:01:13,698
@@ -141,8 +141,8 @@ Sim! Sim!
 
 35
 00:04:01,616 --> 00:04:04,327
-Eles adicionaram da Vovó
-Tsunade Imagem da Montanha!
+Eles colocaram a Vovó Tsunade
+no Monumento dos Hokage!
 
 36
 00:04:05,328 --> 00:04:08,373
@@ -199,7 +199,7 @@ Irmão Naruto!
 
 48
 00:05:01,009 --> 00:05:02,427
-<i>Jutsu Sensual!</i>
+<i>Oiroke no Jutsu! (Jutsu Sexy)</i>
 
 49
 00:05:02,552 --> 00:05:03,720
@@ -244,12 +244,13 @@ Esse é um jutsu tão chato!
 
 58
 00:05:39,255 --> 00:05:43,760
-Veja o novo ninjutsu
-pervertido que acabei de desenvolver!
+Olhe o meu novo e melhorado
+Oiroke no Jutsu!
 
 59
 00:05:43,843 --> 00:05:46,220
-<i>Certo... Como o novo ninjutsu pervertido...</i>
+<i>Certo...
+O novo e melhorado Oiroke no Jutsu...</i>
 
 60
 00:05:46,262 --> 00:05:47,889
@@ -276,13 +277,13 @@ em apenas dois minutos!
 
 65
 00:06:09,952 --> 00:06:12,830
-<i>— Aquele temperamento explosivo e aquela força</i>
+<i>- Aquele temperamento explosivo e aquela força</i>
 incrível... — Não estou nem um pouco solitário!
 
 66
 00:06:12,830 --> 00:06:15,458
-<i>— Ela é uma Tsunade de segunda geração.</i>
-— Hã? Droga, estou irritado comigo mesmo!
+<i>- Ela é uma Tsunade de segunda geração.</i>
+- Hã? Droga, estou irritado comigo mesmo!
 
 67
 00:06:16,779 --> 00:06:18,614
@@ -428,7 +429,7 @@ Oi!
 
 100
 00:07:57,800 --> 00:07:59,051
-Kakashi Sensei!
+Kakashi-sensei!
 
 101
 00:07:59,562 --> 00:08:02,816
@@ -491,12 +492,12 @@ Hum, não exatamente...
 
 114
 00:08:55,577 --> 00:08:59,414
-Naruto... e
-Sakura, vocês dois!
+Naruto... e Sakura,
+vocês dois!
 
 115
 00:09:01,416 --> 00:09:03,460
-O Sensei Kakashi é nosso oponente...
+O Kakashi-sensei é nosso oponente...
 
 116
 00:09:03,918 --> 00:09:06,796
@@ -664,7 +665,8 @@ Sim, não serve mais.
 
 153
 00:10:56,489 --> 00:10:58,533
-Mas eu simplesmente não consigo me desfazer dela…
+Mas eu simplesmente não
+consigo me desfazer dela...
 
 154
 00:11:02,620 --> 00:11:07,625
@@ -699,7 +701,7 @@ Atacar com algo ousado, é?!
 
 161
 00:11:26,269 --> 00:11:29,272
-E então finalmente, há…
+E então finalmente, há...
 
 162
 00:11:29,272 --> 00:11:33,234
@@ -729,8 +731,8 @@ ninjutsu pervertido, certo?
 
 168
 00:11:47,123 --> 00:11:50,335
-O jutsu que estou prestes a te ensinar é de
-nível A em seu grau de dificuldade para dominar.
+O jutsu que vou te ensinar é de Rank A
+em grau de dificuldade.
 
 169
 00:11:53,630 --> 00:11:55,840
@@ -739,11 +741,11 @@ Um ninjutsu supremo que aprimora
 170
 00:11:55,840 --> 00:11:58,718
 rotação de chakra,
-poder e contenção…
+poder e contenção...
 
 171
 00:11:59,719 --> 00:12:00,929
-Essa técnica se chama Rasengan!
+Se chama Rasengan!
 
 172
 00:12:07,477 --> 00:12:09,354
@@ -850,16 +852,16 @@ tem que aprender fazendo e sentindo.
 
 196
 00:13:20,550 --> 00:13:26,014
-Além disso… eu tenho fé
-absoluta… que você consegue!
+Além disso... eu tenho fé
+absoluta... que você consegue!
 
 197
 00:13:27,015 --> 00:13:28,141
-Irmão Naruto…
+Irmão Naruto...
 
 198
 00:13:31,978 --> 00:13:32,937
-Certo…
+Certo...
 
 199
 00:13:33,146 --> 00:13:35,106
@@ -895,8 +897,8 @@ idosa com problemas no caminho para cá e...
 
 206
 00:14:07,638 --> 00:14:09,349
-— Certo! Isso é mentira!
-— Certo! Isso é mentira!
+- Certo! Isso é mentira!
+- Certo! Isso é mentira!
 
 207
 00:14:16,346 --> 00:14:19,140
@@ -914,7 +916,7 @@ Campo de Treinamento, não era?
 
 210
 00:14:31,556 --> 00:14:32,849
-Esquadrão Sete...
+Time 7...
 
 211
 00:14:34,513 --> 00:14:36,098
@@ -991,7 +993,7 @@ Você não vai fazer isso
 227
 00:15:50,408 --> 00:15:53,619
 enquanto lia seu livro
-desta vez, Kakashi Sensei?
+desta vez, Kakashi-sensei?
 
 228
 00:15:53,762 --> 00:15:56,765
@@ -1025,16 +1027,17 @@ Vamos!
 
 235
 00:16:26,707 --> 00:16:28,125
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
+<i>(Jutsu dos Clones das Sombras)</i>
 
 236
 00:16:33,075 --> 00:16:34,118
-<i>Transformar!</i>
+<i>Henge! (Transformação)</i>
 
 237
 00:16:44,712 --> 00:16:48,424
 <i>Ele melhorou o momento de usar
-o Jutsu dos Clones das Sombras.</i>
+o Kage Bunshin no Jutsu.</i>
 
 238
 00:16:51,273 --> 00:16:53,108
@@ -1057,7 +1060,7 @@ ainda, tenho eu?
 242
 00:17:06,291 --> 00:17:10,420
 <i>Não tenha tanta pressa.
-Eu nem terminei de falar.</i>
+Eu nem disse "valendo", disse?</i>
 
 243
 00:17:11,862 --> 00:17:13,364
@@ -1109,12 +1112,12 @@ Hã?
 
 255
 00:17:55,324 --> 00:17:58,828
-<i>Você não ensinou só à
-Sakura ninjutsu médico, né?</i>
+<i>Você não ensinou à Sakura
+só ninjutsu médico, né?</i>
 
 256
 00:17:59,036 --> 00:18:00,371
-Kakashi Sensei.
+Kakashi-sensei.
 
 257
 00:18:00,413 --> 00:18:01,414
@@ -1169,8 +1172,8 @@ kunoichi melhor que a Quinta Hokage.</i>
 
 268
 00:18:39,118 --> 00:18:42,747
-<i>Muito bem, agora
-acho que é a minha vez.</i>
+<i>Muito bem, agora acho
+que é a minha vez, né?</i>
 
 269
 00:19:08,230 --> 00:19:10,441
@@ -1196,7 +1199,7 @@ Ufa, essa foi por pouco.
 
 274
 00:19:53,818 --> 00:19:55,319
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
 
 275
 00:19:57,029 --> 00:19:58,030
@@ -1216,7 +1219,8 @@ Você não vai escapar!
 
 279
 00:20:16,132 --> 00:20:17,258
-Sombra da Folha Dançante...?!
+Konoha Kage Buyō (Sombra
+da Folha Dançante)...?!
 
 280
 00:20:36,196 --> 00:20:38,907
@@ -1232,7 +1236,7 @@ Bem aqui.
 
 283
 00:20:46,787 --> 00:20:48,664
-<i>Mil Anos de Morte!</i>
+<i>Sennen Goroshi! (Mil Anos de Morte)</i>
 
 284
 00:20:52,049 --> 00:20:54,343
@@ -1274,23 +1278,26 @@ clones das sombras do Naruto, hein?!</i>
 
 293
 00:22:11,167 --> 00:22:13,628
-<i>Estilo Fogo: Jutsu da Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!
+(Estilo Fogo: Jutsu Bola de Fogo)</i>
 
 294
 00:22:28,681 --> 00:22:30,099
-Onde está o Kakashi Sensei?
+Onde está o Kakashi-sensei?
 
 295
 00:22:32,726 --> 00:22:35,187
-<i>Estilo Terra: Jutsu Caçador de Cabeças!</i>
+<i>Doton: Shinjū Zanshu no Jutsu!
+(Estilo Terra: Jutsu Caçador de Cabeças)</i>
 
 296
 00:22:43,992 --> 00:22:45,076
-<i>Um clone das sombras, hein?!</i>
+<i>Um Kage Bunshin, hein?!</i>
 
 297
 00:22:52,769 --> 00:22:55,271
-<i>Estilo Água: Míssil Dragão de Água!</i>
+<i>Suiton: Suiryūdan no Jutsu!
+(Estilo Água: Jutsu Dragão de Água)</i>
 
 298
 00:23:02,214 --> 00:23:03,215
@@ -1482,7 +1489,7 @@ Agora, Naruto!
 
 339
 00:25:43,484 --> 00:25:45,444
-Aí vamos nós, Kakashi Sensei!
+Aí vamos nós, Kakashi-sensei!
 
 340
 00:25:46,855 --> 00:25:50,108
@@ -1611,8 +1618,8 @@ Nossa situação...?
 
 368
 00:27:42,192 --> 00:27:43,943
-- Naruto
-Uzumaki! - Hã?
+- Naruto Uzumaki!
+- Hã?
 
 369
 00:27:44,371 --> 00:27:45,205
@@ -1641,11 +1648,11 @@ Kakashi Hatake...
 375
 00:27:56,633 --> 00:27:59,521
 Vocês três
-formarão a Equipe Kakashi!
+formarão o Time Kakashi!
 
 376
 00:28:02,015 --> 00:28:02,975
-Equipe Kakashi...
+Time Kakashi...
 
 377
 00:28:03,096 --> 00:28:07,601
@@ -1671,8 +1678,8 @@ professor e estudantes.
 
 382
 00:28:21,325 --> 00:28:25,162
-Trabalharemos juntos como shinobi da
-Folha em pé de igualdade. Entendido?
+Vamos trabalhar juntos como shinobi
+da Folha. Entendido?
 
 383
 00:28:26,868 --> 00:28:29,287
@@ -1690,11 +1697,11 @@ realmente ser capaz de pegar os sinos...
 386
 00:28:41,821 --> 00:28:44,448
 Eu talvez tenha te
-superado, Kakashi Sensei.
+superado, Kakashi-sensei.
 
 387
 00:28:44,473 --> 00:28:46,767
-Por que você está se achando tão grande?!
+Não fique tão convencido!
 
 388
 00:28:48,185 --> 00:28:52,314
@@ -1775,7 +1782,7 @@ Até mais.
 
 405
 00:29:52,207 --> 00:29:53,875
-Kakashi Sensei!
+Kakashi-sensei!
 
 406
 00:29:54,042 --> 00:29:55,043
@@ -1934,7 +1941,7 @@ Eu sabia que você estaria aqui, Naruto!
 
 443
 00:31:35,143 --> 00:31:36,269
-Iruka Sensei!
+Iruka-sensei!
 
 444
 00:31:37,029 --> 00:31:39,365
@@ -1943,7 +1950,7 @@ A Sakura não está com você?
 445
 00:31:42,317 --> 00:31:47,697
 Se eu soubesse que você ia tratar,
-Eu também teria trazido a Sakura...
+eu também teria trazido a Sakura...
 
 446
 00:31:49,366 --> 00:31:52,244
@@ -1973,7 +1980,7 @@ Obrigado!
 
 452
 00:32:21,898 --> 00:32:23,775
-<i>—
+<i>- 
 Naruto... — Hã?</i>
 
 453
@@ -2053,8 +2060,8 @@ Eu sei, mas...
 
 470
 00:33:22,083 --> 00:33:25,962
-Mas escute, aquele Sábio
-Tarado é realmente implacável!
+Mas escute, aquele Sábio Pervertido
+é implacável de verdade!
 
 471
 00:33:26,630 --> 00:33:32,719
@@ -2208,7 +2215,7 @@ Hã?!
 
 505
 00:35:11,860 --> 00:35:13,945
-E o Gaara?
+Então e o Gaara?!
 
 506
 00:35:27,417 --> 00:35:28,710
@@ -2268,7 +2275,7 @@ chegando. Espero bons resultados.
 518
 00:36:20,845 --> 00:36:24,307
 No entanto... neste momento,
-com os Exames Chūnin sobre nós,
+com os Exames Chunin sobre nós,
 
 519
 00:36:24,349 --> 00:36:25,892
@@ -2334,7 +2341,7 @@ finalmente tomando providências...
 532
 00:37:18,611 --> 00:37:21,781
 A fonte da
-informação é Jiraiya-sama,
+informação é Senhor Jiraiya,
 
 533
 00:37:21,781 --> 00:37:23,324
@@ -2448,8 +2455,8 @@ Entendo.
 
 557
 00:39:06,199 --> 00:39:10,073
-Então temos que lidar com este, depois ir
-Depois do cara que enviamos para Orochimaru, hein?
+Então temos que cuidar deste e depois ir
+atrás do que mandamos ao Orochimaru, é?
 
 558
 00:39:10,098 --> 00:39:15,520
@@ -2473,7 +2480,7 @@ apenas aquela bolsa será suficiente?
 562
 00:39:26,520 --> 00:39:29,398
 Nosso adversário
-usará o jinchuriki.
+usará o Jinchuriki.
 
 563
 00:39:31,172 --> 00:39:33,716
@@ -2531,7 +2538,7 @@ Você se lembra de mim?
 
 575
 00:40:51,435 --> 00:40:53,687
-Claro que me lembro, Sasori-sama.
+Claro que me lembro, Senhor Sasori.
 
 576
 00:40:54,169 --> 00:40:55,754
@@ -2626,7 +2633,8 @@ entendem sobre o que é a arte...
 
 597
 00:44:04,235 --> 00:44:05,820
-Eu vou mostrar a vocês com seus próprios corpos.
+Eu vou mostrar a vocês
+com seus próprios corpos.
 
 598
 00:44:06,144 --> 00:44:09,105
@@ -2646,7 +2654,7 @@ Você é muito bom.
 
 602
 00:45:42,865 --> 00:45:46,035
-<i>Esse jinchuriki é bem conveniente.</i>
+<i>Esse Jinchuriki é bem conveniente.</i>
 
 603
 00:45:49,466 --> 00:45:52,261
@@ -2736,7 +2744,7 @@ conseguido bloquear a explosão completamente.</i>
 
 622
 00:49:00,168 --> 00:49:01,503
-<i>Prisão de Areia!</i>
+<i>Sabaku Rō! (Prisão de Areia)</i>
 
 623
 00:49:02,231 --> 00:49:03,482
@@ -2766,7 +2774,7 @@ Ele está lá em cima...
 
 629
 00:50:33,405 --> 00:50:35,157
-<i>Caixão de Areia...</i>
+<i>Sabaku Kyū (Caixão de Areia)...</i>
 
 630
 00:50:48,212 --> 00:50:49,296
@@ -2960,8 +2968,8 @@ vítima! Está claro?!
 
 673
 00:53:34,420 --> 00:53:39,341
-Daremos todo o apoio a
-Gaara... Não... ao Kazekage!
+Daremos todo o apoio ao Gaara...
+Não... ao Senhor Kazekage!
 
 674
 00:53:42,428 --> 00:53:43,429
@@ -3008,7 +3016,7 @@ requintada da qual muito me orgulho!</i>
 683
 00:54:37,941 --> 00:54:41,236
 - O que é isso? Ei! -
-É, o que diabos é isso?
+é, o que diabos é isso?
 
 684
 00:54:43,238 --> 00:54:45,073
@@ -3066,12 +3074,12 @@ No entanto...
 
 697
 00:56:38,270 --> 00:56:39,521
-<i>Caixão de Areia.</i>
+<i>Sabaku Kyū.</i>
 
 698
 00:56:40,558 --> 00:56:43,019
-<i>No entanto, eu usei aquela
-oportunidade para comer um pouco da sua areia...</i>
+<i>Mas aproveitei a oportunidade
+para comer um pouco da sua areia...</i>
 
 699
 00:56:43,559 --> 00:56:46,646
@@ -3093,7 +3101,7 @@ Arte...
 
 703
 00:57:04,046 --> 00:57:06,006
-<i>— Ah, não... —</i>
+<i>- Ah, não... —</i>
 ...é explosiva!
 
 704
@@ -3236,7 +3244,7 @@ Eu tinha muito tempo, veja...
 
 736
 00:59:57,533 --> 01:00:00,286
-Eu estava totalmente preparado ao contrário de você.
+Eu estava bem preparado, ao contrário de você.
 
 737
 01:00:01,997 --> 01:00:04,291
@@ -3256,8 +3264,8 @@ Eles não foram atacados agora mesmo...
 
 741
 01:00:35,048 --> 01:00:37,592
-Pode ter sido antes do
-Gaara começou a lutar...
+Pode ter sido antes de o Gaara
+começar a lutar...
 
 742
 01:00:37,926 --> 01:00:39,970
@@ -3494,7 +3502,8 @@ que armou a armadilha na vila...</i>
 
 795
 01:05:16,579 --> 01:05:19,499
-Vou lhe mostrar... meu espetáculo de marionetes!
+Vou lhe mostrar...
+meu espetáculo de marionetes!
 
 796
 01:05:21,376 --> 01:05:22,377
@@ -3515,7 +3524,8 @@ vai me devolver o Gaara!
 
 800
 01:05:48,871 --> 01:05:50,664
-Jutsu do Mestre da Marionete, hein...?
+Kugutsu no Jutsu (Jutsu do Mestre
+das Marionetes), hein...?
 
 801
 01:05:55,618 --> 01:05:57,412
@@ -3572,7 +3582,7 @@ nova equipe! Vocês não estão animados?!
 813
 01:06:40,707 --> 01:06:43,752
 Você sempre foi
-assim, Kakashi Sensei!
+assim, Kakashi-sensei!
 
 814
 01:06:43,862 --> 01:06:46,531
@@ -3585,7 +3595,7 @@ Não tem nada a fazer.
 
 816
 01:06:48,922 --> 01:06:51,466
-O Kakashi Sensei sempre teve
+O Kakashi-sensei sempre teve
 essa cara de desinteresse!
 
 817
@@ -3622,8 +3632,8 @@ O que é isso...?!
 
 824
 01:07:35,193 --> 01:07:36,736
-Entre em contato com o
-Corpo de Cifra imediatamente!
+Chamem a Unidade de Cifra
+imediatamente!
 
 825
 01:07:37,921 --> 01:07:40,465
@@ -3665,8 +3675,8 @@ Cuidado, você! Seja mais cuidadoso!
 
 834
 01:07:58,992 --> 01:08:00,660
-<i>Então convocaram o
-Esquadrão de Decodificação...?</i>
+<i>Então chamaram a
+Unidade de Cifra, é...?</i>
 
 835
 01:08:01,160 --> 01:08:04,038
@@ -3688,7 +3698,7 @@ Hein? Você tem algum problema?!
 
 839
 01:08:11,629 --> 01:08:13,673
-Isso é claramente uma missão de nível C!
+Isso é claramente uma missão de Rank C!
 
 840
 01:08:13,719 --> 01:08:16,305
@@ -3800,7 +3810,7 @@ organização conhecida como Akatsuki.
 
 864
 01:09:26,579 --> 01:09:29,666
-Equipe Kakashi, estou
+Time Kakashi, estou
 designando uma nova missão para vocês.
 
 865
@@ -3928,7 +3938,7 @@ criança como você sabe meu nome.
 
 892
 01:11:18,524 --> 01:11:20,860
-Você deixou a Areia há mais de vinte anos.
+Você desertou da Areia há mais de 20 anos.
 
 893
 01:11:20,885 --> 01:11:22,310
@@ -4018,8 +4028,8 @@ algumas informações para você.
 
 913
 01:13:10,347 --> 01:13:12,599
-- O Kazekage da Vila
-Oculta da Areia... - Eu sei.
+- O Kazekage da Areia Oculta...
+- Eu sei.
 
 914
 01:13:13,350 --> 01:13:15,685

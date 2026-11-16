@@ -65,8 +65,8 @@ nos mostrar, Obito?
 
 16
 00:00:52,552 --> 00:00:55,238
-Vou fazer o Estilo Fogo:
-Jutsu da Bola de Fogo!
+Vou mostrar o Katon: Gōkakyū no Jutsu!
+(Estilo Fogo: Jutsu Bola de Fogo)
 
 17
 00:00:55,350 --> 00:00:56,768
@@ -82,7 +82,7 @@ Lá vou eu!
 
 20
 00:01:01,266 --> 00:01:02,370
-<i>Estilo Fogo:</i>
+<i>Katon:</i>
 
 21
 00:01:02,395 --> 00:01:03,855
@@ -126,8 +126,8 @@ para nós, Kakashi?
 
 30
 00:01:43,899 --> 00:01:45,859
-Bem, que tal o Estilo
-Terra: Onda de Lama?
+Bom, que tal o Doton: Doryūha?
+(Estilo Terra: Onda de Lama)
 
 31
 00:01:46,106 --> 00:01:49,234
@@ -144,12 +144,12 @@ Onda de Lama? Na nossa idade?
 
 34
 00:01:54,940 --> 00:01:57,151
-<i>Estilo da Terra: Jutsu Onda de Lama!</i>
+<i>Doton: Doryūha!</i>
 
 35
 00:02:05,416 --> 00:02:07,669
-Os juízes todos
-concordam! Dez perfeitos!
+Os juízes concordam!
+Nota 10 de todos!
 
 36
 00:02:07,919 --> 00:02:10,255
@@ -360,7 +360,7 @@ Diga isso de novo!
 
 85
 00:05:39,585 --> 00:05:41,920
-– O quê? – É
+- O quê? – É
 culpa sua!
 
 86
@@ -517,8 +517,8 @@ prioriza a missão acima de tudo.
 
 121
 00:09:09,310 --> 00:09:13,773
-Mesmo que seu colega de equipe se
-machuque, ou fique para trás em território inimigo.
+Mesmo que um companheiro esteja ferido
+ou fique para trás em território inimigo.
 
 122
 00:09:14,247 --> 00:09:16,916
@@ -1209,7 +1209,7 @@ especificamente pelo Minato.
 
 278
 00:19:41,826 --> 00:19:44,161
-É uma missão de classe C.
+É uma missão de Rank C.
 
 279
 00:19:44,378 --> 00:19:45,701
@@ -1253,12 +1253,13 @@ Certo então...
 
 288
 00:20:09,852 --> 00:20:11,393
-Estou contando com todos vocês a partir de amanhã.
+Estou contando com todos
+vocês a partir de amanhã.
 
 289
 00:20:11,592 --> 00:20:12,593
-– Sim, senhor!
-– Sim, senhor!
+- Sim, senhor!
+- Sim, senhor!
 
 290
 00:20:15,581 --> 00:20:17,124
@@ -1575,8 +1576,8 @@ Rin vão completar a missão.
 
 362
 00:23:54,044 --> 00:23:55,045
-– Sim, senhor!
-– Sim, senhor!
+- Sim, senhor!
+- Sim, senhor!
 
 363
 00:23:55,527 --> 00:23:56,986
@@ -1615,7 +1616,7 @@ Eu sei disso!
 
 371
 00:24:20,718 --> 00:24:23,137
-<i>Estilo Fogo: Jutsu da Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 372
 00:24:28,309 --> 00:24:29,727
@@ -1853,7 +1854,7 @@ Você vai atrapalhar o meu caminho!
 
 427
 00:27:44,780 --> 00:27:45,781
-<i>Estilo Terra:</i>
+<i>Doton:</i>
 
 428
 00:27:48,365 --> 00:27:49,366
@@ -2169,8 +2170,8 @@ costas a um camarada!
 
 501
 00:31:32,066 --> 00:31:33,067
-– Obito!
-– Obito!
+- Obito!
+- Obito!
 
 502
 00:31:33,593 --> 00:31:34,594
@@ -2216,7 +2217,7 @@ Nós o encontramos.
 
 512
 00:32:24,648 --> 00:32:27,275
-<i>Estilo Fogo: Jutsu Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 513
 00:32:33,460 --> 00:32:34,962
@@ -2270,8 +2271,8 @@ Não aceito reclamações!
 
 525
 00:33:03,824 --> 00:33:08,746
-Se salvá-lo é o seu Caminho
-Ninja, cumprir a missão é o meu.
+Se salvá-lo é o seu Caminho Ninja,
+cumprir a missão é o meu.
 
 526
 00:33:09,429 --> 00:33:10,253
@@ -2330,8 +2331,7 @@ Não deixe ele... escapar!
 
 539
 00:34:09,625 --> 00:34:12,378
-<i>Dança do Supercírculo do
-Relâmpago Espiral: Terceiro Estágio!</i>
+<i>Rasen Senkō Chō Rinbu Kōsanshiki!</i>
 
 540
 00:34:19,293 --> 00:34:20,502
@@ -2651,8 +2651,7 @@ E o Obito?
 
 612
 00:38:32,596 --> 00:38:35,271
-Ele mal é mais do que um
-pequeno exibicionista meia-boca.
+Ele é só um fanfarrão.
 
 613
 00:38:35,841 --> 00:38:37,549
@@ -2996,8 +2995,8 @@ que meu Sharingan despertar!
 
 691
 00:42:48,478 --> 00:42:51,397
-Todo mundo no clã
-Uchiha é de elite, certo?
+O clã Uchiha não devia ser
+cheio de elite?
 
 692
 00:42:51,745 --> 00:42:55,165
@@ -3027,8 +3026,8 @@ Entendido? É esta linha.
 
 698
 00:43:12,347 --> 00:43:14,981
-Ela mostra as regiões que o
-País da Terra está invadindo
+Mostra onde a Terra da Terra
+está invadindo
 
 699
 00:43:15,006 --> 00:43:16,841
@@ -3051,7 +3050,7 @@ consideravelmente desde a última vez.
 
 703
 00:43:27,619 --> 00:43:30,467
-O País do Fogo faz fronteira
+A Terra do Fogo faz fronteira
 com a Vila Oculta da Grama.
 
 704
@@ -3089,7 +3088,7 @@ concentram em missões de sabotagem,
 
 711
 00:43:52,942 --> 00:43:55,111
-somos forçados a trabalhar em equipes pequenas e selecionadas.
+somos forçados a trabalhar em times pequenos.
 
 712
 00:43:56,621 --> 00:43:57,873
@@ -3314,7 +3313,8 @@ contra-atacar aquele pirralho.</i>
 
 763
 00:47:13,653 --> 00:47:15,697
-<i>Mas os movimentos daquele cara de cabelo amarelo são...</i>
+<i>Mas os movimentos daquele</i>
+<i>cara de cabelo amarelo são...</i>
 
 764
 00:47:16,287 --> 00:47:17,539
@@ -3322,8 +3322,8 @@ contra-atacar aquele pirralho.</i>
 
 765
 00:47:37,789 --> 00:47:40,792
-<i>A Técnica de Transporte
-de Sensei é tão rápido!</i>
+<i>O Hiraishin no Jutsu (Técnica de
+Transporte) do sensei é tão rápido!</i>
 
 766
 00:47:41,375 --> 00:47:45,588
@@ -3362,7 +3362,7 @@ Não, você não está!
 774
 00:48:11,110 --> 00:48:14,780
 Tudo porque você ignorou os
-avisos do Sensei e avançou com força!
+avisos do sensei e avançou com força!
 
 775
 00:48:15,183 --> 00:48:17,352
@@ -3520,8 +3520,8 @@ temido como o "Presa Branca" da Folha.
 
 809
 00:50:26,666 --> 00:50:30,087
-Até mesmo os nomes lendários de os
-Três Grandes Ninjas da Folha empalideceram
+Até os nomes lendários dos
+Sannin da Folha empalideceram
 
 810
 00:50:30,112 --> 00:50:31,363
@@ -3766,11 +3766,11 @@ Então, vamos perguntar a eles.
 
 864
 00:53:36,340 --> 00:53:38,092
-<i>Jutsu de Camuflagem</i>
+<i>Meisaigakure no Jutsu (Jutsu de Camuflagem)</i>
 
 865
 00:53:47,602 --> 00:53:49,688
-<i>Estilo Fogo: Jutsu da Bola de Fogo!</i>
+<i>Katon: Gōkakyū no Jutsu!</i>
 
 866
 00:54:18,941 --> 00:54:20,985
@@ -3827,8 +3827,8 @@ E felizmente, Rin é uma Ninja Médica.
 
 879
 00:54:59,035 --> 00:55:01,680
-Então mesmo que ela acabe sendo uma prisioneira de
-guerra, ela provavelmente será tratada cordialmente...
+Então, mesmo que ela seja presa,
+provavelmente vão tratá-la bem...
 
 880
 00:55:01,765 --> 00:55:04,268
@@ -4125,8 +4125,8 @@ um verdadeiro ninja...
 
 944
 00:58:57,906 --> 00:59:01,368
-Então eu destruirei tudo
-Esses chamados "ninjas"!
+Então eu vou destruir essa ideia
+do que é ser "shinobi"!
 
 945
 00:59:32,983 --> 00:59:34,360
@@ -4170,7 +4170,7 @@ Cale a boca e faça o que ele mandar.
 
 954
 01:00:04,803 --> 01:00:08,098
-Estamos prestes a ver o Clarão
+Estamos prestes a ver o Relâmpago
 Amarelo da Folha em batalha.
 
 955
@@ -4196,7 +4196,7 @@ e extraia as informações dela.
 
 960
 01:00:35,294 --> 01:00:37,046
-<i>Jutsu de Camuflagem</i>
+<i>Meisaigakure no Jutsu</i>
 
 961
 01:00:45,796 --> 01:00:47,632
@@ -4428,7 +4428,8 @@ mas tenho o kit que Rin me deu.
 
 1014
 01:04:33,815 --> 01:04:35,483
-Posso usá-lo para primeiros socorros de emergência.
+Posso usá-lo para primeiros
+socorros de emergência.
 
 1015
 01:04:36,109 --> 01:04:37,778
@@ -4479,7 +4480,7 @@ Certo!
 
 1026
 01:06:10,065 --> 01:06:11,066
-<i>Liberar!</i>
+<i>Kai! (Liberar)</i>
 
 1027
 01:06:12,262 --> 01:06:14,305
@@ -4512,7 +4513,8 @@ Neste momento, você está nas mãos do inimigo.
 
 1034
 01:06:37,342 --> 01:06:39,344
-<i>Estilo Terra: Destruidor de Rochas!</i>
+<i>Doton: Iwayado Kuzushi!
+(Estilo Terra: Destruidor de Rochas)</i>
 
 1035
 01:06:42,716 --> 01:06:43,717
@@ -4741,7 +4743,8 @@ Rin!
 
 1089
 01:12:57,847 --> 01:13:00,016
-<i>Estilo Terra: Golpe Sísmico!</i>
+<i>Doton: Retsudo Tenshō!
+(Estilo Terra: Golpe Sísmico)</i>
 
 1090
 01:13:04,732 --> 01:13:06,275
@@ -4790,8 +4793,8 @@ lutar, mesmo nesta situação?
 
 1100
 01:14:37,179 --> 01:14:40,933
-Não é à toa que você conseguiu se
-infiltrar tão profundamente no território inimigo.
+Não é à toa que você conseguiu se infiltrar
+tão fundo no território inimigo.
 
 1101
 01:14:41,158 --> 01:14:42,451
@@ -4883,8 +4886,8 @@ A escrita nesta faca kunai...
 
 1122
 01:16:01,574 --> 01:16:04,705
-atua como um marcador para o qual eu
-salto usando a Técnica de Transporte.
+é um marcador para o qual eu salto
+usando o Hiraishin no Jutsu.
 
 1123
 01:16:06,076 --> 01:16:07,620
@@ -4958,7 +4961,7 @@ gravado na pedra memorial.</i>
 1139
 01:17:10,229 --> 01:17:14,024
 <i>O outro passou a ser conhecido
-como "Kakashi do Sharingan."</i>
+como "Kakashi do Sharingan".</i>
 
 1140
 01:17:14,178 --> 01:17:18,933

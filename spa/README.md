@@ -30,7 +30,7 @@ Este proyecto ofrece:
 - Español de España (con *vosotros*), comillas «» y guiones de diálogo.
 - Corrección de errores que aún había en el original en inglés.
 
-Hay una lista de todos los jutsu (japonés / inglés / alemán / neerlandés / español) en la carpeta [`docs/`](../docs/).
+Hay una lista de todos los jutsu (japonés / inglés / alemán / neerlandés / español / portugués) en la carpeta [`docs/`](../docs/).
 
 ---
 

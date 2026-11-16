@@ -78,7 +78,8 @@ Desculpe...
 
 19
 00:03:05,268 --> 00:03:07,437
-<i>Aquela garota, por que sua língua era tão longa?</i>
+<i>E o que era aquela língua
+comprida daquela mulher?</i>
 
 20
 00:03:09,336 --> 00:03:13,507
@@ -88,7 +89,7 @@ muitos jovens impulsivos desta vez.
 21
 00:03:16,137 --> 00:03:21,768
 Bem, antes de começarmos o segundo exame,
-Eu tenho que entregar isso para vocês!
+eu tenho que entregar isso para vocês!
 
 22
 00:03:23,995 --> 00:03:25,038
@@ -154,7 +155,7 @@ um dos pergaminhos.
 
 35
 00:04:06,204 --> 00:04:09,165
-O objetivo é…
+O objetivo é...
 
 36
 00:04:10,136 --> 00:04:12,518
@@ -218,8 +219,8 @@ vai ser um problema...
 
 49
 00:04:44,492 --> 00:04:48,579
-E, além daqueles que se ferirem
-durante as tentativas de capturar os pergaminhos...
+E, além dos ferimentos sofridos
+na disputa pelos pergaminhos...
 
 50
 00:04:48,989 --> 00:04:50,748
@@ -290,8 +291,8 @@ Isso é toda a explicação!
 
 65
 00:05:39,464 --> 00:05:42,675
-Vou trocar seus três formulários de consentimento pelos
-rolos naquela cabana ali.
+Troquem os três termos de consentimento
+do time por um pergaminho naquela cabana.
 
 66
 00:05:43,426 --> 00:05:47,513
@@ -345,7 +346,8 @@ Vida ou morte...
 
 77
 00:06:43,903 --> 00:06:46,280
-É um incômodo, mas nós apenas temos que fazer isso.
+Que saco...
+mas acho que não temos escolha.
 
 78
 00:06:46,906 --> 00:06:48,908
@@ -402,7 +404,7 @@ o que facilita as coisas.
 
 90
 00:07:33,744 --> 00:07:38,916
-Mestre Guy, vou dar o meu melhor!
+Guy-sensei, vou dar o meu melhor!
 Eu definitivamente vou conseguir!
 
 91
@@ -481,8 +483,8 @@ Heh... crianças.
 
 108
 00:08:58,746 --> 00:09:01,832
-É como se estivessem pedindo para serem encontrados,
-ficando naquele lugar tão conspícuo.
+Parados ali à vista de todos,
+estão pedindo para serem encontrados.
 
 109
 00:09:02,959 --> 00:09:05,002
@@ -600,12 +602,12 @@ Qual de vocês tem o pergaminho?!
 134
 00:10:45,144 --> 00:10:46,812
 Já que as coisas chegaram a este ponto,
-Vou recorrer à força!
+vou recorrer à força!
 
 135
 00:10:48,314 --> 00:10:50,358
-<i>Estilo de Fogo:
-Jutsu da Flor Fênix!</i>
+<i>Katon: Hōsenka no Jutsu!
+(Estilo Fogo: Jutsu Flor de Fênix)</i>
 
 136
 00:10:55,821 --> 00:10:58,032
@@ -725,7 +727,8 @@ presuma que ele é um inimigo!
 
 163
 00:12:28,622 --> 00:12:31,333
-Eu direi apenas uma vez, então ouça atentamente.
+Eu direi apenas uma vez,
+então ouça atentamente.
 
 164
 00:12:32,601 --> 00:12:34,687
@@ -738,8 +741,8 @@ E a resposta é esta:
 
 166
 00:12:37,798 --> 00:12:40,301
-A chance de se aproximar furtivamente quando um grande
-vários inimigos estão causando uma cena.
+"Quando os inimigos são muitos e incertos,
+espere e aguarde uma oportunidade."
 
 167
 00:12:40,859 --> 00:12:43,195
@@ -891,7 +894,8 @@ M-Mas...
 
 201
 00:14:29,050 --> 00:14:31,095
-Vamos apenas ver o que está acontecendo primeiro...
+Vamos apenas ver o que está
+acontecendo primeiro...
 
 202
 00:14:31,301 --> 00:14:33,679
@@ -1001,7 +1005,8 @@ Então, vamos fazer isso. Rápido!
 
 226
 00:16:11,046 --> 00:16:13,225
-<i>Arte Ninja: Chuva de Senbon!</i>
+<i>Ninpō: Jōro Senbon!
+(Arte Ninja: Chuva de Senbon)</i>
 
 227
 00:16:19,197 --> 00:16:21,805
@@ -1035,7 +1040,7 @@ Sem ferimentos? Ridículo!
 
 234
 00:16:49,114 --> 00:16:51,025
-Chuva de Senbon, hein?
+Jōro Senbon (Chuva de Senbon), hein?
 
 235
 00:16:52,151 --> 00:16:55,773
@@ -1064,7 +1069,7 @@ por se rebelar contra Gaara...
 
 241
 00:17:18,048 --> 00:17:19,463
-<i>Caixão de Areia!</i>
+<i>Sabaku Kyū! (Caixão de Areia)</i>
 
 242
 00:17:25,981 --> 00:17:27,225
@@ -1086,7 +1091,7 @@ patético demais.
 
 246
 00:18:14,166 --> 00:18:15,825
-<i>Funeral do Deserto!</i>
+<i>Sabaku Sōsō! (Enterro de Areia)</i>
 
 247
 00:18:28,637 --> 00:18:30,155
@@ -1269,8 +1274,8 @@ Ah! Hum...
 
 290
 00:21:39,450 --> 00:21:41,786
-A chance de se aproximar sorrateiramente onde um grande
-vários inimigos estão causando uma cena.
+"Quando os inimigos são muitos e incertos,
+espere e aguarde uma oportunidade."
 
 291
 00:21:42,480 --> 00:21:44,356
@@ -1308,8 +1313,8 @@ A senha...
 
 299
 00:21:59,580 --> 00:22:02,082
-A chance de se aproximar sorrateiramente onde um grande
-vários inimigos estão causando uma cena.
+"Quando os inimigos são muitos e incertos,
+espere e aguarde uma oportunidade."
 
 300
 00:22:02,583 --> 00:22:04,835
@@ -1526,7 +1531,7 @@ Vou encerrar isso em um segundo.
 348
 00:26:05,868 --> 00:26:07,828
 Você nem vai ter
-O tempo de sentir dor.
+o tempo de sentir dor.
 
 349
 00:26:18,130 --> 00:26:19,548
@@ -1551,7 +1556,8 @@ Cuspir... Eu... Fora!
 
 354
 00:26:44,651 --> 00:26:46,368
-<i>Jutsu Clone das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
+<i>(Jutsu dos Clones das Sombras)</i>
 
 355
 00:26:56,376 --> 00:26:59,463
@@ -1560,8 +1566,8 @@ vai se tornar Hokage!
 
 356
 00:27:00,042 --> 00:27:03,712
-Não vou tolerar ser
-Esterco de cobra neste lugar!
+Não vou morrer e virar
+comida de cobra num lugar destes!
 
 357
 00:27:14,061 --> 00:27:15,938
@@ -1614,7 +1620,7 @@ perante o predador.
 
 368
 00:28:21,920 --> 00:28:23,630
-Desculpe, Sasuke…
+Desculpe, Sasuke...
 
 369
 00:28:25,094 --> 00:28:27,138
@@ -1631,7 +1637,7 @@ que está me retribuindo
 
 372
 00:28:33,182 --> 00:28:34,308
-vindo aqui para me resgatar…
+vindo aqui para me resgatar...
 
 373
 00:28:34,333 --> 00:28:35,376
@@ -1677,7 +1683,7 @@ o pergaminho para o inimigo?!
 
 383
 00:29:08,381 --> 00:29:09,382
-Entendo…
+Entendo...
 
 384
 00:29:09,800 --> 00:29:12,302
@@ -1727,7 +1733,7 @@ não é mesmo?!
 
 394
 00:29:47,047 --> 00:29:48,757
-Seu perdedor…
+Seu perdedor...
 
 395
 00:29:49,132 --> 00:29:50,592
@@ -1767,7 +1773,7 @@ porque você está com muito medo!
 
 403
 00:30:11,530 --> 00:30:12,531
-Naruto…
+Naruto...
 
 404
 00:30:15,071 --> 00:30:16,114
@@ -1775,7 +1781,7 @@ Você está certo.
 
 405
 00:30:18,166 --> 00:30:19,584
-Um pergaminho pode ser facilmente…
+Um pergaminho pode ser facilmente...
 
 406
 00:30:23,065 --> 00:30:25,275
@@ -1791,7 +1797,7 @@ Pare com isso! Saia daqui, Naruto.
 
 409
 00:30:32,843 --> 00:30:34,219
-<i>Jutsu de Invocação!</i>
+<i>Kuchiyose no Jutsu! (Jutsu de Invocação)</i>
 
 410
 00:30:38,932 --> 00:30:39,599
@@ -1815,7 +1821,7 @@ Aquele é o Naruto?
 
 415
 00:31:02,497 --> 00:31:04,041
-Essa peste… impossível!
+Essa peste... impossível!
 
 416
 00:31:17,804 --> 00:31:19,431
@@ -1857,8 +1863,8 @@ Sim, senhor!
 
 425
 00:31:59,930 --> 00:32:03,600
-Se você vai comer bolinhos,
-você tem que tomar sopa doce de feijão vermelho.
+Sabe, quando o assunto é dango,
+nada supera pasta de feijão!
 
 426
 00:32:04,768 --> 00:32:09,731
@@ -1928,13 +1934,12 @@ Hã?!
 
 442
 00:33:09,958 --> 00:33:13,253
-Comunique isso a
-Senhor Hokage imediatamente!
+Comunique isso
+ao Senhor Hokage imediatamente!
 
 443
 00:33:13,920 --> 00:33:16,423
-Fazer um chamado à ação para
-os ANBU Operações Especiais
+Chamem a ANBU
 
 444
 00:33:16,639 --> 00:33:18,516
@@ -1944,7 +1949,7 @@ para a Floresta da Morte!
 445
 00:33:19,217 --> 00:33:21,511
 A partir de agora,
-Eu vou seguir esses caras!
+eu vou seguir esses caras!
 
 446
 00:33:21,595 --> 00:33:22,387
@@ -2000,7 +2005,7 @@ sua pele como uma tatuagem.</i>
 
 458
 00:34:13,438 --> 00:34:16,149
-<i>Selo dos Cinco Elementos</i>
+<i>Gogyō Fūin! (Selo de Cinco Pontas)</i>
 
 459
 00:34:24,533 --> 00:34:26,452
@@ -2077,8 +2082,8 @@ confirme seu verdadeiro poder.
 
 476
 00:35:49,884 --> 00:35:52,613
-<i>Como alguém que não consegue colocar a própria vida
-na linha num lugar como este...</i>
+<i>Como alguém que não consegue pôr a vida
+em ordem num lugar como este...</i>
 
 477
 00:35:52,638 --> 00:35:54,335
@@ -2102,7 +2107,8 @@ na linha num lugar como este...</i>
 
 482
 00:37:06,019 --> 00:37:07,437
-<i>Você consegue ver meus movimentos, não consegue?</i>
+<i>Você consegue ver meus</i>
+<i>movimentos, não consegue?</i>
 
 483
 00:37:19,532 --> 00:37:20,909
@@ -2140,7 +2146,8 @@ Como um verme.
 
 491
 00:38:37,026 --> 00:38:38,653
-<i>Estilo de Fogo: Jutsu da Chama do Dragão.</i>
+<i>Katon: Ryūka no Jutsu!
+(Estilo Fogo: Jutsu Chama do Dragão)</i>
 
 492
 00:38:50,331 --> 00:38:51,499
@@ -2164,7 +2171,7 @@ Espere.
 
 497
 00:39:22,947 --> 00:39:23,990
-Paralisia?
+Kanashibari? (Paralisia)
 
 498
 00:39:25,223 --> 00:39:27,934
@@ -2313,7 +2320,7 @@ Anko.
 
 532
 00:42:30,810 --> 00:42:32,186
-Você é de classe S
+Você é de Rank S
 
 533
 00:42:32,211 --> 00:42:34,380
@@ -2330,7 +2337,7 @@ Você não pode vencer.
 
 536
 00:42:51,372 --> 00:42:52,623
-<i>Serpente Sombra Impactante!</i>
+<i>Sen'eijashu! (Serpentes Sombrias Atacantes)</i>
 
 537
 00:43:00,214 --> 00:43:01,507
@@ -2343,7 +2350,7 @@ Eu te peguei.
 539
 00:43:16,939 --> 00:43:19,734
 Orochimaru,
-Eu vou pegar emprestada sua mão esquerda.
+eu vou pegar emprestada sua mão esquerda.
 
 540
 00:43:21,031 --> 00:43:23,614
@@ -2356,7 +2363,7 @@ Você pretende cometer suicídio?
 
 542
 00:43:42,548 --> 00:43:43,800
-Substituição.
+Kawarimi (Substituição).
 
 543
 00:44:00,733 --> 00:44:04,529
@@ -2378,8 +2385,8 @@ Pouco tempo atrás,
 
 547
 00:44:27,313 --> 00:44:29,991
-Eu dei aquela mesma Marca da Maldição
-como um presente.
+Eu dei esse mesmo Juin (Marca da Maldição)
+de presente.
 
 548
 00:44:31,430 --> 00:44:33,141
@@ -2400,7 +2407,8 @@ são 1 em 10,
 
 552
 00:44:43,484 --> 00:44:47,155
-mas ele pode sobreviver assim como você sobreviveu.
+mas ele pode sobreviver
+assim como você sobreviveu.
 
 553
 00:44:48,239 --> 00:44:50,700
@@ -2408,7 +2416,8 @@ Essa criança, você realmente gosta dele, né?
 
 554
 00:44:51,159 --> 00:44:54,203
-Ao contrário de você, aquela criança irá se destacar.
+Ao contrário de você,
+aquela criança irá se destacar.
 
 555
 00:44:54,620 --> 00:44:58,332
@@ -2445,7 +2454,8 @@ passando meio dia
 
 562
 00:45:33,326 --> 00:45:36,287
-e agora a maioria das equipes parou a atividade.
+então a maioria dos times
+já parou de se mover.
 
 563
 00:45:37,889 --> 00:45:40,350
@@ -2559,7 +2569,8 @@ Hã? Então o que? O que foi?
 
 589
 00:47:55,972 --> 00:47:58,475
-Provavelmente descobriremos se chegarmos mais perto.
+Provavelmente descobriremos
+se chegarmos mais perto.
 
 590
 00:47:59,803 --> 00:48:02,972
@@ -2571,8 +2582,8 @@ Ok!
 
 592
 00:48:20,326 --> 00:48:24,121
-<i>Se eu conseguir pegar todas as vinte dessas folhas
-ainda no ar antes de caírem no chão</i>
+<i>Se eu conseguir pegar as vinte folhas
+antes de tocarem o chão</i>
 
 593
 00:48:24,711 --> 00:48:27,808
@@ -2630,7 +2641,8 @@ Pare de se esconder e saia.
 
 605
 00:49:12,795 --> 00:49:15,890
-Droga! Nós nos apressamos para nos esconder, sabe?!
+Droga! E a gente teve todo esse
+trabalho pra ficar escondido!
 
 606
 00:49:16,090 --> 00:49:19,635
@@ -2677,8 +2689,8 @@ Então é só vocês?
 
 616
 00:49:49,832 --> 00:49:54,170
-<i>Tome isso! Estratégia Dois, "de cabeça para baixo"
-paixão pelo meu apelo sexual</i>
+<i>Tome isso! Estratégia Dois:
+"Caia no Meu Charme Sedutor"!</i>
 
 617
 00:49:54,753 --> 00:50:00,509
@@ -2691,7 +2703,8 @@ Vá embora!
 
 619
 00:50:04,472 --> 00:50:07,850
-<i>Por quê? Por que minha sensualidade não funciona?!</i>
+<i>Por quê? Por que meu charme
+sedutor não funciona?!</i>
 
 620
 00:50:07,875 --> 00:50:11,587
@@ -2783,7 +2796,8 @@ Como pode dizer que quer lutar com ele?!
 
 640
 00:51:23,592 --> 00:51:28,322
-Eu me pergunto... o que se passa na cabeça dele?
+Eu me pergunto...
+o que se passa na cabeça dele?
 
 641
 00:51:29,989 --> 00:51:33,435
@@ -2847,7 +2861,7 @@ Claramente você não tem talento.
 
 655
 00:52:14,643 --> 00:52:15,769
-<i>Furacão de Folhas!</i>
+<i>Konoha Senpū! (Furacão da Folha)</i>
 
 656
 00:52:20,983 --> 00:52:23,193
@@ -3009,7 +3023,7 @@ Certo!
 
 694
 00:54:39,455 --> 00:54:40,414
-Guy Sensei...
+Guy-sensei...
 
 695
 00:54:41,123 --> 00:54:44,293
@@ -3041,7 +3055,7 @@ Toma isso!
 
 702
 00:55:04,480 --> 00:55:05,898
-<i>Lótus Primário!</i>
+<i>Omote Renge! (Lótus Primária)</i>
 
 703
 00:55:11,987 --> 00:55:13,030
@@ -3256,8 +3270,8 @@ Eu sei, mas não há nada que eu possa fazer!
 
 752
 00:58:13,762 --> 00:58:15,847
-Eu não posso de forma imprudente
-Posso sair lá fora?!
+Eu não posso simplesmente
+sair correndo lá pra fora.
 
 753
 00:58:18,298 --> 00:58:20,050
@@ -3303,7 +3317,7 @@ Ei ei...
 
 763
 00:58:56,253 --> 00:58:57,879
-<i>Eu não vou deixar você fazer tal coisa!</i>
+<i>Eu não vou deixar!</i>
 
 764
 00:58:58,463 --> 00:58:59,381
@@ -3389,7 +3403,7 @@ Kin! Mate-a!
 
 784
 01:00:44,611 --> 01:00:45,821
-<i>Jutsu de Substituição!</i>
+<i>Kawarimi no Jutsu!</i>
 
 785
 01:00:46,154 --> 01:00:47,197
@@ -3401,7 +3415,7 @@ Inútil!
 
 787
 01:00:49,783 --> 01:00:50,951
-<i>Onda Sonora Cortante!</i>
+<i>Zankūha! (Onda Sonora Cortante)</i>
 
 788
 01:00:56,504 --> 01:00:58,423
@@ -3433,7 +3447,8 @@ Sai de cima de mim! Ei!
 
 795
 01:01:26,656 --> 01:01:30,202
-<i>Eu ouvi dizer que você também gosta do Sasuke, Ino.</i>
+<i>Eu ouvi dizer que você</i>
+<i>também gosta do Sasuke, Ino.</i>
 
 796
 01:01:32,075 --> 01:01:34,411
@@ -3483,8 +3498,8 @@ Hã?
 
 807
 01:02:47,442 --> 01:02:51,488
-Sakura! Eu prometi
-Eu não perderia para você, não foi?!
+Sakura! Eu prometi que
+não ia perder pra você, não foi?!
 
 808
 01:02:54,699 --> 01:02:56,785
@@ -3538,7 +3553,8 @@ desista, gorducho.
 
 820
 01:03:31,385 --> 01:03:34,722
-<i>Gorducho... gorducho... gorducho... gorducho... gorducho</i>
+<i>Gordo... gordo... gordo...
+gordo... gordo</i>
 
 821
 01:03:36,050 --> 01:03:39,553
@@ -3577,7 +3593,7 @@ Formação Ino!
 
 829
 01:03:59,514 --> 01:04:00,473
-<i>Jutsu de Expansão!</i>
+<i>Baika no Jutsu! (Jutsu de Expansão)</i>
 
 830
 01:04:01,891 --> 01:04:04,019
@@ -3585,7 +3601,7 @@ Em seguida, taijutsu estilo Folha!
 
 831
 01:04:10,191 --> 01:04:11,860
-<i>Rocha Humana!</i>
+<i>Nikudan Sensha! (Rocha Humana)</i>
 
 832
 01:04:14,779 --> 01:04:16,072
@@ -3597,7 +3613,7 @@ Não é só um cara gordo rolando?
 
 834
 01:04:19,159 --> 01:04:20,785
-<i>Onda Sônica Supersônica!</i>
+<i>Zankūha!</i>
 
 835
 01:04:29,711 --> 01:04:30,587
@@ -3605,8 +3621,8 @@ Não é só um cara gordo rolando?
 
 836
 01:04:32,464 --> 01:04:33,965
-<i>A pressão de ar da
-Onda Sonora Cortante</i>
+<i>A pressão do vento do meu
+Zankūha</i>
 
 837
 01:04:34,007 --> 01:04:35,925
@@ -3615,8 +3631,8 @@ contra essa rotação.</i>
 
 838
 01:04:36,261 --> 01:04:40,306
-<i>Mesmo se eu fizer a Super Onda Sonora,
-se eu for tocado por algo assim</i>
+<i>Mesmo que eu use o Zankūkyokuha,
+se aquela coisa me tocar,</i>
 
 839
 01:04:40,471 --> 01:04:42,515
@@ -3632,11 +3648,12 @@ se eu for tocado por algo assim</i>
 
 842
 01:04:48,294 --> 01:04:49,253
-<i>Ninjutsu:</i>
+<i>Ninpō:</i>
 
 843
 01:04:49,456 --> 01:04:50,791
-<i>Jutsu da Possessão da Sombra!</i>
+<i>Kagemane no Jutsu!
+(Jutsu da Possessão da Sombra)</i>
 
 844
 01:04:52,400 --> 01:04:53,651
@@ -3656,7 +3673,7 @@ O que você está fazendo num momento como este?!
 
 848
 01:05:09,476 --> 01:05:11,311
-<i>Jutsu da Paralisação da Sombra?</i>
+<i>Kagemane no Jutsu, hein?</i>
 
 849
 01:05:12,849 --> 01:05:15,268
@@ -3706,8 +3723,8 @@ deixe seu pergaminho e vá embora!
 
 860
 01:05:47,956 --> 01:05:51,361
-Uma vez que você estiver longe o suficiente que
-Não consigo sentir seu chakra,
+Quando você estiver longe o bastante
+para eu não sentir seu chakra,
 
 861
 01:05:51,386 --> 01:05:53,554
@@ -3753,8 +3770,8 @@ Humph...
 
 871
 01:06:29,950 --> 01:06:32,453
-Então seu tão precioso
-Jutsu de Paralisia das Sombras
+Então o seu precioso
+Kagemane no Jutsu
 
 872
 01:06:32,559 --> 01:06:34,727
@@ -3762,8 +3779,8 @@ Jutsu de Paralisia das Sombras
 
 873
 01:06:34,832 --> 01:06:38,002
-Não é Paralisia das Sombras.
-É Jutsu de Possessão das Sombras.
+Não é Kagemane no Jutsu,
+é Kagemane no Jutsu!
 
 874
 01:06:38,960 --> 01:06:41,045
@@ -3782,7 +3799,8 @@ que ela está cuspindo,
 
 877
 01:06:49,142 --> 01:06:52,812
-se eu matar o Kin, aquela garota também vai morrer...
+se eu matar a Kin, aquela garota
+também vai morrer...
 
 878
 01:06:53,188 --> 01:06:55,648
@@ -3819,8 +3837,8 @@ Vocês, pequenos Ninjas do Som...
 
 886
 01:07:14,596 --> 01:07:18,267
-Atrapalhando os caras de segunda categoria e
-se fazendo de vencedores.
+se achando os vitoriosos só por
+derrotar uns adversários de segunda?
 
 887
 01:07:18,447 --> 01:07:19,198
@@ -3913,7 +3931,7 @@ S-Sim.
 
 908
 01:08:32,287 --> 01:08:33,454
-<i>Solte!</i>
+<i>Kai! (Liberar)</i>
 
 909
 01:08:37,709 --> 01:08:38,961
@@ -3950,7 +3968,7 @@ Pare, Zaku! Você não entende?!
 
 917
 01:08:59,173 --> 01:09:00,883
-<i>Onda de Corte Supersônica!</i>
+<i>Zankūkyokuha! (Super Onda Sonora Cortante)</i>
 
 918
 01:09:14,080 --> 01:09:16,416
@@ -3963,7 +3981,7 @@ Heh! Ele deve ter sido despedaçado.
 
 920
 01:09:21,445 --> 01:09:22,363
-<i>Estilo de Fogo:</i>
+<i>Katon:</i>
 
 921
 01:09:22,446 --> 01:09:23,697
@@ -4303,7 +4321,7 @@ Obrigado.
 1000
 01:14:30,230 --> 01:14:33,358
 Por sua causa,
-Eu consegui acordar.
+eu consegui acordar.
 
 1001
 01:14:33,553 --> 01:14:35,763
@@ -4345,7 +4363,7 @@ Eu fui espancado até ficar em frangalhos.
 
 1010
 01:15:13,544 --> 01:15:15,922
-<i>Jutsu Clone das Sombras, versão pesca!</i>
+<i>Kage Bunshin no Jutsu: Versão Pescaria!</i>
 
 1011
 01:15:31,096 --> 01:15:32,389
@@ -4431,8 +4449,7 @@ dos pergaminhos do Céu e da Terra.
 
 1030
 01:16:23,408 --> 01:16:26,495
-No máximo existem apenas
-treze equipes passando.
+No máximo, só 13 times passam.
 
 1031
 01:16:31,036 --> 01:16:32,882
@@ -4606,7 +4623,7 @@ Tenho que me manter escondido.
 
 1069
 01:19:21,378 --> 01:19:22,504
-<i>Chuva de Leões!</i>
+<i>Shishi Rendan! (Investida dos Leões)</i>
 
 1070
 01:19:29,659 --> 01:19:31,578
@@ -4644,7 +4661,7 @@ a se aposentar.
 1078
 01:20:39,873 --> 01:20:43,293
 No exame anterior, hipnotismo
-A fórmula jutsu foi configurada para
+a fórmula jutsu foi configurada para
 
 1079
 01:20:43,418 --> 01:20:46,504
@@ -4684,7 +4701,8 @@ você poderia ter tirado isso de Naruto.
 
 1087
 01:21:11,279 --> 01:21:14,032
-Então você também está atrás do pergaminho do Céu?
+Então você também está
+atrás do pergaminho do Céu?
 
 1088
 01:21:14,449 --> 01:21:15,200
@@ -4806,11 +4824,13 @@ Isso é... um ninja.
 
 1116
 01:22:39,284 --> 01:22:42,829
-Então eu lhe direi o caminho que você deve seguir.
+Então eu lhe direi o caminho
+que você deve seguir.
 
 1117
 01:22:43,955 --> 01:22:47,000
-No entanto... vamos conversar enquanto seguimos.
+No entanto...
+vamos conversar enquanto seguimos.
 
 1118
 01:22:47,459 --> 01:22:51,338
@@ -4884,7 +4904,7 @@ das equipes
 
 1133
 01:23:38,910 --> 01:23:42,872
-que têm tanto o pergaminho do Céu quanto o da Terra
+que têm os pergaminhos do Céu e da Terra
 e estão indo para a torre.
 
 1134
@@ -5283,8 +5303,8 @@ um local diferente
 
 1226
 01:29:14,642 --> 01:29:16,519
-coordenando deles
-Ataque de 'genjutsu shinobi'.
+para coordenar com o ataque
+do usuário de genjutsu deles.
 
 1227
 01:29:17,465 --> 01:29:19,217
@@ -5316,11 +5336,11 @@ onde eles estão se escondendo.
 
 1233
 01:29:34,247 --> 01:29:35,665
-<i>Jutsu da Clonagem das Sombras!</i>
+<i>Kage Bunshin no Jutsu!</i>
 
 1234
 01:29:39,315 --> 01:29:40,316
-<i>Clones das Sombras!</i>
+Clones das Sombras!
 
 1235
 01:29:42,749 --> 01:29:44,292
@@ -5365,7 +5385,7 @@ Funcionou, Naruto.
 
 1245
 01:30:45,122 --> 01:30:47,458
-Impossível, quando…
+Impossível, quando...
 
 1246
 01:30:48,651 --> 01:30:52,864
@@ -5413,8 +5433,8 @@ de chakra?</i>
 
 1256
 01:31:29,881 --> 01:31:31,716
-<i>Logo depois de seu Jutsu Multiclones
-das Sombras,</i>
+<i>Logo depois do Tajū Kage Bunshin no Jutsu
+(Jutsu de Múltiplos Clones das Sombras),</i>
 
 1257
 01:31:31,741 --> 01:31:34,160
@@ -5484,8 +5504,8 @@ Desculpe.
 
 1273
 01:32:36,071 --> 01:32:41,034
-Mas, mas...
-graças a vocês, conseguimos os dois pergaminhos.
+Mas, olha, graças a vocês,
+conseguimos os dois pergaminhos!
 
 1274
 01:32:41,431 --> 01:32:44,351
@@ -5605,8 +5625,7 @@ campos em busca de uma vantagem.
 
 1302
 01:34:13,227 --> 01:34:14,895
-Abrir a série de
-Céu e Terra,
+"Quando o Céu e a Terra se alinham,"
 
 1303
 01:34:15,061 --> 01:34:16,896
