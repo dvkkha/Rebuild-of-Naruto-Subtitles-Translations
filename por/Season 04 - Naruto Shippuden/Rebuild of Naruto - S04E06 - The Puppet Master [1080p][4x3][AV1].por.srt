@@ -2518,7 +2518,7 @@ S-São tantas...
 Dez deles.
 
 568
-00:56:14,355 --> 00:56:16,732
+00:56:14,255 --> 00:56:16,732
 A técnica secreta da
 Vovó Chiyo: "Dez Dedos".
 

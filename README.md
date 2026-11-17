@@ -20,11 +20,11 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 | 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 74 / 74 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
 | 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 74 / 74 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
 | 🇪🇸 Spanish | [`spa/`](spa/) | `.spa.srt` | 74 / 74 | Spanish from Spain. Jutsu names in Japanese, with a Spanish translation in parentheses on first mention in each episode |
-| 🇧🇷 Portuguese (Brazil) | [`por/`](por/) | `.por.srt` | 24 / 74 | By [ThiagoCalisto](https://github.com/ThiagoCalisto). Jutsu names in Japanese, with a Portuguese translation in parentheses on first mention in each episode. Work in progress: S01 (without E05), S03 and S04E04–E08 |
+| 🇧🇷 Portuguese (Brazil) | [`por/`](por/) | `.por.srt` | 74 / 74 | By [ThiagoCalisto](https://github.com/ThiagoCalisto). Jutsu names in Japanese, with a Portuguese translation in parentheses on first mention in each episode |
 
 Each language folder has its own README in that language.
 
-**Note:** Maediem's repository has no subtitles for *The Last – Naruto the Movie* (S07E01). The [`eng/`](eng/) folder includes English subtitles for it, converted from the English subtitle track of the Rebuild release. The German, Dutch and Spanish translations of this episode are based on that file. The ending song is marked with ♪ in the translations and not translated. S07E01 files are named after the release: `Rebuild of Naruto - S07E01 - The Last [1080p] [BluRay] [x265] [SAMPA]`.
+**Note:** Maediem's repository has no subtitles for *The Last – Naruto the Movie* (S07E01). The [`eng/`](eng/) folder includes English subtitles for it, converted from the English subtitle track of the Rebuild release. The German, Dutch, Spanish and Portuguese translations of this episode are based on that file. The ending song is marked with ♪ in the translations and not translated. S07E01 files are named after the release: `Rebuild of Naruto - S07E01 - The Last [1080p] [BluRay] [x265] [SAMPA]`.
 
 ---
 

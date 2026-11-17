@@ -13,15 +13,22 @@ Outros idiomas estão na [página principal do repositório](../README.md).
 
 ## Status
 
-**24 de 74 episódios** traduzidos. Os episódios que faltam ainda não estão disponíveis em português.
+**Todos os 74 episódios** estão traduzidos.
+
+*The Last – Naruto the Movie* (S07E01) não existe nas legendas de Maediem; a tradução se baseia na faixa de legendas em inglês do release do Rebuild. A música de encerramento está marcada com ♪ e não foi traduzida. Os arquivos de S07E01 usam o nome do release: `Rebuild of Naruto - S07E01 - The Last [1080p] [BluRay] [x265] [SAMPA]`.
 
 As legendas usam **o mesmo timing das legendas em inglês de Maediem** e, portanto, combinam com os **cortes do Rebuild**, não com os episódios originais.
 
 | Pasta | Episódios disponíveis |
 |---|---|
-| `Season 01 - Naruto` | S01E01 – S01E04, S01E06 – S01E17 |
+| `Season 01 - Naruto` | S01E01 – S01E17 |
+| `Season 02 - Naruto Gaiden` | S02E01 – S02E05 |
 | `Season 03 - Kakashi Gaiden` | S03E01 – S03E03 |
-| `Season 04 - Naruto Shippuden` | S04E04 – S04E08 |
+| `Season 04 - Naruto Shippuden` | S04E01 – S04E23 |
+| `Season 05 - Naruto Senjou` | S05E01 – S05E19 |
+| `Season 06 - Itachi Shiden` | S06E01 |
+| `Season 07 - Naruto Hiden` | S07E01 – S07E04 |
+| `Season 08 - Naruto Next Generations` | S08E01 – S08E02 |
 
 ---
 
@@ -53,7 +60,7 @@ Para que o player carregue a legenda automaticamente, o arquivo `.srt` deve esta
 
 ## Erros ou quer ajudar?
 
-Encontrou erros de digitação ou problemas de timing, ou quer traduzir os episódios que faltam? Abra uma **issue** ou envie um **pull request**. Indique o idioma, o episódio e o número da legenda, por exemplo *por, S01E08, #835*.
+Encontrou erros de digitação ou problemas de timing? Abra uma **issue** ou envie um **pull request**. Indique o idioma, o episódio e o número da legenda, por exemplo *por, S01E08, #835*.
 
 ---
 
