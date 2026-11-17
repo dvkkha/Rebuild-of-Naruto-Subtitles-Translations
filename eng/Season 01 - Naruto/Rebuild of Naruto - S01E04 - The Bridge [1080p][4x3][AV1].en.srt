@@ -2941,7 +2941,7 @@ to kill me.
 
 679
 00:56:15,580 --> 00:56:19,501
-<i>Ninpō: Kuchiyose! 
+<i>Ninpō: Kuchiyose!
 Doton: Tsuiga no Jutsu!</i>
 
 680
@@ -3589,7 +3589,7 @@ the answer without batting an eye.
 
 828
 01:09:30,158 --> 01:09:33,395
-"A shinobi must never show 
+"A shinobi must never show
 their emotions
 
 829

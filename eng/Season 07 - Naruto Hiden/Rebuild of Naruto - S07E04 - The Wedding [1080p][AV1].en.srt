@@ -11171,7 +11171,7 @@ One large Miso Char Siu Ramen!
 
 2533
 02:05:12,668 --> 02:05:14,879
-Okay, one large-size 
+Okay, one large-size
 Miso Char Siu Ramen coming right up!
 
 2534
@@ -11826,7 +11826,7 @@ Let's go Shino-back riding, then.
 
 2684
 02:12:23,800 --> 02:12:26,803
-– Was Shino always that good with kids? 
+– Was Shino always that good with kids?
 – Higher! Higher!
 
 2685

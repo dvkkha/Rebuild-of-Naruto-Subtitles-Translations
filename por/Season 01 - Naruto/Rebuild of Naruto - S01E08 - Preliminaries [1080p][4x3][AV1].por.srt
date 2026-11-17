@@ -449,8 +449,8 @@ Anko-sensei!
 
 103
 00:07:21,427 --> 00:07:24,388
-Exame de vinte e um segundos
-os finalizadores foram confirmados.
+Vinte e um candidatos
+passaram no segundo exame.
 
 104
 00:07:25,265 --> 00:07:28,089
@@ -459,8 +459,8 @@ aos regulamentos dos Exames Chunin,
 
 105
 00:07:28,114 --> 00:07:30,452
-os preliminares estão planejados para
-a primeira vez em cinco anos.
+Pela primeira vez em cinco anos,
+vamos realizar as preliminares.
 
 106
 00:07:31,117 --> 00:07:32,702
@@ -633,7 +633,7 @@ antes do terceiro exame.
 
 144
 00:10:07,523 --> 00:10:11,027
-E isso é um preliminar
+E isso é uma preliminar
 para o terceiro exame,
 
 145
@@ -2290,7 +2290,7 @@ Primeiro lance, vitória certa!
 
 526
 00:40:26,491 --> 00:40:28,734
-Eu desloquo todas as articulações
+Eu desloco todas as articulações
 
 527
 00:40:28,978 --> 00:40:32,940
@@ -6750,7 +6750,7 @@ e genjutsu", você disse.
 
 1559
 01:50:57,025 --> 01:50:59,444
-Esse é o seu caminho ninja, certo?
+Esse é o seu jeito ninja, certo?
 
 1560
 01:50:59,922 --> 01:51:01,570
@@ -7488,8 +7488,8 @@ Tudo bem...
 
 1731
 02:03:57,584 --> 02:04:01,963
-Então, a décima e última rodada é a próxima,
-ambos os competidores, avançem!
+E agora, para a décima e última luta,
+os dois competidores, por favor, à frente!
 
 1732
 02:04:05,104 --> 02:04:06,939

@@ -366,7 +366,7 @@ I can leave that team to you.</i>
 
 84
 00:06:08,042 --> 00:06:11,128
-<i>To think you'd plead 
+<i>To think you'd plead
 their case so strongly...</i>
 
 85
@@ -448,7 +448,7 @@ Master Anko!
 
 103
 00:07:21,427 --> 00:07:24,388
-Twenty-one candidates have 
+Twenty-one candidates have
 successfully passed the second test.
 
 104
@@ -850,7 +850,7 @@ he carried out,
 
 194
 00:12:44,267 --> 00:12:47,436
-two C-rank and 
+two C-rank and
 fourteen D-rank missions.
 
 195
@@ -1448,7 +1448,7 @@ You can't afford to let your guard down!
 
 333
 00:23:05,592 --> 00:23:09,471
-But then... 
+But then...
 this next part is my own creation.
 
 334
@@ -2605,7 +2605,7 @@ Ami!
 
 600
 00:45:54,409 --> 00:45:58,246
-Sorry, your head looked so empty, 
+Sorry, your head looked so empty,
 
 601
 00:45:58,278 --> 00:46:01,114
@@ -4949,7 +4949,7 @@ Lee and I are good at...
 1150
 01:22:09,930 --> 01:22:12,903
 Our fighting style,
-the Gōken (Strong Fist) (Gōken),
+the Gōken (Strong Fist),
 
 1151
 01:22:13,180 --> 01:22:16,933
@@ -4978,7 +4978,7 @@ it destroys internal organs.
 1156
 01:22:29,027 --> 01:22:30,946
 They possess the Jūken
-(Gentle Fist) (Jūken).
+(Gentle Fist).
 
 1157
 01:22:32,197 --> 01:22:33,782
@@ -5682,6 +5682,7 @@ Prime beef tongue, short ribs...
 - It'll be...
 - <i>Don't motivate him with food!</i>
 
+1321
 01:33:04,887 --> 01:33:06,405
 <i>Besides, he didn't even...</i>
 
@@ -6823,7 +6824,7 @@ that regulate the flow of chakra,
 
 1587
 01:52:42,927 --> 01:52:45,013
-starting from the head and located 
+starting from the head and located
 sequentially in various parts of the body...
 
 1588

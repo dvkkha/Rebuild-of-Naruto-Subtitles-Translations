@@ -2382,8 +2382,8 @@ Nada mal...
 
 545
 00:50:17,639 --> 00:50:21,643
-Você cronometeu bem para se
-dispersar os três para atacar.
+Você coordenou bem
+o ataque daqueles três.
 
 546
 00:50:22,686 --> 00:50:24,479
@@ -2639,7 +2639,7 @@ prever os movimentos desses caras</i>
 
 601
 00:55:00,130 --> 00:55:01,673
-<i>não tem pra onde você correr, ratoinho.</i>
+<i>não tem pra onde você correr, ratinho.</i>
 
 602
 00:55:02,340 --> 00:55:04,551
@@ -4690,8 +4690,8 @@ ferocidade do Clã Kaguya!
 
 1069
 01:38:05,170 --> 01:38:06,797
-- Sim! -
-Certo!
+- Sim!
+- Certo!
 
 1070
 01:38:07,965 --> 01:38:11,343

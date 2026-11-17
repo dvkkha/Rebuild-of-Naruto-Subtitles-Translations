@@ -14655,7 +14655,7 @@ Nunca volto atrás na minha palavra.
 
 3344
 03:48:00,829 --> 03:48:04,499
-Porque esse é o meu... caminho ninja!
+Porque esse é o meu... jeito ninja!
 
 3345
 03:48:07,502 --> 03:48:10,589
@@ -15262,7 +15262,7 @@ O que eu—?!</i>
 
 3487
 04:02:43,899 --> 04:02:45,735
-<i>Qual é o seu caminho ninja?</i>
+<i>Qual é o seu jeito ninja?</i>
 
 3488
 04:02:45,860 --> 04:02:47,069
@@ -16605,7 +16605,7 @@ como o seu pai.
 3797
 04:23:06,556 --> 04:23:08,683
 Vou seguir
-o meu próprio caminho ninja!
+o meu próprio jeito ninja!
 
 3798
 04:23:24,287 --> 04:23:25,580
