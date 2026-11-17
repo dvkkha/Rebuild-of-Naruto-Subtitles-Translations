@@ -2,8 +2,10 @@
 
 Esta pasta contém **legendas em português brasileiro** para o fan edit *Rebuild of Naruto*.
 
-Tradução de **[ThiagoCalisto](https://github.com/ThiagoCalisto)**, revisada e padronizada, baseada nas legendas em inglês revisadas por **Maediem**:
+Tradução baseada nas legendas em inglês revisadas por **Maediem**:
 👉 [Maediem/Rebuild-of-Naruto-Subtitles](https://github.com/Maediem/Rebuild-of-Naruto-Subtitles/)
+
+24 episódios partem de uma primeira tradução de **[ThiagoCalisto](https://github.com/ThiagoCalisto)**, revisada e padronizada.
 
 > ⚠️ **Aviso:** Este projeto **não tem nenhuma relação com o fan edit *Rebuild of Naruto*** e não se responsabiliza por ele. Ele apenas oferece legendas para quem assiste à versão Rebuild.
 

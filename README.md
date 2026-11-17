@@ -20,7 +20,7 @@ Many thanks to Maediem for the improved English subtitles timed to the Rebuild c
 | 🇳🇱 Dutch | [`dut/`](dut/) | `.dut.srt` | 74 / 74 | Jutsu names in Japanese, with a Dutch translation in parentheses on first mention in each episode. With help from **Vinstaro** |
 | 🇳🇱 Dutch (alternative) | [`dut-alternative/`](dut-alternative/) | `.alt.dut.srt` | 74 / 74 | Same text, but with Dutch jutsu names (*Schaduwkloon-jutsu* instead of *Kage Bunshin no Jutsu*) |
 | 🇪🇸 Spanish | [`spa/`](spa/) | `.spa.srt` | 74 / 74 | Spanish from Spain. Jutsu names in Japanese, with a Spanish translation in parentheses on first mention in each episode |
-| 🇧🇷 Portuguese (Brazil) | [`por/`](por/) | `.por.srt` | 74 / 74 | By [ThiagoCalisto](https://github.com/ThiagoCalisto). Jutsu names in Japanese, with a Portuguese translation in parentheses on first mention in each episode |
+| 🇧🇷 Portuguese (Brazil) | [`por/`](por/) | `.por.srt` | 74 / 74 | Jutsu names in Japanese, with a Portuguese translation in parentheses on first mention in each episode. 24 episodes are based on a first translation by [ThiagoCalisto](https://github.com/ThiagoCalisto) |
 
 Each language folder has its own README in that language.
 
@@ -104,7 +104,7 @@ Then open a **pull request**, or get in touch via an issue or on Discord.
 - **Maediem** – revised English subtitles that all translations are based on ([Maediem/Rebuild-of-Naruto-Subtitles](https://github.com/Maediem/Rebuild-of-Naruto-Subtitles/))
   Many thanks to Maediem for the source subtitles and for permission to publish an edited English version with Japanese jutsu names (`eng/`).
 - **Vinstaro** – help with the Dutch subtitles
-- **ThiagoCalisto** – Portuguese (Brazil) subtitles
+- **ThiagoCalisto** – first Portuguese (Brazil) translation of 24 episodes, used as the basis for `por/`
 
 ---
 
