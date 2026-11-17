@@ -1156,7 +1156,7 @@ e fazer ataques ao inimigo.
 257
 00:19:28,974 --> 00:19:31,019
 Chukichi da Névoa Oculta e
-os ninjas da Fundação da Folha,
+os ninjas da Raiz da Folha,
 
 258
 00:19:31,044 --> 00:19:32,713
@@ -2687,7 +2687,7 @@ Fujam...
 601
 00:44:32,920 --> 00:44:35,047
 Capitão!
-O cara da Fundação...
+O cara da Raiz...
 
 602
 00:44:35,715 --> 00:44:37,425
@@ -2808,11 +2808,11 @@ Eu morri...
 629
 00:46:18,567 --> 00:46:21,278
 e fui libertado
-da Fundação.
+da Raiz.
 
 630
 00:46:22,529 --> 00:46:25,199
-Ouvi falar da Fundação
+Ouvi falar da Raiz
 da Folha Oculta.
 
 631
@@ -2938,7 +2938,7 @@ Certo!
 658
 00:48:11,475 --> 00:48:14,686
 Eu sabia que, se continuasse
-na Fundação,
+na Raiz,
 
 659
 00:48:14,711 --> 00:48:17,088
@@ -4336,7 +4336,7 @@ de herói milagroso.
 975
 01:09:16,376 --> 01:09:20,589
 Graças a vocês dois, o Naruto
-conseguiu encontrar o Caminho Ninja dele.
+conseguiu encontrar o jeito ninja dele.
 
 976
 01:09:21,373 --> 01:09:24,250
@@ -5524,7 +5524,7 @@ O Jutsu de Reanimação...
 1245
 01:26:59,672 --> 01:27:02,884
 Sai, agora vamos usar o seu
-Jutsu de Selamento da Fundação!
+Jutsu de Selamento da Raiz!
 
 1246
 01:27:03,595 --> 01:27:04,596

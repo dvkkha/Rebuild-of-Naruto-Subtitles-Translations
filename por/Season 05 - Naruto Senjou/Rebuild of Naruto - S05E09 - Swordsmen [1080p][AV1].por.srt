@@ -87,7 +87,7 @@ Este jutsu é imperdoável!</i>
 20
 00:02:50,616 --> 00:02:53,953
 <i>Sai, use o Jutsu de Selamento
-da Fundação.</i>
+da Raiz.</i>
 
 21
 00:02:54,549 --> 00:02:55,550

@@ -121,7 +121,7 @@ Estou com fome, estou com fome!
 28
 00:03:49,938 --> 00:03:55,109
 Talvez hoje eu me dê ao luxo de
-colocar dois ovos no ramen.
+colocar dois ovos no lámen.
 
 29
 00:03:59,656 --> 00:04:00,656
@@ -4872,7 +4872,7 @@ Estou bem, estou bem.
 
 1111
 01:31:22,660 --> 01:31:24,996
-Senhorita Hinata, vamos parar por hoje.
+Senhora Hinata, vamos parar por hoje.
 
 1112
 01:31:25,162 --> 01:31:26,455
@@ -4923,7 +4923,7 @@ Tá! Estou indo, Iruka-sensei!
 
 1123
 01:32:06,885 --> 01:32:09,205
-Te pago o ramen
+Te pago o lámen
 quando eu fizer sucesso!
 
 1124

@@ -391,7 +391,7 @@ Ah... Está quente!
 90
 00:11:16,969 --> 00:11:20,990
 Cuidado.
-O nosso ramen fica quente até o fim.
+O nosso lámen fica quente até o fim.
 
 91
 00:11:21,523 --> 00:11:24,067
@@ -671,7 +671,7 @@ você acabou de dizer.
 
 152
 00:15:24,965 --> 00:15:27,009
-Obrigado pelo ramen, tio!
+Obrigado pelo lámen, tio!
 
 153
 00:15:27,009 --> 00:15:28,827
@@ -2108,7 +2108,7 @@ desde três anos atrás?
 474
 00:36:24,140 --> 00:36:28,019
 Eu nunca volto atrás na minha palavra.
-Esse é o meu Caminho Ninja!
+Esse é o meu jeito ninja!
 
 475
 00:36:28,274 --> 00:36:30,652

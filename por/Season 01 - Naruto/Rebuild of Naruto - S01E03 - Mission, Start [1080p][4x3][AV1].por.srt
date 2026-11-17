@@ -28,7 +28,7 @@ Sasuke, no Ponto B!
 
 8
 00:01:51,319 --> 00:01:52,319
-<i>Sigam-no!</i>
+<i>Sigam!</i>
 
 9
 00:01:54,905 --> 00:01:56,345
@@ -104,7 +104,7 @@ do Time 7 do Kakashi é...
 
 26
 00:02:50,700 --> 00:02:56,331
-Um recado na cidade vizinha...
+Uma entrega na cidade vizinha...
 cuidar do filho do Conselheiro-Chefe...
 
 27
@@ -204,8 +204,8 @@ são reunidos numa lista...
 
 49
 00:03:54,901 --> 00:04:00,448
-e classificados nas Ranks
-a, B, C e D, conforme a dificuldade.
+e classificados nos ranks
+A, B, C e D, conforme a dificuldade.
 
 50
 00:04:01,142 --> 00:04:03,732
@@ -214,7 +214,7 @@ Todos os ninjas da nossa vila...
 51
 00:04:03,757 --> 00:04:09,346
 são classificados por habilidade:
-Jonin, chunin e genin.
+jonin, chunin e genin.
 
 52
 00:04:10,725 --> 00:04:14,020
@@ -246,12 +246,12 @@ Hã?!
 
 58
 00:04:35,316 --> 00:04:37,940
-Ontem eu almocei ramen
+Ontem eu almocei lámen
 de caldo de porco,
 
 59
 00:04:37,965 --> 00:04:39,087
-então hoje vai ser ramen de missô...
+então hoje vai ser lámen de missô...
 
 60
 00:04:39,112 --> 00:04:40,488

@@ -4847,7 +4847,7 @@ da Unidade de Espionagem
 1088
 01:18:40,576 --> 01:18:44,121
 deixou de saber das coisas depois
-que saiu da Fundação.
+que saiu da Raiz.
 
 1089
 01:18:44,970 --> 01:18:47,514
@@ -4925,7 +4925,7 @@ Uma tarefa tão perigosa!
 
 1105
 01:19:32,392 --> 01:19:34,519
-Vocês da Fundação deviam
+Vocês da Raiz deviam
 fazer isso vocês mesmos.
 
 1106
@@ -4944,7 +4944,7 @@ esta missão de longo prazo.
 
 1109
 01:19:43,366 --> 01:19:48,579
-Hoje, ninguém na Fundação
+Hoje, ninguém na Raiz
 tem as habilidades de espionagem dela.
 
 1110
@@ -5043,7 +5043,7 @@ você não conseguiu matar as emoções.
 1130
 01:20:57,936 --> 01:21:00,856
 Você não servia para
-a Fundação, afinal.
+a Raiz, afinal.
 
 1131
 01:21:00,897 --> 01:21:03,149
@@ -5337,7 +5337,7 @@ não sabe?
 
 1196
 01:27:03,392 --> 01:27:09,849
-Para ser franco, a Fundação tinha
+Para ser franco, a Raiz tinha
 decidido se livrar de você e da mãe.
 
 1197
@@ -5402,12 +5402,12 @@ o verdadeiro motivo da sua saída.
 1210
 01:27:59,649 --> 01:28:04,404
 Que você se sacrificou e entrou na
-Fundação para garantir a verba do orfanato.
+Raiz para garantir a verba do orfanato.
 
 1211
 01:28:05,456 --> 01:28:09,251
 A mãe queria te libertar
-da Fundação.
+da Raiz.
 
 1212
 01:28:09,640 --> 01:28:14,163
@@ -5444,7 +5444,7 @@ Eu te disse...
 
 1219
 01:28:34,065 --> 01:28:38,354
-A Fundação queria que vocês
+A Raiz queria que vocês
 dois se eliminassem.
 
 1220
@@ -5491,7 +5491,7 @@ Lavagem cerebral gradual.
 1229
 01:29:13,890 --> 01:29:16,059
 Uma prática comum
-da Fundação.
+da Raiz.
 
 1230
 01:29:16,684 --> 01:29:18,811
@@ -5513,7 +5513,7 @@ que traiu a vila.
 
 1234
 01:29:32,658 --> 01:29:38,831
-E a Fundação te mandou
+E a Raiz te mandou
 cuidar de quem sobrasse...
 
 1235
@@ -5542,7 +5542,7 @@ que finalmente a tinha encontrado!
 1240
 01:29:58,785 --> 01:30:00,787
 Mas, graças a vocês,
-desgraçados da Fundação,
+desgraçados da Raiz,
 
 1241
 01:30:00,812 --> 01:30:02,980
@@ -5697,7 +5697,7 @@ O que você está tramando?
 
 1274
 01:32:14,088 --> 01:32:16,423
-Em vez da Fundação,
+Em vez da Raiz,
 que apaga a individualidade...
 
 1275
@@ -5717,7 +5717,7 @@ que não pertence a nenhuma nação.
 1278
 01:32:25,039 --> 01:32:28,709
 A partir deste momento, você e eu
-vamos desertar da Fundação da Folha Oculta.
+vamos desertar da Raiz da Folha Oculta.
 
 1279
 01:32:28,793 --> 01:32:34,173

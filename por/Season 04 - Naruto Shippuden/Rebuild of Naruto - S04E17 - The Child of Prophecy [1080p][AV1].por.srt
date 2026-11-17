@@ -2441,7 +2441,7 @@ Hunf... Que homem estranho você é.
 
 549
 00:41:13,467 --> 00:41:16,095
-Hmm? Você trilha o caminho ninja.
+Hmm? Você segue o caminho do ninja.
 
 550
 00:41:16,470 --> 00:41:18,806
@@ -2620,7 +2620,7 @@ E-Ei! Tem certeza?
 590
 00:43:57,548 --> 00:44:00,467
 É só um nome qualquer que inventei
-enquanto comia ramen.
+enquanto comia lámen.
 
 591
 00:44:00,801 --> 00:44:01,802
